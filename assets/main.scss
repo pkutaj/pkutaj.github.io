@@ -2,10 +2,16 @@
 --- 
 @import "minima";
 
+details {
+    padding: 15px
+}
+
 #lunrsearch {
-    width: 100%;
+    border: solid lightgray;
+    border-radius: 5px;
     font-size: xx-large;
     font-family: monospace;
+    width: 100%;
 }
 
 .post-link {
