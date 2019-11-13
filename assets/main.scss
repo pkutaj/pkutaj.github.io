@@ -3,6 +3,19 @@
 @import "minima";
 
 #lunrsearch {
-    width: 75%;
-    font-size: x-large;
+    width: 100%;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.post-link {
+    font-family: monospace;
+}
+
+.post-list-heading {
+    display: none;
+}
+
+.site-header {
+    display: none;
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: POWERSHELL | The Tricks With Dir (Set-Location)
+title: PS > the tricks with dir (set-location)
 last_modified_at: 
 ---
 ## the case	

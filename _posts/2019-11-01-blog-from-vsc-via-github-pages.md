@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSCODE | blogging from the code editor
+title: VSC > blogging from the code editor
 last_modified_at: 2019-11-12
 ---
 ## the case	
