@@ -1,6 +1,14 @@
 --- 
 --- 
 @import "minima";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:500|IBM+Plex+Sans|Roboto+Mono&display=swap');
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.footer-col-wrapper {
+    font-family: 'IBM Plex Mono', monospace;
+}
 
 details {
     padding: 15px
@@ -14,10 +22,18 @@ h2 {
     text-transform: lowercase;
 }
 
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
 #lunrsearch {
     border: solid lightgray;
     border-radius: 5px;
-    font-size: xx-large;
+    font-size: 1.5em;
     font-family: monospace;
     width: 100%;
 }
@@ -27,17 +43,25 @@ h2 {
 }
 
 .post-link {
-    font-family: monospace;
-    font-weight: 500;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 300;
+    font-size: 1em;
 }
 
 .post-title {
-    font-family: monospace;
-    font-size: 30px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 2em;
     font-weight: 500;
 
 }
 
-.site-title, .site-nav, .p-name {
+.site-title,
+.site-nav {
     text-transform: uppercase;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.site-title {
+    font-size: 1.5em;
+    font-weight: 900;
 }
