@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VSC > blogging from the code editor
-last_modified_at: 2019-11-12
+last_modified_at: 2019-11-15
 ---
 ## the case	
 * the question is, how to create a **"worklog"** with the following "stack"
@@ -15,11 +15,18 @@ last_modified_at: 2019-11-12
 
 ## toc 
 
+<!-- TOC -->
+
 - [visual studio code & powershell](#visual-studio-code--powershell)
+    - [blog article template](#blog-article-template)
 - [jekyll and github pages](#jekyll-and-github-pages)
     - [Add Search with lunr.js](#add-search-with-lunrjs)
     - [Custom CSS](#custom-css)
     - [Add Last Modified Date](#add-last-modified-date)
+    - [Add dropdowns](#add-dropdowns)
+    - [add back to the top button](#add-back-to-the-top-button)
+
+<!-- /TOC -->
 
 ## findings
 ### visual studio code & powershell
@@ -103,8 +110,26 @@ Set-Alias lg open-blog
 * So the absolute focus on brand new stuff goes against this 
 * Found the post [Adding last modified date to Jekyll](https://tomkadwill.com/adding-last-modified-date-to-jekyll) explaining how to enrich the blog with **last udpated date**
 
+#### Add dropdowns
+* See [Adding support for HTML5's details element to Jekyll | Tobias König (né Mahnke-Nissen)](http://movb.de/jekyll-details-support.html)
+
+#### add back to the top button
+* Download [vanilla back to the top script](https://raw.githubusercontent.com/vfeskov/vanilla-back-to-top/v7.2.1/dist/vanilla-back-to-top.min.js) and put it into `/assets` folder
+* Open `/_layouts/post.html/` and paste the following
+
+```js
+    <script src="{{ site.url }}/assets/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop()</script>
+```
+
+![back-to-top-demo]({{ site.url }}/assets/2019-11-15-back-to-top.gif)
+
 ## sources
+* [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)
 * [How to Start a Jekyll Blog on GitHub Pages for Free](https://onextrapixel.com/start-jekyll-blog-github-pages-free/)
 * [Search with Lunr.js](https://jekyllcodex.org/without-plugin/search-lunr/#)
 * [Adding last modified date to Jekyll](https://tomkadwill.com/adding-last-modified-date-to-jekyll)
 * [How to Override CSS Styles in Jekyll](https://tomkadwill.com/2017/12/16/how-to-override-css-styles-in-jekyll.html)
+* [vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top/blob/v7.2.1/INSTALL.md)
+
+

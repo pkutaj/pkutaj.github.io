@@ -1,13 +1,12 @@
 ---
 layout: post
 title: C# > unit tests
-last_modified_at: 2019-11-14
+last_modified_at: 2019-11-15
 ---
-# THE UNIT TEST PUZZLE 
-## THE CASE	
+## the case	
 the puzzle (used in interviews quite a lot) is the essence of unit testing
 
-## SOLUTION
+## solution
 lorem ipsum
 
 ### toc
@@ -61,13 +60,13 @@ lorem ipsum
 
 </details>
 
-## NOTES
-### TEST RUNNER 
+## notes
+### test runner 
 * finds all unit tests writte
 * executes each test
 * gives you a report to tell if it passed or if anything failed
 
-### UNIT TEST PROJECT CREATION
+### unit test project creation
 * conventionally in `.net`, you write your unit tests in a **separate project / folder**
 * navigate to the directory and create a new dotnet project
 
@@ -81,10 +80,10 @@ lorem ipsum
 cd test
 dotnet new xnunit
 ```
-#### ADDITIONAL LIBRARIES
+#### additional libraries
 * xunit is not part of .net core ➔ additional libraries are needed ➔ package references already added to `.csproj` file
 
-### SYNTAX
+### syntax
 * every testing framework has its own syntax and can work a bit differently 
 * `xUnit` namespace is needed
 * you run executable statements of c# code
@@ -108,17 +107,17 @@ namespace Gradebook.Tests
 
 * `[FACT]` is an attribute
 
-#### ATTRIBUTES IN C#
+#### attributes in c#
 * little pieces of data attached to symbols that follows it
 * `[FACT]` is attached to the method `Test1()`
 * works like a "decoration" that you hang on something like a method
 
-### WHERE IS THE TEST RUNNER
+### where is the test runner
 * integrated in IDEs 
 * there is an extension for VS CODE
 * dotnet CLI contains a test runner
 
-### ASSERT CLASS
+### assert class
 * API we are going to use is an API provided by a class names `Assert` from the xUnit namespace
 * `Assert` contains a list of static methods that test the given parameter as per its nature
 ```c#
@@ -169,7 +168,7 @@ Total tests: 1
  Total time: 1.1700 Seconds
 ```
 
-### THE TRIPLE-A STRUCTURE
+### the triple-a structure
 * usually 3-part structure:
     1. Arrange ➔ put together test data 
     2. Act ➔ Invoke a method to perform a calculation to perform a result
@@ -192,7 +191,7 @@ public void Test1()
         }
 ```
 
-### NAMING CONVENTION
+### naming convention
 * proper abstraction rely on good naming
 * conventionally
     * test class name reflexts the tested class name with `tests` suffix ➔ `BookTests` for the `Book` class
@@ -213,7 +212,7 @@ public void Test1()
 ```
 
 
-### REFERENCES
+### references
 * you have access to to classes within that project 
 * but: testing project is another project ➔ you need to give access to the object of test
 * how ? 
@@ -249,12 +248,12 @@ public void Test1()
 
 ```
 
-### BENEFITS
+### benefits
 * Unit Tests force you to have better software design
 * Maintainable
 * Extensible
 
-### REFACTORING FOR TESTABILITY
+### refactoring for testability
 * the original method
 ```c#
  public void GetStats()
