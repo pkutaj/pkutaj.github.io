@@ -144,6 +144,7 @@ namespace Gradebook.Tests
 }
 ```
 * result is below
+
 ```plaintext
 dotnet test
 Test run for C:\Users\Admin\Documents\workspace\c#\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp3.0\Gradebook.Tests.dll(.NETCoreApp,Version=v3.0)
@@ -248,7 +249,8 @@ public void Test1()
 
 ```
 
-* see [Referencing a .NET DLL directly, using the .NET Core toolchain](https://medium.com/@tonerdo/referencing-a-net-dll-directly-using-the-net-core-toolchain-16f0af46a4dc) for adding a reference to an `.dll` directly
+* see [Referencing a .NET DLL directly, using the .NET Core toolchain](https://medium.com/@tonerdo/referencing-a-net-dll-directly-using-the-net-core-toolchain-16f0af46a4dc) for adding a reference to an `.dll` directly; but it seems that for this you'd rather use VS per se
+
 ```xml
 <ItemGroup>
   <Reference Include="MyAssembly">
