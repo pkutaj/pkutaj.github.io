@@ -1,7 +1,7 @@
----
+ ---
 layout: post
 title:  C# > reference types vs value types (draft)
-last_modified_at: 2019-11-15
+last_modified_at: 2019-11-18
 ---
 
 ## the case	
@@ -15,6 +15,7 @@ the question is the difference between reference types and value types and how t
     - [example](#example)
 - [type test](#type-test)
 - [test: can 2 different vars refer the same object ?](#test-can-2-different-vars-refer-the-same-object-)
+- [test: prove you can change the name of a book](#test-prove-you-can-change-the-name-of-a-book)
 
 <!-- /TOC -->
 
@@ -72,19 +73,43 @@ the question is the difference between reference types and value types and how t
     * the above test could be re-written as `Assert.True(Object.ReferenceEquals(book1, book2));` 
 
 ### test: prove you can change the name of a book
-> under construction
+* proving that it is possible to change the name from the reference
+* **note:** in languages, there are _types of passing a parameters into a method_ called also a) by reference; b) by value; in **c# a parameter itself is always passed by value**
 
 {% details CODE %}
 ```c#
+      public void CanSetNameFromReference()
+        {
+            var book1 = GetBook("Book 1"); //1. instantiate an object
+            SetName(book1, "New Name"); //2. copy the value inside of book 1
+
+            Assert.Equal("New Name", book1.Name); //prove that that reference has change its field
+
+        }
+
+        private void SetName(Book book, string name) //3. paste the value of book 1 into the first parameter
+        {
+            book.Name = name;
+        }
+
 ```
 {% enddetails %}
 
+* the value that is passed is a pointer to a memory location (an address, a reference to a book object)
+* you don't get to the pointer value even in a debugger, there is a barrier and practice considered to be unsafe
+    * see [Creating a pointer type in C#](https://www.codeproject.com/Articles/1254502/Creating-a-pointer-type-in-Csharp)
+* IF this runtime would pass parameters by reference, the book parameter in `SetName` method would not receive a pointer value, but a reference to the variable book1 ➔ there would be 2 references
+    * reference of the parameter to book 1
+    * reference within book 1 to the object
+    * in this scenario it's possible to **make changes to the book1 binding itself from the other method** 
+    * you cannot change that binding in pass by value scenario, ever
 
 ## terminology
 * Assert
     * Assert.Equals()
     * Assert.Same()
     * Assert.True()
+* managed language
 * memory location 
     * memory cells
 * object base class    
