@@ -25,6 +25,7 @@ last_modified_at: 2019-11-15
     - [Add Last Modified Date](#add-last-modified-date)
     - [Add dropdowns](#add-dropdowns)
     - [add back to the top button](#add-back-to-the-top-button)
+    - [issue: the page not updating?](#issue-the-page-not-updating)
 
 <!-- /TOC -->
 
@@ -123,6 +124,11 @@ Set-Alias lg open-blog
 ```
 
 ![back-to-top-demo]({{ site.url }}/assets/2019-11-15-back-to-top.gif)
+
+#### issue: the page not updating? 
+* login to the github repo ➔ settings and check if the last built executed without errors
+
+![build-errors]({{ site.url }}/assets/img000292.png)
 
 ## sources
 * [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)

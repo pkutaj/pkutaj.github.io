@@ -93,7 +93,6 @@ the question is the difference between reference types and value types and how t
 
 ```
 
-
 * the value that is passed is a pointer to a memory location (an address, a reference to a book object)
 * you don't get to the pointer value even in a debugger, there is a barrier and practice considered to be unsafe
     * see [Creating a pointer type in C#](https://www.codeproject.com/Articles/1254502/Creating-a-pointer-type-in-Csharp)
