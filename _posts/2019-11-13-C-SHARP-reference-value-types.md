@@ -68,6 +68,7 @@ the question is the difference between reference types and value types and how t
             Assert.Same(book1, book2); //prove identity of the pointers for bindings
         }
 ```
+
 * `Assert.Same()` in xunit is an abstraction of the .NET `Object.ReferenceEquals()`
     * everything in .NET derives from the `object` base class
     * the above test could be re-written as `Assert.True(Object.ReferenceEquals(book1, book2));` 
