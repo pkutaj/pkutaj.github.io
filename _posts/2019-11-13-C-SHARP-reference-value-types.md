@@ -76,7 +76,6 @@ the question is the difference between reference types and value types and how t
 * proving that it is possible to change the name from the reference
 * **note:** in languages, there are _types of passing a parameters into a method_ called also a) by reference; b) by value; in **c# a parameter itself is always passed by value**
 
-{% details CODE %}
 ```c#
       public void CanSetNameFromReference()
         {
@@ -93,7 +92,7 @@ the question is the difference between reference types and value types and how t
         }
 
 ```
-{% enddetails %}
+
 
 * the value that is passed is a pointer to a memory location (an address, a reference to a book object)
 * you don't get to the pointer value even in a debugger, there is a barrier and practice considered to be unsafe
