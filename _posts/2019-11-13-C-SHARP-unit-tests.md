@@ -15,18 +15,18 @@ lorem ipsum
 
 - [toc](#toc)
 - [terminology](#terminology)
-- [TEST RUNNER](#test-runner)
-- [UNIT TEST PROJECT CREATION](#unit-test-project-creation)
-    - [ADDITIONAL LIBRARIES](#additional-libraries)
-- [SYNTAX](#syntax)
-    - [ATTRIBUTES IN C#](#attributes-in-c)
-- [WHERE IS THE TEST RUNNER](#where-is-the-test-runner)
-- [ASSERT CLASS](#assert-class)
-- [THE TRIPLE-A STRUCTURE](#the-triple-a-structure)
-- [NAMING CONVENTION](#naming-convention)
-- [REFERENCES](#references)
-- [BENEFITS](#benefits)
-- [REFACTORING FOR TESTABILITY](#refactoring-for-testability)
+- [test runner](#test-runner)
+- [unit test project creation](#unit-test-project-creation)
+    - [additional libraries](#additional-libraries)
+- [syntax](#syntax)
+    - [attributes in c#](#attributes-in-c)
+- [where is the test runner](#where-is-the-test-runner)
+- [assert class](#assert-class)
+- [the triple-a structure](#the-triple-a-structure)
+- [naming convention](#naming-convention)
+- [references](#references)
+- [benefits](#benefits)
+- [refactoring for testability](#refactoring-for-testability)
     - [Class "Secession"](#class-secession)
 
 <!-- /TOC -->
@@ -246,6 +246,15 @@ public void Test1()
 
 </Project>
 
+```
+
+* see [Referencing a .NET DLL directly, using the .NET Core toolchain](https://medium.com/@tonerdo/referencing-a-net-dll-directly-using-the-net-core-toolchain-16f0af46a4dc) for adding a reference to an `.dll` directly
+```xml
+<ItemGroup>
+  <Reference Include="MyAssembly">
+    <HintPath>path\to\MyAssembly.dll</HintPath>
+  </Reference>
+</ItemGroup>
 ```
 
 ### benefits
