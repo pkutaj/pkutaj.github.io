@@ -50,10 +50,8 @@ lorem ipsum
 * unit test project
 * xUnit.net
 
-</details>
 <details>
 
-<!-- SOURCES -->
 <summary>sources</summary>
 
 * lorem ipsum
