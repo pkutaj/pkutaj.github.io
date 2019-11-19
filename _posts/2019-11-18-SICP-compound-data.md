@@ -6,11 +6,6 @@ last_modified_at: 2019-11-18
 ## the case	
 the question is, 
 
-{% details terminology %}
-*  
-{% enddetails %}
-
-
 ## toc
 <!-- TOC -->
 
