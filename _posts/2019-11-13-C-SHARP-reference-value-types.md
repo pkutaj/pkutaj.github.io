@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  C# > reference types vs value types (draft)
-last_modified_at: 2019-11-18
+last_modified_at: 2019-11-20
 ---
 
 ## the case	
@@ -12,12 +12,12 @@ the question is the difference between reference types and value types and how t
 <!-- TOC -->
 
 - [reference types and value types](#reference-types-and-value-types)
-    - [example](#example)
 - [type test](#type-test)
 - [test: can 2 different vars refer the same object ?](#test-can-2-different-vars-refer-the-same-object-)
 - [test: prove you can change the name of a book](#test-prove-you-can-change-the-name-of-a-book)
 - [passing parameters by reference](#passing-parameters-by-reference)
 - [working with data types](#working-with-data-types)
+- [question: differenciation between value and reference types](#question-differenciation-between-value-and-reference-types)
 
 <!-- /TOC -->
 
@@ -27,28 +27,9 @@ the question is the difference between reference types and value types and how t
 * the concept is general, in javascript this is the difference between primivites and objects
 * [the difference between reference and value types best explained in this post](https://stackoverflow.com/a/13268731)
 
-
-#### example
-```c#
- public stats GetStats()
-        {
-            stats result = new stats();             //new referenced-type binding
-            result.averageGrade = 0.0;              // init to 0 
-            result.highGrade = double.MinValue;     // init to MAX
-            result.lowGrade = double.MaxValue;      // init to MIN
-            foreach (var grade in grades)           // do the work
-            {
-                result.highGrade = Math.Max(grade, result.highGrade);
-                result.lowGrade = Math.Min(grade, result.lowGrade);
-                result.averageGrade += grade;
-            };
-            result.averageGrade = result.averageGrade / grades.Count;
-            return result; // return stats to the caller
-        }
-```
-
 ### type test
 * create a new file / new class for type tests
+    * aim: instantiate the book object in various ways
 * create a binding that invokes a method accepting a name of the object
 * this private method (no keyword needed, private is default) constructs the object
 * no fact attribute on that method
@@ -56,7 +37,14 @@ the question is the difference between reference types and value types and how t
 ![type-tests-method-creation]({{ site.url }}/assets/2019-11-14-typetests.gif)
 
 * return type object is default on a new method
-    * this is lowest based type in .NET ➔ we want a book
+    * this is lowest based type in .NET
+
+```c#
+  Book GetBook(string name) //private keyword skipped; return type Book
+        {
+            return new Book(name);
+        }
+```
 
 ### test: can 2 different vars refer the same object ?
 * Use `Assert.Same()`
@@ -172,20 +160,77 @@ the question is the difference between reference types and value types and how t
     * difference: compiler assumes the binding has not been initialized
 
 ### working with data types
-* what you see is what you get
+* the following **fails**
 
 ```c#
- [Fact]
+[Fact]
         public void Test1()
         {
-            var x = GetInt();
-            Assert.Equal(3, x);
+            int test_binding = GetInt(); // 1. test_binding == 3
+            SetInt(test_binding); // 2. pass value 3 into the setter
+
+            Assert.Equal(42, test_binding); // 5. the test, perhaps as suprise, FAILS
         }
 
-        private object GetInt()
+        private void SetInt(int test_parameter) // 3. assign the value 3 to test_parameter
+        {
+            test_parameter = 42; // 4. overwrite the memory location of test_parameter with the value of 43 ➔ NO CHANGE TO THE VALUE OF test_binding
+        }
+
+        private int GetInt()
         {
             return 3;
         }
+
+```
+
+* in order to **pass** the compiler has to be instructed to pass by reference explicitly with the **ref** keyword
+
+```c#
+    [Fact]
+        public void TestDataTypes()
+        {
+            int test_binding = GetInt(); // 1. test_binding == 3
+            SetInt(ref test_binding); // 2. pass the reference to the test_binding into the method
+
+            Assert.Equal(42, test_binding); // 5. the test PASSES
+        }
+
+        private void SetInt(ref int test_parameter) // 3. accept only references to memory locations and not values ➔ assign the pointer to test_parameter
+        {
+            test_parameter = 42; // 4. the value of the reference (test_binding itself) will change to 42
+        }
+
+        private int GetInt()
+        {
+            return 3;
+        }
+```
+
+### question: differenciation between value and reference types
+* if working with any type defined **within a class** ➔ r e f e r e n c e t y p e 
+
+```c#
+public class foo {
+    
+    // all bindings created here are references
+}
+
+```
+
+* working with classes is the bread and butter of day to day workk
+* to work with a data type, use **struct**
+    * needs to behave like a value type
+    * typically very small
+    * struct is an abbreviation of structure, data structure that is
+    * just grouping a number of fields as opposed to class with methods
+* this can be much more efficient for certain scenarios, but this has to be understood properly
+
+```c#
+public struct foo {
+
+    // bindings created here are values
+}
 ```
  
 
