@@ -4,10 +4,7 @@ title: C# > unit tests
 last_modified_at: 2019-11-15
 ---
 ## the case	
-the puzzle (used in interviews quite a lot) is the essence of unit testing
-
-## solution
-lorem ipsum
+the puzzle (used in interviews quite a lot) is the essence of c# unit testing with xunit
 
 ### toc
 
@@ -16,6 +13,7 @@ lorem ipsum
 - [toc](#toc)
 - [terminology](#terminology)
 - [test runner](#test-runner)
+- [general: unit test debates](#general-unit-test-debates)
 - [unit test project creation](#unit-test-project-creation)
     - [additional libraries](#additional-libraries)
 - [syntax](#syntax)
@@ -50,26 +48,21 @@ lorem ipsum
 * unit test project
 * xUnit.net
 
-<details>
-
-<summary>sources</summary>
-
-* lorem ipsum
-
-</details>
-
 ## notes
 ### test runner 
-* finds all unit tests writte
+* finds all unit tests written in a project
 * executes each test
 * gives you a report to tell if it passed or if anything failed
+
+### general: unit test debates
+* [Jim Coplien and Bob Martin Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM)
+* [Julio Biason .Net 4.1](https://blog.juliobiason.me/books/things-i-learnt/integration-tests/)  
 
 ### unit test project creation
 * conventionally in `.net`, you write your unit tests in a **separate project / folder**
 * navigate to the directory and create a new dotnet project
 
-![dotnet_new_overview](img/img000246.png)
-
+![dotnet_new_overview]({{ site.url }}/assets/img000246.png)
 
 * create a folder with corresponding name to the project with `.Tests` in the name ➔ `GradeBook.Tests`
 * create a unit test project there
