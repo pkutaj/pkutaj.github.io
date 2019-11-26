@@ -112,7 +112,7 @@ Set-Alias lg open-blog
 * Found the post [Adding last modified date to Jekyll](https://tomkadwill.com/adding-last-modified-date-to-jekyll) explaining how to enrich the blog with **last udpated date**
 
 #### Add dropdowns
-* See [Adding support for HTML5's details element to Jekyll | Tobias König (né Mahnke-Nissen)](http://movb.de/jekyll-details-support.html)
+* See [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)
 
 #### add back to the top button
 * Download [vanilla back to the top script](https://raw.githubusercontent.com/vfeskov/vanilla-back-to-top/v7.2.1/dist/vanilla-back-to-top.min.js) and put it into `/assets` folder
