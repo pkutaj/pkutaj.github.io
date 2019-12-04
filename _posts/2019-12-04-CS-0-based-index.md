@@ -1,29 +1,22 @@
 ---
 layout: post
-title: C# > Looping and zero-based indexing
+title: CS > 0-based indexing
 last_modified_at: 
 ---
-## the case	
-the question is, 
 
 ## toc
 <!-- TOC -->
 
-- [test changing loops](#test-changing-loops)
 - [On 0-indexing](#on-0-indexing)
 - [log ➔ code ➔ test](#log-➔-code-➔-test)
 
 <!-- /TOC -->
 
-## findings
-### test changing loops
-* make sure that the unit tests are passing each time we change the style of the loop
 
 ### On 0-indexing
 * Array indices should start at 0. This is not just an efficiency hack for ancient computers, or a reflection of the underlying memory model, or some other kind of historical accident—forget all of that. Zero-based indexing actually simplifies array-related math for the programmer, and simpler math leads to fewer bugs.
 
-
-```plaintext
+---
 ...most programming languages are what's called "zero-indexed", meaning they start counting from 0. To understand the reason why, consider the following array filled with empty arrays:
 
 var arr = [ [], [] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ,[] ];
@@ -38,7 +31,8 @@ This array is stored in memory, and the variable name "arr" points to where it s
 4th element in the array.
 
 ...Nowadays higher level languages like javascript could hide this from us - it'd be very trivial to make it more "human friendly", but two things - firstly that you actually get used to zero-indexed very fast, so you expect other languages to use it; and secondly it's more accurate to how the computer is running.
-```
+
+---
 
 ### log ➔ code ➔ test
 
