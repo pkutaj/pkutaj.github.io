@@ -4,7 +4,7 @@ title: C# > Jumping and Switching
 last_modified_at: 2019-12-10
 ---
 ## the case	
-the question is, 
+the question is the concept of jumping and switching in c#
 
 ## toc
 <!-- TOC -->
