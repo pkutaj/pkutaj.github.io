@@ -15,15 +15,17 @@ the question is, how to quickly compare two files in vscode and ideally, merge c
 
 ## findings
 ### - diff, merge, replace 
-* there is only beyond compare at the moment to do this kind of work more fluently
+* there is only [beyond compare](https://www.scootersoftware.com/) at the moment to do this kind of work more fluently
 * I found a flow which is fastest for me, by first associating a keyboard shortcut `ctrl+shift+alt+c` to "Compare Active File With..." . 
-* To do so, press `Ctrl-k Ctrl-s` to show Keyboard Shortcuts ➔ type compare on the top search box ➔ and double click the "Keybinding" column for "Compare Active File With...", press `ctrl+shift+alt+c` then Enter to assign it.
-* Open or focus **file B** (will be editable in compare view by default)+
+    * To do so, press `Ctrl-k Ctrl-s` to show Keyboard Shortcuts
+    * Type compare on the top search box 
+    * Double click the "Keybinding" column for "Compare Active File With...", press `ctrl+shift+alt+c` then Enter to assign it.
+* Open or focus **target-file** (will be editable in compare view by default)+
     * E.g. by drag-drop from File Explorer to VS Code's center
-* Open or focus **file A**.
-* Press `ctrl+shift+alt+c`, a quick open menu **will be shown with file B focused**.
+* Open or focus **source-file**.
+* Press `ctrl+shift+alt+c`, a quick open menu **will be shown with target-file focused**.
 * **Press Enter**.
-* Result: **file A on left and file B on right**
+* Result: **source-file on left and target-file on right**
 * [Copy-Paste is the way to go at the moment](https://github.com/microsoft/vscode/issues/25887)
 
 ## sources
