@@ -15,6 +15,7 @@ the question is, what all can be done with one of the most widely used commands,
 - [search-string w/ dir](#search-string-w-dir)
 - [filter multiple strings with -include](#filter-multiple-strings-with--include)
 - [count files (with filter)](#count-files-with-filter)
+- [search registry](#search-registry)
 
 <!-- /TOC -->
 
@@ -25,14 +26,14 @@ the question is, what all can be done with one of the most widely used commands,
     * i am very fond of using aliases for my personal use
     * `-file` filters output to files
 
-![dir_sort_autosize](img/img000128.png)
+![dir_sort_autosize]({{ site.url }}/assets/img000128.png)
 
 
 ### filter
 - `-filter` can use only `*` and `?` wildcards, which is good enough for most of the time
 - working nice with the combination with `-recurse`
 
-![dir_filter_recurse](img/img000153.png)
+![dir_filter_recurse]({{ site.url }}/assets/img000153.png)
 
 ### recurse + oh -paging
 * I have been using the following to display a selected depth of the directory tree
@@ -44,7 +45,7 @@ dir -recurse -depth 2 -directory | oh -paging
 
 ### search-string w/ dir
 * just use `dir | sls "fooBar"` to get names of files with `fooBar` string in it
-* ![search string with dir | sls](img/img000130.png) 
+* ![search string with dir | sls]({{ site.url }}/assets/img000130.png) 
 
 ### filter multiple strings with -include
 * `-Filter` only accepts a single string. 
@@ -82,7 +83,31 @@ Mode                LastWriteTime         Length Name
 PS C:\Users\Admin\Documents\workspace\XO\logs\pkutaj\_posts> (dir *2019-11-12* | measure).count
 1
 ```
+### search registry
+* By default, the Registry provider creates two registry drives. 
+* To find all of the drives that are exposed by the Registry provider, use the `Get-PSDrive` (`gdr`) cmdlet. 
 
+```
+New-PSDrive -PSProvider registry -Root HKEY_CLASSES_ROOT -Name HKCR
+```
+
+* Additional registry drives are created by using the `New-PSDrive` cmdlet. 
+* `dir hklm:\ -rec -ErrorAction SilentlyContinue | ? {$_.Name -like "*foo*}`
+
+```
+ dir hklm:\ -rec -ErrorAction SilentlyContinue | ? {$_.Name -like "*7-Zip*"}
+
+
+    Hive: HKEY_LOCAL_MACHINE\SOFTWARE
+
+Name                           Property
+----                           --------
+7-Zip                          Path64 : C:\Program Files\7-Zip\
+                               Path   : C:\Program Files\7-Zip\
+```
+
+* [How to Get, Edit, Create and Delete Registry Keys with PowerShell](https://blog.netwrix.com/2018/09/11/how-to-get-edit-create-and-delete-registry-keys-with-powershell/)
+* [Use the PowerShell Registry Provider to Simplify Registry Access | Scripting Blog](https://devblogs.microsoft.com/scripting/use-the-powershell-registry-provider-to-simplify-registry-access/)
 ## terminology
 * measure-object
     * measure
