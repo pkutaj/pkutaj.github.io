@@ -137,14 +137,14 @@ public delegate string WriteLogDelegate (string logMessage); // 1–5
 * is powerful and flexible
 * delegate-matching-methods (lamdas) can have different logic, they only need to take and return identical types
 
-comment                                                    | code
------------------------------------------------------------|------------------------------------------------
-1. initialize a top-level binding                          | `WriteLogDelegate log;`
-2. assign first lamba                                      | `log = new WriteLogDelegate(ReturnMessage);`
-3. assign second lambda with the increment operator **+=** | `log += new WriteLogDelegate(ReturnMessage);`
-4. assign third lambda, this time a different one          | `log += new WriteLogDelegate(IncrementCount)`
-5. delegate-matching-method 1                              | ` public string IncrementCount(string message)`
-6. delegate-matching method 2                              | `public string ReturnMessage(string message)`
+comment                                                     | code
+------------------------------------------------------------|------------------------------------------------
+-1. initialize a top-level binding                          | `WriteLogDelegate log;`
+-2. assign first lamba                                      | `log = new WriteLogDelegate(ReturnMessage);`
+-3. assign second lambda with the increment operator **+=** | `log += new WriteLogDelegate(ReturnMessage);`
+-4. assign third lambda, this time a different one          | `log += new WriteLogDelegate(IncrementCount)`
+-5. delegate-matching-method 1                              | ` public string IncrementCount(string message)`
+-6. delegate-matching method 2                              | `public string ReturnMessage(string message)`
 
 
 ```c#
