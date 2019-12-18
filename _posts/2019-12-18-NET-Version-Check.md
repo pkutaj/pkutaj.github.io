@@ -6,6 +6,7 @@ title: .NET > Check Version
 * Open navigating to the directory the latest version number. 
 * Run `.\MSBuild.exe -version`
 * The last line, after the copyright, will output the most recent verson of .NET Framework on your computer, for example, 4.6.1038.0.
+
 ```
 C:\Windows\Microsoft.NET\Framework\v4.0.30319> .\MSBuild.exe -version
 Microsoft (R) Build Engine version 4.8.3761.0
