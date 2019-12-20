@@ -1,7 +1,6 @@
 ---
 layout: post
 title: C# > Function Delegates
-last_modified_at: 2019-12-12
 ---
 ## the case	
 the question is what are function delegates within c#
