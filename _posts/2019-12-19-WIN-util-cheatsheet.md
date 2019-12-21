@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > Widows Utilities Cheat-Sheet
+title: WIN > Windows Utilities Cheat-Sheet
 last_modified_at: 
 ---
 
