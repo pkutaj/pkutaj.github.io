@@ -111,6 +111,7 @@ namespace Gradebook.Tests
 ### assert class
 * API we are going to use is an API provided by a class names `Assert` from the xUnit namespace
 * `Assert` contains a list of static methods that test the given parameter as per its nature
+
 ```c#
 using System;
 using Xunit;
@@ -203,7 +204,6 @@ public void Test1()
         public void BookCalculatesAnAverageGrate()
 ```
 
-
 ### references
 * you have access to to classes within that project 
 * but: testing project is another project ➔ you need to give access to the object of test
@@ -212,10 +212,13 @@ public void Test1()
         * right-click in VS
         * dotnet cli ➔ `dotnet add` allowing adding either a package reference or project-to-project reference 
 * this modifies the `.csproj` file
+
 ```plaintext
  dotnet add reference ..\..\src\GradeBook\GradeBook.csproj
 ```
+
 * result of the `.csproj` file
+
 ```c#
 <Project Sdk="Microsoft.NET.Sdk">
 
@@ -257,6 +260,7 @@ public void Test1()
 
 ### refactoring for testability
 * the original method
+
 ```c#
  public void GetStats()
         {
@@ -272,6 +276,7 @@ public void Test1()
             Console.WriteLine($"The average grade is {averageGrade:N1}");
         }
 ```
+
 * Found that `GetStats()` is doing too many things and needs to be broken up 
     * design smell: if in description there is conjunction  
     * single responsibility principle
