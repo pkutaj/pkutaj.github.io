@@ -2,12 +2,13 @@
 layout: page
 title: "Pavol Kutaj"
 ---               
-
-I am a data analyst creating front-ends on the side with an M.A. degree in history. Experienced in troubleshooting the incidents with ETL processes (SAP BW), deeply caring about the creation and optimization of customer’s UI/UX experience. I have delivered and I am maintaining the company’s web and I am a freelance Wordpress developer. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts — so-called laziness promoting tools. Finally, I insist on precise and useful technical documentation of processes and known errors, believing in KCS methodology. I keep learning, building & sharing my toolbox.
+### About Me: Operations & Web Development
+I am a L2-support operative creating front-ends on the side with an M.A. degree in history. Experienced in troubleshooting the incidents with ETL processes (SAP BW), deeply caring about the creation and optimization of customer’s UI/UX experience. I have delivered and I am maintaining the company’s web and I am a freelance Wordpress developer. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts — so-called laziness promoting tools. Finally, I insist on precise and useful technical documentation of processes and known errors, believing in KCS methodology. I keep learning, building & sharing my toolbox.
 
 
 <!-- TOC -->
 
+- [About Me: Operations & Web Development](#about-me-operations--web-development)
 - [Projects](#projects)
 - [Experience](#experience)
     - [Data Analyst, Front-End Developer](#data-analyst-front-end-developer)
