@@ -1,7 +1,6 @@
 ---
 layout: post
-title: VSC > compare & merge
-last_modified_at: 2019-12-03
+title: VSC > Diffs, Compare & Merge
 ---
 ## the case	
 the question is, how to quickly compare two files in vscode and ideally, merge changes when needed

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSC > blogging from the code editor
+title: VSC > How I blog from Visual Studio Code
 last_modified_at: 2019-11-15
 ---
 ## the case	

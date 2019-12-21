@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSC > log ➔ code ➔ test (UI Demo)
+title: VSC > Log ➔ Code ➔ Test (UI Demo)
 last_modified_at: 
 ---
 ### log ➔ code ➔ test

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NTW > fiddler
+title: WEB > On Fiddler (monitoring tool)
 last_modified_at: 2019-12-16
 ---
 ## the case	

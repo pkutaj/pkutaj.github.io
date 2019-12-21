@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > the tricks with dir (set-location)
+title: PS > The Tricks with dir (set-location)
 last_modified_at: 
 ---
 ## the case	

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CS > Craftsman Oath (lecture notes)
-last_modified_at: 2019-12-03
 ---
 
 ## THE CASE	

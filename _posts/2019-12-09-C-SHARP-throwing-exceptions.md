@@ -1,7 +1,6 @@
 ---
 layout: post
-title: C# > throwing exceptions
-last_modified_at: 2019-12-11
+title: C# > Throwing Exceptions
 ---
 ## the case	
 the question is how to program defensively by throwing exceptions

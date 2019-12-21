@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  C# > reference types vs value types
+title:  C# > Reference Types vs Value Types
 last_modified_at: 2019-11-22
 ---
 

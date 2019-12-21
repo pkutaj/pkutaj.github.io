@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C# > properties and read-only members
+title: C# > Properties and read-only Members
 last_modified_at: 2019-12-12
 ---
 ## the case	

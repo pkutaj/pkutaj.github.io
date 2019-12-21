@@ -1,7 +1,6 @@
 ---
 layout: post
-title: WIN > Versioning
-last_modified_at: 2019-12-16
+title: WIN > Windows Versioning
 ---
 ## the case	
 the question is how is the windows versioning changing
