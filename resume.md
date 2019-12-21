@@ -2,15 +2,15 @@
 layout: page
 title: "Pavol Kutaj"
 ---               
-### About Me: Operations & Web Development
-I am a L2-support operative creating front-ends on the side with an M.A. degree in history. Experienced in troubleshooting the incidents with ETL processes (SAP BW), deeply caring about the creation and optimization of customer’s UI/UX experience. I have delivered and I am maintaining the company’s web and I am a freelance Wordpress developer. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts — so-called laziness promoting tools. Finally, I insist on precise and useful technical documentation of processes and known errors, believing in KCS methodology. I keep learning, building & sharing my toolbox.
+# work ➔ log ➔ repeat
+Currently, I am an L2-support support agent (.NET based Pivotal CRM) creating front-ends on the side. Experienced in data analytics (SAP BW), deeply caring about the creation and optimization of customer’s UI/UX experience.  In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts — so-called laziness promoting tools. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support. 
 
 
 <!-- TOC -->
 
-- [About Me: Operations & Web Development](#about-me-operations--web-development)
 - [Projects](#projects)
 - [Experience](#experience)
+    - [L2 Operative](#l2-operative)
     - [Data Analyst, Front-End Developer](#data-analyst-front-end-developer)
     - [Service Desk Analyst](#service-desk-analyst)
     - [iOS Support Engineer](#ios-support-engineer)
@@ -44,6 +44,12 @@ Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.i
 
 
 ### Experience
+
+#### L2 Operative
+* Avolin, Pivotal CRM
+* 2019-Ongoing
+
+L2 support agent for the .NET based CRM application with ExtJS-based web client. 
 
 #### Data Analyst, Front-End Developer 
 * HeidelbergCement Group
@@ -89,7 +95,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * VBA productive code
 * Markdown devotee
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Utilizing Reges
+* Regex
 
 #### Tools and Frameworks
 * Pivotal CRM
