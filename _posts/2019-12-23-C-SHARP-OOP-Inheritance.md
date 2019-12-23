@@ -48,7 +48,7 @@ the question is addressing the inheritance pillar, being one of the 4 foundation
 
 ##### STEP-2 define a constructor within the base class (location: line-specific)
 
-![base_class_constructor](../assets/2019-12-20-base-class-constructor.gif)
+![base_class_constructor]({{ site.url }}/assets/2019-12-20-base-class-constructor.gif)
 
 ##### STEP-3 define an inheritance relationship
 * so that you don't have to write the name property in the derived class
