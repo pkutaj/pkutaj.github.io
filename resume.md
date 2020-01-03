@@ -115,6 +115,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Visual Studio Code as the editor of choice
 * Zendesk and Zendesk guide hands-on experience
 * Fogbugz (ex-Manuscript) ticketing tool
+* Windows advanced debugging (Sysiternal Tools)
 
 #### SAP
 * SAP Data Warehousing Workbench (RSA1 suite)
