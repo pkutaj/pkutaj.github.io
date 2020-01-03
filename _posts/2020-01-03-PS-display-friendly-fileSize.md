@@ -21,17 +21,14 @@ img                 0.0009765625
 script              0.0009765625
 ```
 
-</details>
-
-### getting HD used/free spaces in friendly format 
+### getting a harddrive's used/free spaces in friendly format 
 
 ```powershell
 gdr c | select -Property @{N= 'Used'; E={$_.Used/1gb}}, @{N='Free'; E={$_.Free/1GB}}
 
-git
-            Used                 Free
-            ----                 ----
-80.5605392456055     18.9492225646973
+            Used             Free
+            ----             ----
+348,789585113525 127,611778259277
 
 ```  
 
@@ -51,5 +48,5 @@ Name                    SizeKB
 
 ### sources
 * [Calculated Property](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ff730948(v=technet.10)?redirectedfrom=MSDN)
-* [Display friendly file sizes in PowerShell | Loose Scripts Sink Ships](https://martin77s.wordpress.com/2017/05/20/display-friendly-file-sizes-in-powershell/)
+* [Display friendly file sizes in PowerShell - Loose Scripts Sink Ships](https://martin77s.wordpress.com/2017/05/20/display-friendly-file-sizes-in-powershell/)
 * [Formatting Numbers](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-powershell-1.0/ee692795%28v%3dtechnet.10%29)
