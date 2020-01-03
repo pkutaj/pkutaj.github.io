@@ -17,10 +17,10 @@ Currently, I am an L2-support agent with .NET and ExtJS, creating front-ends on 
 
 - [Projects](#projects)
 - [Experience](#experience)
-    - [L2 Operative](#l2-operative)
-    - [Data Analyst, Front-End Developer](#data-analyst-front-end-developer)
-    - [Service Desk Analyst](#service-desk-analyst)
-    - [iOS Support Engineer](#ios-support-engineer)
+    - [L2 Technical Support with .NET](#l2-technical-support-with-net)
+    - [SAP BW Data Analyst & Front-End Developer](#sap-bw-data-analyst--front-end-developer)
+    - [L2 Technical Support with German](#l2-technical-support-with-german)
+    - [L1 Technical Support with iOS](#l1-technical-support-with-ios)
 - [Education](#education)
 - [Skills](#skills)
     - [Languages](#languages)
@@ -52,13 +52,13 @@ Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.i
 
 ### Experience
 
-#### L2 Operative
+#### L2 Technical Support with .NET
 * Avolin, Pivotal CRM
 * 2019-Ongoing
 
 L2 support agent for the .NET based CRM application with ExtJS-based web client. 
 
-#### Data Analyst, Front-End Developer 
+#### SAP BW Data Analyst & Front-End Developer 
 * HeidelbergCement Group
 * 2017-2019
 
@@ -66,14 +66,14 @@ L2 support agent for the .NET based CRM application with ExtJS-based web client.
 SAP BI/BW analyst, focused on ETL processes, monitoring and solving incidents of dataflow, providing accesses with creating authorizations and roles. Active in a release cycle as a cutover manager, contributing by writing VBA scripts for broadcasting and Active Directory DL updates or creating PowerShell scripts for the automation of the authorization procedures. Put forward and realized the development of company’s webpage in CMS Drupal, using the corporate template but adding custom HTML5 and CSS code with a certain vision of UX/UI. Passionate about building laziness-promoting tools and fast & friendly front-ends.
 
 
-#### Service Desk Analyst 
+#### L2 Technical Support with German 
 * HeidelbergCement Group 
 * 2015-2017
 
 
 2nd level IT Support on the basis of ITIL methodology in English and German. Supporting the Microsoft environment (Windows OS, Office Suite, Active Directory Identity Management), Citrix Virtualization and thin-clients, basic JavaScript troubleshooting of web-based applications as well 
 
-#### iOS Support Engineer 
+#### L1 Technical Support with iOS 
 * Infosys BPO
 * 2012-2015
 
@@ -115,6 +115,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Visual Studio Code as the editor of choice
 * Zendesk and Zendesk guide hands-on experience
 * Fogbugz (ex-Manuscript) ticketing tool
+* Windows advanced debugging (Sysiternal Tools)
 
 #### SAP
 * SAP Data Warehousing Workbench (RSA1 suite)
