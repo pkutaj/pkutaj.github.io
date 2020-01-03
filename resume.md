@@ -10,7 +10,7 @@ phone                                               | e-mail
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
 
 
-Currently, I am an L2-support support agent (.NET based Pivotal CRM), creating front-ends on the side. Experienced in data analytics (SAP BW), deeply caring about the creation and optimization of customer’s UI/UX experience.  In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts — so-called laziness promoting tools. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support. 
+Currently, I am an L2-support agent with .NET and ExtJS, creating front-ends on the side (WordPress and Jekyll). I have > 2 years experience in data analytics (SAP BW) and I am deeply caring about the creation and optimization of customer’s UI/UX experience.  In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the methodology (my blog exemplifies it).
 
 
 <!-- TOC -->
