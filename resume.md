@@ -77,7 +77,6 @@ SAP BI/BW analyst, focused on ETL processes, monitoring and solving incidents of
 * Infosys BPO
 * 2012-2015
 
-
 Providing top-notch customer service for German-speaking Apple customers, also mentoring newcomers and communicating the team’s demand to higher management.
 
 
