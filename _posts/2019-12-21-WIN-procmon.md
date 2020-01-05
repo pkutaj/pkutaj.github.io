@@ -17,7 +17,7 @@ title: WIN > The Magic of the Process Monitor Tool
     - [profiling](#profiling)
     - [hang processes](#hang-processes)
     - [registry tracing](#registry-tracing)
-        - [example:  identify the key when setting default printer](#example--identify-the-key-when-setting-default-printer)
+        - [tactics identify the key when setting default printer](#tactics-identify-the-key-when-setting-default-printer)
     - [process tree](#process-tree)
 
 <!-- /TOC -->
@@ -82,7 +82,7 @@ for counting occurences inside of a certain columns       | **tools > count occu
 
 ![filter-registry-tracing]({{ site.url }}/assets/img000370.png)
 
-##### example:  identify the key when setting default printer
+##### tactics identify the key when setting default printer
 * `ctrl-e` ➔ start capture
 * `ctrl-l` ➔ filter to Operation is `RegSetValue`
 * repeat steps 3 times

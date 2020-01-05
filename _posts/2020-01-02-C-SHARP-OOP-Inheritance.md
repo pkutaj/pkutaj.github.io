@@ -4,7 +4,6 @@ title: C# > Inheritance Demo (OOP Foundations)
 ---
 ## the case	
 the question is addressing the inheritance pillar, being one of the 4 foundations of OOP
-
 ## toc
 <!-- TOC -->
 
