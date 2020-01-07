@@ -18,7 +18,7 @@ Currently, I am an L2-support agent with .NET and ExtJS CRM application. I am al
     - [L2 Technical Support with .NET](#l2-technical-support-with-net)
     - [SAP BW Data Analyst & Front-End Developer](#sap-bw-data-analyst--front-end-developer)
     - [L2 Technical Support with German](#l2-technical-support-with-german)
-    - [L1 Technical Support with iOS](#l1-technical-support-with-ios)
+    - [L1 Technical Support with iOS with German](#l1-technical-support-with-ios-with-german)
 - [Education](#education)
 - [Skills](#skills)
     - [Languages](#languages)
@@ -63,7 +63,7 @@ SAP BI/BW analyst, focused on ETL processes, monitoring and solving incidents of
 
 2nd level IT Support on the basis of ITIL methodology in English and German. Supporting the Microsoft environment (Windows OS, Office Suite, Active Directory Identity Management), Citrix Virtualization and thin-clients, basic JavaScript troubleshooting of web-based applications as well 
 
-#### L1 Technical Support with iOS 
+#### L1 Technical Support with iOS with German
 * Infosys BPO
 * 2012-2015
 
