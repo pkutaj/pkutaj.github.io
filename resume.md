@@ -9,7 +9,7 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
 
-Currently, I am an L2-support agent with .NET and ExtJS CRM application. I am also creating front-ends on the side (WordPress and Jekyll). I have 2+ years experience in data analytics (SAP BW) and I have been deeply caring about the creation and optimization of UI/UX experience.  In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the methodology.
+Currently, I am an L2-support agent with .NET/C# and ExtJS CRM application. I am also creating front-ends on the side (WordPress and Jekyll). I have 2+ years experience in data analytics (SAP BW) and I have been deeply caring about the creation and optimization of UI/UX experience.  In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the methodology.
 
 <!-- TOC -->
 
@@ -49,7 +49,7 @@ Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.i
 * Avolin, Pivotal CRM
 * 2019-Ongoing
 
-L2 support agent for the .NET based CRM application with ExtJS-based web client. 
+L2 support agent for the .NET/C#-based CRM application with ExtJS-based web client. 
 
 #### SAP BW Data Analyst & Front-End Developer 
 * HeidelbergCement Group
@@ -79,6 +79,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 
 ### Skills
 #### Languages
+* Slovak native 
 * English C2
 * Czech C2
 * German C1
@@ -87,25 +88,26 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Javascript productive code
 * Powershell productive code
 * C# active learner
-* HTML5
-* CSS3
+* HTML5 productive code
+* CSS3 productive code
 * VBA productive code
 * Markdown devotee
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Regex
+* Regex 
 
 #### Tools and Frameworks
 * Visual Studio Code as the editor of choice
-* Pivotal CRM
+* xUnit testing framework
 * git source control 
 * github, github pages active user
+* Google Apps Engine, Google Apps Script
 * Wordpress and Drupal theming
 * VBA Scripting and advanced Excel
-* Google Apps Engine, Google Apps Script
 * Advanced  Chrome & Firefox Developer Tool Debugging
 * Zendesk and Zendesk guide hands-on experience
 * Fogbugz (ex-Manuscript) ticketing tool
-* Windows advanced debugging (Sysiternal Tools)
+* Windows advanced debugging (Sysiternal Tools, mainly procmon)
+* Fiddler 
 
 #### SAP
 * SAP Data Warehousing Workbench (RSA1 suite)
