@@ -33,7 +33,7 @@ the question is, what would be the logic to avoid double booking in a hotel (or 
 * Negate these 2 possible scenarios 
 * There are many more scenarios how intervals can overlap, so it's much simpler to use via negativa  
 
-![subquery_solution1]({{ siteÄ.url }}/assets/2020-01-08-double-book3.png)
+![subquery_solution1]({{ site.url }}/assets/2020-01-08-double-book3.png)
 
 ### solution 2: remodel dataset: row per day per customer
 * Another answer is to remodel the table itself 

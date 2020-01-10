@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C# > polymorphism demo
+title: C# > polymorphism demo (OOP essentials)
 ---
 ## the case	
 the question is, how to demonstrate polymorphism as foundational pillar of OOP

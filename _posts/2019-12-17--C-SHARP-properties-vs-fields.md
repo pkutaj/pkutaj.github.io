@@ -68,8 +68,9 @@ CODE                     | COMMENT
 ```
 
 ### properties shorthand 
-* in newer releases of c#, there is a shorthand form for creating properties
-    * this is called auto-property
+* in more current releases of c#, there is a shorthand form for creating properties
+    * this is called auto-implemented property
+    * used when `get` and `set` accessor methods do no other operation than retrieve and define a value of a private backing field
     * it is similar to public field, but there are few places where it differs (serialization, reflextion)
     * the main difference to a public field is that you can apply differnt access modifiers to `get` and `set` 
 

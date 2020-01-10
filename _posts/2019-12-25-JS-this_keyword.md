@@ -1,3 +1,7 @@
+---
+layout: post
+title: JS > "this" keyword
+---
 ## the case	
 the puzzle is, what actually **this** means in Javascript
 

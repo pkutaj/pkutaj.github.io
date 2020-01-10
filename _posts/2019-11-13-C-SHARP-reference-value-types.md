@@ -290,31 +290,7 @@ public struct foo {
 I find this characterization of a value type based on its implementation details rather than its observable characteristics to be both confusing and unfortunate. Surely the most relevant fact about value types is not the implementation detail of how they are allocated, but rather the by-design semantic meaning of “value type”, namely that they are always copied “by value”. If the relevant thing was their allocation details then we’d have called them “heap types” and “stack types”. But that’s not relevant most of the time. Most of the time the relevant thing is their copying and identity semantics.
 ```
 
-#### javascript comparison
-* In JavaScript, String values are **immutable**, which means that they cannot be altered once created.
-* For example, the following code...
-
-```js
-var myStr = "Bob";
-myStr[0] = "J";
-```
-
-* ... cannot change the value of myStr to "Job", because the contents of myStr cannot be altered. 
-* Note that this does not mean that myStr cannot be changed, just that **the individual characters of a string literal cannot be changed**. The only way to change myStr would be to assign it with a new string, like this:
-
-```js
-var myStr = "Bob";
-myStr = "Job";
-```
-
-* string has also properties accessible via bracket notation
-
-```js
-	var name = 'Pavol';
-	name[0] // ➔ 'P'
-```
-
-* strings are immutable, whereas Arrays are mutable ➔ `name.pop()` will not work !!! 
+ 
 
 ### taking advantage of garbage collection2019-11-22
 * this is managed language
