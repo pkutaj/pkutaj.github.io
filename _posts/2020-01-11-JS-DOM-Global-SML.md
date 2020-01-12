@@ -11,7 +11,6 @@ the question is, how to conceptualize the global scope within JS / browser envir
 - [global](#global)
 - [SML](#sml)
 - [DOM](#dom)
-    - [History of DOM](#history-of-dom)
     - [DOM vs COM](#dom-vs-com)
 - [sources](#sources)
 
@@ -27,7 +26,6 @@ the question is, how to conceptualize the global scope within JS / browser envir
 * `location.href` prints current URL in a console
 
 ![location.href]({{ site.url }}/assets/2020-01-12-2.png)
-
 
 ### SML 
 * the common sequence is that you select & manipulate (or listen for action) — SML
@@ -46,20 +44,6 @@ the question is, how to conceptualize the global scope within JS / browser envir
 * in CS, trees are drawn like family trees - top-down
 
 ![DOM-tree]({{ site.url }}/assets/2020-01-12-4.png)
-
-#### History of DOM
-* The DOM started amids the first browser WAR. 
-* this was called DOM level-0. 
-* Now (1995-ish) the **web is flat**, JavaScript is in development in two separate camps and there is some need for interactivity. 
-    * Nothing is standardised and only a few of the elements have interactive elements. 
-* DOM was originally thought of largely in terms of browsers and it wanted to solve problems in the context of **browser wars of the 90s**
-* DOM originated as a **spec to allow JavaScript scripts and Java programs to be portable among web browsers**
-* Dynamic HTML was the immediate ancestor of the Document Object Model. 
-* However, when the Document Object Model Working Group was formed (1998), it was also joined by vendors in other domains, including HTML or XML editors and document repositories. 
-    * Several of these vendors had worked with SGML before XML was developed
-    * As result, the Document Object Model has been influenced by SGML Groves and the HyTime standard. 
-    * Some of these vendors had also developed their own object models for documents in order to provide programming APIs for SGML/XML editors or document repositories, and these object models have also influenced the Document Object Model.
-* In 2005, after 10 years, there is standard support for this model
 
 #### DOM vs COM
 * The Document Object Model, despite its name, is not a competitor to the Component Object Model (COM). 
