@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > assign by value vs assign by reference
+title: JS > data types, literals & value- vs reference-assignment
 ---
 ## the case
 the question is the difference of binding a value and binding a reference to a variable and it's mapping to various data types in javascript
