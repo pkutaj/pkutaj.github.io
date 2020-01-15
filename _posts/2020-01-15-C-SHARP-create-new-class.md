@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C-SHARP > create new class
+title: C# > new class is needed
 ---
 ## the case	
 the question is, what is the process for the creation of a new class. Another one, among many. Not first, not last. 
