@@ -17,6 +17,7 @@ The aim of this script is to create a mutation of total commander's multi-rename
 
 ## findings
 ### steps
+
 STEP | ACTION
 -----|------------------------------------------------------------------------
 0.1  | Create an intro +outro here-string with an ascii art proper
