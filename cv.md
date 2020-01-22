@@ -9,7 +9,7 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Currently, I am an bi-lingual (EN/GER) L2-support agent with .NET and ExtJS CRM application (Avolin’s Pivotal CRM). I am also creating front-ends on the side (WordPress- and Jekyll-based). I have 2+ years of experience in data analytics (SAP BW) and I have been deeply caring about the creation and optimization of UI/UX experience. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts, if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the KCS methodology.
+Currently, I am bi-lingual (EN/GER) L2-support agent with .NET and ExtJS CRM application (Avolin’s Pivotal CRM) where I am handling customization problems written in C# and JavaScript. I am also creating front-ends on the side (WordPress- and Jekyll-based). I have 2+ years of experience in data analytics (SAP BW) and I have been deeply caring about the creation and optimization of UI/UX experience. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts, if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the KCS methodology.
  
 <!-- TOC -->
 
@@ -49,7 +49,7 @@ Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.i
 * Avolin, Pivotal CRM
 * 2019-Ongoing
  
-L2 support agent for the .NET/C#-based CRM application with an ExtJS-based web client. 
+L2 support agent for the .NET based CRM application with ExtJS-based web client, debugging C# and JavaScript customization code and diving into Node.js as a preparation for the next product.
  
 #### SAP BW Data Analyst & Front-End Developer 
 * HeidelbergCement Group
@@ -93,7 +93,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * VBA productive code
 * Markdown devotee
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Regex 
+* Regex devotee
  
 #### Tools and Frameworks
 * Visual Studio Code as the editor of choice
@@ -107,7 +107,8 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Zendesk and Zendesk guide hands-on experience
 * Fogbugz (ex-Manuscript) ticketing tool
 * Windows advanced debugging (Sysiternal Tools, mainly procmon)
-* Fiddler 
+* Fiddler
+* Node.js
  
 #### SAP
 * SAP Data Warehousing Workbench (RSA1 suite)
