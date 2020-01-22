@@ -5,7 +5,7 @@ title: NODE > GEPARD; the personal pattern of working with data requested via AP
 ## the case	
 the question is, how to write a small Node app that would call the API of a user profile from the REST API endpoint `https://teamtreehouse.com/pavolkutaj3.json` and to derive a design pattern for the further usage.
 
-The solution is "encapsulated" (no pun intended:) in the personal GEPARD (see the steps for initial letters)
+The solution is "encapsulated" (no pun intended:) in the personal GEPARD (see the steps for initial letters). So, meet GEPARD the API caller running through Node. 
 
 ![gepard]({{ site.url }}/assets/2020-01-22-geparp.jpg)
 
