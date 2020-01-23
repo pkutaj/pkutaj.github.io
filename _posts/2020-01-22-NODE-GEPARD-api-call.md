@@ -151,8 +151,8 @@ const request = https.get(`https://teamtreehouse.com/${userName}`, response => {
 * the end event is emitted when the reading of the data is finished and **only then** operate on the payload
 
 CODE                          | COMMENT
-------------------------------|------------------------------------------------------------------------------------
-`response.on("end", () => {}` | pass the `"end"` event into the `.on()` emitter of the `<stream>` `response` object
+------------------------------|------------------------------------------------------------------------------------------
+`response.on("end", () => {}` | pass the `"end"` event into the `.on()` emitter which is the `<stream>` `response` object
 `console.log(responseBody)`   | end-event handler logging the complete payload into the console
 
 

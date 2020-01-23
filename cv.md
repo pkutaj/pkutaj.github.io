@@ -15,7 +15,7 @@ Currently, I am bi-lingual (EN/GER) L2-support agent with .NET and ExtJS CRM app
 
 - [Front-End Projects](#front-end-projects)
 - [Experience](#experience)
-    - [L2 Technical Support with .NET](#l2-technical-support-with-net)
+    - [L2 Technical Support with .NET and JavaScript](#l2-technical-support-with-net-and-javascript)
     - [SAP BW Data Analyst & Front-End Developer](#sap-bw-data-analyst--front-end-developer)
     - [L2 Technical Support with German](#l2-technical-support-with-german)
     - [L1 Technical Support with iOS with German](#l1-technical-support-with-ios-with-german)
@@ -45,7 +45,7 @@ Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.i
  
 ### Experience
  
-#### L2 Technical Support with .NET
+#### L2 Technical Support with .NET and JavaScript
 * Avolin, Pivotal CRM
 * 2019-Ongoing
  
