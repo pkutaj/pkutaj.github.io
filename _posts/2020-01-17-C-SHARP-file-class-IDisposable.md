@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C# > the file class + using objects that implement IDisposable
+title: C# > the File class + using statement implementing IDisposable
 ---
 ## the case	
 the question is the implementation of the method for adding an input into a newline of a file

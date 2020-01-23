@@ -16,7 +16,8 @@ the question is: interfaces in OOP
     - [STEP-3 implement into a class definition](#step-3-implement-into-a-class-definition)
         - [STEP-3.1 interface implemented into an abstract class](#step-31-interface-implemented-into-an-abstract-class)
             - [virtual keyword](#virtual-keyword)
-    - [STEP-4 implement into a method signature](#step-4-implement-into-a-method-signature)
+    - [STEP-4.a implement into a method signature](#step-4a-implement-into-a-method-signature)
+    - [STEP-4.b implement into variable declarations](#step-4b-implement-into-variable-declarations)
 
 <!-- /TOC -->
 
@@ -104,7 +105,7 @@ CODE                                         | COMMENT
     * 1 in the class proper
 * the `virtual` keyword gives a permission for a corresponding `override`
 
-#### STEP-4 implement into a method signature
+#### STEP-4.a implement into a method signature
 * instead of the particular class name inside a method signature, use the interface type
 * this is the beauty of an intefrace
 * interface can express exactly what you require in particular bits of code
@@ -134,3 +135,12 @@ CODE                                                      | COMMENT
         private static void EnterGrades(IBook bookParameter)        //method definition signed with ANY type of Book — that implements the interface !
 
 ```
+
+#### STEP-4.b implement into variable declarations
+* there are pieces of code where you don't care about implementation, where you care about only the **surface** 
+* ➔ declare bindings with **I** type; just knowing what it offers, not how does it actually works
+* that interface can be identical for all children of that type (all kinds of books in this program offer the same surface, the same "look")
+
+CODE                                       | COMMENT
+-------------------------------------------|---------------------------------------------
+`IBook book = new InMemoryBook(bookName);` | switch from the previous `InMemoryBook` type

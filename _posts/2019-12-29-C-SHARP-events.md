@@ -158,6 +158,11 @@ public void AddGrade(double grade)
         {
             throw new ArgumentException($"Invalid {nameof(grade)}");
         }
+        // STEP-2 defining event as a class field
+
+    public event GradeAddedDelegate GradeAdded;     // 1-4
+    
+    // END OF STEP-2
     }
 ```
 
