@@ -50,6 +50,7 @@ function findGreater(a, b) {
 
 ###  what about else IFs ? - conditional chains
 * operator is right-associative
+
 ```js
 
 function example(…) {
@@ -68,6 +69,7 @@ function example(…) {
     else { return value4; }
 }
 ```
+
 ###  falsy expressions and conditions
 * see that even null, undefined, NaN, 0 and empty string are possible falsy espressions!
 
@@ -79,6 +81,7 @@ function greeting(person) {
 console.log(greeting({name: 'Alice'}));  // "Howdy, Alice"
 console.log(greeting(null));             // "Howdy, stranger"​​​​​
 ```
+
 ###  multiple ternary operators
 * no problem, but not widely used
 
@@ -92,6 +95,7 @@ let foo = (
 )
 // foo === 1
 ```
+
 ### elegant conditional bindings 
 * you can use these **conditional bindings** in a quite elegant manner 
 
