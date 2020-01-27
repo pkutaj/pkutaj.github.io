@@ -1,0 +1,52 @@
+---
+layout: post
+title: HSTR > AWS comes to town (2005)
+---
+## toc
+<!-- TOC -->
+
+- [AWS](#aws)
+- [SOA](#soa)
+- [API --> AWS](#api----aws)
+- [Infra](#infra)
+- [Cloud is like electricity grid](#cloud-is-like-electricity-grid)
+
+<!-- /TOC -->
+
+> “AWS, particularly the original services like S3 and EC2, helped lift the entire technology industry out of a prolonged post-dot-com malaise.”
+
+
+### AWS 
+* Amazon was founded in 1995 (when I was 10) as an internet bookshop from the 90s
+* In 2003 they introduced Search Inside the Book — in order to do that they needed much power to run Software on scanned images. 
+* Amazon's infrastructure in 2005 was an aging, sprawling mess
+	
+### SOA
+* SOA stands for service-oriendted-architecture
+* every feature
+* every service
+* is an independent piece and can be easly updated and replaced without breaking the whole
+* bottleneck: hw/sw provisioning
+	
+### API --> AWS
+* they were really, really having problems at that time --> well this still does not tell us how AWS came to be, right, only who is Bill O Reily
+* plays a role here with Bill, asking for API to access Amazon's datapool
+* simultaneously mobile (ROB FREDERICK + COLIN BRYAR)
+	* allow websites to publish selectios from Amazon catalogu
+	* 3rd party devs another part of Amazon's "community" (customers and 3rd party sellers already onboard
+* this is the beginning, to create "plugs" that allow devs to enter the system, not to build the cloud
+	
+### Infra
+* they were provisioning already final "products"
+* instead - the refocus was on primitives, based on the book call Creation from the author of games Creatures - you just need primitives and their working relationship and push play and see what emerges fro the chaos
+
+* 2004 --> Head of Infra is moving to Cape Town, leaving Amazon
+    * don't leave, create an office there
+    * build a service that would allow a developer to run any application, regardless of its type, on our servers
+    * here, ec2 is norn ("he would love it to distraction")
+    * s3
+
+### Cloud is like electricity grid
+>The best analogy that I know is the electric grid,” Bezos said. “You go back in time a hundred years, if you wanted to have electricity, you had to build your own little electric power plant, and a lot of factories did this. As soon as the electric power grid came online, they dumped their electric power generator, and they started buying power off the grid. It just makes more sense. And that’s what is starting to happen with infrastructure computing.”
+
+— Excerpt From: Stone, Brad. “The Everything Store: Jeff Bezos and the Age of Amazon.” iBooks. 
