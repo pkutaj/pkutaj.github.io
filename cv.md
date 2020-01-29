@@ -104,6 +104,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Wordpress and Drupal theming
 * VBA Scripting and advanced Excel
 * Advanced  Chrome & Firefox Developer Tool Debugging
+* Atlassian Jira, Confluence
 * Zendesk and Zendesk guide hands-on experience
 * Fogbugz (ex-Manuscript) ticketing tool
 * Windows advanced debugging (Sysiternal Tools, mainly procmon)
