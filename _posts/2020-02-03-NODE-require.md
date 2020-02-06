@@ -65,6 +65,16 @@ const ui = require("./ui.js")
 module.exports.exchangeInput = createInputValues;
 ```
 
+* the example with exporting functions
+
+```js
+function curConverter(amountExchanged, exchangeRate) {
+    let finalResult = parseFloat(amountExchanged) * parseFloat(exchangeRate);
+    return finalResult.toFixed(2);
+}
+module.exports.curConverter = curConverter;
+```
+
 ### sources
 * [On JSDOC - JavaScript Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript#_jsdoc-support)
 * [Node.js: exports vs module.exports](https://www.hacksparrow.com/nodejs/exports-vs-module-exports.html)
