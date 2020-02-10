@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > on modules
+# title: PS > on modules
 ---
 ## the case	
 the question is, how to get overview of Powershell modules
@@ -52,3 +52,40 @@ Function        Disable-App                                        tmp_jldvvejd.
 Function        Disable-InboxRule                                  tmp_jldvvejd.mbo
 Function        Disable-SweepRule                                  tmp_jldvvejd.mbo
 ```
+
+### USE-CASE: importing a dll as a binary module and looking for a certain member within 
+* from the context of .NET troubleshooting / debugging
+
+#### STEP-1 IMPORT MODULE
+* use `dir` to import each one in a folder 
+* use `import-module` 
+
+```powershell
+foreach ($module in Get-Childitem $modulesFolder -Name -Filter "*.psm1")
+{
+    Import-Module $modulesFolder\$module
+}
+```
+
+#### STEP-2 SEARCH FOR A MEMBER
+
+CODE                                               | COMMENT
+---------------------------------------------------|------------------------------------------------------
+1. `(Get-Module...`                                | the main cmdlet grabbing the imported module
+2. `...Pivotal.Engine.Client.Services.Interfaces)` | the name of the module
+3. `ImplementingAssembly.DefinedTypes`             | the combinatino of methods that list the existing one
+
+```powershell
+(Get-Module Pivotal.Engine.Client.Services.Interfaces).ImplementingAssembly.DefinedTypes
+```
+
+* [ImplementingAssembly: Find PowerShell Classes in Modules - SAPIEN Information Center | SAPIEN Information Center](https://info.sapien.com/index.php/scripting/scripting-classes/implementingassembly-find-powershell-classes-in-modules)
+
+##### On ImplementingAssembly
+* ImplemetingAssembly is a property of the PSModuleInfo object that Get-Module returns. It was added in PowerShell 5.0.
+* The ImplementingAssembly property value is a System.Reflection.Emit.AssemblyBuilder object that represents a dynamic assembly. The AssemblyBuilder class is in the System.Reflection namespace, which contains types that get information about managed code by examining the code metadata; a bit like the PowerShell AST.
+* ImplementingAssembly is populated only for script modules and binary modules. It is null on manifest modules and it does not capture classes defined in nested modules.
+* ImplementingAssembly is also null until a module is imported into the session.
+
+#### STEP-3 REMOVE-MODULE
+* use `remove-module` to disconnect the omdule fro mthe current session

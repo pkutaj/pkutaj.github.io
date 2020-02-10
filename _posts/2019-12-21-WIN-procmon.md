@@ -17,7 +17,6 @@ title: WIN > The Magic of the Process Monitor Tool
     - [profiling](#profiling)
     - [hang processes](#hang-processes)
     - [registry tracing](#registry-tracing)
-        - [tactics identify the key when setting default printer](#tactics-identify-the-key-when-setting-default-printer)
     - [process tree](#process-tree)
 
 <!-- /TOC -->
@@ -81,17 +80,6 @@ for counting occurences inside of a certain columns       | **tools > count occu
     * tarhet sets PID ➔ needs to be refreshed as PID as PID changes with the new instance
 
 ![filter-registry-tracing]({{ site.url }}/assets/img000370.png)
-
-##### tactics identify the key when setting default printer
-* `ctrl-e` ➔ start capture
-* `ctrl-l` ➔ filter to Operation is `RegSetValue`
-* repeat steps 3 times
-* `ctrl-w` ➔ stop capture
-* `ctrl-f` ➔ to the name of the default printer
-* right-click on the match ➔ include 
-* validate by matching the count of matches to 3 repetitions
-* `ctrl-j` ➔ jump to the registry value
-* validate 
 
 #### process tree
 * `ctrl-t`
