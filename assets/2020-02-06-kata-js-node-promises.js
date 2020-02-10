@@ -41,7 +41,7 @@ function requestListener (req, res) {       //2. requestListener
     for(currency in todayRates){
       res.write(currency + ": " + todayRates[currency] + "\n")
     }
-    res.end('Hello, World!');
+    res.end();
   })
 }
 
