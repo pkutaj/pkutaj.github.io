@@ -54,7 +54,8 @@ class Input {
 ```
 
 ### STEP-3 getters
-* this is a query function, not changing the state of the system but returning an expression, possibly computed
+* this is a **query function**, not changing the state of the system but returning an expression, possibly computed
+    * see [michalorman.com/2015/03/commands-and-queries/](http://michalorman.com/2015/03/commands-and-queries/)
 * dynamic values cannot be set in constructor methods
 * getter method is used when accessing computed properties
 * the value of that property is not passed into the constructor, but it is returned by the function defined in the body of the getter
