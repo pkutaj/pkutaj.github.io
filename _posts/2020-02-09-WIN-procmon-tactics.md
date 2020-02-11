@@ -14,8 +14,8 @@ the question is, what are the commonly used tactic when using procmon to trouble
 - [TACTIC-4 The stack trace](#tactic-4-the-stack-trace)
 - [TACTIC-5 Before/After](#tactic-5-beforeafter)
 - [TACTIC-6 circular KISS](#tactic-6-circular-kiss)
-    - [TACTIC-7 the rule of 3](#tactic-7-the-rule-of-3)
-    - [TACTIC-8 the millisecond](#tactic-8-the-millisecond)
+- [TACTIC-7 the rule of 3](#tactic-7-the-rule-of-3)
+- [TACTIC-8 the millisecond](#tactic-8-the-millisecond)
 
 <!-- /TOC -->
 
@@ -60,12 +60,12 @@ the question is, what are the commonly used tactic when using procmon to trouble
 * logs with >100MB take too long for pattern recognition
 * so you start from the filtering to the problematic application and then keep removing filters
 
-#### TACTIC-7 the rule of 3
+### TACTIC-7 the rule of 3
 * And - you need an exact clock that would be recorded during the action
 * repeat actions 3 times which is good for the later pattern recognition
 * instead of zooming for just a single instance, look for 3 
 
-#### TACTIC-8 the millisecond
+### TACTIC-8 the millisecond
 * during the capture, go to [Current Millis ‐ Milliseconds since Unix Epoch](https://currentmillis.com/) and have that open on the side
 * locate the exact moment when you perform a testing step
 * convert the unix miliseccond to the day-time millisecond
