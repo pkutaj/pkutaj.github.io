@@ -45,7 +45,8 @@ dir -recurse -depth 2 -directory | oh -paging
 
 ### search-string w/ dir
 * just use `dir | sls "fooBar"` to get names of files with `fooBar` string in it
-* ![search string with dir | sls]({{ site.url }}/assets/img000130.png) 
+
+![dir_sls]({{ site.url }}/assets/img000130.png) 
 
 ### filter multiple strings with -include
 * `-Filter` only accepts a single string. 
