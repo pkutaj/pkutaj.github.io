@@ -54,4 +54,4 @@ for(i=0; i < arr.length - 2; i++){
 ```
 
 ### sources
-* [source_file]({{ site.url }}/assets/2019-11-18-DRAFT-KATA-2D-array.js)
+* [source_file]({{ site.url }}/assets/2019-11-18-KATA-2D-array.js)
