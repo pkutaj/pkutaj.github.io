@@ -39,13 +39,15 @@ A ➔ 0100 001
 * it was **impossible** to properly render different languages simultaneously (Hebrew, German, Russian)
 
 ### Unicode
-* Unicode is not just 16-bit code where each caracter takes 16 bits and there are 65,536 possible characters
+* Unicode is not just 16-bit code where each character takes 16 bits and there are 65,536 possible characters
 * Unicode is different way of thinking about characters
 * Unicode **does not** map characters to bits
 * Unicode maps characters to **code point** which is a theoretical concept
-* Code point is a number with syntax **U+xxxx**
+    * Code point is a unique number with syntax **U+xxxx** 
+    * Code point exists for every character in ever language
 * Numbers are hexadecimal
-* There is more than 65536 characters in unicode
+    * Example: The Unicode code point H is usually written as `U+0048` rather than `72` (to convert from hexadecimal to decimal: 4*16+8=72).
+* There is more than 65536 characters in unicode, currently arouna 110,000
 
 ```
 Hello ➔ U+0048 U+0065 U+006C U+006C U+006F
