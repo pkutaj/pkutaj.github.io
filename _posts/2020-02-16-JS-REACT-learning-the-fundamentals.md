@@ -179,7 +179,7 @@ ReactDOM.render(
 );
 ```
 
-![change_state_every_second]({{ site.url }}/assets/2020-02-10-02.gif)
+![change_state_every_second]({{ site.url }}/assets/2020-02-12-02.gif)
 
 ### STEP-5 REACT: JSX
 #### on JSX
@@ -367,11 +367,12 @@ CODE                                                                            
 ```
 
 #### STEP-8.3 replace the state settings of the constructor to the appropriate settings from getInitialProps()
+
 * assume `getInitialProps()` is works
 
 CODE                              | COMMENT
 ----------------------------------|-------------------------------------------------------------------------------------------
-1. ` constructor(props)`          | default, instantiates a new class component with properties passed into it to define state
+1. `constructor(props)`           | default, instantiates a new class component with properties passed into it to define state
 2. `super(props);`                | default, inherits props of `React.Component`
 3. `this.state = {`               | default, the opening statement for the state of a current class
 4. `hasErrored: props.hasErrored` | passed the data promise about the error-state
