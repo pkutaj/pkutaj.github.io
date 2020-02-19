@@ -146,7 +146,7 @@ aggregateInventory(inventoryRecords);
 ```
 
 ### Sources
-* ![source_code]({{ site.url }}/assets/2020-02-19-KATA-array-into-object.js)
+* [source_code]({{ site.url }}/assets/2020-02-19-KATA-array-into-object.js)
 * [Set - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 * [Set Theory: the Method To Database Madness - basecs - Medium](https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79)
 * [Object.prototype.propertyIsEnumerable() - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable)
