@@ -3,9 +3,9 @@ layout: post
 title: KATA > JS > Aggregate an inventory (array-of-objects key extraction and value aggregation)
 ---
 ## the case	
-* the question is, how to iterate and aggregate array-of-objects into a single object structure based on the `name` property
 * the example is utilizing printers but could be used on other sorts of inventories as well
 * the solution is actually the exercise of **for-loops** and **set-theory** (see sources)
+* the question is, how to iterate and aggregate array-of-objects into a single object structure based on the `name` property
 
 * Example array
 
