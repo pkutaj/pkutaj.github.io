@@ -1,18 +1,22 @@
 ---
 layout: page
 ---
+# Job Application for Customer Success Engineer
+
 ```
-Hello, dear Raisely Team! 
+Dear Raisely Team! 
 I am Pavol, your — hopefully — next Customer Success Engineer. 
 Therewith I would like to apply for the role. 
 Looking forward to hearing from you! 
 Thanks, 
+---
 Pavol
+pavol@kutaj.com
 ```
 
 ![pavol_portrait]({{ site.url }}/assets/ja.jpg)
 
-## toc
+## table of contents
 <!-- TOC -->
 
 - [about this application](#about-this-application)
@@ -28,8 +32,8 @@ Pavol
 ### about this application
 * This page is a part of my **daily work log**, which is a showcase of my 
     * work (Javascript, React-onboarding, passion for terminal/PowerShell, foundational CS, etc.)
-    * values (_the way is in training_, Musashi)
-    * commitments (_blog daily_, Seth Godin)
+    * minimalist style
+    * commitment to publish daily
 * The exact process of work-logging is being continuously described in [the first article written for this work log]({% post_url 2019-11-01-blog-from-vsc-via-github-pages %})
 
 ### why would you be a good fit: communication, engagement and technical aptitude
@@ -48,7 +52,7 @@ Pavol
 
 ### task selection: as near to dev as possible
 * I have made a table and mapped all of the tasks from [Customer Success Engineer - Tasks](https://gist.github.com/jamiemling/66ed83e1d0abc07290ca0c7a8dd81c31)
-* As a rule, the the nearer support engineering is to software engineering, the more I am excited about it
+* As a rule, the nearer support engineering is to software engineering, the more I am excited about it
 * Also, I do value [Knowledge Centered Support Methodology](https://www.thekcsacademy.net/kcs/) so writing documentation and creating screencaptures are essential pieces of work
 * Finally, I do prefer to handle difficult / VIP customers
 
