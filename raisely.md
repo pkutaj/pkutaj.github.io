@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Job Application for Customer Success Engineer
-
 ```
 Dear Raisely Team! 
 I am Pavol, your — hopefully — next Customer Success Engineer. 
