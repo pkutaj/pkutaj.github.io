@@ -1,4 +1,8 @@
-# THE CASE OF CASE SWITCHING
+---
+layout: post
+title: JS > Case switching
+---
+
 ## the case	
 the puzzle is, how and why to do the case switching in the logic of files
 
