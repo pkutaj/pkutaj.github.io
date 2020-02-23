@@ -58,6 +58,6 @@ compareTriplets(allScoresPersonA, allScoresPersonB)
 
 ### sources
 * [source_code]({{ site.url }}/assets/2020-02-23-DRAFT-KATA-compare-triplets.js)
-* [for each...in - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for_each...in)
-* [for...of - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+* [for each...in - JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for_each...in)
+* [for...of - JavaScript — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 * [Ternary Operators In JavaScript - DEV Community](https://dev.to/iandavid/ternary-operators-in-javascript-4inl)
