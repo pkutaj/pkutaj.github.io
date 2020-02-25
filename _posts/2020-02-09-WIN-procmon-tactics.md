@@ -16,6 +16,7 @@ the question is, what are the commonly used tactic when using procmon to trouble
 - [TACTIC-6 circular KISS](#tactic-6-circular-kiss)
 - [TACTIC-7 the rule of 3](#tactic-7-the-rule-of-3)
 - [TACTIC-8 the millisecond](#tactic-8-the-millisecond)
+- [TACTIC-9 the second lookaround](#tactic-9-the-second-lookaround)
 
 <!-- /TOC -->
 
@@ -66,8 +67,31 @@ the question is, what are the commonly used tactic when using procmon to trouble
 * instead of zooming for just a single instance, look for 3 
 
 ### TACTIC-8 the millisecond
-* during the capture, go to [Current Millis ‐ Milliseconds since Unix Epoch](https://currentmillis.com/) and have that open on the side
+* before the capture, go to [Current Millis ‐ Milliseconds since Unix Epoch](https://currentmillis.com/) and have that open on the side
+* record the capture with a screen recorder such as [ShareX](https://getsharex.com/)
 * locate the exact moment when you perform a testing step
-* convert the unix miliseccond to the day-time millisecond
-    * write yourself a powershell function in the profile for this
-* filter everything in the perimeter of 0.5s or so and look
+* convert the unix miliseccond to the day-time millisecond with passing the value into the following function
+
+```powershell
+function getMillis {
+    param (
+        $unixTimeStamp
+    )
+    $epochStart = Get-Date 01.01.1970 
+    $millisStamp = ($epochStart + ([System.TimeSpan]::frommilliseconds($unixTimeStamp))).ToLocalTime().ToString("HH:mm:ss.ffffff")
+    $millisStamp | clip
+    write-host $millisStamp copied to the clipboard -ForegroundColor Cyan
+    
+}
+```
+
+* use VLC player and scroll with **next frame** with hotkey `e` 
+    * [How to Go Frame by Frame in VLC](https://www.vlchelp.com/frame-stepping/)
+
+### TACTIC-9 the second
+* if you know when the action happened, filter everything 
+    * 1 second before
+    * 1 second after
+1. use **The millisecond** approach to map the action to the ms
+
+![1_second_perspective]({{ site.url }}/assets/img000519.png)

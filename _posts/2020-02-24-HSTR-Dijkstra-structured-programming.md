@@ -14,6 +14,7 @@ the question is the birth of the structured programming paragidm, as presended b
 
 - [(1968): Go-To considered harmful](#1968-go-to-considered-harmful)
 - [Why harmful?](#why-harmful)
+- [xkcd explanation](#xkcd-explanation)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -50,6 +51,12 @@ the question is the birth of the structured programming paragidm, as presended b
 * what do we have? not mathematics, but another branch of knowledge — **science**
 * science cannot be proven correct, only false (Karl Popper's Logic of scientific inquiry)
 * software is like science, not proven it correct we are surrounding with so many tests that prove that it's not false yet, not failing
+
+### xkcd explanation
+* great thanks to <https://stackoverflow.com/a/46789/11082684> for this
+
+![velociraptors prey on the week]({{ site.url }}/assets/img000516.png)
+
 
 ### sources
 * [uncle bob presentation of the origins of structured programming](https://youtu.be/SVRiktFlWxI?t=7561)

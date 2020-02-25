@@ -1,13 +1,13 @@
 ---
 layout: post
-title: WIN > Windows Utilities Cheat-Sheet
-last_modified_at: 
+title: WIN > utilities cheat-sheet
 ---
 
 NAME         | DESCRIPTION
 -------------|--------------------------------------
 appwiz.cpl   | Control Panel ➔ Programs and Features
 control      | Control Panel
+certmgr.msc  | Certificate Manager
 dcomcnfg     | Component Services
 explorer     | File Explorer
 taskmgr      | Task Manager
