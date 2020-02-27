@@ -17,12 +17,12 @@ the question is how classes carry attributes with fields and properties and what
 
 ## findings
 ### fields and properties
-* both belong to the group of 14 member types in the language
-* fields are variables — declared in a class
-* properties are methods — similar to fields in that they
-    * can encapsulate state
-    * can store data for an object
-    * they are accessed **as-if** they were the fields of the class
+* both belong to the group of **14 member types** in the language
+* fields are **variables** — declared in a class
+* properties are **methods** — similar to fields in that they:
+    1. can encapsulate state
+    2. can store data for an object
+    3. they are accessed **as-if** they were the fields of the class
 * different syntax than fields
 * **more powerful** features than fields
 
@@ -51,27 +51,27 @@ CODE                     | COMMENT
 9. `name = value`        | the implicit variable `value` is assigned to the field `name`
 
 ```c#
-    public string Name          // 1. – 4.
+    public string Name          // 1. – 5.
         {                        
-            get                 // 5.
+            get                 // 6.
             {
-                return name;    // 6. 
+                return name;    // 7. 
             }
 
-               set              // 7. 
+               set              // 8. 
             {                   
-                name = value;   // 8. 
+                name = value;   // 9. 
             }
         }
     
-    private string name;        // 9. 
+    private string name;        
 ```
 
 ### properties shorthand 
 * in more current releases of c#, there is a shorthand form for creating properties
     * this is called auto-implemented property
-    * used when `get` and `set` accessor methods do no other operation than retrieve and define a value of a private backing field
-    * it is similar to public field, but there are few places where it differs (serialization, reflextion)
+    * used when `get` and `set` accessor methods do no other operation than retrieve and define a value (read/write) of a private backing field
+    * it is **similar but not identical to public field**, but there are few places where it differs (serialization, reflextion)
     * the main difference to a public field is that you can apply differnt access modifiers to `get` and `set` 
 
 CODE                    | COMMENT
