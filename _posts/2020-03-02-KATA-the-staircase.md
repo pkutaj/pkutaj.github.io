@@ -62,6 +62,8 @@ function (4, #)
 return ####
 ```
 
+* you can paste any of the recursive function to visualize the stack-building of the recursive function on [the loupe](http://latentflip.com/loupe/)
+
 
 
 ### HYPO: split the parameter, use a helper function
