@@ -21,18 +21,18 @@ Pavol
     - [IP Address of a Web Server: On DNS Failover and CDNs](#ip-address-of-a-web-server-on-dns-failover-and-cdns)
     - [Mails, MX Records and Preference Number: GOOGLE](#mails-mx-records-and-preference-number-google)
 - [(2) SSL](#2-ssl)
-    - [Issuer](#issuer)
-    - [Expiration](#expiration)
-    - [Validity for subdomains](#validity-for-subdomains)
-    - [Compare certificates](#compare-certificates)
+    - [Issuer: AMAZON](#issuer-amazon)
+    - [Expiration: FEBRUARY 7, 2021](#expiration-february-7-2021)
+    - [Validity for subdomains: VALID](#validity-for-subdomains-valid)
+    - [Compare certificates: NOT THE SAME](#compare-certificates-not-the-same)
 - [(3) SQL](#3-sql)
     - [case 1: COUNT](#case-1-count)
     - [case 2: JOIN](#case-2-join)
     - [case 3: SELECT * INTO /  INSERT INTO](#case-3-select--into---insert-into)
-- [(4) Scripting](#4-scripting)
-- [(5) JSON](#5-json)
+- [(4) Scripting: GIT BASH + CURL + JQ](#4-scripting-git-bash--curl--jq)
+- [(5) JSON: 7 ERRORS](#5-json-7-errors)
     - [Correction](#correction)
-    - [Validation](#validation)
+    - [Validation: GET-CONTENT FOO.JSON | CONVERTFROM-JSON](#validation-get-content-foojson--convertfrom-json)
 - [(6) WEB](#6-web)
 
 <!-- /TOC -->
@@ -129,21 +129,21 @@ QueryType Exchange                NameExchange            Preference Name       
 * the case is documented in
 
 ### (2) SSL
-#### Issuer
+#### Issuer: AMAZON
 > Who issued SSL certificate installed for **https://snowplowanalytics.com?**
 
 * The certificate for this TLS 1.2 encrypted site was issued by **AMAZON**
 
 ![amazon_as_certificate_issuer]({{ site.url }}/assets/img000557.png)
 
-#### Expiration
+#### Expiration: FEBRUARY 7, 2021
 > When does the certificate expire?
 
 * The certificate issued for **https://snowplowanalytics.com** will expire on **FEBRUARY 7, 2021**
 
 ![expiration_of_certificate]({{ site.url }}/assets/img000558.png)
 
-#### Validity for subdomains
+#### Validity for subdomains: VALID
 >Is the certificate valid if installed for the website **https://discourse.snowplowanalytics.com?** Why?
 
 * The certificate issued by Amazon is a **WILDCARD CERTIFICATE** issued for `*.snowplowanalytics.com`
@@ -153,7 +153,7 @@ QueryType Exchange                NameExchange            Preference Name       
 
 * The answer is, therefore, **YES**, if installed for the website <https://discourse.snowplowanalytics.com>, the certificate would be **VALID**
 
-#### Compare certificates
+#### Compare certificates: NOT THE SAME
 >Are the certificates installed with **https://snowplowanalytics.com** and **https://discourse.snowplowanalytics.com** the same?
 
 * The certificates are **NOT THE SAME**
@@ -222,7 +222,7 @@ SELECT *
 WHERE timestamp = '2017-10-05 00:11:54';
 ```
 
-### (4) Scripting
+### (4) Scripting: GIT BASH + CURL + JQ
 > The data in JSON format is available via URI **http://jsonplaceholder.typicode.com/** users. Using one of the scripting languages below print out the list of the cities: bash, Python, Ruby, Perl
 
 * I would use **GIT BASH** (as I am a Windows/Powershell guy using git on an hourly basis).
@@ -245,7 +245,7 @@ echo $json | jq '.[].address.city'
 # "Lebsackbury"
 ```
 
-### (5) JSON
+### (5) JSON: 7 ERRORS
 #### Correction
 > Fix the below JSON. List each correction.
 
@@ -305,7 +305,7 @@ echo $json | jq '.[].address.city'
                                 //7. redundant curly bracket  removed
 ```
 
-#### Validation
+#### Validation: GET-CONTENT FOO.JSON | CONVERTFROM-JSON
 * To validate, I am parsing that fixed JSON with Powershell’s `ConvertFrom-Json` cmdlet. 
     * Note I need to use `Get-Content` to access the resource from the file system
 * Passing an incorrect `.json` returns a first error the parser encounters and thus the test **FAILS**
