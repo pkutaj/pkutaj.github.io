@@ -31,7 +31,7 @@ Pavol
 - [(4) Scripting: GIT BASH + CURL + JQ](#4-scripting-git-bash--curl--jq)
 - [(5) JSON: 7 ERRORS](#5-json-7-errors)
     - [Correction](#correction)
-    - [Validation: GET-CONTENT FOO.JSON | CONVERTFROM-JSON](#validation-get-content-foojson--convertfrom-json)
+    - [Validation: Powershell's ConvertFrom-Json](#validation-powershells-convertfrom-json)
 - [(6) WEB](#6-web)
 
 <!-- /TOC -->
@@ -304,7 +304,7 @@ echo $json | jq '.[].address.city'
                                 //7. redundant curly bracket  removed
 ```
 
-#### Validation: GET-CONTENT FOO.JSON | CONVERTFROM-JSON
+#### Validation: Powershell's ConvertFrom-Json
 * To validate, I am parsing that fixed JSON with Powershell’s `ConvertFrom-Json` cmdlet. 
     * Note I need to use `Get-Content` to access the resource from the file system
 * Passing an incorrect `.json` returns a first error the parser encounters and thus the test **FAILS**
