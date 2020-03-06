@@ -9,7 +9,7 @@ Looking forward to hearing from you!
 
 Thanks,  
 Pavol  
-[pavol@kutaj.com](pavol@kutaj.com)
+[pavol@kutaj.com](mailto:pavol@kutaj.com)
 
 
 ## contents
@@ -103,7 +103,7 @@ snowplowanalytics.com                          A      60    Answer     143.204.1
 snowplowanalytics.com                          A      60    Answer     143.204.101.13
 ```
 
-* if you navigate to [Global DNS Propagation Checker for snowplowanalytics.com A records](https://www.gdnspc.com/#A&snowplowanalytics.com), you will find that AWS provides that set of 4 IP addresses per zone
+* if you navigate to [Global DNS Propagation Checker for snowplowanalytics.com A records](https://www.gdnspc.com/#A&snowplowanalytics.com), you will find that AWS provides the set of 4 IP addresses per zone
 
 ![snowplow_global_dns_check]({{ site.url }}/assets/2020-03-03-high-availability-CDN.gif)
 
