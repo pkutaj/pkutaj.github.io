@@ -1,15 +1,12 @@
 ---
 layout: page
 ---
-## Dear Raisely Team! 
 
-
-I am Pavol, your — hopefully — next Customer Success Engineer. 
+I am Pavol, your — hopefully — next Customer Success Engineer.  
 Therewith I would like to apply for the role. 
 
-Looking forward to hearing from you! 
-Thanks, 
----
+Looking forward to hearing from you!  
+Thanks,  
 Pavol
 [pavol@kutaj.com](pavol@kutaj.com)
 

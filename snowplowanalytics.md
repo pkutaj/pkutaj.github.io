@@ -2,7 +2,6 @@
 layout: page
 ---
 
-## SUPPORT ENGINEER TECHNICAL TEST
 Dear friends at Snowplowanalytics, 
 
 please find the solution to the Support Engineer Technical Test below.  
