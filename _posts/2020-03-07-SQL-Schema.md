@@ -13,11 +13,11 @@ the question is, what is **SCHEMA** in the context of SQL server
 <!-- /TOC -->
 
 ## findings
-* A Schema is a  **logicall group of tables, procedures, views**. 
+* A Schema is a  **logical group of tables, procedures, views**. 
     * E.g. all employee-related objects in the employee schema
 * Introduced in SQL 2005
 * Tt's like a sub-structure outlining a relationship between tables in a DB
-* The syntax is therefore `[DATABASE].[SCHEMA].[TABLE].[COLUMN]`
+* The syntax is, therefore `[DATABASE].[SCHEMA].[TABLE].[COLUMN]`
 * associated with a username, with a **SCHEMA OWNER**
 * belonging to 1 database (many-1 relationship)
 * there are default schemas, usually `dbo`
@@ -30,3 +30,5 @@ the question is, what is **SCHEMA** in the context of SQL server
 
 ### sources
 * [What good are SQL Server schemas? - Stack Overflow](https://stackoverflow.com/questions/529142/what-good-are-sql-server-schemas)
+
+
