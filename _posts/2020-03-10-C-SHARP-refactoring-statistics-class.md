@@ -11,10 +11,10 @@ title: C# > refactoring a method by extracting it into its own class
 
 - [the situation](#the-situation)
 - [STEP-1 extract inits into constructor](#step-1-extract-inits-into-constructor)
-- [STEP-2 add number into the stats class](#step-2-add-number-into-the-stats-class)
+- [STEP-2 add a number into the stats class](#step-2-add-a-number-into-the-stats-class)
 - [STEP-3 the question of average](#step-3-the-question-of-average)
 - [STEP-4 get max and min of entered grades](#step-4-get-max-and-min-of-entered-grades)
-- [STEP-5 move letter grade into statistics class](#step-5-move-letter-grade-into-statistics-class)
+- [STEP-5 move letter grade into a statistics class](#step-5-move-letter-grade-into-a-statistics-class)
 - [STEP-6 final result](#step-6-final-result)
 
 <!-- /TOC -->
@@ -41,7 +41,7 @@ title: C# > refactoring a method by extracting it into its own class
 ```
 
 * The abstract method `public abstract Stats GetStats();` is **REQUIRED** to be implemented by children of the `Book`
-* The `InMemoryBook` already has an implementation of that clsss, while `DiskBook` was added only recently
+* The `InMemoryBook` already has an implementation of that class, while `DiskBook` was added only recently
 
 ![method_to_be_refactored]({{ site.url }}/assets/2020-01-17-method-for-refactoring.gif)
 
@@ -61,7 +61,7 @@ public class DiskBook : Book
 ```
 
 * But we need a particular implementation of this method in order to achieve writing of the results to the disk
-* Copy-Paste from a sibling is a no-go (dry code, not spagetti code), we need a **single unambigous representation** of the `GetStats()`
+* Copy-Paste from a sibling is a no-go (dry code, not spaghetti code), we need a **single unambiguous representation** of the `GetStats()`
 * we need to extract the code from `InMemoryBook` into a separate unrelated class with reusable members
 
 ### STEP-1 extract inits into constructor
@@ -69,7 +69,7 @@ public class DiskBook : Book
 ![extract_inits_into_constructor]({{ site.url }}/assets/2020-01-17-extract-inits-into-constructor.gif)
 
 
-### STEP-2 add number into the stats class
+### STEP-2 add a number into the stats class
 
 CODE                                     | COMMENT
 -----------------------------------------|------------------------------------------------------------------------------------------
@@ -127,7 +127,7 @@ namespace GradeBook
 CODE                               | COMMENT
 -----------------------------------|-------------------------------------------------------------------------------------------------
 `public double AverageGrade`       | properties are not parametrized
-`get`                              | getter method is explicitelly defined; there is **no setter**; the property is read-only
+`get`                              | getter method is explicitly defined; there is **no setter**; the property is read-only
 `return runningSum / gradesCount;` | the getter method divides the `runningSum` and `gradesCount` of the moment to produce an average
 
 ```c#
@@ -201,7 +201,7 @@ namespace GradeBook
         }
 ```
 
-### STEP-5 move letter grade into statistics class
+### STEP-5 move letter grade into a statistics class
 * compute the letter grade upon invoking the property
 * the value of the property does not exist before the call
 * there is another **FORMULA** ran, in PS this is also called **CALCULATED PROPERTY**
