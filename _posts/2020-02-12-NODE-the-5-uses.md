@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > NODE > The 5 typical uses of Node
+title: JavaScript > NODE > The 5 typical uses of Node
 ---
 
 ## the case	

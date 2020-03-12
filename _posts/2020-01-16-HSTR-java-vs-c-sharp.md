@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > The Birth of Java as a marketing ploy (podcast notes) ? 
+title: History > The Birth of Java as a marketing ploy (podcast notes) ? 
 ---
 ## the case	
 the question is the situation out of which Java (and eventually, C#, and, even if only etymologically — JavaScript) was born in the early 1990s. 

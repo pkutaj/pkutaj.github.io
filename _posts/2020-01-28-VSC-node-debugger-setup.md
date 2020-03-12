@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSC > Node.js Debugger 
+title: Visual Studio Code > Node.js Debugger 
 ---
 ## the case	
 the question is, how to setup node.js debugger in my way of using the Visual Studio Code.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > template for classes (CCSG)
+title: JavaScript > template for classes (CCSG)
 ---
 ## the case	
 the question is, how to create a barebone class in JavaScript

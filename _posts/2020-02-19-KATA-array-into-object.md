@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > JS > Aggregate an inventory (array-of-objects key extraction and value aggregation)
+title: KATA > JavaScript > Aggregate an inventory (array-of-objects key extraction and value aggregation)
 ---
 ## the case	
 * the example is utilizing printers but could be used on other sorts of inventories as well

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > DOM > SELECT element
+title: JavaScript > DOM > SELECT element
 ---
 ## the case
 * what if there are elements without an id

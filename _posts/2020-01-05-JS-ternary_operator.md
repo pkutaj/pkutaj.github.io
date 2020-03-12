@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > The neglected ellegance of ternary operators
+title: JavaScript > The neglected ellegance of ternary operators
 ---
 
 ## the case	

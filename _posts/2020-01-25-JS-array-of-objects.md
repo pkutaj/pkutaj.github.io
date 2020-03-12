@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > array of objects, array of arrays
+title: JavaScript > array of objects, array of arrays
 ---
 ## the case	
 what is the difference between array of arrays and array of objects ?

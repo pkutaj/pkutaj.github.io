@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > agility and architecture (podcast notes)
+title: Programming > agility and architecture (podcast notes)
 ---
 ## the case	
 the question is, what is Uncle Bob's take on the history of the architecture and design within the software engineering

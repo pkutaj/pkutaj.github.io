@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > on sessions
+title: PowerShell > on sessions
 ---
 ## the case	
 the question is, how to setup and dispose a PS session

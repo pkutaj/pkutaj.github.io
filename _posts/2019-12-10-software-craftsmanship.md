@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > Software Craftsmanship (podcast notes)
+title: Programming > Software Craftsmanship (podcast notes)
 last_modified_at: 2019-12-11
 ---
 ## the case	

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > Self-Signed Certificate
+title: PowerShell > Self-Signed Certificate
 ---
 ## the case	
 the exercise is to have a working script that create self-signed certificate protected by a password, exported to the desktop

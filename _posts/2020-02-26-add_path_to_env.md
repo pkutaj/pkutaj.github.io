@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > update path environmental variables on the fly
+title: PowerShell > update path environmental variables on the fly
 ---
 ## the case	
 the question is, how to update enviromental variables with this script that it going to be put in the script folder to be called immediatelly from the console

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > On Edsger Dijkstra and Structured Programming
+title: History > On Edsger Dijkstra and Structured Programming
 ---
 ## the case	
 the question is the birth of the structured programming paragidm, as presended by [uncle bob](https://youtu.be/SVRiktFlWxI?t=7561)

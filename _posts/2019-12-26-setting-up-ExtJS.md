@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ExtJS > Hello World, this is a dying framework
+title: ExtJavaScript > Hello World, this is a dying framework
 ---
 ## the case
 the puzzle is, how to quickly setup the webapp with ExtJS, which seems to be vanishing (compared to angular or react) but still seems to be used in many enterprises as a library used for browser-based applications

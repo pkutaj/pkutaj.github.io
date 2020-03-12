@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > setting permissons to a folder + ascii art 
+title: PowerShell > setting permissons to a folder + ascii art 
 ---
 ## the case	
 The puzzle is how to make a Powershell intriguing utility by the use of ’spices’ (which is, for better or for worse 'ornaments') and to make the input elegant by using the built-in mandatory function feature that is robust enough as to prompt the user for the input without any extra code. That means we have to use semantic bindings. The illustrative function is to set permissions (set-acl cmdlet) to a folder via assigning there an AD security group. The domain is looked-up automatically.

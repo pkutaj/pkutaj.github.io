@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > Case switching
+title: JavaScript > Case switching
 ---
 
 ## the case	

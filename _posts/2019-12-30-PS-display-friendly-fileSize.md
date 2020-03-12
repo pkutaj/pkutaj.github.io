@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > friendly filesizes
+title: PowerShell > friendly filesizes
 ---
 
 ## the case	

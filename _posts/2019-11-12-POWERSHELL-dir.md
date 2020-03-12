@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > The Tricks with dir (set-location)
+title: PowerShell > The Tricks with dir (set-location)
 last_modified_at: 
 ---
 ## the case	

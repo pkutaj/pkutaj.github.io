@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > JS > Sum of Array with template literals and proper type-setting
+title: KATA > JavaScript > Sum of Array with template literals and proper type-setting
 ---
 
 ## the case	

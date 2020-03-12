@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ExtJS > JS objects and design patterns (singleton, iife)
+title: ExtJavaScript > JS objects and design patterns (singleton, iife)
 last_modified_at: 
 ---
 

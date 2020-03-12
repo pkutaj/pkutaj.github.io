@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > JS > 2D-Array
+title: KATA > JavaScript > 2D-Array
 ---
 ## the case	
 * the question is, what given a 6 x 6 2D array `arr` to write the function that prints the  hourglass-shapes

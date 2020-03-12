@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > On Functions
+title: JavaScript > On Functions
 ---
 ## the case
 Ecmascript2015 came with a new way of writing functions

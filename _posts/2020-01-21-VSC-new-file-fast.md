@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSC > Extract selection into a newfile
+title: Visual Studio Code > Extract selection into a newfile
 ---
 ## the case	
 the question is, how to spin off a new file from the selection of text

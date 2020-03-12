@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > Windows Versioning
+title: Windows > Windows Versioning
 ---
 ## the case	
 the question is how is the windows versioning changing

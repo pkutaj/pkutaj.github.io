@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > Microprocessors and Gary Kildall
+title: History > Microprocessors and Gary Kildall
 last_modified_at: 
 ---
 ## the case	

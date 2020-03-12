@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > Disable Outlook Plugin (rough script)
+title: PowerShell > Disable Outlook Plugin (rough script)
 ---
 ## case
 The question is how to temporarily change the value of `Loadbehavior` key of an Outlook plugin, temporarily disabling for particular scenarios. This example is for Dynamics CRM

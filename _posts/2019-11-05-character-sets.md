@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > ASCII, UTF-8, Unicode, character sets and CP850
+title: Programming > ASCII, UTF-8, Unicode, character sets and CP850
 ---
 
 ## toc

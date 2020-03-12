@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > JS > Age in seconds
+title: KATA > JavaScript > Age in seconds
 ---
 ## the case	
 the question (of my son) is, how old are you in seconds
@@ -79,7 +79,7 @@ setInterval(function(){console.log(ageInSeconds(birthSecondAlex))}, 1000);
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1,
       shrink-to-fit=no">
-  <title>JS > KATA > Age In Seconds</title>
+  <title>JavaScript > KATA > Age In Seconds</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
@@ -131,7 +131,7 @@ setInterval( () => {document.getElementById("ageToPopulation").innerHTML = ageTo
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1,
       shrink-to-fit=no">
-  <title>JS > KATA > Age In Seconds</title>
+  <title>JavaScript > KATA > Age In Seconds</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <!-- <link rel="stylesheet" href="style.css"> -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"

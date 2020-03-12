@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EXTRACT > CS > The payload concept 
+title: EXTRACT > Programming > The payload concept 
 ---
 ## the case	
 The question is, what are we talking about when talk about payload in networking and programming.

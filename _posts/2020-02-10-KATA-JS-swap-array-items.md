@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > JS > swap array items
+title: KATA > JavaScript > swap array items
 ---
 ## the case	
 * the question is, how to swap the items of array. for example:

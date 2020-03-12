@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > DSSD pattern ➔ dir | sort | select | % {do}
+title: PowerShell > DSSD pattern ➔ dir | sort | select | % {do}
 ---
 ## the case	
 the question, in particular, was how to copy only those 5 items that were just downloaded, but there seems to be a pattern for further use. I named it `DSSD`, a symetrical acronym should be memorable 
@@ -33,5 +33,5 @@ VERBOSE: Performing the operation "Copy File" on target "Item: C:\Users\Admin\Do
 ```
 ## sources
 * [Copying files based on last write time: help a PowerShell newbie](https://social.technet.microsoft.com/Forums/scriptcenter/en-US/cf81ddf2-7b74-4599-9e04-572469dfc65d/copying-files-based-on-last-write-time-help-a-powershell-newbie?forum=ITCG)
-* [PS > The Tricks with dir (set-location)]({{ site.url }}/2019/11/12/POWERSHELL-dir.html)
+* [PowerShell > The Tricks with dir (set-location)]({{ site.url }}/2019/11/12/POWERSHELL-dir.html)
 

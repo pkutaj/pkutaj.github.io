@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > Essentials of Com
+title: Windows > Essentials of Com
 last_modified_at: 
 ---
 ## the case	

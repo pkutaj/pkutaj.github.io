@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > template literals
+title: JavaScript > template literals
 ---
 ## the case
 * there are several kind of literals (how values are represented, written directly in source_code)

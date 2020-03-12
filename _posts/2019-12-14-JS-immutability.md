@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > immutability
+title: JavaScript > immutability
 ---
 ## the case	
 The question is the simple demonstration of the string immutability (leave numbers assige) that is a built-in feature of JS

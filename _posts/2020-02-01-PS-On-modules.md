@@ -1,6 +1,6 @@
 ---
 layout: post
-# title: PS > on modules
+# title: PowerShell > on modules
 ---
 ## the case	
 the question is, how to get overview of Powershell modules

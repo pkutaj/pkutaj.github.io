@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > On Handles
+title: Windows > On Handles
 ---
 ## the case	
 the question is, what are the handles and objects in windows

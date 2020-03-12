@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > global, SML, DOM 
+title: JavaScript > global, SML, DOM 
 ---
 ## the case
 the question is, how to conceptualize the global scope within JS / browser environment with the creation of the essential method of programming (SML, i.e. Select, Manipulate, Listen). And what is the role of Document Object Model ? 

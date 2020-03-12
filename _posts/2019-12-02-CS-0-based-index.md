@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > On 0-Based Indexing
+title: Programming > On 0-Based Indexing
 last_modified_at: 
 ---
 

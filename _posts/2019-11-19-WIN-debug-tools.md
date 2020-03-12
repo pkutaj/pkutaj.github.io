@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > debugging tools for windows (NTSD)
+title: Windows > debugging tools for windows (NTSD)
 ---
 ## toc
 <!-- TOC -->

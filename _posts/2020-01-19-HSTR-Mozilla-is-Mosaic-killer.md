@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > Mozilla is Mosaic Godzilla (the killer of Mosaic browser)
+title: History > Mozilla is Mosaic Godzilla (the killer of Mosaic browser)
 ---
 ## the case	
 * I have overheard the phrase that Mozilla means as Mosaic Godzilla, i.e. Mosaic Killer. What is this Mosaic and why was it necessary to destroy?  

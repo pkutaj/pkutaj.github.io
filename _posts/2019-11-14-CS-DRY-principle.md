@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > DRY principle
+title: Programming > DRY principle
 ---
 ## the case	
 * what is the DRY and that are the design smells

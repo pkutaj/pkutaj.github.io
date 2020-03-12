@@ -1,7 +1,8 @@
 ---
 layout: post
-title: PS > terminate all running applications (flush!)
+title: PowerShell > terminate all running applications (flush!)
 ---
+
 ## the case	
 * the question is, how to quit all running applications
     * with the help of a batch file

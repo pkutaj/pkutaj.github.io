@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > PROCMON > Zooming down to milliseconds
+title: PowerShell > PROCMON > Zooming down to milliseconds
 ---
 
 ## the case	

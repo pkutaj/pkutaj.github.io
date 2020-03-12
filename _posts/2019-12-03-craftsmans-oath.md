@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > Craftsman Oath (lecture notes)
+title: Programming > Craftsman Oath (lecture notes)
 ---
 
 ## THE CASE	

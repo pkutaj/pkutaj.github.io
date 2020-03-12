@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS > How to write amazing functions (podcast notes)
+title: Programming > How to write amazing functions (podcast notes)
 last_modified_at: 
 ---
 ## the case	

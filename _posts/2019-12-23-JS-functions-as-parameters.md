@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > Functions as Parameters
+title: JavaScript > Functions as Parameters
 ---
 ## the case	
 * Historically, JS was created to listen for events and respond to them ! 

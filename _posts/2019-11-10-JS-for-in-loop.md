@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > for-in loop
+title: JavaScript > for-in loop
 ---
 ## the case	
 the question is the basic syntax and use of **the for-in loop** when working with JS objects

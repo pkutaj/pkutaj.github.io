@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > The late 90s, DOM born out of WAR (browser war 1)
+title: History > The late 90s, DOM born out of WAR (browser war 1)
 ---
 * The DOM started amids the first browser WAR. 
 * this was called DOM level-0. 

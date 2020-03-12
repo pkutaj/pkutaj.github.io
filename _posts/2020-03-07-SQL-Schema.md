@@ -30,5 +30,3 @@ the question is, what is **SCHEMA** in the context of SQL server
 
 ### sources
 * [What good are SQL Server schemas? - Stack Overflow](https://stackoverflow.com/questions/529142/what-good-are-sql-server-schemas)
-
-

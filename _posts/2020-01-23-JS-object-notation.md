@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > dot vs bracket notation
+title: JavaScript > dot vs bracket notation
 ---
 ## the case
 the question is the difference between dot and bracket object notation in JS

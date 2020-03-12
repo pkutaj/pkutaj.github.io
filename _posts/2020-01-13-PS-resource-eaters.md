@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > CPU and RAM resource eaters
+title: PowerShell > CPU and RAM resource eaters
 last_modified_at: 
 ---
 ## the case	

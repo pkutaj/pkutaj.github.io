@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > The Magic of the Process Monitor Tool
+title: Windows > The Magic of the Process Monitor Tool
 
 ---
 > when something breaks in windows, run process monitor

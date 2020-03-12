@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS > REACT > NEXT > Get me today's EUR rates, server-side, please
+title: JavaScript > REACT > NEXT > Get me today's EUR rates, server-side, please
 ---
 
 ## the case	

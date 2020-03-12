@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KATA > CS > JS > Compare triplets, nested ternaries hands-on
+title: KATA > Programming > JavaScript > Compare triplets, nested ternaries hands-on
 ---
 ## the case	
 * the question is, given two arrays of triplets, we should compare the respectie indices and create a new array that should sum the score

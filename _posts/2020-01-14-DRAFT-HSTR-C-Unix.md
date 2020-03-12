@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > K&R (The C Book)
+title: History > K&R (The C Book)
 ---
 <!-- TOC -->
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > copy current path with single command
+title: PowerShell > copy current path with single command
 last_modified_at: 
 ---
 ## the case	

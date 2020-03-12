@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > Procmon Tactics
+title: Windows > Procmon Tactics
 ---
 ## the case	
 the question is, what are the commonly used tactic when using procmon to troubleshoot, mostly hangs and crashes but also other issues
@@ -9,14 +9,13 @@ the question is, what are the commonly used tactic when using procmon to trouble
 <!-- TOC -->
 
 - [TACTIC-1 The Duration Check](#tactic-1-the-duration-check)
-- [TACTIC-2 Repetition Pattern](#tactic-2-repetition-pattern)
+- [TACTIC-2 The Rule of 3](#tactic-2-the-rule-of-3)
 - [TACTIC-3 Count Results!](#tactic-3-count-results)
 - [TACTIC-4 The stack trace](#tactic-4-the-stack-trace)
 - [TACTIC-5 Before/After](#tactic-5-beforeafter)
 - [TACTIC-6 circular KISS](#tactic-6-circular-kiss)
-- [TACTIC-7 the rule of 3](#tactic-7-the-rule-of-3)
-- [TACTIC-8 the millisecond](#tactic-8-the-millisecond)
-- [TACTIC-9 the second lookaround](#tactic-9-the-second-lookaround)
+- [TACTIC-7 the millisecond](#tactic-7-the-millisecond)
+- [TACTIC-8 the second](#tactic-8-the-second)
 
 <!-- /TOC -->
 
@@ -29,7 +28,7 @@ the question is, what are the commonly used tactic when using procmon to trouble
 * Add duration column
 * Highlight duration > 1 second OR filter duration > 1 second
 
-### TACTIC-2 Repetition Pattern
+### TACTIC-2 The Rule of 3
 * `ctrl-e` ➔ start capture
 * `ctrl-l` ➔ filter to Operation is `RegSetValue`
 * repeat steps 3 times
@@ -61,12 +60,7 @@ the question is, what are the commonly used tactic when using procmon to trouble
 * logs with >100MB take too long for pattern recognition
 * so you start from the filtering to the problematic application and then keep removing filters
 
-### TACTIC-7 the rule of 3
-* And - you need an exact clock that would be recorded during the action
-* repeat actions 3 times which is good for the later pattern recognition
-* instead of zooming for just a single instance, look for 3 
-
-### TACTIC-8 the millisecond
+### TACTIC-7 the millisecond
 * before the capture, go to [Current Millis ‐ Milliseconds since Unix Epoch](https://currentmillis.com/) and have that open on the side
 * record the capture with a screen recorder such as [ShareX](https://getsharex.com/)
 * locate the exact moment when you perform a testing step
@@ -88,7 +82,7 @@ function getMillis {
 * use VLC player and scroll with **next frame** with hotkey `e` 
     * [How to Go Frame by Frame in VLC](https://www.vlchelp.com/frame-stepping/)
 
-### TACTIC-9 the second
+### TACTIC-8 the second
 * if you know when the action happened, filter everything 
     * 1 second before
     * 1 second after

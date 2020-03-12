@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > Office Versions
+title: History > Office Versions
 ---
 * It is always fascinating to understand that so many used conventions are born from the need of the situation and this need dies later on, but convention persists
 * ... but the consequences and the logic remains. It was always confusing to me why where is 2 ways Office versions

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HSTR > 2000, REST defined by Roy Fielding
+title: History > 2000, REST defined by Roy Fielding
 ---
 ## the case
 * write a short history of REST

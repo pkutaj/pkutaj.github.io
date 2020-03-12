@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NTWRK > DNS > Basic Terminology
+title: Networking > DNS > Basic Terminology
 ---
 ## the case	of the DNS WHOIS Lookup
 * the question is the basic terminology behind domain name services: 

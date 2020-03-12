@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIN > COM > On GUIDs and DLLs 
+title: Windows > COM > On GUIDs and DLLs 
 ---
 ## the case	
 the question is the terminology of DLLs and GUIDs within the context of COM / Windows internals 

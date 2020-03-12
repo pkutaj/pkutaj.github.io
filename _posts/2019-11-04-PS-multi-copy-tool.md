@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PS > Multi-Copy tool — 1 to many
+title: PowerShell > Multi-Copy tool — 1 to many
 ---
 ## the case	
 The aim of this script is to create a mutation of total commander's multi-rename tool, but it should create X copies of an existing template file with incremental numbering
