@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Code > Correct JSON, validate with PowerShell
-categories: [VSCode]
+categories: [vscode]
 ---
 ## the case	of JSON with mistakes
 the question is, how to quickly check JSON for errors (seen this several times in job interviews)

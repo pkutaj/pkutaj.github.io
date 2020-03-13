@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PowerShell > terminate all running applications (flush!)
+categories: [powershell]
 ---
 
 ## the case	

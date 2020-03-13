@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MS SQL > Profiler and Events (logging queries, etc.)
+categories: [sql]
 ---
 ## the case	
 the question is, how to capture what's going on in the DB in the most detailed/useful manner

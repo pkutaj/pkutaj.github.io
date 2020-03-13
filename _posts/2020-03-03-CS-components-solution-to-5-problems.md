@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Programming > Web Components as a solution to 5 problems
+title: JavaScript > Web Components as a solution to 5 problems
+categories: [javascript]
 ---
 ## the case	of 5 problems, 1 solution
 * the question is, what do web components address. also, the rule is **learn foundations/standards first** before abstractions. you are stuck if abstraction leaks

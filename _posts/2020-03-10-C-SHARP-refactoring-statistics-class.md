@@ -1,6 +1,7 @@
 ---
 layout: post
 title: C# > refactoring a method by extracting it into its own class
+categories: [c-sharp]
 ---
 ## the case	
 * the question is, how to refactor a method that exists, but suddenly has to be used also by a sibling-class (that inherits the abstract method and should implement it on its own)

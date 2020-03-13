@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SQL > Identity columns
+categories: [sql]
 ---
 ## the case	of identity columns
 the question is the concept and role of an **IDENTITY COLUMNS** in SQL server

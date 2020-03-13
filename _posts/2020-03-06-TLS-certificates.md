@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Networking > The role of certificates in TLS
+categories: [networking]
 ---
 ## the case	
 the question is, what are certificates and what is their role in the encryption of information transferred over the network 

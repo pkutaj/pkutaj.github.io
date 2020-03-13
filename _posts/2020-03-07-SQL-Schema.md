@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SQL > On Schemas
+categories: [sql]
 ---
 ## the case	
 the question is, what is **SCHEMA** in the context of SQL server

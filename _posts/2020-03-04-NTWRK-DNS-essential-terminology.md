@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Networking > DNS > Basic Terminology
+categories: [networking]
 ---
 ## the case	of the DNS WHOIS Lookup
 * the question is the basic terminology behind domain name services: 

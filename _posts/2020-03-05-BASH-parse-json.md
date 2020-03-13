@@ -1,6 +1,7 @@
 ---
 layout: post
-title: BASH > parsing JSON with CURL + JQ
+title: bash > parsing JSON with CURL + JQ
+categories: [linux]
 ---
 ## THE CASE	OF PARSED JSON
 * the question is using **BASH** terminal to parse **JSON**, i.e. to use the powershell alternative of `invoke-webrequest` or `curl` (...it's `curl` again)

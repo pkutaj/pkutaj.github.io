@@ -1,6 +1,7 @@
 ---
 layout: post 
-title: KATA > recursive design primer
+title: programming > KATA > recursive design primer
+categories: [programming]
 ---
 ## the case	of a recursive staircase
 * the question is, how to build a staircase such as
