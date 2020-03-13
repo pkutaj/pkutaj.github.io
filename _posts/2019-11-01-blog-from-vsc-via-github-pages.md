@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visual Studio Code > How do I blog from Visual Studio Code, using GitPages, powershell and markup
+categories: []
 last_modified_at: 2019-11-15
 ---
 ## the case	
@@ -26,6 +27,7 @@ last_modified_at: 2019-11-15
     - [Add dropdowns](#add-dropdowns)
     - [add back to the top button](#add-back-to-the-top-button)
     - [issue: the page not updating?](#issue-the-page-not-updating)
+- [add categories](#add-categories)
 
 <!-- /TOC -->
 
@@ -39,6 +41,7 @@ last_modified_at: 2019-11-15
 ---
 layout: post
 title:
+categories: []
 last_modified_at: 
 ---
 ## the case	
@@ -129,6 +132,24 @@ Set-Alias lg open-blog
 * login to the github repo ➔ settings and check if the last built executed without errors
 
 ![build-errors]({{ site.url }}/assets/img000292.png)
+
+### add categories
+* jekyll has built-in support for categories 
+* the name of a category puts it in the URL
+* my current template for articles
+
+```
+---
+layout: post
+title:
+categories: []
+---
+```
+
+* used regex in vscode to replace the previous version without categories
+    * find `(title:.*\n)`
+    * replace `$1categories: []\n`
+
 
 ## sources
 * [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)
