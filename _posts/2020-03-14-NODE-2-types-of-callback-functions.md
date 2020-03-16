@@ -35,11 +35,11 @@ the question is, what are the essential types of events in Node
 
 #### System Event Example: emitter.on(eventName, listener)
 
-CODE                     | COMMENT
--------------------------|----------------------------------------------------------------------------------
-1. `server.on(...)`      | call the emitter object
-2. `'connection'`        | named event
-3. ` (stream) => {...};` | listener (event handler) for asynchronous execution waiting in the callback queue
+CODE                    | COMMENT
+------------------------|----------------------------------------------------------------------------------
+1. `server.on(...)`     | call the emitter object
+2. `'connection'`       | named event
+3. `(stream) => {...};` | listener (event handler) for asynchronous execution waiting in the callback queue
 
 ```js
 server.on('connection', (stream) => { //1. - 3. 
