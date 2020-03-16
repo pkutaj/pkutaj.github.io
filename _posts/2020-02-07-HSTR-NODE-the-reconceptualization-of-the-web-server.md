@@ -1,6 +1,7 @@
 ---
 layout: post
 title: History > NODE > Ryan Dahl (NODE author) on the reconceptualization of web servers in the early 2000s
+categories: [node]
 ---
 ## the case	
 the question is, what were the web servers thought of traditionally (say, web 1.0) and what has changed with the arrival of Mongrel and, of course, Node.Js.

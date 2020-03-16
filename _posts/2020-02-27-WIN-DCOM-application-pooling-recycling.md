@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows > COM > COM Surrogate, application pooling and recycling
+categories: [windows]
 ---
 ## the case	of particular preferences of DCOM component
 the question is, what is a COM surrogate (`dllhost.exe`) and how does some of the preferences (pooling & recycling) within component services impact it when it comes to applications using this framework 

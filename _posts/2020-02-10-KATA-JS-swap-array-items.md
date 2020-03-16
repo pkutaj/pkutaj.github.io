@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > JavaScript > swap array items
+categories: [programming]
 ---
 ## the case	
 * the question is, how to swap the items of array. for example:

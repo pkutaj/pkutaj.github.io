@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > JavaScript > Aggregate an inventory (array-of-objects key extraction and value aggregation)
+categories: [powershell]
 ---
 ## the case	
 * the example is utilizing printers but could be used on other sorts of inventories as well

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NODE > Separating concerns with required()
+categories: [node]
 ---
 ## the case	
 the question is, how to separate concerns in Node via the separation of code files and their interlinking.

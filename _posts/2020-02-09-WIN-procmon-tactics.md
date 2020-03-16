@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows > Procmon Tactics
+categories: [windows]
 ---
 ## the case	
 the question is, what are the commonly used tactic when using procmon to troubleshoot, mostly hangs and crashes but also other issues

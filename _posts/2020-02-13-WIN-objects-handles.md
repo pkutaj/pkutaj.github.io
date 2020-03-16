@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows > On Handles
+categories: [windows]
 ---
 ## the case	
 the question is, what are the handles and objects in windows

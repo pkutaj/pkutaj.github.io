@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript > NODE > The 5 typical uses of Node
+categories: [node]
 ---
 
 ## the case	

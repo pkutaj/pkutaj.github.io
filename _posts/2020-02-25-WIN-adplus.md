@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows > ADPLUS
+categories: [windows]
 ---
 
 ## the case	of digging into ADPLUS dumps

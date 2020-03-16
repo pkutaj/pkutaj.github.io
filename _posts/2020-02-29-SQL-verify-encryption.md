@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SQL > Verify Encryption
+categories: []
 --- 
 
 ## the case	encrypted SQL Server

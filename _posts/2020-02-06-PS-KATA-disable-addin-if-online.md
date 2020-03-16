@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > PowerShell > if online, disable a particular Outlook add-in
+categories: [powershell]
 ---
 ## the case	
 the aim of the exercise is to write a script that checks the online status (online/offline) and based on that disables a particular outlook add-in. the example provided is the pivotal crm outlook integration

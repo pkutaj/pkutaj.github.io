@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming > CLEAN CODE > On Comments
+categories: [programming]
 ---
 ## the case	
 Notes from Uncle Bob's lecture on the role of comments in code

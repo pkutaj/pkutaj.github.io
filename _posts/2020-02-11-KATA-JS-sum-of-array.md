@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > JavaScript > Sum of Array with template literals and proper type-setting
+categories: [powershell]
 ---
 
 ## the case	

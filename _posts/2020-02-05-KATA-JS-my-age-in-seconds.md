@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > JavaScript > Age in seconds
+categories: [programming]
 ---
 ## the case	
 the question (of my son) is, how old are you in seconds

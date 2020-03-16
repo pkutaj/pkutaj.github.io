@@ -1,6 +1,7 @@
 ---
 layout: post
-# title: PowerShell > on modules
+title: PowerShell > on modules
+categories: [powershell]
 ---
 ## the case	
 the question is, how to get overview of Powershell modules

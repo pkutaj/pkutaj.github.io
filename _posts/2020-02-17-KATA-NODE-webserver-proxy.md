@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KATA > NODE > Webserver proxy
+categories: [node]
 ---
 ## the case	
 the aim of this exercise is to build a node webserver with the home route fetching a daily foreign exchange rates

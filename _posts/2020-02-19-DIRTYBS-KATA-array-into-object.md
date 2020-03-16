@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DIRTYBS > KATA >  JavaScript > array into object
+categories: [programming]
 ---
 * trying to capture the thought process behind the {% post_url 2020-02-19-KATA-array-into-object %}
 

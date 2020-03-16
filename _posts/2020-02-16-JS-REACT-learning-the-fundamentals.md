@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript > REACT > NEXT > Get me today's EUR rates, server-side, please
+categories: [react]
 ---
 
 ## the case	

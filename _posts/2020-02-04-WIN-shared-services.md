@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows > servicehost, shared services and virtual service accounts
+categories: [windows]
 ---
 ## the case	
 the question is, how can services in windows be ran as separate processes in case that's needed, wanted or beneficial for error solution

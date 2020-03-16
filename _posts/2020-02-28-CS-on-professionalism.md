@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming > 9 rules of professionalism as per Uncle Bob
+categories: [programming]
 ---
 
 ## toc
