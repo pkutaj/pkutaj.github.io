@@ -11,5 +11,3 @@ COMMAND                     | DESCRIPTION
 `git log -1 --name-only`    | print list of commited files-names (only)
 `git show -p origin/master` | show the last push
 `git reset --soft HEAD~1`   | remove the last commit
-
-
