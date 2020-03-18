@@ -1,0 +1,1 @@
+powershell.exe -Command Start-Process PowerShell -ArgumentList '-File ./2020-03-16-events-to-csv.ps1'
