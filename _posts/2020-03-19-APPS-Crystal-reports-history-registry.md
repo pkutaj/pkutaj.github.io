@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MISC > Crystal Reports versioning, a bit of history
+title: Applications > Crystal Reports versioning, a bit of history
 categories: [applications]
 ---
 ## the case	
