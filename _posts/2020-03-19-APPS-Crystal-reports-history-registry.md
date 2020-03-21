@@ -9,21 +9,22 @@ the question is, what versions can you find of Crystal reports (I find the versi
 ## toc
 <!-- TOC -->
 
-- [HSTR](#hstr)
-- [Versions and registry keys](#versions-and-registry-keys)
+- [history](#history)
+- [versions and registry keys](#versions-and-registry-keys)
 - [sources](#sources)
 
 <!-- /TOC -->
 
 ## findings
-### HSTR
+### history
 * Crystal Reports version 9 is developed by Crystal Decisions
 * Business Objects went public in 1994 and became the first French software company to be listed in the U.S.
 * Business Objects was the first European Company to go public in the United States
 * Crystal Decisions was acquired in December 2003 by BusinessObjects, which produced versions 10, 11 (XI) and version 12 (2008).
 * SAP acquired BusinessObjects on October 8, 2007, and released Crystal Reports 2011 (version 14) on May 3, 2011. The latest version released is Crystal Reports 2016 (version 14.2.x) on March 8, 2016.
 
-### Versions and registry keys
+### versions and registry keys
+
 version       | release date | ownership         | hklm
 --------------|--------------|-------------------|--------------------------------------------------------------
 9             | 2002         | Crystal Decisions | HKEY_LOCAL_MACHINE\Software\Crystal Decisions\9.0\

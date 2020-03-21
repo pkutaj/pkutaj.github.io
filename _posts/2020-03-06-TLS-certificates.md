@@ -29,10 +29,10 @@ the question is, what are certificates and what is their role in the encryption 
     * ...which used to be expensive in the past
 * historically, the full authenticated HTTPS connections were more commonly found only on secured payment transaction services
 * TLS uses
-    * long-term public and private keys
-    * short-term session keys
+    * long-term **PUBLIC** and **PRIVATE KEYS**
+    * short-term **SESSION KEYS**
     * X.509 certificates are used to authenticate the server
-    * X.509 is a cryptographic standard defining the format of public key certs
+    * X.509 is a cryptographic standard defining the format of **PUBLIC KEY** certs
 * certs need to be loaded into a website so that people can communicate securely
 
 ### certificate authorities
