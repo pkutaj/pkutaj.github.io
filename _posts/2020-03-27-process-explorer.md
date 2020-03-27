@@ -35,5 +35,3 @@ as “own processes.”
 * hit `f5` to refresh 
 * all changes will be properly highlighted with a color (green/red for new/old processes)
 * hit `f5` to refresh again to make color highlights disappear
-
-## sources
