@@ -17,6 +17,7 @@ the question is, what are the commonly used tactic when using procmon to trouble
 - [TACTIC-6 circular KISS](#tactic-6-circular-kiss)
 - [TACTIC-7 the millisecond](#tactic-7-the-millisecond)
 - [TACTIC-8 the second](#tactic-8-the-second)
+- [TACTIC-9 the good, the bad and the rubberduck](#tactic-9-the-good-the-bad-and-the-rubberduck)
 
 <!-- /TOC -->
 
@@ -90,3 +91,13 @@ function getMillis {
 1. use **The millisecond** approach to map the action to the ms
 
 ![1_second_perspective]({{ site.url }}/assets/img000519.png)
+
+### TACTIC-9 the good, the bad and the rubberduck
+* use millisecond tactic to get the screencast + MS info
+* this is a bit time-intensive, the benefit is in the proper understanding of processes
+
+1. capture broken set 
+2. capture working set
+3. rubberduck both
+4. find the differences
+
