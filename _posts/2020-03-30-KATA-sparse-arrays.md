@@ -85,4 +85,4 @@ console.log(results);
 
 ### sources
 * [source_code]({{ site.url }}/assets/2020-03-30-sparse-arrays.js)
-* https://stackoverflow.com/a/23326623/11082684
+* <https://stackoverflow.com/a/23326623/11082684>
