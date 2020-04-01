@@ -1,6 +1,7 @@
 ---
 layout: post
 title: History > 2000, REST defined by Roy Fielding
+categories: [history]
 ---
 ## the case
 * write a short history of REST
@@ -28,11 +29,11 @@ title: History > 2000, REST defined by Roy Fielding
 ## findings
 ### pre-1999: The SOAP years
 * 1999 pre-rest era
-    * if you wanted to communicate online between applications / pages you had tu use Simple Object Access Protocol
+    * if you wanted to communicate online between applications/pages you had to use Simple Object Access Protocol
     1. hand-write an XML document with an RPC call in the body
-    2. specify te endpoint and POST their SOAP enveloped to that specified endpoint
+    2. specify the endpoint and POST their SOAP enveloped to that specified endpoint
 
-> SOAP was notorious for being complex to build, complex to use, and near-impossible to debug. And the alternative, CORBA, was even worse. The problem was that there was no standard for how APIs should be designed and used. Back then, APIs were not designed to be accessible, they were only designed to be flexible.
+> SOAP was notorious for being complex to build, complex to use, and near-impossible to debug. And the alternative, CORBA, was even worse. The problem was that there was no standard for how APIs should be designed and used. Back then, APIs were not designed to be accessible, they were only designed to be flexible.
 
 -- From <https://blog.readme.io/the-history-of-rest-apis/> 
 
@@ -42,20 +43,20 @@ title: History > 2000, REST defined by Roy Fielding
 * ROY FIELDING: The Dissertation 2000
     * Architectural Styles and the Design of Network-based Software Architectures
 * Goal: create a standard so that any server could talk to any other server in the world
-* Roy Fielding was with the web from the beginning (authored HTTP and URL) and his disertation in the midst of tbe dot-com bubble burst revolutionized the way we use the web today, as shown in <https://www.crummy.com/writing/speaking/2013-RESTFest/>
+* Roy Fielding was with the web from the beginning (authored HTTP and URL) and his dissertation in the midst of the dot-com bubble burst revolutionized the way we use the web today, as shown in <https://www.crummy.com/writing/speaking/2013-RESTFest/>
 
 ### The 4 pillars of REST: U.S.CLIS.CACHE
 * REST has 4 principles U-S-CLIS-CACHE
 * U for Uniform Interface: 
     * always HTTP verbs 
     * always URI as resources 
-    * always HTTP repsonse with a status and a body
+    * always HTTP response with a status and a body
 * Stateless
     * each request is self-descriptive and self-contained for the server to process it
 * Client-Server
     * clear boundaries between roles of requestor and responder
 * Cachable
-    * unless denoted, client can cache any representation
+    * unless denoted, a client can cache any representation
     * statelessness makes this possible
 * REST is anti-SOAP
 * REST is resource-based
