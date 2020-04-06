@@ -23,4 +23,6 @@ var searchRange = function (nums, target) {
 
 }
 /* TEST */
-console.log(searchRange(nums, 6))
+console.time("timer");
+console.log(searchRange(nums, 6));
+console.timeEnd("timer");
