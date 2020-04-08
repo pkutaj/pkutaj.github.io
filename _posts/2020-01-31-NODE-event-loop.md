@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript > What the heck is the event loop (lecture notes)
+categories: []
 --- 
 
 * [great lecture from the JSConf](https://youtu.be/8aGhZQkoFbQ)

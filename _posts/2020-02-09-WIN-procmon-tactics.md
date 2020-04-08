@@ -18,6 +18,7 @@ the question is, what are the commonly used tactic when using procmon to trouble
 - [TACTIC-7 the millisecond](#tactic-7-the-millisecond)
 - [TACTIC-8 the second](#tactic-8-the-second)
 - [TACTIC-9 the good, the bad and the rubberduck](#tactic-9-the-good-the-bad-and-the-rubberduck)
+- [TACTIC-10 filter-files](#tactic-10-filter-files)
 
 <!-- /TOC -->
 
@@ -101,3 +102,10 @@ function getMillis {
 3. rubberduck both
 4. find the differences
 
+### TACTIC-10 filter-files
+* at times, `.pml`s arrive huge
+* processing takes forever
+* if there is a clear suspect
+    1. filter to the suspicious process
+    2. save-as a new file with **EVENTS DISPLAYED USING CURRENT FILTER**
+* combine with other tactics

@@ -14,6 +14,7 @@ categories: [c-sharp]
 - [iteration](#iteration)
 - [comparison: powershell](#comparison-powershell)
 - [comparison: JavaScript](#comparison-javascript)
+- [{} format: collection/array initializer](#-format-collectionarray-initializer)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -63,6 +64,21 @@ True     True     Object[]                                 System.Array
 ### comparison: JavaScript
 * no way of having a native fixed-size array
 * need to either freeze or seal the object
+
+### {} format: collection/array initializer
+* `{}`, the curly braces, the squiggly braces are known as **INITIALIZERS**
+
+```c#
+string[] daysOfWeek = {
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+}
+```
 
 ### sources
 * <https://stackoverflow.com/a/44853951/11082684>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: JavaScript > DOM > SELECT element
+categories: []
 ---
 ## the case
 * what if there are elements without an id

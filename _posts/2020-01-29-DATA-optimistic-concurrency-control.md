@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DATA > optimistic concurrency control
+categories: []
 ---
 ## the case	
 the question is what is optimistic and pessimistic concurrecy control in the context of data science 

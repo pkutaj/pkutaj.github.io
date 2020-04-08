@@ -59,7 +59,6 @@ if(queries[i] === strings[j]) results[i]++;
 ### CODE
 
 ```javascript
-
 /* INITS */
 const queries = ["ab", "abc", "bc"];
 const strings = ["ab", "ab", "abc"];
