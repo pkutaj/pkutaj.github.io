@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerShell > Get-Winevent
+title: PowerShell > Access and analyze Event Viewer (Messy Ode to Get-Winevent)
 categories: [powershell]
 ---
 ## the case	the log capture
