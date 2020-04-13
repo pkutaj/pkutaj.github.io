@@ -5,7 +5,7 @@
 */
 
 /* INITS */
-const nums = []
+const nums = [1,2,2,2,4,5]
 
 /* WORK */
 /**
@@ -14,21 +14,31 @@ const nums = []
  * @return {number[]}
  */
 var searchRange = function (nums, target) {
-/* INITS */
-let matchedPositions = new Array(2);
-let numsSize = nums.length;
-let lo = 0;
-let hi = numsSize - 1;
-let mids = Math.floor((lo+hi)/2);
-/* WORK */
-//STEP-1 LEFT-LIMIT
-while (condition) {
-    
-}
-//STEP-2 RIGHT-LIMIT    
-return matchedPositions;
+    let matchedPositions = new Array(2)     //01
+    let i = 0;                              //02
+    let numsSize = nums.length;             //03
+    let j = numsSize - 1                    //04
+
+    if(numsSize === 0) return matchedPositions =  [-1, -1] //05
+
+    for (i; i < numsSize; i++) {            //06
+        if (nums[i] === target) {           //07
+            matchedPositions[0] = i;        //08
+            break;                          //08
+        } else if (i === j) {               //09
+            return matchedPositions = [-1, -1];            //09
+        }
+    }
+
+    for (j; j >= 0; j--) {                  //10
+        if (nums[j] === target) {           //11
+            matchedPositions[1] = j;        //12
+            break;                          //12
+        }
+    }
+    return matchedPositions;                //13
 }
 /* TEST */
 console.time("searchRange")
-console.log(searchRange(nums, 0))
+console.log(searchRange(nums, 2))
 console.timeEnd("searchRange")
