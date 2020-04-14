@@ -1,11 +1,11 @@
+
 /* the concern is to return first and last item of a targer within an ascending array
  * - use reverse iteration
  * - use linear search
  *  
 */
-
 /* INITS */
-const nums = [1,2,2,2,4,5]
+const nums2 = [1,2,2,2,4,5]
 
 /* WORK */
 /**
@@ -13,7 +13,7 @@ const nums = [1,2,2,2,4,5]
  * @param {number} target
  * @return {number[]}
  */
-var searchRange = function (nums, target) {
+var searchRange2 = function (nums, target) {
     let matchedPositions = new Array(2)     //01
     let i = 0;                              //02
     let numsSize = nums.length;             //03
@@ -39,6 +39,7 @@ var searchRange = function (nums, target) {
     return matchedPositions;                //13
 }
 /* TEST */
-console.time("searchRange")
-console.log(searchRange(nums, 2))
-console.timeEnd("searchRange")
+console.time("searchRange2")
+console.log(searchRange2(nums2, 2))
+console.timeEnd("searchRange2")
+
