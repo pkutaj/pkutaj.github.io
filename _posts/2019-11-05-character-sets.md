@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming > ASCII, UTF-8, Unicode, character sets and CP850
+categories: [programming]
 ---
 
 ## toc

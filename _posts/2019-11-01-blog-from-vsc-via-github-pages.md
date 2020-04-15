@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Code > How do I blog from Visual Studio Code, using GitPages, powershell and markup
-categories: []
+categories: [vscode]
 last_modified_at: 2019-11-15
 ---
 ## the case	

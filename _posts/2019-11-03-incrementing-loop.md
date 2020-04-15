@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming > loop as incrementing / decrementing function
+categories: [programming]
 ---
 * there are different types of loops, but almost every  loop needs a **loop variable**
     * loop variable that is declared outside of loop

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming > How to write amazing functions (podcast notes)
-last_modified_at: 
+categories: [programming]
 ---
 ## the case	
 The question is the best practice of writing functions from the clean code perspective

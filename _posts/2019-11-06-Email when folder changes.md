@@ -1,6 +1,7 @@
 ---
 layout: post
 title: PowerShell > watch folder, send email upon change
+categories: [powershell]
 ---
 
 # case

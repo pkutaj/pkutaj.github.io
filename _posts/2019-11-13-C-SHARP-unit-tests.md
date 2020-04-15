@@ -1,6 +1,7 @@
 ---
 layout: post
 title: C# > Unit tests with xUnit.net
+categories: [c-sharp]
 last_modified_at: 2019-11-15
 ---
 ## the case	

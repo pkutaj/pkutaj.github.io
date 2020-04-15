@@ -1,19 +1,13 @@
 ---
 layout: post
-title: EXTRACT > Programming > The payload concept 
+title: Programming > The payload concept 
+categories: [web]
 ---
 ## the case	
 The question is, what are we talking about when talk about payload in networking and programming.
 
-## toc
-<!-- TOC -->
-
-
-
-<!-- /TOC -->
-
 ## findings
-The etymology and meaning of the payload concept
+The etymology and meaning of the **PAYLOAD** concept
 * part of the transmitted data
     * the actual intended message
     * covered in headers and metadata

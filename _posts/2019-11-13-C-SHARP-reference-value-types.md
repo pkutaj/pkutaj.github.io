@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  C# > Reference Types vs Value Types
+categories: [c-sharp]
 last_modified_at: 2019-11-22
 ---
 
@@ -20,8 +21,7 @@ the question is the difference between reference types and value types and how t
 - [question: differenciation between value and reference types](#question-differenciation-between-value-and-reference-types)
 - [strings in c#: a special case; inconsistency tripping up the newcomers](#strings-in-c-a-special-case-inconsistency-tripping-up-the-newcomers)
     - [note: stack is an implementation detail](#note-stack-is-an-implementation-detail)
-    - [javascript comparison](#javascript-comparison)
-- [taking advantage of garbage collection2019-11-22](#taking-advantage-of-garbage-collection2019-11-22)
+- [taking advantage of garbage collection](#taking-advantage-of-garbage-collection)
 
 <!-- /TOC -->
 
@@ -90,7 +90,7 @@ the question is the difference between reference types and value types and how t
 
 ```
 
-* the value that is passed is a pointer to a memory location (an address, a reference to a book object)
+* the value that is passed is a **POINTER** to a memory location (an address, a reference to a book object)
 * you don't get to the pointer value even in a debugger, there is a barrier and practice considered to be unsafe
     * see [Creating a pointer type in C#](https://www.codeproject.com/Articles/1254502/Creating-a-pointer-type-in-Csharp)
 * IF this runtime would pass parameters by reference, the book parameter in `SetName` method would not receive a pointer value, but a reference to the variable book1 ➔ there would be 2 references
@@ -224,7 +224,7 @@ public class foo {
 * to work with a data type, use **struct**
     * needs to behave like a value type
     * typically very small (int; float; DateTime)
-    * struct is an abbreviation of structure, data structure that is
+    * struct is an abbreviation of **STRUCTURE**, data structure that is
     * just grouping a number of fields as opposed to class with methods
 * this can be much more efficient for certain scenarios, but this has to be understood properly
 
@@ -292,7 +292,7 @@ I find this characterization of a value type based on its implementation details
 
  
 
-### taking advantage of garbage collection2019-11-22
+### taking advantage of garbage collection
 * this is managed language
 * garbage collector run automatically, memory is managed automatically as well 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming > DRY principle
+categories: [programming]
 ---
 ## the case	
 * what is the DRY and that are the design smells

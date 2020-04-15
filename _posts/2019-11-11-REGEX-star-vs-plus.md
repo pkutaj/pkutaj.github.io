@@ -1,6 +1,7 @@
 ---
 layout: post
 title: REGEX > * VS +
+categories: [programming]
 ---
 ## the case	
 the question is, what is the meaning of following

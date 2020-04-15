@@ -1,6 +1,7 @@
 ---
 layout: post
-title:
+title: javascript > the first page download problem 
+categories: [javascript]
 ---
 ## the case	
 the question is, what is the major problem of single page applications and the way of overcoming this
