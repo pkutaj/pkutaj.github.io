@@ -23,12 +23,13 @@ function getLastPosition(nums, target) {
     let lo = 0;
     let hi = nums.length - 1
     let mid;
+
     while (lo < hi) {
         mid = Math.floor((lo + hi) / 2);
-        if (nums[mid] >= target) {
-            lo = mid
+        if (nums[hi] === target) {
+            return hi;
         } else {
-            hi = mid - 1
+            lo = mid + 1
         }
     }
     return hi;
