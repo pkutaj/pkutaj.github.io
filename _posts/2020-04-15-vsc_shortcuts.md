@@ -73,15 +73,18 @@ select all in tag       | `CTRL+SHIFT+RIGHT     ` |
 
 ### LAYOUT
 
-COMMAND                                   | SHORTCUT                | COMMENTS
-------------------------------------------|-------------------------|-----------------------------------------------
-activate sidebar and panel                | `CTRL + B + CTRL + J`   |
-splitting the view ortogonally            | `CTRL-SHIFT-2`          |
-toggle centre mode                        | `CTRL+K + X           ` |
-move to the next col                      | `CTRL+ALT+LEFT`         |
-flip layout (from vertical to horizontal) | `SHIFT+ALT+0`           | combine with move to the next col to move down
-focus to col0, 1, 2, 3                    | `CTRL+0+1+2+3`          | col0 being the file explorer sidebar
-
+COMMAND                                   | SHORTCUT              | COMMENTS
+------------------------------------------|-----------------------|-----------------------------------------------
+activate sidebar and panel                | `CTRL + B + CTRL + J` |
+increase col-size                         | `CTRL+ALT+SHIFT+.`    |
+decrease col-size                         | `CTRL+ALT+SHIFT+,`    |
+flip layout (from vertical to horizontal) | `SHIFT+ALT+0`         | combine with move to the next col to move down
+focus to col0, 1, 2, 3                    | `CTRL+0+1+2+3`        | col0 being the file explorer sidebar
+move to the next col                      | `CTRL+ALT+LEFT`       |
+splitting the view ortogonally            | `CTRL-SHIFT-2`        |
+toggle zen                                | `CTRL+K Z`            |
+toggle centre mode                        | `CTRL+K + X`          |
+toggle word wrap                          | `ALT+Z`               |
 ### PANEL
 
 COMMAND       | SHORTCUT            | COMMENTS
