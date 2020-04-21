@@ -65,8 +65,8 @@ uncollapse ALL  | `CTRL+K CTRL+J        ` |
 
 COMMAND                 | SHORTCUT                | COMMENTS
 ------------------------|-------------------------|---------
-comment / uncomment     | `ALT+SHIFT+A          ` |
-Toggle Line Comment     | `SHIFT-ALT-A          ` |
+block comment           | `ALT+SHIFT+A          ` |
+inline comment          | `CTRL+K + CTRL+C`       |
 javascript --> run task | `CTRL + SHIFT + B     ` |
 remove tag              | `CTRL+SHIFT+K         ` |
 select all in tag       | `CTRL+SHIFT+RIGHT     ` |
