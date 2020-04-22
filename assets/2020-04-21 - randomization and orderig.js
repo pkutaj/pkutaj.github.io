@@ -2,7 +2,7 @@
 // the concern is use BINARY SEARCH to return first and last array item using binary search
 
 /* let randomInt = Math.floor(Math.random() * 10); */ // FAIL
-function randomInt() {
+/* function randomInt() {
     let randomNUmber = Math.floor(Math.random() * 10)
     return randomNUmber}
 
@@ -17,7 +17,7 @@ let nums = (arrSize) => {
     
 }
 
-let target = randomInt();
+let target = randomInt(); */
 
 function getLastPosition(nums, target) {
     let lo = 0;
