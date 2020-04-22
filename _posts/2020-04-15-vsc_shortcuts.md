@@ -39,37 +39,37 @@ transform uppercase                      | `CTRL+ALT+SHIFT+HOME  ` |
 
 ### DELETION
 
-COMMAND                                         | SHORTCUT                | COMMENTS
-------------------------------------------------|-------------------------|---------
-delete all  (carriage return w/delete)          | `CTRL+DELETE          ` |
-delete line (return + delete line you start on) | `CTRL+SHIFT+DELETE    ` |
-Delete Word Left/Rigth                          | `CTRL+DEL/BACKSPACE   ` |
+COMMAND                                         | SHORTCUT             | COMMENTS
+------------------------------------------------|----------------------|---------
+delete all  (carriage return w/delete)          | `CTRL+DELETE`        |
+delete line (return + delete line you start on) | `CTRL+SHIFT+DELETE`  |
+Delete Word Left/Rigth                          | `CTRL+DEL/BACKSPACE` |
 
 ### SELECTION
 
-COMMAND               | SHORTCUT                | COMMENTS
-----------------------|-------------------------|---------
-expand selection      | `SHIFT+ALT+RIGHT`       |
-select ALL occurences | `CTRL+SHIFT+L         ` |
-select line           | `CTRL+L               ` |
+COMMAND               | SHORTCUT          | COMMENTS
+----------------------|-------------------|---------
+expand selection      | `SHIFT+ALT+RIGHT` |
+select ALL occurences | `CTRL+SHIFT+L`    |
+select line           | `CTRL+L`          |
 
 ### REGIONS
 
-COMMAND         | SHORTCUT                | COMMENTS
-----------------|-------------------------|---------
-collapse ALL    | `CTRL+K CTRL+0        ` |
-collapse region | `CTRL+SHIFT+] + [     ` |
-uncollapse ALL  | `CTRL+K CTRL+J        ` |
+COMMAND         | SHORTCUT           | COMMENTS
+----------------|--------------------|---------
+collapse ALL    | `CTRL+K CTRL+0`    |
+collapse region | `CTRL+SHIFT+] + [` |
+uncollapse ALL  | `CTRL+K CTRL+J`    |
 
 ### COMMENTS
 
-COMMAND                 | SHORTCUT                | COMMENTS
-------------------------|-------------------------|---------
-block comment           | `ALT+SHIFT+A          ` |
-inline comment          | `CTRL+K + CTRL+C`       |
-javascript --> run task | `CTRL + SHIFT + B     ` |
-remove tag              | `CTRL+SHIFT+K         ` |
-select all in tag       | `CTRL+SHIFT+RIGHT     ` |
+COMMAND                 | SHORTCUT           | COMMENTS
+------------------------|--------------------|---------
+block comment           | `ALT+SHIFT+A`      |
+inline comment          | `CTRL+K + CTRL+C`  |
+javascript --> run task | `CTRL + SHIFT + B` |
+remove tag              | `CTRL+SHIFT+K`     |
+select all in tag       | `CTRL+SHIFT+RIGHT` |
 
 ### LAYOUT
 
@@ -85,6 +85,7 @@ splitting the view ortogonally            | `CTRL-SHIFT-2`        |
 toggle zen                                | `CTRL+K Z`            |
 toggle centre mode                        | `CTRL+K + X`          |
 toggle word wrap                          | `ALT+Z`               |
+
 ### PANEL
 
 COMMAND       | SHORTCUT            | COMMENTS
@@ -97,12 +98,12 @@ terminal      | `CTRL-ALT-backtick` |
 
 ### TERMINAL
 
-COMMAND                       | SHORTCUT                | COMMENTS
-------------------------------|-------------------------|---------
-kill terminal                 | `CTRL+ALT+SHIFT+X     ` |
-switch terminal windows       | `CTRL+ALT+SHIFT+S/D   ` |
-terminal                      | `CTRL+ backtick       ` |
-scroll up and down **1 line** | `CTRL+ALT+PAGEUP/DOWN`  |
+COMMAND                       | SHORTCUT               | COMMENTS
+------------------------------|------------------------|---------
+kill terminal                 | `CTRL+ALT+SHIFT+X`     |
+switch terminal windows       | `CTRL+ALT+SHIFT+S/D`   |
+terminal                      | `CTRL+ backtick`       |
+scroll up and down **1 line** | `CTRL+ALT+PAGEUP/DOWN` |
 
 ### ZOOM
 
