@@ -83,6 +83,7 @@ focus to col0, 1, 2, 3                    | `CTRL+0+1+2+3`        | col0 being t
 move to the next col                      | `CTRL+ALT+LEFT`       |
 splitting the view ortogonally            | `CTRL-SHIFT-2`        |
 toggle zen                                | `CTRL+K Z`            |
+toggle status bar                         | `ALT+V+A+T`           | excellesque binding
 toggle centre mode                        | `CTRL+K + X`          |
 toggle word wrap                          | `ALT+Z`               |
 
