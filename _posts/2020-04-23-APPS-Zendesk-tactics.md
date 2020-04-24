@@ -17,6 +17,7 @@ the question is, what tips and tricks and 3rd party tools can be used to work wi
 - [(5) ticket id as a key throughout the system](#5-ticket-id-as-a-key-throughout-the-system)
 - [(6) tags: 🠉🠊🠋](#6-tags-%F0%9F%A0%89%F0%9F%A0%8A%F0%9F%A0%8B)
 - [(7) title: continuous improvement](#7-title-continuous-improvement)
+- [(8) converse: inner-conversation priority](#8-converse-inner-conversation-priority)
 
 <!-- /TOC -->
 
@@ -76,3 +77,17 @@ toggle apps          | `CTRL+ALT+A` | good to save space working 2 cols on scree
 ### (7) title: continuous improvement
 * this is `h1` kind of thing
 * should be clear what is meant and update continuously
+
+### (8) converse: inner-conversation priority
+* the conversations with colleagues have priority to conversation with customers
+* higher frequency
+* the cooperation is necessary
+* there should be a symmetry in the roundtrip time
+* the first working step is to check the mailbox
+* the **EMPTY MAILBOX POLICY** is radical
+    * see [Beyond the Inbox: Rules for Reducing Email - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2020/04/14/beyond-the-inbox-rules-for-reducing-email/)
+    * aggresive filtering
+    * deleting notifications
+    * moving to-dos into tasks
+
+    
