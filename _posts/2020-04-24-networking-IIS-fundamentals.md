@@ -76,7 +76,7 @@ WAY# | WAY        | COMMENT
 * belong to an application of a website
 * it has the symbol of a windows shortcut 
 
-![virtual_directory_symbol]({ site.url }}/assets/img000803.png)
+![virtual_directory_symbol]({{ site.url }}/assets/img000803.png)
 
 * **NOTE:** there are cases where you have a **VIRTUAL PATH** configured in advanced settings of an application but there is no **VIRTUAL DIRECTORY**
 
