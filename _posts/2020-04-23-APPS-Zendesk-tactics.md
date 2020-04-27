@@ -18,6 +18,8 @@ the question is, what tips and tricks and 3rd party tools can be used to work wi
 - [(6) tags: 🠉🠊🠋](#6-tags-%F0%9F%A0%89%F0%9F%A0%8A%F0%9F%A0%8B)
 - [(7) title: continuous improvement](#7-title-continuous-improvement)
 - [(8) converse: inner-conversation priority](#8-converse-inner-conversation-priority)
+- [(9) empty mailbox: radically](#9-empty-mailbox-radically)
+- [(10) close tab by default](#10-close-tab-by-default)
 
 <!-- /TOC -->
 
@@ -84,10 +86,15 @@ toggle apps          | `CTRL+ALT+A` | good to save space working 2 cols on scree
 * the cooperation is necessary
 * there should be a symmetry in the roundtrip time
 * the first working step is to check the mailbox
-* the **EMPTY MAILBOX POLICY** is radical
-    * see [Beyond the Inbox: Rules for Reducing Email - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2020/04/14/beyond-the-inbox-rules-for-reducing-email/)
-    * aggresive filtering
-    * deleting notifications
-    * moving to-dos into tasks
 
-    
+### (9) empty mailbox: radically 
+* see [Beyond the Inbox: Rules for Reducing Email - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2020/04/14beyond-the-inbox-rules-for-reducing-email/)
+* aggresive filtering
+* deleting notifications
+* but still using the foldering as a to-do queue
+    * #0NGOING 🠊 #T0DAY is the current setup
+
+### (10) close tab by default
+* limit tabs both in chrome and in ZenDesk
+* 🠊 set the setting to close the tab on update
+* consider the update as a commit; don't keep updating repeatedly
