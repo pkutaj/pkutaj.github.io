@@ -153,6 +153,11 @@ IIS:\
 
 — from [Introduction to IIS Architectures ~ Microsoft Docs](https://docs.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture#http-request-processing-in-iis)
 
+* you can find out which pool is running which process from IIS UI 🠊 Server 🠊 Worker Processes
+
+![map_pools_to_processes]({{ site.url }}/assets/img000806.png)
+
+
 #### (2.3) design example: applications:application pool relationship
 * if 1 pool crashes, it takes down all applications in the pool
 
