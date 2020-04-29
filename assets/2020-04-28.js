@@ -14,6 +14,7 @@ function getTwoSum(nums, target) {
     numsSize = nums.length
 
     for (i; i < numsSize; i++) {
+
         if (nums[i] > target || (nums[i] / 2 === target && nums[i] % 2 === 0)) {
             continue;
         };
@@ -38,3 +39,6 @@ function getTwoSum(nums, target) {
 console.time;
 console.log(getTwoSum(nums, target))
 console.timeEnd;
+
+/* EXPORT */
+module.exports = getTwoSum;
