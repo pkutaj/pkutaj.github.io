@@ -11,6 +11,7 @@ categories: [powershell]
 <!-- TOC -->
 
 - [documenting execution-policy](#documenting-execution-policy)
+- [on execution policy](#on-execution-policy)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -62,7 +63,14 @@ PS C:\pivotalTools> Get-ExecutionPolicy
 Bypass
 PS C:\pivotalTools>
 ```
-
+### on execution policy
+* safety feature
+* execution policy controls how windows loads config files and run scripts
+* should prevent running malicious code
+* stored in the **REGISTRY** for the local computer
+* for the session, it is stored **IN MEMORY**
+* **IT IS NOT SECURITY SYSTEM** ➔ you can **BYPASS** that by typing the script content at the command line when you cannot run the script
+* the aim is o set **BASIC RULES AND PREVENT UNINTENTIONAL VIOLATION**
 
 ### sources
 * [2020-03-24-PS-force-enable-outlook-addin]({% post_url 2020-03-24-PS-force-enable-outlook-addin %})
