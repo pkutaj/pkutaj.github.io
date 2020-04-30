@@ -20,6 +20,7 @@ the question is, what tips and tricks and 3rd party tools can be used to work wi
 - [(8) converse: inner-conversation priority](#8-converse-inner-conversation-priority)
 - [(9) empty mailbox: radically](#9-empty-mailbox-radically)
 - [(10) close tab by default](#10-close-tab-by-default)
+- [(11) use dark mode](#11-use-dark-mode)
 
 <!-- /TOC -->
 
@@ -98,3 +99,4 @@ toggle apps          | `CTRL+ALT+A` | good to save space working 2 cols on scree
 * limit tabs both in chrome and in ZenDesk
 * 🠊 set the setting to close the tab on update
 * consider the update as a commit; don't keep updating repeatedly
+
