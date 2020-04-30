@@ -33,3 +33,4 @@ If you have a code change in your repository and want to move it to a target rep
 
 ### sources
 * [What Is A Pull Request? - YouTube](https://www.youtube.com/watch?v=For9VtrQx58)
+* <https://www.earthdatascience.org/workshops/intro-version-control-git/pull-request/>
