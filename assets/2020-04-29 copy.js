@@ -1,8 +1,8 @@
 /* the aim of this kata is to solve https://leetcode.com/problems/two-sum/ */
 
 /* INITS */
-const nums = [2, 7, 11, 12]
-const target = 9;
+const nums = [11,12]
+const target = 23;
 let term1 = undefined;
 let term1index = undefined;
 let term2 = undefined;
