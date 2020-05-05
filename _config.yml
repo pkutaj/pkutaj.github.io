@@ -22,11 +22,11 @@ title: work.log
 email: pavol@kutaj.com
 description: work ➔ log ➔ repeat
 url: http://pavol.kutaj.com
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
