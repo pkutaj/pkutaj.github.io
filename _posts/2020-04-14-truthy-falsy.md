@@ -9,6 +9,7 @@ the question is, what truthy and falsy mean, here in the concept of JavaScript
 ## toc
 <!-- TOC -->
 
+- [falsies](#falsies)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -30,6 +31,19 @@ the question is, what truthy and falsy mean, here in the concept of JavaScript
 
 > not empty
 ```
+
+### 8 falsies
+
+VALUE          | COMMENT
+---------------|--------------------------------------------------------------------------------
+1. `false`     | The keyword false
+2. `0`         | The number zero
+3. `-0`        | The number negative zero
+4. `0n`        | BigInt, when used as a boolean, follows the same rule as a Number. 0n is falsy.
+5. `""`        | Empty string value
+6. `null`      | null - the absence of any value
+7. `undefined` | undefined - the primitive value
+8. `NaN`       | NaN - not a number
 
 
 ### sources
