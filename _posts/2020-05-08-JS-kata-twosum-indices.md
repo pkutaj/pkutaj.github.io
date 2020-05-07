@@ -23,8 +23,9 @@ categories: [javascript]
 
 ## findings
 ### expectation
-nums = [2, 7, 11, 15]
-target = 9,
+
+nums = [2, 7, 11, 15]  
+target = 9  
 return [0, 1]
 
 ### code
@@ -54,14 +55,6 @@ function indexedTwoSum(nums, target) {
 
 ### winning code
 
-STEP# | CODE                                  | COMMENT
-------|---------------------------------------|--------------------------------------------------------------------
-1     | `const comp = {};`                    | init an empty object
-2     | `for(let i=0; i<nums.length; i++){..` | loop through all items
-3     | `..if(comp[nums[i] ]>=0){..`          | check if the actual value is stored as needed key with index
-4     | `....return [ comp[nums[i] ] , i]`    | return an array of the index of needed and index of actual
-5     | `..comp[target-nums[i]] = i`          | create a key:value with `key` that maps needed value with the index
-
 ```javascript
 const twoSum = function(nums, target) {
     const comp = {};                        //1
@@ -73,6 +66,15 @@ const twoSum = function(nums, target) {
     }
 };
 ```
+
+STEP# | CODE                                  | COMMENT
+------|---------------------------------------|--------------------------------------------------------------------
+1     | `const comp = {};`                    | init an empty object
+2     | `for(let i=0; i<nums.length; i++){..` | loop through all items
+3     | `..if(comp[nums[i] ]>=0){..`          | check if the actual value is stored as needed key with index
+4     | `....return [ comp[nums[i] ] , i]`    | return an array of the index of needed and index of actual
+5     | `..comp[target-nums[i]] = i`          | create a key:value with `key` that maps needed value with the index
+
 
 ### footnotes to the winning code
 * note how he is checking if the given value is the iteration is already stored as a wanted one
