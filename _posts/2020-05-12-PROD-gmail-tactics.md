@@ -40,6 +40,7 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 
 ### (2) filter nonsense
 
+
 ### (3) inbox VS todo
 * inbox and TODO are the only 2 folders
 * delete all stuff from the inbox and move the rest to the TODO
@@ -63,14 +64,16 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 
 shortcut  | comment
 ----------|-----------------
-`j`       | next
-`k`       | previous
+`#`       | delete a message
 `v`       | move
 `l`       | label
+`j`       | next
+`k`       | previous
 `x`       | select
+`* + a`   | select ALL
+`* + n`   | deselect ALL
 `shift-u` | mark as unread
 `shift-i` | mark as read
-`#`       | delete a message
 
 ### (7) reading pane
 * keep the list of emails/tasks open to the left
