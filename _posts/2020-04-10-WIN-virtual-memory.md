@@ -56,6 +56,7 @@ the question is the concept of **VIRTUAL MEMORY**
 * same processes and .`dlls` can share the same **RAM** memory page
 
 ### layout
+* virtual address space starts with 0 and ends with some limit
 
 ![virtual_memory_layout]({{ site.url }}/assets/img000618.png)
 
