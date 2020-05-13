@@ -9,6 +9,7 @@ the question is, what is the general approach to creation arrays
 ## toc
 <!-- TOC -->
 
+- [declaration](#declaration)
 - [initializer](#initializer)
 - [constructor](#constructor)
 - [javascript: the particularities of the dynamic loosely types languages](#javascript-the-particularities-of-the-dynamic-loosely-types-languages)
@@ -18,9 +19,24 @@ the question is, what is the general approach to creation arrays
 
 ## findings
 * there are 2 ways how to initialize an array
+* **NOTE:** array is always a **REFERENCE TYPE** even if the value they hold is a value type
+
+![reference_types_declared_to_null]({{ site.url }}/assets/img000838.png)
+
+* A reference type is stored as a reference (like a pointer) to an object instance.
+* 🠊 `null` means a reference that isn't pointing to an instance of an object.
+* Value types are stored as the values themselves, without any references.
+* 🠊 it doesn't make sense to have a `null` value type — the value type by definition **CONTAINS A VALUE**.
+
+### declaration
+* the following does not instantiate, it just declares the binding with the type of array
+
+```c#
+Country[] countries = null
+```
 
 ### initializer
-1. you have the values to go in it ➔ use **INITIALIZER** with the values
+*  you have the values to go in it ➔ use **INITIALIZER** with the values
 
 ```c#
 string[] daysOfWeek = {
@@ -33,12 +49,26 @@ string[] daysOfWeek = {
     "Sunday"
 }
 ```
-### constructor
-2. you do not have the values to go in it ➔ use **CONSTRUCTOR** with the number of items
 
-```c#
+* if the exact type is explicit on the left hand size, it is permitted to repeat the name of the type on the right-hand side♠ 
+
+![remove_right_had_type_declaration]({{ site.url }}/assets/2020-05-05-array-initializer.gif)
+
+### constructor
+* you do not have the values to go in it ➔ use **CONSTRUCTOR** with the number of items that will be created to a default value of that type
+* the default values of the reference types is `null` so if you construct an array of 10 items you define a fixed-size with 10 nulls that need to be populated
+
+```c# 
 Tickets[] tickets = new Tickets[10];
 ```
+
+* for the array of integers 🠊 you would receive an array with 10 zeroes, because the default value of an integer is zero
+
+```c#
+int[] ints = new int[10];
+```
+
+
 
 ### javascript: the particularities of the dynamic loosely types languages
 * in the example below, you test each query against each string and you try to push an integer to an initially–empty array called `results`
