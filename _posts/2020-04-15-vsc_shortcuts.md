@@ -86,6 +86,7 @@ toggle zen                                | `CTRL+K Z`            |
 toggle status bar                         | `ALT+V+A+T`           | excellesque binding
 toggle centre mode                        | `CTRL+K + X`          |
 toggle word wrap                          | `ALT+Z`               |
+toggle editor (terminal-only)             | `ALT+V+A+E`           |
 
 ### PANEL
 
