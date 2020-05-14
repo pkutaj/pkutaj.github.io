@@ -35,7 +35,7 @@ categories: [data]
 * to solve this, **STAR SCHEMA** was developed and it divides data in to 2 essential groups
 * 1. **FACTS (aka measures)** stored in a highly normalized **FACT TABLE**
     * fact table is the heart of the star
-    * in SAP, facts are known as **KEY FIGURES**
+    * in SAP, facts are kjnown as **KEY FIGURES**
         * e.g. _sales_ are known as facts and _sales data_ are known as fact data
     * the primary key of the fact is a **COMBINATION** of all the dimension keys
 * 2. **DIMENSION ATTRIBUTES** stored in denormalized **DIMENSION TABLES**
