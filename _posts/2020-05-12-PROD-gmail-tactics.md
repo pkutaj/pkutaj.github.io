@@ -9,7 +9,7 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 ## toc
 <!-- TOC -->
 
-- [(1)  empty inbox](#1--empty-inbox)
+- [(1) empty inbox](#1-empty-inbox)
 - [(2) filter nonsense](#2-filter-nonsense)
 - [(3) inbox VS todo](#3-inbox-vs-todo)
 - [(4) k&r VS dip](#4-kr-vs-dip)
@@ -18,12 +18,13 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 - [(7) reading pane](#7-reading-pane)
 - [(8) mark as read: never](#8-mark-as-read-never)
 - [(9) eisenhower quadrant](#9-eisenhower-quadrant)
+- [(10) snooze-as-done](#10-snooze-as-done)
 - [sources](#sources)
 
 <!-- /TOC -->
 
 ## findings
-### (1)  empty inbox
+### (1) empty inbox
 > Immediately move obligations out of your inbox and into role-specific repositories.
 
 * daily cleanup of inbox — which is a place for new (unfiltered) messages
@@ -62,18 +63,26 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 
 ### (6) no mouse (gmail proper)
 
-shortcut  | comment
-----------|-----------------
-`#`       | delete a message
-`v`       | move
-`l`       | label
-`j`       | next
-`k`       | previous
-`x`       | select
-`* + a`   | select ALL
-`* + n`   | deselect ALL
-`shift-u` | mark as unread
-`shift-i` | mark as read
+shortcut            | comment
+--------------------|-----------------
+**DELETION**        |
+`#`                 | delete a message
+**CATEGORIZATION**  |
+`v`                 | move
+`l`                 | label
+**NAVIGATION**      |
+`j`                 | next
+`k`                 | previous
+**SELECTION**       |
+`x`                 | select
+`* + a`             | select ALL
+`* + n`             | deselect ALL
+**READ/UNREAD**     |
+`shift-u`           | mark as unread
+`shift-i`           | mark as read
+**SNOOZE/POSTPONE** |
+`b`                 | snooze
+`g 🠊 b`            | go to snoozed
 
 ### (7) reading pane
 * keep the list of emails/tasks open to the left
@@ -96,6 +105,12 @@ URGE           | urgent
 RAND           | random
 
 ![4prio_logics]({{ site.url }}/assets/img000864.png)
+
+### (10) snooze-as-done
+* my todo folder is for today
+* as this is personal-level, I don't see the need of having the overview of all postponed / partially done things
+* if I have daily k&r task (like a weekly small thing to kick off the day), I snooze it until tomorrow
+* instead, you **MARK SNOOZED AS READ** and starting from the next day, you **MARK ALL AS UNREAD** to start the countdown again
 
 ### sources
 * [Beyond the Inbox: Rules for Reducing Email - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2020/04/14/beyond-the-inbox-rules-for-reducing-email/)
