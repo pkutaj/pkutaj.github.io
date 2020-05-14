@@ -10,12 +10,16 @@ describe('reverse', () => {
         expect(result).toEqual(0);
     });
 
-    test('given an inte, it should return a string ', () => {
+
+    test('given an int, it should return the mid of the length', () => {
         /* Arr */
-        let x = 12
+        let x = 101223
         /* Act */
-        let result = typeof reverse(x);
+        let result = reverse(x)
         /* Ass */
-        expect(result).toEqual("string")
+        expect(result).toEqual(2)
+        
     });
+
+
 });

@@ -2,7 +2,7 @@
  * The concern of this script is to swap the existing array of items
  */
 
-let swapMe = [1,2,3,4,5,6]
+let swapMe = [1,2,3,4]
 console.log("original array: " + swapMe )
 let i;
 let lastExchangedPosition;
