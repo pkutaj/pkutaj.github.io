@@ -19,6 +19,22 @@ categories: [data]
 <!-- /TOC -->
 
 ## findings
+* relational and dimensional models is mapped to the kinds of the 2 types of work with data
+    * transactional
+    * analytical
+
+OLTP               | OLAP
+-------------------|-----------------------------
+individual entries | large batches
+recent data        | historical data
+update with ACID   | reading
+real-time          | long-running processing jobs
+single-source      | multiple sources (DWH)
+small data         | big data
+
+![rdbmd_vs_dwh]({{ site.url }}/assets/img000928.png)
+
+
 ### (1) relational
 * typical difference in transactional and analytical applications
 * normalization means **THE REMOVAL OF REPEATED DATA**
