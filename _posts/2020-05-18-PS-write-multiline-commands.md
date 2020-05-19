@@ -53,6 +53,7 @@ PS C:\Users\Admin> copy -Path .\source\repos\dataIntoArray\ `
 ```
 
 ### (2) splatting
+* splatting means passing paramers bound via a hash table to a command with `@` operator
 
 ```powershell
 $GetWmiObjectParams = @{
