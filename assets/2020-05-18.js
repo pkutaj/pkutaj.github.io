@@ -1,24 +1,20 @@
-var reverse = function (x) {
-    if (x >= Math.pow(2, 31) || x < Math.pow(-2, 31)) return 0
-    let intToStr = String(x);
-    let i = 0;
-    let size = intToStr.length;
-    let mid = Math.floor(size / 2);
-    let helper = "";
-    let lastIndex = intToStr.length - 1
+var reverse = function(x) {
+if(x >= Math.pow(2,31) || x < Math.pow(-2,31)) return 0
+let intToArr = Array.from(String(x), Number)
+let i = 0;
+let size = intToArr.length; 
+let mid = Math.floor(size/2);
+while (i<mid) {
+        let lastIndex = intToArr.length - 1
+        if(intToArr[lastIndex] === 0) {
+            intToArr.pop();
+            continue;
+        } else {
+            
+        }
 
-    while (intToStr[lastIndex] === "0") {
-        intToStr = intToStr.slice(0, lastIndex)
-    }
-
-    while (i < mid) {
-        helper = intToStr[i];
-        intToStr = intToStr.replace(intToStr[i], intToStr[lastIndex])
-        intToStr = intToStr.replace(intToStr[lastIndex],helper)
-        i++
-        lastIndex--
-    }
-
-    return intToStr;
+    i++
+}
+return intToArr;
 };
 module.exports = reverse
