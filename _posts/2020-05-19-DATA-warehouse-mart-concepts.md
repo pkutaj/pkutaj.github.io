@@ -3,6 +3,7 @@ layout: post
 title: data > data warehouse vs data mart
 categories: [data]
 ---
+
 ## overview
 The concern this document is outline the differences between data warehouse and data marts and give an example of SAP BW as a data warehouse that contain both as it's main architectural feature (not going much into details for the corresponding objects such as DataStore Objects or InfoCubes, etc). 
 
