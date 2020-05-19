@@ -47,11 +47,12 @@ Delete Word Left/Rigth                          | `CTRL+DEL/BACKSPACE` |
 
 ### SELECTION
 
-COMMAND               | SHORTCUT          | COMMENTS
-----------------------|-------------------|---------
-expand selection      | `SHIFT+ALT+RIGHT` |
-select ALL occurences | `CTRL+SHIFT+L`    |
-select line           | `CTRL+L`          |
+COMMAND               | SHORTCUT               | COMMENTS
+----------------------|------------------------|---------------------------------------------------------------------------------------------------------
+expand selection      | `SHIFT+ALT+RIGHT`      |
+select ALL occurences | `CTRL+SHIFT+L`         |
+select line           | `CTRL+L`               |
+select column         | `SHIFT+ALT+mouse drag` | see [column (box) selection](https://code.visualstudio.com/docs/editor/codebasics#_column-box-selection)
 
 ### REGIONS
 
