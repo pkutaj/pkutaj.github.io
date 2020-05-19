@@ -20,7 +20,6 @@ the question is, what tips and tricks and 3rd party tools can be used to work wi
 - [(8) converse: inner-conversation priority](#8-converse-inner-conversation-priority)
 - [(9) empty mailbox: radically](#9-empty-mailbox-radically)
 - [(10) close tab by default](#10-close-tab-by-default)
-- [(11) use dark mode](#11-use-dark-mode)
 
 <!-- /TOC -->
 
