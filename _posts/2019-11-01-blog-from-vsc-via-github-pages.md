@@ -19,7 +19,6 @@ last_modified_at: 2019-11-15
 <!-- TOC -->
 
 - [visual studio code & powershell](#visual-studio-code--powershell)
-    - [blog article template](#blog-article-template)
 - [jekyll and github pages](#jekyll-and-github-pages)
     - [Add Search with lunr.js](#add-search-with-lunrjs)
     - [Custom CSS](#custom-css)
@@ -28,14 +27,13 @@ last_modified_at: 2019-11-15
     - [add back to the top button](#add-back-to-the-top-button)
     - [issue: the page not updating?](#issue-the-page-not-updating)
 - [add categories](#add-categories)
+- [add google analytics](#add-google-analytics)
 
 <!-- /TOC -->
 
 ## findings
 ### visual studio code & powershell
 * Create a template for your articles and save it into a `template.md` folder in your workspace
-
-#### blog article template
 
 ```markdown
 ---
@@ -149,6 +147,13 @@ categories: []
 * used regex in vscode to replace the previous version without categories
     * find `(title:.*\n)`
     * replace `$1categories: []\n`
+
+### add google analytics
+* I am using the default Minima theme, so all that needs to be done is to add to the `_config.yml`
+
+```
+google_analytics: UA-122822930-2
+```
 
 
 ## sources
