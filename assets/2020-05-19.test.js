@@ -1,4 +1,4 @@
-const reverse = require("./2020-05-18")
+const reverse = require("./2020-05-19")
 
 describe('reverse', () => {
     test('given out of range for int32, it should return 0', () => {
@@ -11,13 +11,13 @@ describe('reverse', () => {
     });
 
 
-    test('given a short int (13), it should reverse the values (return 31) ', () => {
+    test('given a short int (1311), it should reverse the values (return 1131) ', () => {
         /* Act */
-        let x = 13;
+        let x = 1311;
         /* Arr */
         let result = reverse(x);
         /* Ass */
-        expect(result).toEqual(31);
+        expect(result).toEqual(1131);
         
     });
 
