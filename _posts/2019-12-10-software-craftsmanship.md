@@ -51,13 +51,14 @@ As per Uncle Bob Martin, the idea is the responce to the invasion of project man
 >This is particularly true given the current state of software engineering. 
 >One hundred years from now, our engineering may seem as archaic as the techniques used by medieval cathedral builders seem to today’s civil engineers, while our craftsmanship will still be honored.
 
-- discipline itself is enough
+- that demonstrates the necessary **HIERARCHY OF VALUES** 
+- discipline itself is enough for life
 - no need to proceed into management: 
-    - surgeon is surgeon for the lifetime, no need to become a director of a hospital. Quite the opposite
+- surgeon is surgeon for the lifetime, no need to become a director of a hospital
 
 ### MANIFESTO FOR SOFTWARE CRAFTSMANSHIP
 - Elaboration of the [Manifesto for Agile Software Development (2001)](http://agilemanifesto.org/)
-    - There are 4 main tenets of the manifesto:
+- There are 4 main tenets of the original manifesto:
     1. Individuals and interactions over processes and tools
     2. Working software over comprehensive documnetation
     3. Customer collaboration over contract negotiation
@@ -101,3 +102,4 @@ Although no one would notice if those features were not quite right, the craftsm
 So nothing was swept under the rug. 
 Or, one might perhaps also say, there was no bullshit.
 ```
+
