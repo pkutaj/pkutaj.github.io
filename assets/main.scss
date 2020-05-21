@@ -5,14 +5,16 @@
 
 
 .btn {
+    align-items: center;
+    justify-content: center;
     border: 1px solid;
     border-radius: 18px;
-    display: block;
+    display: flex;
     font-size: 2em;
     font-weight: 900;
     margin:auto;
-    margin-top: 1.2em;
-    padding: 5px 15px;
+    max-width: 40%;
+    padding: 5px;
     text-align: center;
     width: auto;
 }
