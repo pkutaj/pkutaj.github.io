@@ -6,6 +6,7 @@ categories: [vscode]
 
 <!-- TOC -->
 
+- [ANALYZING](#analyzing)
 - [EDITING](#editing)
 - [DELETION](#deletion)
 - [SELECTION](#selection)
@@ -18,6 +19,11 @@ categories: [vscode]
 - [CODE](#code)
 
 <!-- /TOC -->
+### ANALYZING
+COMMAND                      | SHORTCUT             | COMMENTS
+-----------------------------|----------------------|-------------------------------------------
+get sum of selected integers | ``CTRL+ALT+SHIFT+;`` | custom, leveraging Number Monger extension
+
 
 ### EDITING
 
@@ -30,6 +36,7 @@ copy line up or down                     | `ALT+SHIFT+UP`          |
 go to the end of file                    | `CTRL+END             ` |
 go-to symbol (go to heading in markdown) | `CTRL+SHIFT+O         ` |
 go to the beginnign of file              | `CTRL+HOME            ` |
+insert sequence                          | `CTRL+ALT+SHIFT+'`      | custom, leveraging Number Monger extensio2n
 move line                                | `ALT+UP or DOWN       ` |
 language change                          | `CTRL+K+M             ` |
 open link (instead of ctrl+click)        | `CTRL+SHIFT+ALT+ENTER ` | open link command (`editor.action.openLink`)
