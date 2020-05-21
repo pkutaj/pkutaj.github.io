@@ -28,6 +28,7 @@ last_modified_at: 2019-11-15
     - [issue: the page not updating?](#issue-the-page-not-updating)
 - [add categories](#add-categories)
 - [add google analytics](#add-google-analytics)
+- [add buttons](#add-buttons)
 
 <!-- /TOC -->
 
@@ -155,6 +156,39 @@ categories: []
 google_analytics: UA-122822930-2
 ```
 
+### add buttons
+* from [Buttons @ Jekyll Codex](https://jekyllcodex.org/without-plugin/buttons/#)
+* download the [buttons.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/buttons.html)
+* put it in `_includes` folder
+* put the `{% include buttons.html %}` in your layout (in my case `post.html` in `_layouts`)
+* modify the `main.scss` in the `_assets` folder, in my case
+
+```css
+.btn {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 18px;
+    display: flex;
+    font-size: 2em;
+    font-weight: 900;
+    margin:auto;
+    max-width: 40%;
+    padding: 5px;
+    text-align: center;
+    width: auto;
+}
+```
+* add the button where you want to, in my case
+
+```markdown
+[[▶ PLAY]](https://drive.google.com/open?id=1xsIaunoYEXlBrZPFq9IJgBp87O_dqZmV)
+```
+* note I am not using media queries for making the button reponsive to different devices and I am fully relying on the built-in responsivity of Jekyll
+
+![button_centered]({{ site.url }}/assets/img000974.png)
+
+
 
 ## sources
 * [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)
@@ -163,5 +197,5 @@ google_analytics: UA-122822930-2
 * [Adding last modified date to Jekyll](https://tomkadwill.com/adding-last-modified-date-to-jekyll)
 * [How to Override CSS Styles in Jekyll](https://tomkadwill.com/2017/12/16/how-to-override-css-styles-in-jekyll.html)
 * [vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top/blob/v7.2.1/INSTALL.md)
-
+* [Buttons @ Jekyll Codex](https://jekyllcodex.org/without-plugin/buttons/#)
 
