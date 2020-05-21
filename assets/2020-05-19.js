@@ -1,26 +1,48 @@
-/* The concern is to swap ingers using to the array and back approach */
-var reverse = function(x) {
-if(x >= Math.pow(2,31) || x < Math.pow(-2,31)) return 0
+/* The concern is to swap integers using to the "to the array and back" approach */
+const checkInt32 = x => {
+    if (x >= Math.pow(2, 31) || x < Math.pow(-2, 31)) { return true }
+    else { return false }
+}
+const checkNegative = x => x < 0 ? true : false;
+const checkZeroes = x => x % 10 === 0 ? true : false;
+const removeZeroes = x => {
+    while (checkZeroes(x)) {
+        x = x / 10;
+    }
+    return x;
+}
 
-let intToArr = Array.from(String(x), Number)
-let i = 0;
-let size = intToArr.length; 
-let mid = Math.floor(size/2);
-while (i<mid) {
-        let lastIndex = intToArr.length - 1
+var reverse = function (x) {
+
+    let isNotInt32 = checkInt32(x);
+    if (isNotInt32 || x === 0) return 0
+
+    let isNegative = checkNegative(x);
+    if (isNegative) x = Math.abs(x)
+
+    let isEndedWithZeroes = checkZeroes(x)
+    if (isEndedWithZeroes) x = removeZeroes(x);
+
+    let intToArr = Array.from(String(x), Number)
+    let i = 0;
+    let lastIndex = intToArr.length - 1
+    let size = intToArr.length;
+    let mid = Math.floor(size / 2);
+
+    while (i < mid) {
         let helper = 0;
-        if(intToArr[lastIndex] === 0) {
-            intToArr.pop();
-            continue;
-        } else {
         helper = intToArr[i];
         intToArr[i] = intToArr[lastIndex]
         intToArr[lastIndex] = helper;
-        }
+        i++;
+        lastIndex--;
+    }
 
-    i++;
-    lastIndex--;
-}
-return Number(intToArr.join(""));
+    let absResult = Number(intToArr.join(""));
+    isNotInt32 = checkInt32(absResult);
+    if (isNotInt32) return 0
+    if (isNegative) return -Math.abs(absResult);
+    return absResult;
 };
+
 module.exports = reverse

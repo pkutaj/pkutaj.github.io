@@ -3,6 +3,24 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:500|IBM+Plex+Sans|Roboto+Mono&display=swap');
 
+
+.btn {
+    border: 1px solid;
+    border-radius: 18px;
+    display: block;
+    font-size: 2em;
+    font-weight: 900;
+    margin:auto;
+    margin-top: 1.2em;
+    padding: 5px 15px;
+    text-align: center;
+    width: auto;
+}
+
+.btn:hover {
+    color: #54A857;
+    text-decoration: none;
+}
 body {
     font-family: 'IBM Plex Sans', sans-serif;
 }
