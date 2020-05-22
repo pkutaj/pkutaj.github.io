@@ -185,10 +185,11 @@ google_analytics: UA-122822930-2
 [[▶ PLAY]](https://drive.google.com/open?id=1xsIaunoYEXlBrZPFq9IJgBp87O_dqZmV)
 ```
 * note I am not using media queries for making the button reponsive to different devices and I am fully relying on the built-in responsivity of Jekyll
-
+a
 ![button_centered]({{ site.url }}/assets/img000974.png)
 
-
+### issue: page not updating: gemfile.lock
+* by accident, I have commited a
 
 ## sources
 * [Adding support for HTML5's details element to Jekyll](http://movb.de/jekyll-details-support.html)
