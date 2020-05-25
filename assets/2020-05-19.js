@@ -1,6 +1,6 @@
 /* The concern is to swap integers using to the "to the array and back approach */
 
-class arrayFromInteger {
+class arrayJob {
     constructor(x) {
         Array.from(String(x), Number)
     }
