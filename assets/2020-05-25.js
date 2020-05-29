@@ -1,14 +1,16 @@
+const isSingleDigit = arr => arr.length === 1 ? true : false;
+
 function isPalindrome(x) {
     let arr = Array.from(String(x), Number)
-    let i = 0
-    let lastI = arr.length - 1
-    let result;
-    if(arr.length === 1) return true
-    while (i < lastI) {
-        if(arr[i] !== arr[lastI]) return result = false;
-        i++;
-        lastI--;
+    let frontIndex = 0
+    let backIndex = arr.length - 1
+    if(isSingleDigit(arr)) return true
+    while (frontIndex < backIndex) {
+        if(arr[frontIndex] !== arr[backIndex]) return false;
+        frontIndex++;
+        backIndex--;
     }
-    return result = true;
+    return true;
 }
+
 module.exports = isPalindrome;

@@ -25,5 +25,11 @@ describe('isPalindrome', () => {
         
     });
 
+    test('given a negative (-333), it should return false', () => {
+        let int = -333;
+        let result = isPalindrome(int)
+        expect(result).toEqual(false)
+    });
+
 
 });
