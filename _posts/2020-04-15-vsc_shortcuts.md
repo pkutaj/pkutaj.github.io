@@ -69,6 +69,12 @@ collapse ALL    | `CTRL+K CTRL+0`    |
 collapse region | `CTRL+SHIFT+] + [` |
 uncollapse ALL  | `CTRL+K CTRL+J`    |
 
+* to delete a region
+    1. navigate using Focus Breadcrumbs`CTRL+SHIFT+.`
+    2. collapse region using `CTRL+SHIFT+]`
+    3. select line with `CTRL+L`
+    4. delete
+
 ### COMMENTS
 
 COMMAND                 | SHORTCUT           | COMMENTS
