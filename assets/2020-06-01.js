@@ -9,8 +9,7 @@ let table = {
     "M": 1000
 }
 
-return Array.from(roman, )
-
+return Array.from(String(roman), roman => table[roman]).reduce((a,b)=> a+b, 0)
 
 }
 module.exports = romanToInt;
