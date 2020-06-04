@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Pavol Kutaj — CV"
 ---               
  
 phone                                               | e-mail
