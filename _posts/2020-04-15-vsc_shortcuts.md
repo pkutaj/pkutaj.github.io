@@ -91,6 +91,7 @@ COMMAND                                   | SHORTCUT              | COMMENTS
 ------------------------------------------|-----------------------|-----------------------------------------------
 activate sidebar and panel                | `CTRL + B + CTRL + J` |
 back to single-col                        | `ALT+V+L+S`           |
+close all editors                         | `CTRL+K CTRL+W`       | custom ?
 increase col-size                         | `CTRL+ALT+SHIFT+.`    |
 decrease col-size                         | `CTRL+ALT+SHIFT+,`    |
 flip layout (from vertical to horizontal) | `SHIFT+ALT+0`         | combine with move to the next col to move down
