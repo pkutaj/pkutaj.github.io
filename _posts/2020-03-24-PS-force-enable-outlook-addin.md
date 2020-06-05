@@ -24,6 +24,7 @@ categories: [powershell]
 ## findings
 ### sources
 * [Outlook’s slow add-ins resiliency logic and how to always enable slow add-ins – Developer Support for Messaging @ Microsoft CSS](https://developermessaging.azurewebsites.net/2017/08/02/outlooks-slow-add-ins-resiliency-logic-and-how-to-always-enable-slow-add-ins/)
+
 * [zipped_code]({{ site.url }}/assets/2020-03-23-force-addin-load.zip)
 * [source_code]({{ site.url }}/assets/2020-03-23-force-addin-load.ps1)
 
