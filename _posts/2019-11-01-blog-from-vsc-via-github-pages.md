@@ -29,6 +29,7 @@ last_modified_at: 2019-11-15
 - [add categories](#add-categories)
 - [add google analytics](#add-google-analytics)
 - [add buttons](#add-buttons)
+- [issue: page not updating: gemfile.lock](#issue-page-not-updating-gemfilelock)
 
 <!-- /TOC -->
 
@@ -150,11 +151,26 @@ categories: []
     * replace `$1categories: []\n`
 
 ### add google analytics
+* from [Google Analytics on Github Pages](https://dorian-gravier.com/2019/03/01/track-your-website-traffic-with-google-analytics-on-github-pages.html)
 * I am using the default Minima theme, so all that needs to be done is to add to the `_config.yml`
+* get the path of your theme
+* copy the `_includes\header.html` from the theme folder into the project folder
+* add the following
 
+```html
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122822930-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-000000000'); /* your tracking ID */
+  </script>
 ```
-google_analytics: UA-122822930-2
-```
+
+* push to github pages
+
+![evidence_analytics_added]({{ site.url }}/assets/img001009.png)
 
 ### add buttons
 * from [Buttons @ Jekyll Codex](https://jekyllcodex.org/without-plugin/buttons/#)
@@ -199,4 +215,4 @@ a
 * [How to Override CSS Styles in Jekyll](https://tomkadwill.com/2017/12/16/how-to-override-css-styles-in-jekyll.html)
 * [vanilla-back-to-top](https://github.com/vfeskov/vanilla-back-to-top/blob/v7.2.1/INSTALL.md)
 * [Buttons @ Jekyll Codex](https://jekyllcodex.org/without-plugin/buttons/#)
-
+* [Google Analytics on Github Pages](https://dorian-gravier.com/2019/03/01/track-your-website-traffic-with-google-analytics-on-github-pages.html)
