@@ -14,6 +14,7 @@ the question is, how to separate concerns in Node via the separation of code fil
 - [STEP-1 separate concerns into files](#step-1-separate-concerns-into-files)
 - [STEP-2 require the file in the referring file](#step-2-require-the-file-in-the-referring-file)
 - [STEP-3 export the module from the referred file](#step-3-export-the-module-from-the-referred-file)
+    - [(3.1) when exporting multiple functions](#31-when-exporting-multiple-functions)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -75,6 +76,28 @@ function curConverter(amountExchanged, exchangeRate) {
 }
 module.exports.curConverter = curConverter;
 ```
+
+#### (3.1) when exporting multiple functions
+
+```javascript
+//code.js
+function isPalindrome(x){
+return "hello"
+}
+module.exports.test = isPalindrome;
+
+//test.test.js
+const abc = require("./2020-05-25");
+describe('isPalindrome', () => {
+    test('given an int (12345), it should return the first and last number [1,5]', () => {
+        let int = 12345
+        let result = abc.test(int);
+        expect(result).toEqual("hello");
+    });
+});
+```
+
+![test_result_PASS]({{ site.url }}/assets/img000997.png)
 
 ### sources
 * [On JSDOC - JavaScript Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript#_jsdoc-support)
