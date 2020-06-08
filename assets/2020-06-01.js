@@ -1,15 +1,20 @@
 const expandRoman = roman => {
     const abbr = [
         ["IV", "IIII"],
-        ["XL", "LLLL"]
+        ["XL", "XXXX"],
+        ["IX", "VIIII"],
+        ["XC", "LXXXX"],
+        ["CD", "CCCC"],
+        ["CM", "DCCCC"]
     ]
     let i = 0;
-    let romanExpanded;
-    for (i; i < 2; i++) {
-        romanExpanded = roman.replace(abbr[i][0], abbr[i][1])
-    };    
+    let romanExpanded = roman;
+    for (i; i < 6; i++) {
+        romanExpanded = romanExpanded.replace(abbr[i][0], abbr[i][1])
+    };
     return romanExpanded;
 }
+
 function romanToInt(roman) {
     let romanExpanded = expandRoman(roman);
     let table = {
@@ -22,7 +27,8 @@ function romanToInt(roman) {
         "M": 1000
     }
 
-    return Array.from(String(romanExpanded), romanExpanded => table[romanExpanded]).reduce((a, b) => a + b, 0)
+    return Array.from(String(romanExpanded), romanExpanded => table[romanExpanded]).reduce((a, b) => a + b, 0);
 
 }
+
 module.exports = romanToInt;
