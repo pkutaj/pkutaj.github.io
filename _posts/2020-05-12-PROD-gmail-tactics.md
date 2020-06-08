@@ -19,6 +19,7 @@ the question is, what are the rules and tricks for the efficient use of GMAIL
 - [(8) mark as read: never](#8-mark-as-read-never)
 - [(9) eisenhower quadrant](#9-eisenhower-quadrant)
 - [(10) snooze-as-done](#10-snooze-as-done)
+- [(11) notifications?](#11-notifications)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -111,6 +112,11 @@ RAND           | random
 * as this is personal-level, I don't see the need of having the overview of all postponed / partially done things
 * if I have daily k&r task (like a weekly small thing to kick off the day), I snooze it until tomorrow
 * instead, you **MARK SNOOZED AS READ** and starting from the next day, you **MARK ALL AS UNREAD** to start the countdown again
+
+### (11) notifications?
+* currently experimenting with desktop notifications as a way to get attention to the tickets .
+* don't rush no that
+* don't get excited on that
 
 ### sources
 * [Beyond the Inbox: Rules for Reducing Email - Study Hacks - Cal Newport](https://www.calnewport.com/blog/2020/04/14/beyond-the-inbox-rules-for-reducing-email/)
