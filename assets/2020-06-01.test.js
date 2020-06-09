@@ -1,5 +1,5 @@
 const romanToInt = require("./2020-06-01")
-/* describe('romanToInt', () => {
+describe('romanToInt', () => {
     test('given I, it shoult return 1', () => {
     let roman = "I";
     let result = romanToInt(roman);
@@ -23,7 +23,7 @@ test('give "XXIV", it shoud return 24', () => {
     let roman = "XXIV"
     let result = romanToInt(roman);
     expect(result).toEqual(24)
-}); */
+});
 
 test('give "XLIV, it should return 44', () => {
     let roman = "XLIV"

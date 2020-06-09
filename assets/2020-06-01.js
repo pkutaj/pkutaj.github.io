@@ -1,17 +1,16 @@
 /* restore data point */
 const expandRoman = roman => {
-    const abbr = [
-        ["IV", "IIII"],
-        ["XL", "XXXX"],
-        ["IX", "VIIII"],
-        ["XC", "LXXXX"],
-        ["CD", "CCCC"],
-        ["CM", "DCCCC"]
-    ]
-    let i = 0;
+    const abbr = {
+        "IV": "IIII",
+        "XL": "XXXX",
+        "IX": "VIIII",
+        "XC": "LXXXX",
+        "CD": "CCCC",
+        "CM": "DCCCC"
+    }
     let romanExpanded = roman;
-    for (i; i < 6; i++) {
-        romanExpanded = romanExpanded.replace(abbr[i][0], abbr[i][1])
+    for (abbrForms in abbr) {
+        romanExpanded = romanExpanded.replace(abbrForms, abbr[abbrForms])
     };
     return romanExpanded;
 }
@@ -31,5 +30,5 @@ function romanToInt(roman) {
     return Array.from(String(romanExpanded), romanExpanded => table[romanExpanded]).reduce((a, b) => a + b, 0);
 
 }
-
+romanToInt("XLIV")
 module.exports = romanToInt;
