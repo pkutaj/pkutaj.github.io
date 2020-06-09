@@ -49,26 +49,34 @@ title: JavaScript > Functions as Parameters
 
 ### lambda expressions vs anonymous functions
 * lambda expressions can be named
+* note the 2 versions of using lambdas with and without fat arrow notation 
 
 ```javascript
-function traverseArray(arr,func){
-	let result = '';
-	for (const value of arr) {
-		result += func(value) + ' ';
-	}
-	console.log(result);
+function traverseArray(arr, func) {
+    let result = '';
+    for (const value of arr) {
+        result += func(value) + ' ';
+    }
+    console.log(result);
 }
-
 const arr = [1, 2, 3, 4, 5];
 
+
+/*VERSION 1 OF THE FUNCTION CALL ~ conventional*/
+const doubler = value => value * 2;
+traverseArray(arr, doubler);      
+//result: 2 4 6 8 10 
+
+/* VERSION 2 OF THE FUNCTION CALL ~ weird, eh ?*/
 traverseArray(arr, function doubler(value)) {
 	return value * 2;
 });
-]
+//result: 2 4 6 8 10 
+
 ```
 
 ### sources
 
 * [JavaScript Anonymous Functions](https://blog.scottlogic.com/2011/06/10/javascript-anonymous-functions.html)
-* https://jaketrent.com/post/handling-touch-click-browser/
+* <https://jaketrent.com/post/handling-touch-click-browser/>
 * [Lambda Functions Vs Anonymous Functions in JavaScript](https://medium.com/@chineketobenna/lambda-expressions-vs-anonymous-functions-in-javascript-3aa760c958ae)
