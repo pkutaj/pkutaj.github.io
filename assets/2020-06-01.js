@@ -17,7 +17,7 @@ const expandRoman = roman => {
 
 function romanToInt(roman) {
     let romanExpanded = expandRoman(roman);
-    let table = {
+    let conversionTable = {
         "I": 1,
         "V": 5,
         "X": 10,
@@ -26,8 +26,10 @@ function romanToInt(roman) {
         "D": 500,
         "M": 1000
     }
-
-    return Array.from(String(romanExpanded), romanExpanded => table[romanExpanded]).reduce((a, b) => a + b, 0);
+    
+    const intArr = Array.from(String(romanExpanded), romanExpanded => conversionTable[romanExpanded]);
+    const sumIntArr = intArr.reduce((a,b) => a+b, 0)
+    return sumIntArr
 
 }
 romanToInt("XLIV")
