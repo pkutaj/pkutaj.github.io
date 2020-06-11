@@ -15,11 +15,12 @@ the question is, what are certificates and what is their role in the encryption 
 - [certificate chains](#certificate-chains)
 - [certificate servers](#certificate-servers)
 - [signing](#signing)
-    - [STEP-1 get server-side](#step-1-get-server-side)
+    - [STEP-1 connect to the server via HTTPS](#step-1-connect-to-the-server-via-https)
     - [STEP-2 check intermediate certificate](#step-2-check-intermediate-certificate)
-    - [STEP-3 check domain name identity](#step-3-check-domain-name-identity)
-    - [STEP-4 check expiry date](#step-4-check-expiry-date)
-    - [STEP-5 sign](#step-5-sign)
+    - [STEP-3 get server-side](#step-3-get-server-side)
+    - [STEP-4 check domain name identity](#step-4-check-domain-name-identity)
+    - [STEP-5 check expiry date](#step-5-check-expiry-date)
+    - [STEP-6 sign](#step-6-sign)
 
 <!-- /TOC -->
 
@@ -36,7 +37,7 @@ the question is, what are certificates and what is their role in the encryption 
 * certs need to be loaded into a website so that people can communicate securely
 
 ### certificate authorities
-* certs are issued by **CERTIFICATE AUTHORITIES** (CAs)
+* certs are issued by **CERTIFICATE AUTHORITIES** (CAs) and their **CA Servers**
 
 ![comodo_as_certificate_issues]({{ site.url }}/assets/img000490.png)
 
@@ -76,6 +77,7 @@ the question is, what are certificates and what is their role in the encryption 
 ### signing
 * certificate authority server generates **ROOT CERTIFICATE**
     * relatively special needs protection
+    * is offline, stored by OS 
 * root certificate creates **INTERMEDIATE CERTIFICATE** and is signed by the root certificate
     * it allows running a mathematical formula to run against the signature of the intermediate certificate
     * it verifies that it was issued by a root certificate
@@ -90,21 +92,24 @@ the question is, what are certificates and what is their role in the encryption 
 
 * server certificate contains the **DOMAIN NAME**
 
-#### STEP-1 get server-side
-* receive a server-side certificate before any data is exchanged
+#### STEP-1 connect to the server via HTTPS
 
 #### STEP-2 check intermediate certificate
 * verify that the server-side certificate was issued by the intermediate certificate that says it is
 * the intermediate certificate is already in the browser / OS
+* it can also be downloaded from the CA server
 
-#### STEP-3 check domain name identity
+#### STEP-3 get server-side
+* after the server-side cert is signed, receive it
+
+#### STEP-4 check domain name identity
 * there is a domain name embedded within the certificate
 * domain in browser address bar must be identical do domain in the certificate
 * if failed, warning
 
-#### STEP-4 check expiry date
+#### STEP-5 check expiry date
 * check if the date is valid for server-side cert and intermediate certificate
 
-#### STEP-5 sign
+#### STEP-6 sign
 * certificate has values `p` and `g` used for public-private key encryption
 * ...the math follows that does the signing
