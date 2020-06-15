@@ -1,11 +1,11 @@
-function longestPrefix() {
-    let arr = [1, 2, 3, 4, 5]
-    let arrLen = arr.length;
+function longestPrefix(arr) {
+    /* let arr = new Array(arrSize); */
+    let n = arr.length;
     let runs = 0;
     let i = 0;
-    for (i; i < arrLen; i++) {
+    for (i; i < n; i++) {
         let j = i + 1
-        for (j; j < arrLen; j++) {
+        for (j; j < n; j++) {
             runs++;
         }
     }
