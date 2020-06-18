@@ -6,7 +6,7 @@ function longestPrefix(arr) {
     for (i; i < n; i++) {
         let j = i + 1
         for (j; j < n; j++) {
-            runs++;
+            if(arr[i]===)
         }
     }
     return runs;

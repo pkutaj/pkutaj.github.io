@@ -5,10 +5,17 @@ const longestPrefix = require("./2020-06-10")
         expect(result).toEqual(3);
     }); */
 
-    test('given 4 words, it should take it as N and return 6', () => {
+    /* test('given 4 words, it should take it as N and return 6', () => {
         let input = ["cat", "cap", "pig", "pit"];
         let result = longestPrefix(input)
         expect(result).toEqual(6);
+    });
+ */
+
+     test('given no equal prefix, it should return an false ', () => {
+        let input = ["cat", "dog"]
+        let result = longestPrefix(input)
+        expect(result).toEqual(false);
     });
     
 });
