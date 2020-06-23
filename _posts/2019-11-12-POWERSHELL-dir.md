@@ -11,9 +11,10 @@ the question is, what all can be done with one of the most widely used commands,
 <!-- TOC -->
 
 - [format and sort](#format-and-sort)
+- [list last modified file](#list-last-modified-file)
 - [filter](#filter)
 - [recurse + oh -paging](#recurse--oh--paging)
-- [search-string w/ dir](#search-string-w-dir)
+- [search-string alias sls](#search-string-alias-sls)
 - [filter multiple strings with -include](#filter-multiple-strings-with--include)
 - [count files (with filter)](#count-files-with-filter)
 - [search registry](#search-registry)
@@ -29,6 +30,11 @@ the question is, what all can be done with one of the most widely used commands,
 
 ![dir_sort_autosize]({{ site.url }}/assets/img000128.png)
 
+### list last modified file
+* `dir | sort LastWriteTime -Descending | select -First 1`
+* lists lastly changed files (i use it to display lastly downloaded file in the downloads folder)
+
+![list_last_n_downloaded_files]({{ site.url }}/assets/2020-06-23-dir-last-downloaded.gif)
 
 ### filter
 - `-filter` can use only `*` and `?` wildcards, which is good enough for most of the time
@@ -39,12 +45,14 @@ the question is, what all can be done with one of the most widely used commands,
 ### recurse + oh -paging
 * I have been using the following to display a selected depth of the directory tree
 * Thanks to [Displaying text one page at a time in PowerShell: more, less, head, tail – 4sysops](https://4sysops.com/archives/displaying-text-one-page-at-a-time-in-powershell-more-less-head-tail/)
+
 ```powershell
 dir -recurse -depth 2 -directory | oh -paging
 ```
+
 * Using `dir *foo.bar -recurse | oh -paging` as a quick search with possibility to instantly quit the search if I am happy with the first page
 
-### search-string w/ dir
+### search-string alias sls
 * just use `dir | sls "fooBar"` to get names of files with `fooBar` string in it
 
 ![dir_sls]({{ site.url }}/assets/img000130.png) 
@@ -85,6 +93,7 @@ Mode                LastWriteTime         Length Name
 PS C:\Users\Admin\Documents\workspace\XO\logs\pkutaj\_posts> (dir *2019-11-12* | measure).count
 1
 ```
+
 ### search registry
 * By default, the Registry provider creates two registry drives. 
 * To find all of the drives that are exposed by the Registry provider, use the `Get-PSDrive` (`gdr`) cmdlet. 
@@ -110,9 +119,7 @@ Name                           Property
 
 * [How to Get, Edit, Create and Delete Registry Keys with PowerShell](https://blog.netwrix.com/2018/09/11/how-to-get-edit-create-and-delete-registry-keys-with-powershell/)
 * [Use the PowerShell Registry Provider to Simplify Registry Access | Scripting Blog](https://devblogs.microsoft.com/scripting/use-the-powershell-registry-provider-to-simplify-registry-access/)
-## terminology
-* measure-object
-    * measure
+
  
 ## sources
 * https://stackoverflow.com/a/14716609/11082684
