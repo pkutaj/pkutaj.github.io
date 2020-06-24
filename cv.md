@@ -1,5 +1,6 @@
 ---
 layout: page
+title: cv + now
 ---               
  
 phone                                               | e-mail
@@ -8,14 +9,15 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Currently, I am bi-lingual (EN/GER) L2-support agent with .NET and ExtJS CRM application (Avolin’s Pivotal CRM) where I am handling customization problems written in C# and JavaScript. I am also creating front-ends on the side (WordPress- and Jekyll-based). I have 2+ years of experience in data analytics (SAP BW) and I have been deeply caring about the creation and optimization of UI/UX experience. In addition, I find high value in the automation of routine tasks by writing VBA, Powershell and Google Apps Scripts, if need be. I insist on continuous and elegant technical documentation of everything, inspired by the methodology of knowledge-centered-support and thrilled by the rise of static site generators and jamstack as a technical implementation of the KCS methodology.
+Currently (summer 2020), I am onboarding Snowplow Analytics — as a member of the Support Engineering Team. Learning AWS, Hashicorp stack, more advanced git and "digital" BI. 
  
 <!-- TOC -->
 
 - [Front-End Projects](#front-end-projects)
 - [Experience](#experience)
-    - [L2 Technical Support with .NET and JavaScript](#l2-technical-support-with-net-and-javascript)
-    - [SAP BW Data Analyst & Front-End Developer](#sap-bw-data-analyst--front-end-developer)
+    - [Cloud/Analytics Support Engineer](#cloudanalytics-support-engineer)
+    - [Technical Support with .NET and JavaScript](#technical-support-with-net-and-javascript)
+    - [SAP BW Data Analyst & Front-End Dev](#sap-bw-data-analyst--front-end-dev)
     - [L2 Technical Support with German](#l2-technical-support-with-german)
     - [L1 Technical Support with iOS with German](#l1-technical-support-with-ios-with-german)
 - [Education](#education)
@@ -43,14 +45,19 @@ Jekyll    | Blog                          | [http://pavol.kutaj.com](http://pavo
 Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.info)
  
 ### Experience
- 
-#### L2 Technical Support with .NET and JavaScript
+
+#### Cloud/Analytics Support Engineer
+* Snowplow Analytics
+* 2020-ongoing
+
+
+#### Technical Support with .NET and JavaScript
 * Avolin, Pivotal CRM
-* 2019-Ongoing
+* 2019-2020
  
 L2 support agent for the .NET based CRM application with ExtJS-based web client, debugging C# and JavaScript customization code and diving into Node.js as a preparation for the next product.
  
-#### SAP BW Data Analyst & Front-End Developer 
+#### SAP BW Data Analyst & Front-End Dev
 * HeidelbergCement Group
 * 2017-2019
  
