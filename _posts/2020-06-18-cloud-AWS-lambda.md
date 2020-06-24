@@ -11,7 +11,6 @@ The concern is to document the lambda service of AWS (one of the 3 computing ser
 
 - [(1) definition](#1-definition)
 - [(2) benefits](#2-benefits)
-- [sources](#sources)
 
 <!-- /TOC -->
 
