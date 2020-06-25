@@ -4,8 +4,8 @@ title: cv + now
 ---               
  
 phone                                               | e-mail
-----------------------------------------------------|-------------------------------------------
-+420702152552                                       | [pavol@kutaj.com](mailto: pavol@kutaj.com)
+----------------------------------------------------|---------------------------------------------
++420702152552                                       | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
@@ -13,25 +13,47 @@ Currently (summer 2020), I am onboarding Snowplow Analytics — as a member of t
  
 <!-- TOC -->
 
-- [Front-End Projects](#front-end-projects)
-- [Experience](#experience)
-    - [Cloud/Analytics Support Engineer](#cloudanalytics-support-engineer)
-    - [Technical Support with .NET and JavaScript](#technical-support-with-net-and-javascript)
-    - [SAP BW Data Analyst & Front-End Dev](#sap-bw-data-analyst--front-end-dev)
-    - [L2 Technical Support with German](#l2-technical-support-with-german)
-    - [L1 Technical Support with iOS with German](#l1-technical-support-with-ios-with-german)
-- [Education](#education)
-- [Skills](#skills)
-    - [Languages](#languages)
-    - [Computer languagues](#computer-languagues)
-    - [Tools and Frameworks](#tools-and-frameworks)
-    - [SAP](#sap)
-    - [OS & network](#os--network)
-    - [methodologies](#methodologies)
+- [1. Experience](#1-experience)
+    - [1.1. SaaS Support Engineer (AWS dominated)](#11-saas-support-engineer-aws-dominated)
+    - [1.2. .NET & Powershell Support Engineer](#12-net--powershell-support-engineer)
+    - [1.3. SAP BW/BI Support Engineer](#13-sap-bwbi-support-engineer)
+    - [1.4. L2 Windows Support Engineer with German](#14-l2-windows-support-engineer-with-german)
+    - [1.5. L1 Windows Support Engineer with iOS with German](#15-l1-windows-support-engineer-with-ios-with-german)
+- [2. Front-End Projects](#2-front-end-projects)
+- [3. Education](#3-education)
+- [4. Skills](#4-skills)
+    - [4.1. Human languages](#41-human-languages)
+    - [4.2. Computer languagues](#42-computer-languagues)
+    - [4.3. Tools and Frameworks](#43-tools-and-frameworks)
+    - [4.4. SAP stuff](#44-sap-stuff)
+    - [4.5. OS & network](#45-os--network)
+    - [4.6. methodologies](#46-methodologies)
 
 <!-- /TOC -->
+  
+### 1. Experience
+
+#### 1.1. SaaS Support Engineer (AWS dominated)
+* Snowplow Analytics
+* 2020-ongoing
+
+#### 1.2. .NET & Powershell Support Engineer
+* Avolin, Pivotal CRM
+* 2019-2020
  
-### Front-End Projects
+#### 1.3. SAP BW/BI Support Engineer
+* HeidelbergCement Group
+* 2017-2019
+  
+#### 1.4. L2 Windows Support Engineer with German 
+* HeidelbergCement Group 
+* 2015-2017
+  
+#### 1.5. L1 Windows Support Engineer with iOS with German
+* Infosys BPO
+* 2012-2015
+
+### 2. Front-End Projects
  
 TOOL      | DOMAIN                        | URL
 ----------|-------------------------------|-------------------------------------------------------------------
@@ -43,39 +65,8 @@ Wordpress | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
 Worpress  | Psychological Conference      | [http://csgt.cz/konference](http://csgt.cz/konference)
 Jekyll    | Blog                          | [http://pavol.kutaj.com](http://pavol.kutaj.com)
 Jekyll    | Micro-Social-Network          | [http://nedele.info](http://nedele.info)
- 
-### Experience
 
-#### Cloud/Analytics Support Engineer
-* Snowplow Analytics
-* 2020-ongoing
-
-
-#### Technical Support with .NET and JavaScript
-* Avolin, Pivotal CRM
-* 2019-2020
- 
-L2 support agent for the .NET based CRM application with ExtJS-based web client, debugging C# and JavaScript customization code and diving into Node.js as a preparation for the next product.
- 
-#### SAP BW Data Analyst & Front-End Dev
-* HeidelbergCement Group
-* 2017-2019
- 
-SAP BI/BW analyst, focused on ETL processes, monitoring and solving incidents of dataflow, providing accesses with creating authorizations and roles. Active in a release cycle as a cutover manager, contributing by writing VBA scripts for broadcasting and Active Directory DL updates or creating PowerShell scripts for the automation of the authorization procedures. Put forward and realized the development of the company’s webpage in CMS Drupal, using the corporate template but adding custom HTML5 and CSS code with a certain vision of UX/UI. Passionate about building laziness-promoting tools and fast & friendly front-ends.
- 
-#### L2 Technical Support with German 
-* HeidelbergCement Group 
-* 2015-2017
- 
-2nd level IT Support on the basis of ITIL methodology in English and German. Supporting the Microsoft environment (Windows OS, Office Suite, Active Directory Identity Management), Citrix Virtualization and thin-clients, basic JavaScript troubleshooting of web-based applications as well 
- 
-#### L1 Technical Support with iOS with German
-* Infosys BPO
-* 2012-2015
- 
-Providing top-notch customer service for German-speaking Apple customers, also mentoring newcomers and communicating the team’s demand to higher management.
- 
-### Education
+### 3. Education
  
 Charles University                 | Central European University
 -----------------------------------|-----------------------------------
@@ -83,14 +74,14 @@ Charles University                 | Central European University
 Faculty of Humanities              | Department of Modern History
 B.A. degree; graduated with honors | M.A. degree; graduated with honors
  
-### Skills
-#### Languages
+### 4. Skills
+#### 4.1. Human languages
 * Slovak native 
 * English C2
 * Czech C2
 * German C1
  
-#### Computer languagues
+#### 4.2. Computer languagues
 * Javascript productive code
 * Powershell productive code
 * C# active learner
@@ -101,7 +92,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
 * Regex devotee
  
-#### Tools and Frameworks
+#### 4.3. Tools and Frameworks
 * Visual Studio Code as the editor of choice
 * xUnit testing framework
 * git source control 
@@ -117,17 +108,17 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Fiddler
 * Node.js
  
-#### SAP
+#### 4.4. SAP stuff
 * SAP Data Warehousing Workbench (RSA1 suite)
 * BEx Query Designer
 * SAP BW Release and Cutover Management (RealTech) 
  
-#### OS & network
+#### 4.5. OS & network
 * TCP/IP knowledge
 * DNS config 
 * IIS configuration
 * Windows Server Roles and Features setup
 * .htaccess configurations
  
-#### methodologies
+#### 4.6. methodologies
 * Knowledge-Centered-Support
