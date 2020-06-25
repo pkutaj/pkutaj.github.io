@@ -6,4 +6,17 @@ describe('longest prefix', () => {
         let result = longestPrefix(arr)
         expect(result).toEqual("");
     })
+
+    test('given two identical strings, it should return the string', () => {
+        let arr = ["dog", "dog"]
+        let result = longestPrefix(arr)
+        expect(result).toEqual("dog")
+    });
+
+    test('given ["dog", "dope"], it shoudl return "do"', () => {
+        let arr = ["dog", "dope"]
+        let result = longestPrefix(arr); 
+        expect(result).toEqual("do")
+    });
 });
+
