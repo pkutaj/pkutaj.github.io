@@ -22,6 +22,7 @@ After all's done:
 - [3. set-prompt](#3-set-prompt)
 - [4. set-theme](#4-set-theme)
 - [5. modify profile](#5-modify-profile)
+- [6. remove darkblue from Avit](#6-remove-darkblue-from-avit)
 - [9. sources](#9-sources)
 
 <!-- /TOC -->
@@ -73,6 +74,19 @@ Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Avit
 ```
+
+### 6. remove darkblue from Avit
+* I find the default `DarkBlue` of **Avit** badly readable 🠊 changing it to my favorite Output color `Cyan`
+* put the following lines to `$profile`
+
+```
+$ThemeSettings.Colors.PromptBackgroundColor = "Cyan"
+$ThemeSettings.Colors.PromptHighlightColor = "Cyan" 
+$ThemeSettings.Colors.PromptForegroundColor = "Cyan"
+$ThemeSettings.Colors.DriveForegroundColor = "Cyan"
+```
+
+![result_with_cyan]({{ site.url }}/assets/img001219.png)
 
 ### 9. sources
 * [Make Your PowerShell 7 Truly Powerful - Beyond the Windows - Medium](https://medium.com/rkttu/make-your-powershell-7-truly-powerful-eb56b3fbe37f)

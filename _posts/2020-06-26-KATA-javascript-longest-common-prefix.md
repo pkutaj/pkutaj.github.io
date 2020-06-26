@@ -22,7 +22,7 @@ The concern is to document [(Longest Common Prefix - LeetCode Kata](https://leet
 * find the longest common prefix in an array of strings
 
 ### 3. sidestep: match the algorith with combinations of pairs without repetiton
-* (5/2) 🠊 5!/5!(5-2)! = 120 / 12 = 10
+* (5/2) = 5!/5!(5-2)! = 120 / 12 = 10
 * the algoritm for the simple combination without repetition is here, this needs polithing, but the total runs will be (n/k)
 
 ```javascript
