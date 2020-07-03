@@ -59,6 +59,8 @@ go to threads       | `CTRL+shirt+T` |
 open thread         | NAVIGATE + `T` | navigate and open from there (you can use `T`)
 toggle threads      | `CTRL + .`     | much used
 edit older response | NAVIGATE + `E` |
+**RESPONSE**        |                |
+open emoji reaction | NAVIGATE + `R` |
 
 ### 5. sounds
 * ideally something semantic reminding of the need for staying focused like a church bell
