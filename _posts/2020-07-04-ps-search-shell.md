@@ -13,13 +13,12 @@ The concern is documenting searching within the console — with the use of the 
     - [1.1. install fzf (chocolatey)](#11-install-fzf-chocolatey)
     - [1.2. install PSFzf module](#12-install-psfzf-module)
     - [1.3. overwrite keybindings in $profile](#13-overwrite-keybindings-in-profile)
-    - [usage: recursive file navigation](#usage-recursive-file-navigation)
-    - [use-case: command history](#use-case-command-history)
-- [2.  CTRL-F](#2--ctrl-f)
+    - [1.4. usage: recursive file navigation](#14-usage-recursive-file-navigation)
+    - [1.5. use-case: command history](#15-use-case-command-history)
+- [2. CTRL-F](#2-ctrl-f)
 
 <!-- /TOC -->
 ### 1. PSFzf
-
 #### 1.1. install fzf (chocolatey)
 
 ```
@@ -41,15 +40,15 @@ Remove-PSReadlineKeyHandler 'Ctrl+t'
 Import-Module PSFzf
 ```
 
-#### usage: recursive file navigation
+#### 1.4. usage: recursive file navigation
 * with `ctrl+t`
 
 ![file_search]({{ site.url }}/assets/img001241.gif)
 
-#### use-case: command history
+#### 1.5. use-case: command history
 * with `ctrl+r`
 
-### 2.  CTRL-F
+### 2. CTRL-F
 * is not really working
 * but what is working is `alt+space —> e —> f`
 
