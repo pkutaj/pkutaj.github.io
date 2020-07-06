@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ps > search shell 
+title: ps > search shell
 categories: [powershell]
 ---
 ## abstract
@@ -20,16 +20,10 @@ The concern is documenting searching within the console — with the use of the 
 <!-- /TOC -->
 ### 1. PSFzf
 #### 1.1. install fzf (chocolatey)
-
-```
-choco install fzf
-```
+* install fzf (chocolatey) with `choco install fzf`
 
 #### 1.2. install PSFzf module
-
-```
-Install-Module PSFzf -Scope CurrentUser
-```
+* install PSFzf module with `Install-Module PSFzf -Scope CurrentUser`
 
 #### 1.3. overwrite keybindings in $profile
 * put the following in the `$profile`
@@ -43,13 +37,11 @@ Import-Module PSFzf
 #### 1.4. usage: recursive file navigation
 * with `ctrl+t`
 
-![file_search]({{ site.url }}/assets/img001241.gif)
-
 #### 1.5. use-case: command history
 * with `ctrl+r`
 
 ### 2. CTRL-F
-* is not really working
+* `ctrl-f` is natively really working
 * but what is working is `alt+space —> e —> f`
 
 — <https://superuser.com/a/1260556/1083809>
