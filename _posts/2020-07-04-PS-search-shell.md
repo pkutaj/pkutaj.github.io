@@ -45,7 +45,7 @@ Import-Module PSFzf
 * with `ctrl+r`
 
 ### 2. CTRL-F
-* `ctrl-f` is natively really working
-* but what is working is `alt+space —> e —> f`
+* `ctrl-f` is natively **not** really working
+* but what **is** working is `alt+space —> e —> f`
 
 ![ctrl+f_deo]({{ site.url }}/assets/img001242.png)
