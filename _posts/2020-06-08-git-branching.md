@@ -21,6 +21,7 @@ The concern is to document the branching git workflow with the step into pull re
     - [(2.5) pull request](#25-pull-request)
     - [(2.6) git fetch](#26-git-fetch)
     - [(2.7) git merge origin/master](#27-git-merge-originmaster)
+    - [(2.8) cleanup](#28-cleanup)
 - [(3) final note: fork vs branch](#3-final-note-fork-vs-branch)
 - [(4) video](#4-video)
 - [sources](#sources)
@@ -86,6 +87,10 @@ The concern is to document the branching git workflow with the step into pull re
 ![git_fetch_git_merge_origin_master]({{ site.url }}/assets/img001113.png)
 
 * `git pull` does the same thing in the same way
+
+#### (2.8) cleanup
+* delete branches both locally and remotely
+* start remotely ? 
 
 ### (3) final note: fork vs branch
 > In git, branch is a lightweight thing that is often temporary and may be deleted. A fork (on GitHub) is a new project that is based on a previous project. You clone a repository to do work on it as a team member.
