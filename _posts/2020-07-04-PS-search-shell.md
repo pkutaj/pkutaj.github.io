@@ -1,10 +1,10 @@
 ---
 layout: post
-title: powershell > search in shell 2
+title: powershell > search in shell
 categories: [powershell]
 ---
 ## abstract
-The concern is documenting the search capabilities of posh
+The concern is documenting the search capabilities of posh with the help of PSFzf module and an alternative way of using the traditional `CTRL-F`
 
 ## video
 ## contents
@@ -39,7 +39,7 @@ Import-Module PSFzf
 #### 1.4. usage —> recursive file navigation
 * with `ctrl+t`
 
-[[▶ PLAY]](https://drive.google.com/file/d/1SdUXzUo-dCRAt5zBCrOtiwtx7kZo2s3g/view?usp=sharing)
+![PSFzf_in_action]({{ site.url }}/assets/img001241.gif)
 
 #### 1.5. use-case —> command history
 * with `ctrl+r`
