@@ -92,6 +92,9 @@ The concern is to document the branching git workflow with the step into pull re
 * delete branches both locally and remotely
 * start remotely ? 
 
+![delete_branch_after_PR]({{ site.url }}/assets/img001275.png)
+
+
 ### (3) final note: fork vs branch
 > In git, branch is a lightweight thing that is often temporary and may be deleted. A fork (on GitHub) is a new project that is based on a previous project. You clone a repository to do work on it as a team member.
 — <https://softwareengineering.stackexchange.com/a/237506>
