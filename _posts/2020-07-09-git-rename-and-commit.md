@@ -1,11 +1,10 @@
 ---
 layout: post
-title: git > r100 ? 
+title: git > on renaming files
 categories: [git]
 ---
 ### 1. abstract
-The aim is documenting renaming in git. 
-The case is the renaming of files in the context of blogging for various reasons — a major change sometimes is followed by the bump of the timestamp necessary for Jekyll. I have used prefixes within filenames for semantic/versioning reasons, etc.
+The aim is documenting renaming in git. The case is the renaming of files in the context of blogging for various reasons — a major change sometimes is followed by the bump of the timestamp necessary for Jekyll. I have used prefixes within filenames for semantic/versioning reasons, etc.
 
 ## TOC
 <!-- TOC -->
@@ -21,8 +20,13 @@ The case is the renaming of files in the context of blogging for various reasons
 
 ### 2. commit rename automatically
 * rename file
-* stage file
-* commit with `-a` flag
+* stage the renamed file and nothing else
+* commit with `commit -a <commit message>` flag or (commit `commit --all -m <commit message>`)
+
+> Tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
+
+— [Git - git-commit Documentation](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--a)
+
 * the score will be displayed even if the file has been modified between the last commit
 
 ```
