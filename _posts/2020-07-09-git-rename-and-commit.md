@@ -3,23 +3,57 @@ layout: post
 title: git > r100 ? 
 categories: [git]
 ---
+### 1. abstract
+The aim is documenting renaming in git. 
+The case is the renaming of files in the context of blogging for various reasons — a major change sometimes is followed by the bump of the timestamp necessary for Jekyll. I have used prefixes within filenames for semantic/versioning reasons, etc.
+
 ## TOC
 <!-- TOC -->
 
 - [1. abstract](#1-abstract)
-- [2. r100 status ?](#2-r100-status-)
-- [3. commit rename automatically](#3-commit-rename-automatically)
-- [4.](#4)
-- [5.](#5)
-- [6.](#6)
-- [7. sources](#7-sources)
+- [2. commit rename automatically](#2-commit-rename-automatically)
+    - [2.1. benefits](#21-benefits)
+- [3. r<n> status (r100)](#3-rn-status-r100)
+- [4. sources](#4-sources)
 
 <!-- /TOC -->
 
-### 1. abstract
-The aim is documenting renaming in git
 
-### 2. r100 status ?
+### 2. commit rename automatically
+* rename file
+* stage file
+* commit with `-a` flag
+* the score will be displayed even if the file has been modified between the last commit
+
+```
+▶ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --name-status --date=short
+91695bb pavol kutaj     2020-07-08      staleness
+R078    _posts/2020-06-02-staleness.md  _posts/2020-07-08-staleness.md
+```
+* example
+
+```
+~\Documents\workspace\work.log\pkutaj\_posts  master ↑1 +16 ~0 -1 ! ⚡                                                             2 minutes ago
+▶ git add 2020-07-09-git-rename-and-commit.md
+~\Documents\workspace\work.log\pkutaj\_posts  master ↑1 +1 ~0 -0 | +15 ~0 -1 ! ⚡                                                  2 minutes ago
+▶ git commit -a -m "rename example"
+[master 78102c8] rename example
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename _posts/{2020-07-08-git-rename-and-commit.md => 2020-07-09-git-rename-and-commit.md} (100%)
+~\Documents\workspace\work.log\pkutaj\_posts  master ↑2 +15 ~0 -0 ! ⚡                                                             0 seconds ago
+▶ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --name-status --date=short
+78102c8 pavol kutaj     2020-07-08      rename example                                                                                            R100    _posts/2020-07-08-git-rename-and-commit.md      _posts/2020-07-09-git-rename-and-commit.md
+```
+
+#### 2.1. benefits
+* the workflow below is **faster** than having to 
+    1. stage an addition of new an with `git add <old_name>`
+    2. stage a removal of old file with `git add <new_name>`
+* the workflow belog is **faster** than having to
+    1. stage a rename/move of a new name with `git mv <new_name>`
+    2. stage an addition of new content of the file with `git add <new name>`
+    
+### 3. r<n> status (r100)
 * found the following in the git log and wonder what **R100** denotes
 
 ```
@@ -33,21 +67,5 @@ M       jobs/datamodeling/sql-runner/sql/fin_permissions/permission_looker.sql
 
 — from <https://stackoverflow.com/a/53057010>
 
-### 3. commit rename automatically
-* rename file
-* stage file
-* commit with `-a` flag
-* the score will be displayed even if the file has been modified between the last commit
-
-```
-▶ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --name-status --date=short
-91695bb pavol kutaj     2020-07-08      staleness
-R078    _posts/2020-06-02-staleness.md  _posts/2020-07-08-staleness.md
-```
-
-
-### 4.  
-### 5.  
-### 6.  
-### 7. sources
+### 4. sources
 * [git diff --name-status : What does R100 mean? - Stack Overflow](https://stackoverflow.com/questions/53056942/git-diff-name-status-what-does-r100-mean)
