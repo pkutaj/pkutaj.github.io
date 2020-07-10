@@ -12,7 +12,7 @@ The aim is documenting renaming in git. The case is the renaming of files in the
 - [1. abstract](#1-abstract)
 - [2. commit rename automatically](#2-commit-rename-automatically)
     - [2.1. benefits](#21-benefits)
-- [3. r<n> status (r100)](#3-rn-status-r100)
+- [3. r100 status — and similar ones](#3-r100-status--and-similar-ones)
 - [4. sources](#4-sources)
 
 <!-- /TOC -->
@@ -57,7 +57,7 @@ R078    _posts/2020-06-02-staleness.md  _posts/2020-07-08-staleness.md
     1. stage a rename/move of a new name with `git mv <new_name>`
     2. stage an addition of new content of the file with `git add <new name>`
     
-### 3. r<n> status (r100)
+### 3. r100 status — and similar ones
 * found the following in the git log and wonder what **R100** denotes
 
 ```
