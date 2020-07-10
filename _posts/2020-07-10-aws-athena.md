@@ -25,7 +25,7 @@ The concern is documenting the service of AWS Athena
 * Interact with S3 data
 * Using Athena, objects in S3 can be queried with SQL
 * You can ad-hoc queries against S3 data
-* Important: ❌ CRUD ❌
+* Important: ~~CRUD~~
 * Importand: **READ ONLY **
 
 ### 2. three steps of Athena
