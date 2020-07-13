@@ -61,6 +61,7 @@ toggle threads      | `CTRL + .`     | much used
 edit older response | NAVIGATE + `E` |
 **RESPONSE**        |                |
 open emoji reaction | NAVIGATE + `R` |
+mark-all-as-read    | SHIFT + ESC    | just jump to slack and hit to reset the state
 
 ### 5. sounds
 * ideally something semantic reminding of the need for staying focused like a church bell
