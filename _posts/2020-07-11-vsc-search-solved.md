@@ -25,4 +25,5 @@ The concern is documenting the discovery of the search editor
 ![vsc_search_solved]({{ site.url }}/assets/img001285.png)
 
 ### 2. combine with search-in-shell
-* to open file I am using [search-shell](https://github.com/pkutaj/kb/blob/master/powershell/2020-07-04-PS-search-shell.md)
+*  use [search-shell](https://github.com/pkutaj/kb/blob/master/powershell/2020-07-04-PS-search-shell.md) to find file fast
+
