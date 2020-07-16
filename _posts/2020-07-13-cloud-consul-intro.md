@@ -14,6 +14,7 @@ The aim is documenting the benefits of hashicorp consul (part of hashicorp stack
 - [2. nodes & node failure detection](#2-nodes--node-failure-detection)
 - [3. distributed key/value store](#3-distributed-keyvalue-store)
     - [3.1. side-step: key-value store](#31-side-step-key-value-store)
+    - [3.2. the whys](#32-the-whys)
 - [4. sources](#4-sources)
 
 <!-- /TOC -->
@@ -56,6 +57,17 @@ The aim is documenting the benefits of hashicorp consul (part of hashicorp stack
 > Performance, a lack of standardization and other issues limited key-value systems to niche uses for many years, but the rapid move to cloud computing after 2010 has led to a renaissance as part of the broader NoSQL movement.
 
 — [Key–value database - Wikipedia](https://en.wikipedia.org/wiki/Key%E2%80%93value_database)
+
+#### 3.2. the whys
+* configuring applications is tedious
+* the best of apps have a simple config file that are in a proper place
+* how were they dropped to the proper folder in the past ?
+    1. package managers that copied default config files → modify **manually** to meet yr needs
+    2. config files were checked in with the version control → package and deploy
+        * and pushing the configuration is time-consuming (delay minutes and hours)
+* cosul is a reactive system, you **listen** for things to happen and you **react** to it
+* it listens to the changes in the **K/V** and listens to it as well
+
 
 ### 4. sources
 * [Key–value database - Wikipedia](https://en.wikipedia.org/wiki/Key%E2%80%93value_database)

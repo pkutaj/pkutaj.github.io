@@ -19,6 +19,7 @@ The concern is documenting instant messaging tactics — mostly focused on notif
 - [3. no mobile notifications](#3-no-mobile-notifications)
 - [4. slack shortcuts](#4-slack-shortcuts)
 - [5. sounds](#5-sounds)
+- [reminder](#reminder)
 - [6. sources](#6-sources)
 
 <!-- /TOC -->
@@ -61,11 +62,15 @@ toggle threads      | `CTRL + .`     | much used
 edit older response | NAVIGATE + `E` |
 **RESPONSE**        |                |
 open emoji reaction | NAVIGATE + `R` |
-mark-all-as-read    | SHIFT + ESC    | just jump to slack and hit to reset the state
+mark-all-as-read    | `SHIFT + ESC`  | just jump to slack and hit to reset the state
 
 ### 5. sounds
 * ideally something semantic reminding of the need for staying focused like a church bell
 * I keep the [Get Church Bells Tower from Microsoft Store](https://www.microsoft.com/en-us/p/church-bells-tower/9pfqbhn18h4k?activetab=pivot:overviewtab) as company to let me know about the state of the **SESSION**
+
+### reminder
+* as I am working with 1 WIP, I need to queue requests that are coming
+* [RemindMe for Windows](https://www.microsoft.com/en-us/p/remindme-for-windows/9wzdncrfj9nw) is the best queue I have found so far
 
 ### 6. sources
 * [Formatting text for app surfaces ~ Slack](https://api.slack.com/reference/surfaces/formatting)
