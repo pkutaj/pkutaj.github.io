@@ -21,7 +21,7 @@ The aim is documenting renaming in git. The case is the renaming of files in the
 ### 2. commit rename automatically
 * rename file
 * stage the renamed file and nothing else
-* commit with `commit -a <commit message>` flag or (commit `commit --all -m <commit message>`)
+* commit with `commit -a -m <commit message>` flag or (commit `commit --all -m <commit message>`)
 
 > Tell the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
 
