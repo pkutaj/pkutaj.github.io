@@ -1,10 +1,10 @@
 ---
 layout: post
-title: the case of work with regex matches
+title: powershell > the case of work with regex matches
 categories: [powershell]
 ---
 ## abstract
-The concern is documenting
+The concern is documenting binding the regex hit into the system `$Matches` hash table
 
 ## video
 ## contents
@@ -17,11 +17,6 @@ The concern is documenting
 <!-- /TOC -->
 
 
-
-## terminology
-* $matches
-
-## notes
 ### 1. extraction in a built-in binding $matches!   
 * PowerShell stores matches from the `-match` operator in the `$matches[]` hash table.
 * Example:
@@ -36,6 +31,7 @@ The concern is documenting
 ```
 
 ### 2. extract $matches from text files
+* note the combination of `Get-Content` with the `-raw` flag 
 * use the following template
 
 ```powershell
