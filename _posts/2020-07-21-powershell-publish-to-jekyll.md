@@ -25,6 +25,8 @@ I use this setup because I am using VSCode also for the knowledge capture/lookup
     * publishes the KB document with git, taking the filename as a commit message
 * I am publishing this file with `p ./2020-07-21-powershell-publish-to-jekyll.md`
 
+![pub-wlog_example]({{ site.url }}/assets/img001380.png)
+
 ### script
 
 ```powershell
