@@ -5,7 +5,7 @@ categories: [powershell]
 ---
 ## abstract
 The concern is documenting a script that I use for publishing content I keep in a local KB into the Jekyll. 
-I use this setup because I am using VSCode also for the knowledge capture/lookup, while Jekyll (wlog for work log) is a public face of my untertakings. 
+I use this setup because I am using VSCode also for the knowledge capture/lookup, while Jekyll (wlog for work log) is a public face of my undertakings. 
 
 ## video
 ## contents
