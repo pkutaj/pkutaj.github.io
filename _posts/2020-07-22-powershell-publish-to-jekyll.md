@@ -35,8 +35,12 @@ function pub-git {
         [string]$wlogPath, 
         [string]$docName)
     git add $wlogPath
+    git add "..\assets"
     git commit -m "$docName"
     git push
+    write-host "~~~ the result of the git push ~~~" -foregroundcolor cyan
+    git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --name-status --date=short -1 
+    write-host "~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~ ~~~" -foregroundcolor cyan
 }
 function pub-wlog {
     [CmdletBinding()]
