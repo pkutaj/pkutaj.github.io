@@ -64,7 +64,7 @@ function pub-wlog {
         $text -match $r
         $Matches.values | % { Copy-Item $_ $wlogAssets -Force -Verbose }
         (Get-Content $docPath).replace($replace, $replaceWith) | Set-Content $wlogPath
-        cd $wlogFolder
+        pushd $wlogFolder
         pub-git -wlogPath $wlogPath -docName $docName
     }
     
