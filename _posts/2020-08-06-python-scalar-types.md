@@ -1,6 +1,6 @@
 ---
 layout: post
-title: scalar types
+title: python > scalar types
 categories: [python]
 ---
 ## abstract
