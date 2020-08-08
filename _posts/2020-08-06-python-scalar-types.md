@@ -15,6 +15,7 @@ The concern is documenting the meaning and personal appropriation (wrapping my h
     - [2.2. float](#22-float)
     - [2.3. None](#23-none)
     - [2.4. Bool](#24-bool)
+- [note on vectors](#note-on-vectors)
 - [sources](#sources)
 
 <!-- /TOC -->
@@ -86,6 +87,9 @@ The concern is documenting the meaning and personal appropriation (wrapping my h
 * True
 * False
 * Bool constructor for casting truthy and falsy values into a bool
+
+### note on vectors
+* when learning Clojure, the name for parameter block as **ARGUMENT VECTOR**
 
 ### sources
 * [Scalar (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Scalar_(mathematics))
