@@ -34,5 +34,3 @@ git checkout <sha> <filename>
 
 ![done]({{ site.url }}/assets/img001547.png)
 ![recovered]({{ site.url }}/assets/img001548.png)
-
-![random_image]({{ site.url }}/assets/img001528.png)
