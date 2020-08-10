@@ -3,13 +3,13 @@ layout: post
 title: git > on renaming files
 categories: [git]
 ---
-### 1. abstract
+### 1. usecase
 The aim is documenting renaming in git. The case is the renaming of files in the context of blogging for various reasons — a major change sometimes is followed by the bump of the timestamp necessary for Jekyll. I have used prefixes within filenames for semantic/versioning reasons, etc.
 
 ## TOC
 <!-- TOC -->
 
-- [1. abstract](#1-abstract)
+- [1. usecase](#1-usecase)
 - [2. commit rename automatically](#2-commit-rename-automatically)
     - [2.1. benefits](#21-benefits)
 - [3. r100 status — and similar ones](#3-r100-status--and-similar-ones)
@@ -53,18 +53,14 @@ R078    _posts/2020-06-02-staleness.md  _posts/2020-07-08-staleness.md
 * the workflow below is **faster** than having to 
     1. stage an addition of new an with `git add <old_name>`
     2. stage a removal of old file with `git add <new_name>`
-* the workflow belog is **faster** than having to
-    1. stage a rename/move of a new name with `git mv <new_name>`
-    2. stage an addition of new content of the file with `git add <new name>`
     
 ### 3. r100 status — and similar ones
 * found the following in the git log and wonder what **R100** denotes
 
 ```
-6a193a9 Nikola Maksimovic       2020-06-22      adding financial report to playbook
-M       jobs/datamodeling/sql-runner/playbooks/02-ecosia-playbook.yml.tmpl
-R100    jobs/datamodeling/sql-runner/sql/financial_report/financial-report_aggr.sql     jobs/datamodeling/sql-runner/sql/20_blog/05_financial_report.sql
-M       jobs/datamodeling/sql-runner/sql/fin_permissions/permission_looker.sql
+6a193a9 Pavol       2020-06-22      adding financial report to playbook
+R100    financial-report_aggr.sql     05_financial_report.sql
+M       fin_permissions/permission_looker.sql
 ```
 
 > The documentation for git status under "Changed Tracked Entries" appears to explain what R100 means: <X><score> The rename or copy score (denoting the percentage of similarity between the source and target of the move or copy). For example "R100" or "C75". So, putting this together with what you cited above, the files you are seeing with R100 status mean that they were moved, and that Git found a 100% match between that file and some other previously named file.
