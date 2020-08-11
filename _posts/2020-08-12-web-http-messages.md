@@ -39,12 +39,28 @@ The concern is documenting the dynamics of HTTP request for resources, and respo
     2. URL
     3. version 
 
+* the example of the `HEAD` method sent from curl
+
+```
+> HEAD /pkutaj/kb/blob/master/web/2020-08-12-web-http-messages.md HTTP/1.1
+```
+
+
 #### headers
 ![each_line_separate_header]({{ site.url }}/assets/img001591.png)
+* only host is required the rest are optional — but if present, must be formatted properly
+* the example below is a start line with 3 headers that are used by curl
+
+
+```
+> HEAD /pkutaj/kb/blob/master/web/2020-08-12-web-http-messages.md HTTP/1.1
+> Host: github.com
+> User-Agent: curl/7.55.1
+> Accept: */*
+```
 
 ##### 2.2. example1 (curl)
 * one or more **HEADERS**
-
 
 * note that everything but the host header is optional 
 * use `curl` to see headers in the shell: there is a start line and 3 headers and no body
