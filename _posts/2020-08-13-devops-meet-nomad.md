@@ -35,7 +35,7 @@ The concern is documenting the benefits and character of NOMAD as a runner of ei
 
 >And the crucial idea in all of this is the one that we build a layered system. So for instance, if we're writing the square root procedure, somewhere the square root procedure uses a procedure called good-enough, and between those there is some sort of abstraction boundary. It's almost as if we go out and in writing square root, we go and make a contract with George, and tell George that his job is to write good-enough, and so long as good-enough works, we don't care what it does. We don't care exactly how it's implemented. There are levels of detail here that are George's concern and not ours. So for instance, George might use an absolute value procedure that's written by Harry, and we don't much care about that or even know that, maybe, Harry exists. So the crucial idea is that when we're building things, we divorce the task of building things from the task of implementing the parts. And in a large system, of course, we have abstraction barriers like this at lots, and lots, and lots of levels. And that's the idea that we've been using so far over and over in implementing procedures.
 
-— From the classical ![structure_and_interpretation_of_computer_programs](https://youtu.be/DrFkf-T-6Co?t=132)
+— From the classical [structure_and_interpretation_of_computer_programs](https://youtu.be/DrFkf-T-6Co?t=132)
 
 * ... so you don't care if the application is running on AWS, GCP or Azure and you don't care if it's containerized or a VM; all of that is a black box away abstracted away, behind the abstraction boundary... you just want to run these jobs like deployment of an application
 
