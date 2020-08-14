@@ -1,4 +1,4 @@
-v---
+---
 layout: post
 title: cs > the case of recursive multiplication
 categories: [programming]
