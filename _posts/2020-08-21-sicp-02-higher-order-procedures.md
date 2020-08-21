@@ -29,9 +29,6 @@ categories: [programming]
 * breaking down the problem into components
 * write it down with necessary parameters so that is still readable
 * worry about lambdas later
-* `FIXED POINT` in the screenshot below is a function expression being called from within the method
-
-![worry-about-lambas-later](img/img000187.png)
 
 ### 2. dry
 * **RULE**: when you see yourself writing something more than once, there is something wrong with it. 
