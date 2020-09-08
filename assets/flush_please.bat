@@ -1,2 +1,0 @@
-REM start powershell -noexit "& "".\flush_please.ps1"""; exit
-powershell.exe -Command Start-Process PowerShell -ArgumentList '-File "C:\Users\pivadm\Documents\pavol.kutaj\flush_please.ps1"' -Verb RunAs
