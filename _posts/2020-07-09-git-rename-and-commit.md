@@ -1,4 +1,4 @@
----
+*       ---
 layout: post
 title: git > on renaming files
 categories: [git]
