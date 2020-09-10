@@ -84,4 +84,4 @@ The concern is documenting the conceptualization of elastic load balancing and f
 ![domain_name_as_CNAME]({{ site.url }}/assets/img001738.png)
 
 ### 7. sources
-* [Implementing AWS Load Balancing | Pluralsight](https://app.pluralsight.com/library/courses/aws-load-balancing-implementing/table-of-contents)
+* [Implementing AWS Load Balancing](https://app.pluralsight.com/library/courses/aws-load-balancing-implementing/table-of-contents)
