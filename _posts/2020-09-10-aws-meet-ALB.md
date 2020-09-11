@@ -18,6 +18,7 @@ The concern is documenting the conceptualization of elastic load balancing and f
 - [4. schemes: internet-facing, internal-facing](#4-schemes-internet-facing-internal-facing)
 - [5. healthchecks](#5-healthchecks)
 - [6. request routing](#6-request-routing)
+- [you can't ping ELB](#you-cant-ping-elb)
 - [7. sources](#7-sources)
 
 <!-- /TOC -->
@@ -83,5 +84,20 @@ The concern is documenting the conceptualization of elastic load balancing and f
 
 ![domain_name_as_CNAME]({{ site.url }}/assets/img001738.png)
 
+### you can't ping ELB
+
+> Amazon's load balancers have a network security policy which swallows ICMP packets for both ping and traceroute
+
+```
+Pinging ec2-18-158-245-136.eu-central-1.compute.amazonaws.com [18.158.245.136] with 32 bytes of data:
+Request timed out.
+Request timed out.
+```
+
+>  I have to admit I don't fully understand why this is necessary -- if you do a ping through ELB and have 10 instances behind it, what is it actually telling you? You may never hit all the instances, so I don't see the benefit. It seems to me that you should check the application health by using the ELB health checks and if you need to ping the back-ends directly, you could expose them directly to the internet and ping them in a round-robing fashion directly. I'd like to understand how passing a ping through ELB helps you.
+
+— [Re: Allowing Ping on Elastic Load Balancer](https://forums.aws.amazon.com/message.jspa?messageID=376782#jive-message-294990)
+
 ### 7. sources
 * [Implementing AWS Load Balancing](https://app.pluralsight.com/library/courses/aws-load-balancing-implementing/table-of-contents)
+
