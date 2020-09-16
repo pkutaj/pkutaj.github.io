@@ -7,23 +7,24 @@ categories: [history]
 The concern is documenting the discussion that has followed the provocative tweet by Uncle Bob 
 
 > OO is not a mindset, nor a philosophy, nor a technique for modeling "the real world".  
+----
 > It is nothing more, nor less, than 
 > data structures manipulated by ASSOCIATED FUNCTIONS 
-> and these associated functions are called INDIRECTLY 
-> the indirection is implemented through through VECTORS  
+> AND these associated functions are called INDIRECTLY 
+> AND the indirection is implemented through VECTORS  
 > Deal with it.
 
 <!-- TOC -->
 
 - [1. Simula](#1-simula)
-- [C++](#c)
-- [Smalltalk](#smalltalk)
-- [Last words](#last-words)
+- [2. C++](#2-c)
+- [3. Smalltalk](#3-smalltalk)
+- [4. Last words](#4-last-words)
 
 <!-- /TOC -->
 
 ### 1. Simula
-- OO defined by ALLAN KEY 
+- OO defined by ALAN KAY 
 - definition derived from the work of OLE-JOHAN DAHL AND KRISTEN NYGAARD who invented the concept 
 - ... almost by accident
 - they were fiddling around wit ALGOL60 and trying to simulate ships going in and out od the fjords of Norway
@@ -35,15 +36,15 @@ The concern is documenting the discussion that has followed the provocative twee
 - and then they went oon to invent the languae SIMULA67
 - that gave the words CLASS, PUBLIC, PRIVATE
 
-### C++
+### 2. C++
 - BJARNE STROUSTRUP took that and converted C into Simula and came up with C++ (first called _C with Classes_)
 
-### Smalltalk
+### 3. Smalltalk
 - KAY who looked at SIMULA, created Smaltalk and coined the term OO
 - he defined is technically: it is about encapsulation, message passing and late binding
 - OO is technical
 
-### Last words
+### 4. Last words
 - ineritance was there since Simula 
 - Smalltalk had a different approach as it was dynamic - not used much in Python, Ruby, etc.
 - Java finally said - inheritance is terrible and invented a hack of interface and C# took it
