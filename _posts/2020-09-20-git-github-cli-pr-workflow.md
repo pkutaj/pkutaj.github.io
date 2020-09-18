@@ -47,7 +47,7 @@ gh pr create
 
 * the github cli will use proper git command to push the feature branch and create the PR as well !
 
-![gh_pr_create]({{ site.url }}/assets/{{ site.url }}/assets/img001865.png)
+![gh_pr_create]({{ site.url }}/assets/img001865.png)
 
 ### 3. verify PR
 
