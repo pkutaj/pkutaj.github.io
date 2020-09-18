@@ -13,6 +13,7 @@ The concern is documenting the concept of **BURSTABLE** — since that is the ma
 
 - [1. define](#1-define)
 - [from aws docs](#from-aws-docs)
+- [from ec2instances.info](#from-ec2instancesinfo)
 
 <!-- /TOC -->
 
@@ -29,3 +30,7 @@ The concern is documenting the concept of **BURSTABLE** — since that is the ma
 
 > Amazon EC2 allows you to choose between Fixed Performance Instances (e.g. M5, C5, and R5) and Burstable Performance Instances (e.g. T3). Burstable Performance Instances provide a baseline level of CPU performance with the ability to burst above the baseline.
 
+### from ec2instances.info
+* the best info on aws ec2instances is [Amazon EC2 Instance Comparison](https://www.ec2instances.info/?selected=t3.large)
+
+![check_image_from_ec2istances]({{ site.url }}/assets/img001858.png)
