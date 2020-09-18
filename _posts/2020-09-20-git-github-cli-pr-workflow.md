@@ -1,4 +1,4 @@
-v---
+---
 layout: post
 title: git > github cli
 categories: [post]
