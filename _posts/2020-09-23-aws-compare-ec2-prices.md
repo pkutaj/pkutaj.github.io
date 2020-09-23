@@ -1,6 +1,6 @@
 ---
 layout: post
-title: compare ec2 prices
+title: aws > compare ec2 prices
 categories: [aws]
 ---
 ## usecase
