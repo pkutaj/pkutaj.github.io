@@ -2,8 +2,6 @@
 layout: page
 title: ordo
 ---
-## work order
-
 01. cultivate abstract thinking
 02. learn by writing
 03. write before operate
