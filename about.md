@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: page
 title: ordo
 ---
-## rules of work
+## work order
 
 01. cultivate abstract thinking
 02. learn by writing
@@ -11,6 +11,6 @@ title: ordo
 05. keep docs visual
 06. rubberduck code
 07. don't worry about quality, just write before operate
-08. when reading, correct and improve
-09. don't break the chain: publish daily
-10. ...else, flush the chain: delete all posts, start over
+08. when reading, edit
+09. publish daily, don't break the chain
+10. else, flush the chain, delete it all
