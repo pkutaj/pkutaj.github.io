@@ -11,12 +11,12 @@ The concern is documenting the fixing the last commit message - submitted by mis
 
 <!-- TOC -->
 
-- [1.  git commit --ammend -m](#1--git-commit---ammend--m)
+- [1. git commit --ammend -m](#1-git-commit---ammend--m)
 - [2. sources](#2-sources)
 
 <!-- /TOC -->
 
-### 1.  git commit --ammend -m 
+### 1. git commit --ammend -m 
 
 ```
 git commit --ammend -m "this is the fixed message"
