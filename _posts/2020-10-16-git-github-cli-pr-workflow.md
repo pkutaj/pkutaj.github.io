@@ -15,7 +15,8 @@ The concern is documenting how the github CLI's feature for creating pull reques
     - [3.2. view](#32-view)
     - [3.3. diff](#33-diff)
 - [4. merge PR](#4-merge-pr)
-- [5. sources](#5-sources)
+- [5. git pull](#5-git-pull)
+- [6. sources](#6-sources)
 
 <!-- /TOC -->
 
@@ -72,12 +73,28 @@ gh pr view
 #### 3.3. diff
 * outputs all the changes done in the pull requests
 
+```
+gh pr diff
+```
+
 ![gh_pr_diff]({{ site.url }}/assets/img001866.png)
 
 ### 4. merge PR
 * merge the PR and delete the feature branch if so intended
 
+```
+gh pr merge
+```
+
 ![gh_pr_merge]({{ site.url }}/assets/img001868.png)
 
-### 5. sources
+### 5. git pull
+* do not forget to pull the changes again, if continuing in further work
+* this prevents merge conflicts
+
+```
+git pull
+```
+
+### 6. sources
 * [Manual of GitHub CLI](https://cli.github.com/manual/)
