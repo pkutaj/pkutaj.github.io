@@ -9,8 +9,8 @@ The concern is documenting
 <!-- TOC -->
 
 - [1. steps](#1-steps)
-- [demo](#demo)
-- [2. script](#2-script)
+- [2. demo](#2-demo)
+- [3. script](#3-script)
 
 <!-- /TOC -->
 
@@ -20,13 +20,13 @@ The concern is documenting
 * get the result as encoded json
 * this is what `echo $string | jq '.'` is doing in bash
 
-### demo
+### 2. demo
 
 * decoding `aGVsbG8gd29ybGQ=` into `hello world`
 
 ![demo]({{ site.url }}/assets/img002060.gif)
 
-### 2. script
+### 3. script
 
 ```powershell
 function decode-base64 {
