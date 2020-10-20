@@ -11,11 +11,12 @@ the aim is defining **linked list** — the essential datastructure, not only fo
 <!-- TOC -->
 
 - [1. history](#1-history)
-- [2. structure](#2-structure)
-    - [2.1. node](#21-node)
-    - [2.2. node chains](#22-node-chains)
-- [3. terminology](#3-terminology)
-- [4. sources](#4-sources)
+- [2. family](#2-family)
+- [3. structure](#3-structure)
+    - [3.1. node](#31-node)
+    - [3.2. node chains](#32-node-chains)
+- [4. terminology](#4-terminology)
+- [5. sources](#5-sources)
 
 <!-- /TOC -->
 
@@ -26,15 +27,15 @@ the aim is defining **linked list** — the essential datastructure, not only fo
 * shortly afterwards, **LISP** was designed with linked lists at its core
     * LISP is **LIS**t **P**rocessor
 
-## 2. family
+### 2. family
 * list is a special kind of a more general structure called **GRAPH**
 * tree is also a kind of **GRAPH**
 * DAG is also a type of **GRAPH**
 
 >... linked list has data in it's nodes — In fact from mathematical view a linked list is some sort of graph. The main difference between graph in general and linked list is that a node in linked list could at most have two pointers (one to its next and one to its previous node) but a node in graph could have more than two pointers.
 
-### 2. structure
-#### 2.1. node
+### 3. structure
+#### 3.1. node
 * the element of the linked list
 * 2 functions — 2 part structure
     1. mechanism to contain a piece of data — in data, value, payload
@@ -42,7 +43,7 @@ the aim is defining **linked list** — the essential datastructure, not only fo
 
 [node_2_functions]({{ site.url }}/assets/img000776.png)
 
-#### 2.2. node chains
+#### 3.2. node chains
 * node stores value
 * node contains also an object reference pointer
 * the pointer is `null` when the node is constructed / instantiated
@@ -64,7 +65,7 @@ the aim is defining **linked list** — the essential datastructure, not only fo
 
 ![c++_linked_list_structure]({{ site.url }}/assets/img000789.png)
 
-### 3. terminology
+### 4. terminology
 * The next reference inside a node can be viewed as a **LINK** or **POINTER** to another node.
 * The first node of a linked list is caled are called the **HEAD** of the list
 * The last node of a linked lise is called the **TAIL** of the list 
@@ -73,5 +74,5 @@ the aim is defining **linked list** — the essential datastructure, not only fo
     * `Null-pointer` indicates the **END OF THE LIST.**
 * Thus, we can **TRAVERSE** the list starting at the head and ending at the tail. 
 
-### 4. sources
+### 5. sources
 * [A Comprehensive Guide To Singly Linked List Using C++ - Codementor](https://www.codementor.io/@codementorteam/a-comprehensive-guide-to-implementation-of-singly-linked-list-using-c_plus_plus-ondlm5azr)
