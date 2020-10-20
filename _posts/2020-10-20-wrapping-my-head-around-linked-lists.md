@@ -41,7 +41,7 @@ the aim is defining **linked list** — the essential datastructure, not only fo
     1. mechanism to contain a piece of data — in data, value, payload
     2. means to connecting itself to other node via **OBJECT REFERENCE POINTER** — next pointer, next link
 
-[node_2_functions]({{ site.url }}/assets/img000776.png)
+![node_2_functions]({{ site.url }}/assets/img000776.png)
 
 #### 3.2. node chains
 * node stores value
