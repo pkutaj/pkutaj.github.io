@@ -1,11 +1,11 @@
 ---
 layout: post
-title: programming > linked lists
+title:
 categories: [programming]
 ---
 ## abstract
 
-the aim is defining **linked list** essential for working with **lisp**
+the aim is defining **linked list** — the essential datastructure, not only for working with **clojure/lisp**
 
 ## toc
 <!-- TOC -->
