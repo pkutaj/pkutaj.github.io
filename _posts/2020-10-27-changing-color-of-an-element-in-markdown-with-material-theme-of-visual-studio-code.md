@@ -47,5 +47,7 @@ markup.inline.raw.string.markdown
 * save
 * done
 
+![done_change_applied]({{ site.url }}/assets/img002127.png)
+
 ### 3. sources
 * [Change highlight text color in Visual Studio Code - sStack Overflow](https://stackoverflow.com/questions/35926381/change-highlight-text-color-in-visual-studio-code)
