@@ -1,6 +1,6 @@
 ---
 layout: post
-title: enter detached head to peek into past
+title: 
 categories: [git]
 ---
 ## abstract
