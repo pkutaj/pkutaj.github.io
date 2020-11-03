@@ -111,4 +111,4 @@ Connection: Keep-Alive
 
 ### 5. sources
 * [Emulating an HTTP/1.1 Request using Telnet < System — The Art of Web](https://www.the-art-of-web.com/system/telnet-http11/)
-* [HTTP Messages - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [HTTP Messages - HTTP on MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
