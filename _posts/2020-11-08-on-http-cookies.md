@@ -4,7 +4,7 @@ title:
 categories: []
 ---
 ## usecase
-The concern is documenting
+The concern is documenting cookies, essential to understand for the modern BI. 
 
 <!-- TOC -->
 
@@ -144,7 +144,7 @@ only accessible via host domain | accessible on any website that loads the 3rd p
 
 
 ### 13. sources
-* https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
+* <https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/>
 * [Script Getting Cookies using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/Getting-Cookies-using-3c373c7e)
 * [Network_userid and domain_userid - For data modelers & consumers - Discourse – Snowplow](https://discourse.snowplowanalytics.com/t/network-userid-and-domain-userid/1171)
 * [Set-Cookie - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie)
