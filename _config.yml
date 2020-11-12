@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: work.log
+title: documentation driven operations
 email: pkutaj@gmail.com
-description: work ➔ log ➔ repeat
+description: document ➔ work ➔ publish daily OR delete all
 url: http://pavol.kutaj.com
 # Build settings
 theme: minima
