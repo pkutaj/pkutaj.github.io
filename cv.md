@@ -9,12 +9,12 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Currently (summer 2020), I am onboarding Snowplow Analytics — as a member of the Support Engineering Team. Learning AWS, Hashicorp stack, more advanced git and "digital" BI. 
+Currently (Nov-2020) learning python, delving into the classics with the Structure and Interpretation of Computer Programs (SICP) but striving for the operational briliance all things Snowplow Analytics — infra w/ HashiStack, monitor w/ Grafana, data warehousing with AWS redshift and some reporting with Redash (and even excel:). More and more trying to do as much as possible from Powershell Core <3.
  
 <!-- TOC -->
 
 - [1. Experience](#1-experience)
-    - [1.1. SaaS Support Engineer (AWS dominated)](#11-saas-support-engineer-aws-dominated)
+    - [1.1. Data Collection Support Engineer (AWS dominated SaaS)](#11-data-collection-support-engineer-aws-dominated-saas)
     - [1.2. .NET & Powershell Support Engineer](#12-net--powershell-support-engineer)
     - [1.3. SAP BW/BI Support Engineer](#13-sap-bwbi-support-engineer)
     - [1.4. L2 Windows Support Engineer with German](#14-l2-windows-support-engineer-with-german)
@@ -33,7 +33,7 @@ Currently (summer 2020), I am onboarding Snowplow Analytics — as a member of t
   
 ### 1. Experience
 
-#### 1.1. SaaS Support Engineer (AWS dominated)
+#### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
 * Snowplow Analytics
 * 2020-ongoing
 
