@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: docs driven ops
+title: today I learnt...
 email: pkutaj@gmail.com
-description: log ➔ work ➔ publish OR perish
+description: the way is in training | mushashi ⚔️
 url: http://pavol.kutaj.com
 # Build settings
 theme: minima
