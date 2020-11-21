@@ -273,7 +273,7 @@ LinkedList.py(23):         while(current):
 > another point for python!
 
 #### 7.4. tail node-3
-![third_node]({{ site.url }}/assets/img002276.png)
+![third_node]({{ site.url }}/assets/img002277.png)
 
 ### 8. to make matters complicated: python is calling by object reference ? 
 * [Call By Object](http://effbot.org/zone/call-by-object.htm)
