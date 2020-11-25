@@ -13,7 +13,7 @@ The concern is documenting reading through the history of changes of a file usin
 - [1. use-case](#1-use-case)
 - [2. pull & log -p](#2-pull--log--p)
 - [3. file history: who & commit message](#3-file-history-who--commit-message)
-- [3. sources](#3-sources)
+- [4. sources](#4-sources)
 
 <!-- /TOC -->
 
@@ -30,11 +30,11 @@ The concern is documenting reading through the history of changes of a file usin
 
 ### 3. file history: who & commit message
 
-```
-git log --pretty=format:"%C(auto)%h%d%Creset %C(cyan)(%ci)%Creset %C(green)%cn <%ce>%Creset %s" --name-status --date=short --all --full-history -- _FILENAME_
-```
+
+> git log --pretty=format:"%C(auto)%h%d%Creset %C(cyan)(%ci)%Creset %C(green)%cn <%ce>%Creset %s" --name-status --date=short --all --full-history -- _FILENAME_
+
 
 ![show_file_history]({{ site.url }}/assets/img002285.png)
 
-### 3. sources
+### 4. sources
 * <https://stackoverflow.com/a/22412252/11082684>
