@@ -50,7 +50,7 @@ I am documenting this in the context of migration from `dc2.large` to `ra3.large
 #### 2.2. classic resize
 * long time available only for read-migration
 
-> https://github.com/pkutaj/kb/blob/master/AWS/2020-10-19-beware-the-classic-and-elastic-resize-of-aws-redshift-are-fundamentally-different-operations.md
+> <https://github.com/pkutaj/kb/blob/master/AWS/2020-10-19-beware-the-classic-and-elastic-resize-of-aws-redshift-are-fundamentally-different-operations.md>
 
 ### 3. sources
 * <https://medium.com/rock-your-data/meet-a-new-generation-of-redshift-data-platform-ra3-e65544920866>
