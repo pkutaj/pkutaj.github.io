@@ -4,13 +4,7 @@ title: find and replace tactics with powershell
 categories: []
 ---
 ## usecase
-The concern is documenting the powershell-powered way to fast create markdown documents that 
-1. have an existing template
-2. need to populate that template's `YAML` header with
-    * 1. title
-    * 2. category
-... it is used to fast create files for Jekyll
-
+The concern is documenting the powershell-powered way to fast create markdown documents that have an existing template, while I need to populate that template's `YAML` header with its title and category (it is used to fast create files for Jekyll)
 
 <!-- TOC -->
 
@@ -107,6 +101,6 @@ function New-Kba {
 ```
 
 ### 6. sources
-* [Set-Content (Microsoft.PowerShell.Management) - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-content?view=powershell-7.1)
+* [Set-Content (Microsoft.PowerShell.Management) - PowerShell - Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-content?view=powershell-7.1)
 * [Set-Content: The PowerShell Way to Write to a File](https://adamtheautomator.com/powershell-write-file-set-content/)
-* [Capturing Names with PowerShell and Regular Expressions • The Lonely Administrator](https://jdhitsolutions.com/blog/powershell/6791/capturing-names-with-powershell-and-regular-expressions/)
+* [Capturing Names with PowerShell and Regular Expressions - The Lonely Administrator](https://jdhitsolutions.com/blog/powershell/6791/capturing-names-with-powershell-and-regular-expressions/)
