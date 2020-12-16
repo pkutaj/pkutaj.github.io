@@ -8,6 +8,7 @@ categories: []
 
 the aim is grasping the portion of the first SICP lecture — the part illustrating techniques for managing complexity
 
+![black_box]({{ site.url }}/assets/img002362.png)
 <!-- TOC -->
 
 - [1. black box abstraction](#1-black-box-abstraction)
