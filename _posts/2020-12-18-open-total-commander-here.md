@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Open Total Commander Here from Powershell terminal
 categories: []
 ---
 ## usecase
