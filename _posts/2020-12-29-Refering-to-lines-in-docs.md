@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links with to line numbers Visual Studio Code (Windows)
+title: Include line numbers in links to files in Visual Studio Code (Windows)
 categories: [vsc]
 ---
 ## usecase
