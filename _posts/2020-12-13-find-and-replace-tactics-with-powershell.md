@@ -40,7 +40,7 @@ Set-Content text.md -Value "hello world"
 $oldFile = "c:\old.txt"
 $oldFileContent = gc $oldFile -raw 
 $newFile = "c:\new.txt"
-$find = "{{ site.url }}/assets/"
+$find = "../assets/"
 $replace = "{{ site.url }}/assets/"
 
 ($oldFileContent).replace($find, $replace) |
