@@ -11,8 +11,8 @@ where I need to have automatically created a folder name based on the current mo
 
 - [1. usual if statement](#1-usual-if-statement)
 - [2. ternary](#2-ternary)
-- [CODE](#code)
-- [3. sources](#3-sources)
+- [3. CODE](#3-code)
+- [4. sources](#4-sources)
 
 <!-- /TOC -->
 
@@ -29,7 +29,7 @@ $folder = If ($MM -lt 10) {"0$MM"} Else { "$MM"}
 $folder = ($MM -lt 10) ? "0$MM" : $MM
 ```
 
-### CODE
+### 3. CODE
 * here is the code for the context
 
 ```powershell
@@ -57,6 +57,6 @@ function new-kron {
 }
 ```
 
-### 3. sources
+### 4. sources
 * [Ternary operator in PowerShell - Stack Overflow](https://stackoverflow.com/questions/31341998/ternary-operator-in-powershell)
 * [Getting Familiar with the Ternary Operator in PowerShell 7](https://toastit.dev/2019/09/25/ternary-operator-powershell-7/)
