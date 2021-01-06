@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 3 Approaches to Powershell Multiliners — Backticks, Splatting and Natural Line Continuators
+title: 3 Approaches to Powershell Multiliners — Backticks, Splatting, and Natural Line Continuators
 categories: [powershell]
 ---
 
 ## usecase
 * the question is that of an elegant interaction, i.e. not having to write long commands in a single line
-* the answer is don't use backticks unless spliting arguments, try splatting and rely on natural line continuators like a pipeline operator or scriptblock operator (and many others)
+* the answer is don't use backticks unless splitting arguments, try splatting and rely on natural line continuators like a pipeline operator or scriptblock operator (and many others)
 
 <!-- TOC -->
 
@@ -39,7 +39,7 @@ PS C:\> Get-ChildItem `
 - [x] easy to mistype
 
 #### 1.1. when to use backtick
-* when needing to split line on several cmdlet arguments
+* when needing to split line into several cmdlet arguments
 * not piping
 * not using script blocks
 * ...but say copying the content of an entire folder (files and subfolders) 
@@ -54,7 +54,7 @@ PS C:\Users\Admin> copy -Path .\source\repos\dataIntoArray\ `
 ```
 
 ### 2. splatting
-* splatting means passing paramers bound via a hash table to a command with `@` operator
+* splatting means passing parameters bound via a hash table to command with `@` operator
 
 ```powershell
 $GetWmiObjectParams = @{
@@ -83,7 +83,7 @@ PS C:\Users\Admin\Downloads> dir |
 >> }
 ```
 
-* i am just copying the last 3 downloaded files into its ticket-folder
+* I am just copying the last 3 downloaded files into its ticket-folder
 
 ### 4. sources
 * [Bye Bye Backtick: Natural Line Continuations in PowerShell](https://get-powershellblog.blogspot.com/2017/07/bye-bye-backtick-natural-line.html)
