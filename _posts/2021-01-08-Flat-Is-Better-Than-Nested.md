@@ -1,20 +1,21 @@
-## Usecae
+## Usecase
 The doc's aim is illustrating
 
 ```
 Flat is better than nested
 ```
 
-aporism from the Zen of Python
+aphorism from the [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 <!-- TOC -->
 
 - [1. if statements](#1-if-statements)
+- [sources](#sources)
 
 <!-- /TOC -->
 ### 1. if statements
-* ✅ else is not intended at all
-* ✅ elif is implemented so that conditinons (tests) can be as flat as possible
+* ✅ `else` is not intended at all
+* ✅ `elif` is implemented so that conditinons (tests) can be as flat as possible
 
 ```python
 """ nested ifs """
@@ -35,3 +36,6 @@ elif h < 20:
 else:
     print("Between 20 and 50")
 ```
+
+### sources
+* [PEP 20 -- The Zen of Python | Python.org](https://www.python.org/dev/peps/pep-0020/)
