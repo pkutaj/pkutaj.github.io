@@ -8,7 +8,7 @@ categories: [networking]
     * who are central organizations taking care of the domain name registry
     * who are registrars
     * who are hosts
-* ... and how to get this information without leaving VSCode, ideally (i.e. with a powershell script and some free-tier of an dedicated web service)
+* ... and how to get this information without leaving VSCode, ideally (i.e. with a powershell script and some free-tier of a dedicated web service)
 
 ## toc
 <!-- TOC -->
@@ -24,17 +24,17 @@ categories: [networking]
 
 ### 1. registrars VS hosts vs registry operators
 * **DOMAIN REGISTRAR** is the **subject** where domain names are finally **purchased**
-* **DNS HOST** is the **service / server** authoritative for hosting your DNS records
+* **DNS HOST** is the ** service/server** authoritative for hosting your DNS records
     * there are hosting providers that offer domain registration 
     * there are registrars that offer DNS hosting, but the two **should not be confused**
 * selecting a domain name is the first step you make when building a web site
-* this semantical layer of the internet, technically, computers are connected with ip addresses
+* this semantical layer of the internet, technically, computers are connected with IP addresses
 * registration means going through 
     1. Purchase a domain from **DNS REGISTRAR**, which is a company/subject that directly deals with the **REGISTRY OPERATORS FOR THE TOP LEVEL DOMAIN**
     2. Registrar makes sure you own the domain by registering it to you with registry operators
     3. You/Registrar need to select a DNS host — at Registrar level you specify the Name Servers hosting your information
     ![registrar-level-settings]({{ site.url }}/assets/img002433.jpg)
-    4. DNS host stores the **ZONE FILE** containing all the DNS records about your DOMAIN. If the example below would have different registrar and host, the interface would differ there. 
+    4. DNS host stores the **ZONE FILE** containing all the DNS records about your DOMAIN. If the example below would have a different registrar and host, the interface would differ there. 
     ![registrar-level-settings]({{ site.url }}/assets/img002434.jpg)
 
 ![NS-hold-zone-files]({{ site.url }}/assets/img002230.png)
@@ -45,7 +45,7 @@ categories: [networking]
 * **IANA** is a department of **ICANN** (Internet Corporation for Assigned Names and Numbers) a nonprofit running the root zone management in the DNS
 * `whois` command is querying the domain name registry
 * but the registrar is too up in the hierarchy to the common customers
-* usually, a domain name is purchased through a **WEB HOSTING PROVIDER** that does the work for them and register a domain through the registries on customer's behalf
+* usually, a domain name is purchased through a **WEB HOSTING PROVIDER** that does the work for them and register a domain through the registries on the customer's behalf
 * **DNS HOST** are servers hosted by **DNS HOSTING PROVIDERS** and these servers authoritatively respond for your domain
 * Sometimes, registrars also offer DNS hosting, but it should not be confused
 * DNS Host is mentioned by names of nameservers in the **NAMESERVERS** part of the whois lookup
@@ -54,7 +54,7 @@ categories: [networking]
 * whois is a query and response protocol for querying DBs storing **registered** users/assignees of internet resources (domain names, IP address blocks)
 * `whois` is a standard drafted by the internet society
 * `whois` gets you info on the registrar-level
-* `nslookup` gets you info on the dns-host level (zone file informatino)
+* `nslookup` gets you info on the dns-host-level (zone file information)
 * documented in [RFC 3912 - WHOIS Protocol Specification](https://tools.ietf.org/html/rfc3912)
 
 
