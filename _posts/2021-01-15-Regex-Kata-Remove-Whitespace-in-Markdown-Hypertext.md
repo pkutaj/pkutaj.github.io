@@ -6,7 +6,7 @@ categories: [regex]
 ## usecase
 The concern is documenting the need to remove whitespace with regex
 
-[regex_kata]({{ site.url }}/assets/img002436.jpg)
+![regex_kata]({{ site.url }}/assets/img002436.jpg)
 
 <!-- TOC -->
 
