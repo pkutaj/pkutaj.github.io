@@ -6,7 +6,7 @@ categories: [powershell]
 ## usecase
 The concern is documenting the to remove the "Microsoft Edge Closed Unexpectedly" prompt in case I kill it from the shell with `Stop-Process` cmdlet.
 
-![when_killed_prompts_for_pages_restore]({{ site.url }}/assets/img002459.png)
+![when_killed_prompts_for_pages_restore]({{ site.url }}/assets/img002459.jpg)
 
 
 <!-- TOC -->
