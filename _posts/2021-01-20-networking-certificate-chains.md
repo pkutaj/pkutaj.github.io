@@ -127,4 +127,3 @@ notAfter=May 10 12:00:00 2022 GMT
 * [Getting Started with OpenSSL and PowerShell](https://adamtheautomator.com/openssl-powershell/)
 * [How many intermediate Certificate Authorities are there? - Quora](https://www.quora.com/How-many-intermediate-Certificate-Authorities-are-there)
 * [Troubleshooting with Wireshark: Analyzing and Decrypting TLS Traffic in Wireshark \(Using HTTPs\)](https://app.pluralsight.com/library/courses/wireshark-troubleshooting-analyzing-decrypting-tls-traffic/description)
-[openSSLstart]: https://adamtheautomator.com/openssl-powershell
