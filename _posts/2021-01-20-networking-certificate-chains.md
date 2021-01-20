@@ -1,6 +1,6 @@
 ---
 layout: post
-title: networking > certificate chains
+title: On SSL/TLS Certificate Chains
 categories: [theory]
 ---
 
@@ -23,7 +23,7 @@ categories: [theory]
 <!-- /TOC -->
 
 ### 1. abstract
-The aim is documenting the security/networking concept of **certificate chain**
+The aim is documenting the security/networking concept of **certificate chain** based on the superb [Troubleshooting with Wireshark: Analyzing and Decrypting TLS Traffic in Wireshark \(Using HTTPs\)](https://app.pluralsight.com/library/courses/wireshark-troubleshooting-analyzing-decrypting-tls-traffic/description)
 
 ### 2. Certificate Authority Server (CA)
 * certificate must be issued by a trusted party called **Certificate Authority Server**
@@ -126,5 +126,5 @@ notAfter=May 10 12:00:00 2022 GMT
 * [How to Download an Intermediate Cert From Browser – Kemp Support](https://support.kemptechnologies.com/hc/en-us/articles/115002427603-How-to-Download-an-Intermediate-Cert-From-Browser)
 * [Getting Started with OpenSSL and PowerShell](https://adamtheautomator.com/openssl-powershell/)
 * [How many intermediate Certificate Authorities are there? - Quora](https://www.quora.com/How-many-intermediate-Certificate-Authorities-are-there)
-
+* [Troubleshooting with Wireshark: Analyzing and Decrypting TLS Traffic in Wireshark \(Using HTTPs\)](https://app.pluralsight.com/library/courses/wireshark-troubleshooting-analyzing-decrypting-tls-traffic/description)
 [openSSLstart]: https://adamtheautomator.com/openssl-powershell
