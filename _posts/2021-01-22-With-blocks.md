@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 97.01 With-blocks
+title: With-blocks as a proper way to manage (open/close) file resources
 categories: [python]
 ---
 ## usecase
