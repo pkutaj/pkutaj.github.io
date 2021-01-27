@@ -12,6 +12,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [2021-01-19 Rise of Worse Is Better](#2021-01-19-rise-of-worse-is-better)
     - [2021-01-20 Intel Problems on Stratechery](#2021-01-20-intel-problems-on-stratechery)
     - [2021-01-22 Garbage in Garbage Out](#2021-01-22-garbage-in-garbage-out)
+    - [2021-01-25 What happens when you update your DNS?](#2021-01-25-what-happens-when-you-update-your-dns)
 
 <!-- /TOC -->
 
@@ -33,3 +34,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 * [Common Sense 321 Garbage In, Garbage Out](https://www.dancarlin.com/product/common-sense-321-garbage-in-garbage-out/)
 * 2/10
 * Politics, some historical insights into the insemination of conspiracies in the past and now
+
+#### 2021-01-25 What happens when you update your DNS?
+* [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
+* 10/10
+* Awesome insights into the distinctino of recursive/authoritative DNS servers and the evolution of the process of an update of a DNS record (both within a zonefile and NS records themselves)
