@@ -1,6 +1,6 @@
 ---
 layout: post
-title: revert changes in the commit with github desktop
+title: Revert Changes in the Commit with GitHub Desktop
 categories: [git]
 ---
 ## usecase
