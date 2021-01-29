@@ -13,7 +13,7 @@ The concern is documenting the GUI approach to a simple revert of a commit. I co
 <!-- /TOC -->
 
 ### 1. steps 
-* Find a commit youa want to revers
+* Find a commit you want to revert
 
 ![find_a_commit_to_revert]({{ site.url }}/assets/img002507.jpg)
 
