@@ -51,6 +51,6 @@ x509: certificate signed by unknown authority
 * upload all intermetiate certificates on the server as well and send them along with each request with the server certificate
 
 ### 3. sources
-* [SSL certificate chain resolver | certificatechain.io](https://certificatechain.io/)
+* [SSL certificate chain resolver - certificatechain.io](https://certificatechain.io/)
 * [SSL Server Test](https://www.ssllabs.com/ssltest)
 * [Verify certificate chain with OpenSSL](https://www.itsfullofstars.de/2016/02/verify-certificate-chain-with-openssl/)
