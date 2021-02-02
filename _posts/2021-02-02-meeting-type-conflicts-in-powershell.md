@@ -28,21 +28,21 @@ $today = Get-Date
 
 ### 2. these are 13 powershell types
 
-NR | type        | descriptino
----|-------------|----------------------------------------------
-01 | [string]    | Fixed-length string of Unicode characters
-02 | [char]      | A Unicode 16-bit character
-03 | [byte]      | An 8-bit unsigned character
-04 | [int]       | 32-bit signed integer
-05 | [long]      | 64-bit signed integer
-06 | [bool]      | Boolean True/False value
-07 | [decimal]   | A 128-bit decimal value
-08 | [single]    | Single-precision 32-bit floating point number
-09 | [double]    | Double-precision 64-bit floating point number
-10 | [DateTime]  | Date and Time
-11 | [xml]       | Xml object
-12 | [array]     | An array of values
-13 | [hashtable] | Hashtable object
+NR | type          | descriptino
+---|---------------|----------------------------------------------
+01 | `[string]`    | Fixed-length string of Unicode characters
+02 | `[char]`      | A Unicode 16-bit character
+03 | `[byte]`      | An 8-bit unsigned character
+04 | `[int]`       | 32-bit signed integer
+05 | `[long]`      | 64-bit signed integer
+06 | `[bool]`      | Boolean True/False value
+07 | `[decimal]`   | A 128-bit decimal value
+08 | `[single]`    | Single-precision 32-bit floating point number
+09 | `[double]`    | Double-precision 64-bit floating point number
+10 | `[DateTime]`  | Date and Time
+11 | `[xml]`       | Xml object
+12 | `[array]`     | An array of values
+13 | `[hashtable]` | Hashtable object
 
 * From [Define PowerShell Data Types](https://ss64.com/ps/syntax-datatypes.html)
 
