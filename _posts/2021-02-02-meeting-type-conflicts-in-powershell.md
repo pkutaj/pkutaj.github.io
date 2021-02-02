@@ -4,7 +4,7 @@ title: Type Conflicts and Dynamic Casting in Powershell
 categories: [powershell]
 ---
 ## usecase
-The concern is documenting a mistake in the following code that aimed at adding a leading zeroes to the first nine months of the year (1 → 01) 
+The concern is documenting a mistake in the following code that aimed at adding a leading zero to the first nine months of the year (1 → 01) 
 
 ```powershell
 $today = Get-Date
@@ -16,7 +16,7 @@ $today = Get-Date
 <!-- TOC -->
 
 - [1. dynamic casting](#1-dynamic-casting)
-- [2. these are 13 powershell types](#2-these-are-13-powershell-types)
+- [2. these are 13 PowerShell types](#2-these-are-13-powershell-types)
 - [3. fix](#3-fix)
 - [4. sources](#4-sources)
 
@@ -26,7 +26,7 @@ $today = Get-Date
 * You can specify the type of a variable before it to force its type. 
 * It's called (dynamic) casting and cast notation
 
-### 2. these are 13 powershell types
+### 2. these are 13 PowerShell types
 
 NR | type          | descriptino
 ---|---------------|----------------------------------------------
@@ -58,7 +58,7 @@ $oneDay = New-TimeSpan -Days 1
 ```
 
 * and note that 🠋  **is not working**
-* the **cast operator** limits `$MM` to the `integer` type ans is not recast via the ternary operator to string even if forced
+* the **cast operator** limits `$MM` to the `integer` type and is not recast via the ternary operator to string even if forced
 
 ```powershell 
 $oneDay = New-TimeSpan -Days 1
