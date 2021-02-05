@@ -13,6 +13,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [2021-01-20 Intel Problems on Stratechery](#2021-01-20-intel-problems-on-stratechery)
     - [2021-01-22 Garbage in Garbage Out](#2021-01-22-garbage-in-garbage-out)
     - [2021-01-25 What happens when you update your DNS?](#2021-01-25-what-happens-when-you-update-your-dns)
+    - [2021-02-04 The documentation system](#2021-02-04-the-documentation-system)
 
 <!-- /TOC -->
 
@@ -39,3 +40,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 * [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 * 10/10
 * Awesome insights into the distinctino of recursive/authoritative DNS servers and the evolution of the process of an update of a DNS record (both within a zonefile and NS records themselves)
+
+#### 2021-02-04 The documentation system
+* [The documentation system — Documentation system documentation](https://documentation.divio.com/#the-documentation-system)
+* 10/10
+* Formal (Genre) analysis of technical writings that really opens eyes and is an instant classic and inspiration for own doc-templating and composition
