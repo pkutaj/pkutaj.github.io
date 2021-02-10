@@ -77,6 +77,6 @@ Currently there are three ways of creating functions in JavaScript
 ![parameters in parenthesis]({{ site.url }}/assets/img000177.png)
 
 ## sources
-* https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apC.md#appendix-c-lexical-this
+* <https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apC.md#appendix-c-lexical-this>
 * [JavaScript Anonymous Functions](https://blog.scottlogic.com/2011/06/10/javascript-anonymous-functions.html)
 
