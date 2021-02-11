@@ -14,6 +14,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [2021-01-22 Garbage in Garbage Out](#2021-01-22-garbage-in-garbage-out)
     - [2021-01-25 What happens when you update your DNS?](#2021-01-25-what-happens-when-you-update-your-dns)
     - [2021-02-04 The documentation system](#2021-02-04-the-documentation-system)
+- [FEB 2021](#feb-2021)
     - [2021-02-05 On Jeff Bezos and Amazon Model on Stratechery](#2021-02-05-on-jeff-bezos-and-amazon-model-on-stratechery)
 
 <!-- /TOC -->
@@ -47,6 +48,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 * 10/10
 * Formal (Genre) analysis of technical writings that really opens eyes and is an instant classic and inspiration for own doc-templating and composition
 
+### FEB 2021
 #### 2021-02-05 On Jeff Bezos and Amazon Model on Stratechery
 * [The Relentless Jeff Bezos – Stratechery by Ben Thompson](https://stratechery.com/2021/the-relentless-jeff-bezos/)
 * Working on AWS a lot, it seems at least interesting to see that it is the head of AWS that got the CEO job after Jeff Bezos stepped down.
