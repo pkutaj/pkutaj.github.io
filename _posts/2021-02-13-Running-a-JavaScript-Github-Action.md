@@ -1,5 +1,5 @@
 ## usecase
-* The aim of this tutorial🔍 is offer both a hello-world and a real-world example of a succesfully set up and executed JavaScript Github Action. 
+* The aim of this tutorial🔍 is to offer both a hello-world and a real-world example of a successfully set up and executed JavaScript Github Action. 
 
 <!-- TOC -->
 
@@ -62,6 +62,7 @@ Wrote to C:\Users\Admin\Documents\workspace\SNOW\hello-world-javascript-action\p
     * to install, run
 * run `npm install @actions/core`
 * run `npm install @actions/github`
+
 ```
 ▶ npm install @actions/core
 npm notice created a lockfile as package-lock.json. You should commit this file.
@@ -81,7 +82,7 @@ found 0 vulnerabilities
 ```
 
 ### 2. Action Metadata
-> Docker and JavaScript actions require a metadata file. The metadata filename must be either action.yml or action.yaml. The data in the metadata file defines the inputs, outputs and main entrypoint for your action.
+> Docker and JavaScript actions require a metadata file. The metadata filename must be either action.yml or action.yaml. The data in the metadata file defines the inputs, outputs, and main entry point for your action.
 
 * Action Metadata File == AMF
 * location: root of the repo (`./`)
@@ -91,7 +92,7 @@ found 0 vulnerabilities
   1. `Name:` Action Name
   2. `Description:` Action's description
   3. `Runs: using:` What application are you using to execute the code
-  4. `Runs: main:` The actuual file containing the action code (what is being executed)
+  4. `Runs: main:` The actual file containing the action code (what is being executed)
 * There are other optional fields as well, as illustrated in the Hello World AMF
 
 #### 2.1. Hello-World AMF
@@ -227,7 +228,7 @@ jobs:
 * During the runtime of a workflow, github downloads each action used there
   - Actions are executed as s complete packages of code before commands like `run` can be used
   - It follows, that any package dependencies **must be included**
-  - A shared prerequisite are **core** and **github** npm packages checked in the action repo
+  - Shared prerequisites are **core** and **github** npm packages checked in the action repo
 
 ### 6. Summary: required items to be commited
 1. `action.yml`
