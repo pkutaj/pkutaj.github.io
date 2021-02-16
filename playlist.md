@@ -16,6 +16,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [2021-02-04 The documentation system](#2021-02-04-the-documentation-system)
 - [FEB 2021](#feb-2021)
     - [2021-02-05 On Jeff Bezos and Amazon Model on Stratechery](#2021-02-05-on-jeff-bezos-and-amazon-model-on-stratechery)
+    - [2021-02-16 Production Oriented Development](#2021-02-16-production-oriented-development)
 
 <!-- /TOC -->
 
@@ -54,3 +55,13 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 * Working on AWS a lot, it seems at least interesting to see that it is the head of AWS that got the CEO job after Jeff Bezos stepped down.
 * Love reading Ben Thompson for his sense of history, it's always interesting
 * 2/10
+
+#### 2021-02-16 Production Oriented Development
+* [Production Oriented Development by Paul Osman @ Medium](https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea)
+* the essay I have been returning the most this year
+* I can't say I agree 100%, but it does resonate with so many references
+    * Bradshaw and Homecoming
+    * Pressfield and War of Art
+    * Seth's Godin on regular shipping
+* Also, I spend way too much time in non-prod mode (learning or procrastinating)
+* 10/10
