@@ -22,39 +22,13 @@
 
 * Open workflow file `.\github\workflows\mail.yaml`
 * Add to the step (you can also add this to different levels of the workflow)
+* `${{secrets.ZENDESK_PASS}}`
 
-```YAML
-env: 
-    ZENDESK_PASS: ${{secrets.ZENDESK_PASS}}
-    ZENDESK_USER: mail@example.com/token
-```
+![adding_secret]({{ site.url }}/assets/img002620.jpg)
 
 * the whole `workflow` that checks out my private repo, runs a `publish` script located in that repo, and then checks in changes done by that script look as follows
 
-```yaml
-on: [push]
-
-jobs:
-  publish_to_zendesk:
-    runs-on: ubuntu-latest
-    name: Publish to Zendesk
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-    - name: Publish
-      env: 
-        ZENDESK_PASS: ${{secrets.ZENDESK_PASS}}
-        ZENDESK_USER: console.zendesk@snowplowanalytics.com/token
-      id: publish
-      uses: ./
-    - name: Commit
-      run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
-          git push
-```
+![github_action_workflow_file]({{ site.url }}/assets/img002621.jpg)
 
 ### 2. what are secrets
 * encrypted environment variables to be used in workflows
@@ -70,9 +44,7 @@ jobs:
 * constraint: only your repo
 * same as with other secrets, you need to refer it within the workflow file to make authenticated GitHub API calls with
 
-```
-${{secrets.GITHUB_TOKEN}}
-```
+![github_token_secret]({{ site.url }}/assets/img002622.jpg)
 
 * usecases: running automated github workflows for features within github (adding labels, creating issues, etc)
 
