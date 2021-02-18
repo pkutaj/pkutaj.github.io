@@ -9,10 +9,10 @@
 ... all with a single command with a simple alias; in my workflow, I use `pyf` and `pof` for Python and Powershell, respectively
 
 * For powershell: 
-![posh_test]({{ site.url }}/assets/2021-02-18-179.gif)
+![posh_test]({{ site.url }}/assets/img002618.gif)
 
 * For python
-![python_test]({{ site.url }}/assets/2021-02-18-176.gif)
+![python_test]({{ site.url }}/assets/img002619.gif)
 
 <!-- TOC -->
 
