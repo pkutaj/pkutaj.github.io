@@ -6,7 +6,7 @@
 
 * the ideal looks as follows
 
-![capture_with_currentmillis]({{ site.url }}/assets/2020-02-20-procmon.gif)
+![capture_with_currentmillis]({{ site.url }}/assets/img002634.gif)
 
 * when watching the capture → map the currentmillis with the timestamp of procmon
 * to do this, convert the currentmillis into your local time (see the script below)
