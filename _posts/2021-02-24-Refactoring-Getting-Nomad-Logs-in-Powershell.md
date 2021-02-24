@@ -89,9 +89,9 @@ Function helping to get proper log output from HashiCorp Nomad CLI
 
 .DESCRIPTION
 Note that 4 possible flags are used
-Default is none — will show logs only if job is dead; will show stderr if the job has failed
+Default is none — will show logs only if a job is dead; will show stderr if the job has failed
 "l" for getting logs no matter what the status is
-"p" for getting logs no matter what the status is + in paging form for readibility
+"p" for getting logs no matter what the status is + in paging form for readability
 "e" for getting the output of stderr no matter what the status is
 "f" for getting the output into the file (note ASCII escape characters, sorry)
 #>
