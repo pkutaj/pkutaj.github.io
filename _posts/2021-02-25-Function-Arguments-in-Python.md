@@ -10,9 +10,7 @@
 <!-- /TOC -->
 
 ### 1. Default values come last
-----
 * **rule:** argument with default values **must** come after those without default values
-----
 * parameters specified in a function definition with `def` are a comma-separated list
 * they can be made **optional** by assiging a **default** values to the parameter
     - else, syntax err
@@ -26,9 +24,7 @@ Hello World
 ```
 
 ### 2. Default values only on immutables
-----
 * **rule:** do not use mutable default values; **use only immutable default values**
-----
 
 1. ✅ `ints`
 2. ✅ `float`
@@ -50,9 +46,7 @@ Hello World
 ![mutable_object_called_repeatedlya]({{ site.url }}/assets/img002633.jpg)
 
 ### 3. Keyword parameters come after positional 
-----
 * **rule:** all keyword parameters must be specified after positional parameters
-----
 * back in my VBA days I made the following note
 
 ![keyword_vs_positional_params]({{ site.url }}/assets/img002477.png)
