@@ -1,5 +1,5 @@
 ## usecase
-* The aim of this page📝is covering **capabilities of function arguments** in python by defining its three rules. 
+* The aim of this page📝is to cover **capabilities of function arguments** in python by defining its three rules. 
 
 <!-- TOC -->
 
@@ -13,7 +13,7 @@
 ----
 * **rule:** argument with default values **must** come after those without default values
 ----
-* parameters specified in a function definition with `def` are a comma separated list
+* parameters specified in a function definition with `def` are a comma-separated list
 * they can be made **optional** by assiging a **default** values to the parameter
     - else, syntax err
 * consider the following one-liner
@@ -45,7 +45,7 @@ Hello World
 
 ![mutable_object_called_repeatedlya]({{ site.url }}/assets/img002632.jpg)
 
-* the fix is to use immugable
+* the fix is to use immutable
 
 ![mutable_object_called_repeatedlya]({{ site.url }}/assets/img002633.jpg)
 
