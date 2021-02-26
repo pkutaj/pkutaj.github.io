@@ -83,6 +83,6 @@ fetchwords()
 ```
 
 ### 5. list used sources
-* [PEP 257 -- Docstring Conventions | Python.org](https://www.python.org/dev/peps/pep-0257/)
+* [PEP 257 -- Docstring Conventions @ Python.org](https://www.python.org/dev/peps/pep-0257/)
     * this is not widely adopted
 * [3.8 Comments and Docstrings @ Style guides for Google-originated open-source projects](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
