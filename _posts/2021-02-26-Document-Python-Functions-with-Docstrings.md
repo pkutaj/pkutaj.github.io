@@ -4,7 +4,7 @@
 <!-- TOC -->
 
 - [1. addition of self-documentation to your own module](#1-addition-of-self-documentation-to-your-own-module)
-- [2. provide an example on function fetching words from an URL](#2-provide-an-example-on-function-fetching-words-from-an-url)
+- [2. provide an example of function fetching words from an URL](#2-provide-an-example-of-function-fetching-words-from-an-url)
 - [3. tools](#3-tools)
     - [3.1. Google's Python Styleguide format](#31-googles-python-styleguide-format)
 - [4. Example](#4-example)
@@ -13,18 +13,18 @@
 <!-- /TOC -->
 
 ### 1. addition of self-documentation to your own module
-* API documentation in Python uses facility called **docstrings**
-    * document functions, modules and classes
-* requirement: must be the first statemetn in the blocks for these constructs
-* docstring is a literal string occuring as the first string within the named block
+* API documentation in Python uses a facility called **docstrings**
+    * document functions, modules, and classes
+* requirement: must be the first statement in the blocks for these constructs
+* docstring is a literal string occurring as the first string within the named block
 * docstring is a place where most code documentation should live
 * ❌ it does not explain how code works
-* ✅ it does shows how to consume facilities the module provides (list parameters, methods, basic concerns)
+* ✅ it does show how to consume facilities the module provides (list parameters, methods, basic concerns)
 
 
-### 2. provide an example on function fetching words from an URL
+### 2. provide an example of function fetching words from an URL
 * use triple-quotes 
-* valid also for a single-lined docstrings → can expand easily to add more detail
+* valid also for single-lined docstrings → can expand easily to add more detail
 
 ```python
 import sys
@@ -40,11 +40,11 @@ def fetchwords():
 
 ### 3. tools
 * e.g. Sphinx is a tool that builds HTML documentation from Python docstrings
-* each tool, however, mandates its prefered docstring format
+* each tool, however, mandates its preferred docstring format
 
 #### 3.1. Google's Python Styleguide format
 * amendable to being machine parsed
-* readable at consile
+* readable at console
 * they go in detail to describe docstrings for
     * module
     * function
