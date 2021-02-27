@@ -3,12 +3,6 @@ The aim of this tutorial🔍 is to show a productivity hack I am using when swit
 
 ![solution_demoed]({{ site.url }}/assets/img002655.gif)
 
-<!-- TOC -->
-
-- [1. steps](#1-steps)
-
-<!-- /TOC -->
-
 ### 1. steps
 * Install [Markdown Viewer for Chrome](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 * Install [openChrome VSCode extension](https://marketplace.visualstudio.com/items?itemName=huazaierli.openchrome&ssr=false#overview)
