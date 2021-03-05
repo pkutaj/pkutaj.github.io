@@ -11,9 +11,9 @@ the question is, what pull request means, the difference of pushing and pulling 
 
 - [1. push vs pull](#1-push-vs-pull)
 - [2. the rational of the pull request process](#2-the-rational-of-the-pull-request-process)
-- [3. examples: code review](#3-examples-code-review)
-- [4. examples: discussion platform](#4-examples-discussion-platform)
-- [5. examples: restoration point](#5-examples-restoration-point)
+- [3. example: code review](#3-example-code-review)
+- [4. example: discussion platform](#4-example-discussion-platform)
+- [5. example: restoration point](#5-example-restoration-point)
 - [6. example: empty pull request](#6-example-empty-pull-request)
 - [7. sources](#7-sources)
 
@@ -37,17 +37,17 @@ If you have a code change in your repository and want to move it to a target rep
 * only afterward it can be implemented and released
 * pull request is a process of **RECONCILIATION** of changes you've made with changes made by others on the codebase
 
-### 3. examples: code review
+### 3. example: code review
 * **code review is a major benefit of pull requests**
 
-### 4. examples: discussion platform
+### 4. example: discussion platform
 * note: they are designed as a general way to talk about code
     - e.g. dev needs help with a feature
     - he files a PRkni 2021-03-05-ii 
     - interested parties are notified
     - interested parties are asked the question right next to the relevant commit
 
-### 5. examples: restoration point
+### 5. example: restoration point
 * we use PRs as a mechanism that creates a restore point for configuration changes
 * once the change needs to be restored, we just revert the PR with a click of a button
 * all commits are reverted within that umbrella
