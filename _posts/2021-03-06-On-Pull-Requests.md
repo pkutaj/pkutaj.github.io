@@ -1,4 +1,4 @@
-1---
+---
 layout: post
 title: git > pull request
 categories: [pull request]
@@ -10,11 +10,11 @@ the question is, what pull request means, the difference of pushing and pulling 
 <!-- TOC -->
 
 - [1. push vs pull](#1-push-vs-pull)
-- [2. the rational of the pull request process](#2-the-rational-of-the-pull-request-process)
+- [2. the rationale of the pull request process](#2-the-rationale-of-the-pull-request-process)
 - [3. examples/usecases](#3-examplesusecases)
     - [3.1. code review](#31-code-review)
     - [3.2. discussion platform](#32-discussion-platform)
-    - [3.3. restoration pointcd](#33-restoration-pointcd)
+    - [3.3. restore point](#33-restore-point)
     - [3.4. empty pull request](#34-empty-pull-request)
 - [4. sources](#4-sources)
 
