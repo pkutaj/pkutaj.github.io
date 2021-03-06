@@ -1,9 +1,9 @@
----
+1---
 layout: post
 title: git > pull request
 categories: [pull request]
 ---
-## the case	of pulling
+## the case of pulling
 the question is, what pull request means, the difference of pushing and pulling and the overall common sense + some examples of pull requests
 
 ## toc
@@ -30,7 +30,7 @@ If you have a code change in your repository and want to move it to a target rep
 * **PULL** is the **TARGET REPOSITORY grabbing changes made by YOU** with `git pull` from the other repo
 * ➔ A **pull request** is **YOU requesting the TARGET REPOSITORY** to please check and grab my changes, I have finished the work.
 
-### 2. the rational of the pull request process
+### 2. the rationale of the pull request process
 * this happens on projects where you are not the lone dev
 * pull request is a point when someone is done with the change
 * but is not directly merging that into `master/main` 
@@ -49,7 +49,7 @@ If you have a code change in your repository and want to move it to a target rep
     - interested parties are notified
     - interested parties are asked the question right next to the relevant commit
 
-#### 3.3. restoration pointcd 
+#### 3.3. restore point
 * we use PRs as a mechanism that creates a restore point for configuration changes
 * once the change needs to be restored, we just revert the PR with a click of a button
 * all commits are reverted within that umbrella
@@ -59,7 +59,7 @@ If you have a code change in your repository and want to move it to a target rep
 * I have seen pull request been created **before** any work is done at all
 * Seems to function as an axis, around which the work should be done
 * When u open a pull request on GitHub.
-* All commits since a last request + all new ones are automatically added to this request
+* All commits since the last request + all new ones are automatically added to this request
 * You can't control which commits are added and which are not.
 * When you try to open another pull request, I get an "Oops! There's already a pull request" error.
 
