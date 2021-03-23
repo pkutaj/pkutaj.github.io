@@ -1,7 +1,7 @@
 ## usecase
 The aim of this how-to-guide🏁 is to define a workflow for local integration testing.
 
-![new_favorite_button]({{ site.url }}/assets/img002731.jpg)
+![new_favorite_button](../assecd ts/img002731.jpg)
 
 <!-- TOC -->
 
