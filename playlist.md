@@ -17,6 +17,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [FEB 2021](#feb-2021)
     - [2021-02-05 On Jeff Bezos and Amazon Model on Stratechery](#2021-02-05-on-jeff-bezos-and-amazon-model-on-stratechery)
     - [2021-02-16 Production Oriented Development](#2021-02-16-production-oriented-development)
+- [MAR 2021](#mar-2021)
 
 <!-- /TOC -->
 
@@ -65,3 +66,6 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     * Seth's Godin on regular shipping
 * Also, I spend way too much time in non-prod mode (learning or procrastinating)
 * 10/10
+
+### MAR 2021
+* [Man Disconnected: How technology has sabotaged what it means to be male by Philip G. Zimbardo](https://www.goodreads.com/book/show/23346894-man-disconnected)
