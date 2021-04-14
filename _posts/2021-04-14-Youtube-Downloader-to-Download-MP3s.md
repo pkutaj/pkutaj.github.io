@@ -18,24 +18,22 @@ The concern is documenting the effective use of yt-downloader combined with powe
 
 ### 2. playlist
 * run the following to so that the list in the folder matches the order of the playlist by adding playlist index to the filename
+* example:
 
 ```
 youtube-dl https://www.youtube.com/playlist?list=PLZTb_yEaj_CwaMfWGfGyVT-xtB1KL57rb --extract-audio --audio-format mp3 -o "c:\Users\Admin\Music\2021\%(playlist_index)s-%(title)s.%(ext)s"
 ```
 
-* todo: proper routing of the output to have
-    * essential mixes
-    * yearly playlists
-
-* or put into your powershell $profile
+*  put into your powershell `$profile` or just run the function (the folder gets created automatically)
 
 ```powershell
-function ytdl([string]$url, [string]$year) {
-    youtube-dl -o "c:\Users\$env:USERNAME\Music\$year\%(playlist_index)s-%(title)s.%(ext)s" --extract-audio --audio-format mp3 $url
+function ytdl([string]$url, [string]$folder) {
+    youtube-dl -o "c:\Users\$env:USERNAME\Music\$folder\%(playlist_index)s-%(title)s.%(ext)s" --extract-audio --audio-format mp3 $url
 }
 ```
 
 ### 3. single file
+* simple example 
 
 ```
  youtube-dl https://www.youtube.com/watch?v=JUxXkS22pc0 --extract-audio --audio-format mp3 -o "c:\Users\Admin\Music\2020\'%(title)s.%(ext)s"
