@@ -1,5 +1,5 @@
 ## usecase
-The aim of this explainer💡 is to show how a match can be extracted using regex in Python
+The aim of this how-to guide🏁 is to show how a match can be extracted using regex in Python
 
 <!-- TOC -->
 
@@ -29,3 +29,5 @@ re.compile('\\d{2}\\.(\\d{2})')
 >>> type(s1)
 <class 're.Match'>
 ```
+
+* **ESSENTIAL:** replace `match()` with `search()` if match is not in the beginning of the stringp 
