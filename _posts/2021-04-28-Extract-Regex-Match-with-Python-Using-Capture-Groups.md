@@ -10,6 +10,7 @@ The aim of this explainer💡 is to show how a match can be extracted using rege
 ### 1. steps
 * so I need to extract `01` from the string `91.01 Demo B` so here it goes
 
+0. `import re` module at the top of the script
 1. use `re.compile()` to create a regex object:  `reg = re.compile(<regex>)`
 2. include a _capture group_  for extraction purposes: `reg = re.compile("\d{2}.(\d{2})")`
 3. use `match()` on the created regex object to create a match object: `s1 = reg.match(<string>)`
