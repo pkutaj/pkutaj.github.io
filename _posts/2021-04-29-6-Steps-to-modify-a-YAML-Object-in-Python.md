@@ -10,7 +10,7 @@ I am using [oyaml · PyPI](https://pypi.org/project/oyaml/) to work with yaml ob
 
 ### 1. steps/?
 
-1. import oyaml as yaml
+1. `import oyaml as yaml`
 2. access resource in read mode with open(<file>, rt, utf8) as <fileAlias>:
 3. create <object> by loading the existing yaml with <object> = yaml.load(<fileAlias>, Loader=yaml.Loader)
 4. modify <object> and close the block
