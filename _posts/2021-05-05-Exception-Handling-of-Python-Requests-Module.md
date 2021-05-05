@@ -56,9 +56,8 @@ except requests.exceptions.RequestException as e:
 def delZDarticle(article_id):
     cafile = "cacert.pem"
     user = os.environ['ZENDESK_USER']
-    # token = os.environ['ZENDESK_PASS']
-    token = "7elCpPNAe7dOcKoqIrP3GEeWC7KYpUrk5J3A7xv"  # incorrect for now for testing
-    docURL_Const = "https://snowplow.zendesk.com/api/v2/help_center/en-us/articles"
+    token = os.environ['ZENDESK_PASS']
+    docURL_Const = "https://example.zendesk.com/api/v2/help_center/en-us/articles"
     try:
         response = requests.delete(f"{docURL_Const}/{article_id}",
                                    auth=(user, token), verify=cafile)
