@@ -12,6 +12,8 @@ The aim of this playbook🏁 is to learn how text is to be quickly matched in te
 ### 1. steps
 
 1. open file with `with open(<fileName>, <mode>, <encoding>) as fileAlias`
+2. write a predicate expression with `<string>`, `in` operator and `fileAlias.read()`
+
 
 ```python
 
