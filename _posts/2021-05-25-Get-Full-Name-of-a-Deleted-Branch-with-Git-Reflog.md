@@ -26,6 +26,5 @@ git reflog | sls SPT-705
 ...
 ```
 
-
 ### sources
-* * [Git Reflog — How To Recover A Deleted Branch That Was Not Merged | by Saurabh Kulshrestha | Edureka | Medium](https://medium.com/edureka/git-reflog-dc05158c1217)
+* * [Git Reflog — How To Recover A Deleted Branch That Was Not Merged](https://medium.com/edureka/git-reflog-dc05158c1217)
