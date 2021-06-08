@@ -18,6 +18,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [2021-02-05 On Jeff Bezos and Amazon Model on Stratechery](#2021-02-05-on-jeff-bezos-and-amazon-model-on-stratechery)
     - [2021-02-16 Production Oriented Development](#2021-02-16-production-oriented-development)
 - [MAR 2021](#mar-2021)
+- [JUNE 2021](#june-2021)
 
 <!-- /TOC -->
 
@@ -69,3 +70,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 
 ### MAR 2021
 * [Man Disconnected: How technology has sabotaged what it means to be male by Philip G. Zimbardo](https://www.goodreads.com/book/show/23346894-man-disconnected)
+
+### JUNE 2021
+* [Beauty Is Our Business](https://wiki.c2.com/?BeautyIsOurBusiness)
+    - _Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity._
