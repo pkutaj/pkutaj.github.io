@@ -9,9 +9,7 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Currently (Q1 2021) learning python, delving into the classics with the Structure and Interpretation of Computer Programs (SICP) but striving for the operational briliance all things Snowplow Analytics — infra w/ HashiStack, monitor w/ Grafana, data warehousing with AWS redshift and some reporting with Redash (and even excel:). More and more trying to do as much as possible from Powershell Core <3.
-
-Project: Writing Python/JavaScript to create documentation in Markdown and sync it with Zendesk.
+Q2 2021: learning/writing python scripts for handling jamstack knowledge base; delving into the classics with the Structure and Interpretation of Computer Programs (SICP); infra w/ HashiStack, monitor w/ Grafana, data warehousing with AWS Redshift and some reporting with Redash (and even Excel:). 
  
 <!-- TOC -->
 
@@ -84,9 +82,10 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * German C1
  
 #### 4.2. Computer languagues
+* Python
 * Javascript productive code
 * Powershell productive code
-* C# active learner
+* C# active learner 
 * HTML5 productive code
 * CSS3 productive code
 * VBA productive code
