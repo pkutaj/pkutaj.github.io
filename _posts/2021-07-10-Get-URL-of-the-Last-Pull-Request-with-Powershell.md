@@ -1,7 +1,5 @@
 ## usecase
-* The aim of this playbook🏁 is to show obtaining the URL of the last pull request with
-    * PowerShell 
-    * GitHub CLI. 
+The aim of this playbook🏁 is to show obtaining the URL of the last pull request with PowerShell and GitHub CLI. 
 
 <!-- TOC -->
 
