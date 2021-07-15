@@ -25,6 +25,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Finish your stuff](#finish-your-stuff)
     - [As We May Think](#as-we-may-think)
     - [On the Dynamo and Email](#on-the-dynamo-and-email)
+- [JULY 2021](#july-2021)
+    - [Excel Never Dies](#excel-never-dies)
 
 <!-- /TOC -->
 
@@ -95,3 +97,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### On the Dynamo and Email
 * [On the Dynamo and Email - Cal Newport](https://www.calnewport.com/blog/2021/06/22/on-the-dynamo-and-email)
     - great update to _As We May Think_ — dynamo was there for decades before its potential has been unlocked
+
+### JULY 2021
+#### Excel Never Dies
+* [Excel Never Dies - Not Boring by Packy McCormick](https://www.notboring.co/p/excel-never-dies)
+    - 
