@@ -101,4 +101,4 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 ### JULY 2021
 #### Excel Never Dies
 * [Excel Never Dies - Not Boring by Packy McCormick](https://www.notboring.co/p/excel-never-dies)
-    - 
+    - wonderful defense of boring technology with many enemies

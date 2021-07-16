@@ -23,7 +23,7 @@ Q2 2021: learning/writing python scripts for handling jamstack-based knowledge b
 - [3. Education](#3-education)
 - [4. Skills](#4-skills)
     - [4.1. Human languages](#41-human-languages)
-    - [4.2. Computer languagues](#42-computer-languagues)
+    - [4.2. Computer languagues in the order of current usaage](#42-computer-languagues-in-the-order-of-current-usaage)
     - [4.3. Tools and Frameworks](#43-tools-and-frameworks)
     - [4.4. SAP stuff](#44-sap-stuff)
     - [4.5. OS & network](#45-os--network)
@@ -34,8 +34,9 @@ Q2 2021: learning/writing python scripts for handling jamstack-based knowledge b
 ### 1. Experience
 
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
-* Snowplow Analytics
+* Snowplow Analytics    
 * 2020-ongoing
+
 
 #### 1.2. .NET & Powershell Support Engineer
 * Avolin, Pivotal CRM
@@ -80,17 +81,17 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Czech C2
 * German C1
  
-#### 4.2. Computer languagues
+#### 4.2. Computer languagues in the order of current usaage
+* Markdown 
+* Regex 
 * Python
+* Powershell
+* MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
 * Javascript productive code
-* Powershell productive code
-* C# active learner 
 * HTML5 productive code
 * CSS3 productive code
 * VBA productive code
-* Markdown devotee
-* MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Regex devotee
+* C# 
  
 #### 4.3. Tools and Frameworks
 * Visual Studio Code as the editor of choice
