@@ -27,6 +27,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [On the Dynamo and Email](#on-the-dynamo-and-email)
 - [JULY 2021](#july-2021)
     - [Excel Never Dies](#excel-never-dies)
+    - [It's OK to Only Program for a Paycheck](#its-ok-to-only-program-for-a-paycheck)
 
 <!-- /TOC -->
 
@@ -102,3 +103,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### Excel Never Dies
 * [Excel Never Dies - Not Boring by Packy McCormick](https://www.notboring.co/p/excel-never-dies)
     - wonderful defense of boring technology with many enemies
+
+####  It's OK to Only Program for a Paycheck
+* [Passion Not Required: It's OK to Only Program for a Paycheck](https://exceptionnotfound.net/passion-not-required-its-ok-to-only-program-for-a-paycheck/)
+    - remembered this one after months of reading, putting it here for this very reason
