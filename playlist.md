@@ -84,17 +84,21 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 ### JUNE 2021
 #### Beauty Is Our Business
 * [Beauty Is Our Business](https://wiki.c2.com/?BeautyIsOurBusiness)
-    - _Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity._
+    - _Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+    _
 #### Always be quitting
 * [Always be quitting - jmmv.dev](https://jmmv.dev/2021/04/always-be-quitting.html)
     - summary: document, document, document, learn, learn, learn, train, delegate
+
 #### Finish your stuff
 * [Finish your stuff](https://250bpm.com/blog:50/)
     - contemplate functional completion as an ideal state, being done and letting it just work for years
+
 #### As We May Think
 * [As We May Think - The Atlantic](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
     - prophecy about technology enabling knowledge work
     - but the difficult part now is the assebly and the workflow
+    
 #### On the Dynamo and Email
 * [On the Dynamo and Email - Cal Newport](https://www.calnewport.com/blog/2021/06/22/on-the-dynamo-and-email)
     - great update to _As We May Think_ — dynamo was there for decades before its potential has been unlocked
