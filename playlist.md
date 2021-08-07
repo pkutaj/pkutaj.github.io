@@ -28,6 +28,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [JULY 2021](#july-2021)
     - [Excel Never Dies](#excel-never-dies)
     - [It's OK to Only Program for a Paycheck](#its-ok-to-only-program-for-a-paycheck)
+    - [Planning as is a software engineering value destroying mistake](#planning-as-is-a-software-engineering-value-destroying-mistake)
 
 <!-- /TOC -->
 
@@ -85,7 +86,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### Beauty Is Our Business
 * [Beauty Is Our Business](https://wiki.c2.com/?BeautyIsOurBusiness)
     - _Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
-    _
+    
 #### Always be quitting
 * [Always be quitting - jmmv.dev](https://jmmv.dev/2021/04/always-be-quitting.html)
     - summary: document, document, document, learn, learn, learn, train, delegate
@@ -111,3 +112,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 ####  It's OK to Only Program for a Paycheck
 * [Passion Not Required: It's OK to Only Program for a Paycheck](https://exceptionnotfound.net/passion-not-required-its-ok-to-only-program-for-a-paycheck/)
     - remembered this one after months of reading, putting it here for this very reason
+
+#### Planning as is a software engineering value destroying mistake
+* [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
+>  Programming (one programmer working alone without too much money/time pressure imposed by others) is quiet different from software engineering (multiple programmers, stakeholders, designers, etc., with time and money constraints). Everyone loves programming (and so doing programming usually leads to high-quality and useful products), almost everyone hates software engineering.
+— https://news.ycombinator.com/item?id=28086673
