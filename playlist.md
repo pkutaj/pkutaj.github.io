@@ -29,6 +29,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Excel Never Dies](#excel-never-dies)
     - [It's OK to Only Program for a Paycheck](#its-ok-to-only-program-for-a-paycheck)
     - [Planning as is a software engineering value destroying mistake](#planning-as-is-a-software-engineering-value-destroying-mistake)
+- [AUG 2021](#aug-2021)
+    - [Hammock Driven Development](#hammock-driven-development)
 
 <!-- /TOC -->
 
@@ -117,3 +119,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 * [Driving engineers to an arbitrary date is a value destroying mistake](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49)
 >  Programming (one programmer working alone without too much money/time pressure imposed by others) is quiet different from software engineering (multiple programmers, stakeholders, designers, etc., with time and money constraints). Everyone loves programming (and so doing programming usually leads to high-quality and useful products), almost everyone hates software engineering.
 — https://news.ycombinator.com/item?id=28086673
+
+### AUG 2021
+#### Hammock Driven Development
+* [Hammock Driven Development \- Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
+* Intruiging praise of contemplation/slowdown applied for software engineering 
