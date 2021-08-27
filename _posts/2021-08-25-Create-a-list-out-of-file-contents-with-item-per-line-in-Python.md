@@ -20,5 +20,8 @@ def client_list():
 1. `<file>.readlines()` reads lines from a file and passes them into a list
 2. `<str>.string()` strips the string from special character such as `\n`
 
+* the value is a transformation of the client name into URL
+* I do not need to write anything back into a file, that is a slightly different story 
+
 ### 2. sources
 * https://stackoverflow.com/a/3277516/11082684
