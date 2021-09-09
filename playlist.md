@@ -31,6 +31,9 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Planning as is a software engineering value destroying mistake](#planning-as-is-a-software-engineering-value-destroying-mistake)
 - [AUG 2021](#aug-2021)
     - [Hammock Driven Development](#hammock-driven-development)
+- [SEP 2021](#sep-2021)
+    - [Write Code Not Much Mostly Functions](#write-code-not-much-mostly-functions)
+    - [It doesn’t take much public creativity to stand out as a job candidate](#it-doesnt-take-much-public-creativity-to-stand-out-as-a-job-candidate)
 
 <!-- /TOC -->
 
@@ -124,3 +127,12 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### Hammock Driven Development
 * [Hammock Driven Development \- Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * Intruiging praise of contemplation/slowdown applied for software engineering 
+
+### SEP 2021
+#### Write Code Not Much Mostly Functions
+* [Write code. Not too much. Mostly functions - Brandon's Website](https://www.brandons.me/blog/write-code-not-too-much-mostly-functions)
+* Coming to mind when learning about nonlocal statements in Python in SICP for Python
+
+#### It doesn’t take much public creativity to stand out as a job candidate
+* [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
+* Making me start using visuals all-over the place again (I went to text-only mode for efficiency reasons for some ime)
