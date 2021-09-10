@@ -1,4 +1,4 @@
-## usecase
+git ## usecase
 The aim of this explainer💡 analyzes the reversion of a Python list using slicing `[::-1]` notation combining notes from StackOverflow and LeetCode. 
 
 <!-- TOC -->
