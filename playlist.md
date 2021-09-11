@@ -34,6 +34,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [SEP 2021](#sep-2021)
     - [Write Code Not Much Mostly Functions](#write-code-not-much-mostly-functions)
     - [It doesn’t take much public creativity to stand out as a job candidate](#it-doesnt-take-much-public-creativity-to-stand-out-as-a-job-candidate)
+    - [If it will matter after today, stop talking about it in the chat room](#if-it-will-matter-after-today-stop-talking-about-it-in-the-chat-room)
 
 <!-- /TOC -->
 
@@ -136,3 +137,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### It doesn’t take much public creativity to stand out as a job candidate
 * [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 * Making me start using visuals all-over the place again (I went to text-only mode for efficiency reasons for some ime)
+
+#### If it will matter after today, stop talking about it in the chat room
+* [If it will matter after today, stop talking about it in a chat room – Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
+* ... but I still use _Copy link_ in Slack and paste it to tickets way too often
