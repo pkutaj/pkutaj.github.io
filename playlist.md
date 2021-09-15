@@ -35,6 +35,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Write Code Not Much Mostly Functions](#write-code-not-much-mostly-functions)
     - [It doesn’t take much public creativity to stand out as a job candidate](#it-doesnt-take-much-public-creativity-to-stand-out-as-a-job-candidate)
     - [If it will matter after today, stop talking about it in the chat room](#if-it-will-matter-after-today-stop-talking-about-it-in-the-chat-room)
+    - [Software should convey a sense of calm](#software-should-convey-a-sense-of-calm)
 
 <!-- /TOC -->
 
@@ -141,3 +142,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### If it will matter after today, stop talking about it in the chat room
 * [If it will matter after today, stop talking about it in a chat room – Mike Crittenden](https://critter.blog/2021/01/12/if-it-matters-after-today-stop-talking-about-it-in-a-chat-room/)
 * ... but I still use _Copy link_ in Slack and paste it to tickets way too often
+
+#### Software should convey a sense of calm
+* [Stay Calm and Learn This](https://patrickjuchli.com/en/posts/learning-experience/)
+* Too abstract and high-level for my taste, but the opening paragraph got me
