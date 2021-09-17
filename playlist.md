@@ -36,6 +36,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [It doesn’t take much public creativity to stand out as a job candidate](#it-doesnt-take-much-public-creativity-to-stand-out-as-a-job-candidate)
     - [If it will matter after today, stop talking about it in the chat room](#if-it-will-matter-after-today-stop-talking-about-it-in-the-chat-room)
     - [Software should convey a sense of calm](#software-should-convey-a-sense-of-calm)
+    - [Dieter Rams' principles of good design applied to software engineering](#dieter-rams-principles-of-good-design-applied-to-software-engineering)
 
 <!-- /TOC -->
 
@@ -146,3 +147,11 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 #### Software should convey a sense of calm
 * [Stay Calm and Learn This](https://patrickjuchli.com/en/posts/learning-experience/)
 * Too abstract and high-level for my taste, but the opening paragraph got me
+
+#### Dieter Rams' principles of good design applied to software engineering
+* [dieter rams 10 applied to software](https://github.com/zedr/dieter-rams-10-applied-to-software)
+* enjoy the equation in the last sentence, stressing to write as little software as possible
+
+```
+done = without_defects + fulfilled_requirement + fitting_purpose
+```
