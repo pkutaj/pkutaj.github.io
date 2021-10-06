@@ -39,6 +39,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Dieter Rams' principles of good design applied to software engineering](#dieter-rams-principles-of-good-design-applied-to-software-engineering)
     - [Improve Your Life with Long Error Messages](#improve-your-life-with-long-error-messages)
     - [On the relationship between exception handling and post-release defects](#on-the-relationship-between-exception-handling-and-post-release-defects)
+- [OCT-2021](#oct-2021)
 
 <!-- /TOC -->
 
@@ -166,3 +167,5 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### On the relationship between exception handling and post-release defects
 * [Studying the relationship between exception handling practices and post-release defects](https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html))
 > The longer the exception handling blocks in a file, the more likely the file is to contain bugs. What's more, the length of the file and the length of its exception handling blocks aren't correlated, so exception handler length really does contain novel information.
+
+### OCT-2021
