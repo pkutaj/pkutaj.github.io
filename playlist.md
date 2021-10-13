@@ -40,6 +40,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Improve Your Life with Long Error Messages](#improve-your-life-with-long-error-messages)
     - [On the relationship between exception handling and post-release defects](#on-the-relationship-between-exception-handling-and-post-release-defects)
 - [OCT-2021](#oct-2021)
+    - [The inflation of the term Best Practices](#the-inflation-of-the-term-best-practices)
 
 <!-- /TOC -->
 
@@ -169,3 +170,6 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 > The longer the exception handling blocks in a file, the more likely the file is to contain bugs. What's more, the length of the file and the length of its exception handling blocks aren't correlated, so exception handler length really does contain novel information.
 
 ### OCT-2021
+#### The inflation of the term Best Practices
+* [Best Practices (why I Hate Them)](https://fev.al/posts/best-practices/)+
+* Thinking properly about the language, somewhere in the Orwellian tradition, but also SICP stress of using appropriate langugages in engineering comes to mind
