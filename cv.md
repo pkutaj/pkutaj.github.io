@@ -9,7 +9,7 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Q2 2021: learning/writing python scripts for handling jamstack-based knowledge base; delving into the classics with the Structure and Interpretation of Computer Programs (SICP); infra w/ HashiStack, monitor w/ Grafana, data warehousing with mostly AWS Redshift and some reporting with Redash (and even the immortal Excel:) 
+Q4 2021: learning/writing python scripts for handling jamstack-based knowledge base; delving into the classics with the Structure and Interpretation of Computer Programs (SICP); infra w/ HashiStack, monitor w/ Grafana, data warehousing with mostly AWS Redshift and some reporting with Redash (and even the immortal Excel:) 
  
 <!-- TOC -->
 
