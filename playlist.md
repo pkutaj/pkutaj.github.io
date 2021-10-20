@@ -41,6 +41,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [On the relationship between exception handling and post-release defects](#on-the-relationship-between-exception-handling-and-post-release-defects)
 - [OCT-2021](#oct-2021)
     - [The inflation of the term Best Practices](#the-inflation-of-the-term-best-practices)
+    - [What to Learn](#what-to-learn)
 
 <!-- /TOC -->
 
@@ -173,3 +174,7 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### The inflation of the term Best Practices
 * [Best Practices (why I Hate Them)](https://fev.al/posts/best-practices/)+
 * Thinking properly about the language, somewhere in the Orwellian tradition, but also SICP stress of using appropriate langugages in engineering comes to mind
+
+#### What to Learn 
+* [What to learn - Dan Luu](https://danluu.com/learn-what/)
+* An intriguing defense of hedgehog mentality in the dualism of [The Hedgehog and the Fox](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
