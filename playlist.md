@@ -42,6 +42,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [OCT-2021](#oct-2021)
     - [The inflation of the term Best Practices](#the-inflation-of-the-term-best-practices)
     - [What to Learn](#what-to-learn)
+    - [Productivity and Velocity](#productivity-and-velocity)
 
 <!-- /TOC -->
 
@@ -178,3 +179,7 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### What to Learn 
 * [What to learn - Dan Luu](https://danluu.com/learn-what/)
 * An intriguing defense of hedgehog mentality in the dualism of [The Hedgehog and the Fox](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)
+
+#### Productivity and Velocity
+* [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
+* Dan is making me sharpen my typing skills with this
