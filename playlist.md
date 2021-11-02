@@ -43,6 +43,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [The inflation of the term Best Practices](#the-inflation-of-the-term-best-practices)
     - [What to Learn](#what-to-learn)
     - [Productivity and Velocity](#productivity-and-velocity)
+    - [Bash functions are better than I thought](#bash-functions-are-better-than-i-thought)
 
 <!-- /TOC -->
 
@@ -183,3 +184,7 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### Productivity and Velocity
 * [Some reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
 * Dan is making me sharpen my typing skills with this
+
+#### Bash functions are better than I thought
+* [Bash functions are better than I thought](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/)
+* More Importantly, the following [HN discussion thread](https://news.ycombinator.com/item?id=29058140)
