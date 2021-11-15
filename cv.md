@@ -9,7 +9,10 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-Q4 2021: learning/writing python scripts for handling jamstack-based knowledge base; delving into the classics with the Structure and Interpretation of Computer Programs (SICP); infra w/ HashiStack, monitor w/ Grafana, data warehousing with mostly AWS Redshift and some reporting with Redash (and even the immortal Excel:) 
+## Q4 2021
+* learning/writing python scripts for handling jamstack-based knowledge base
+* delving into the classics with the Structure and Interpretation of Computer Programs (SICP)
+* writing internal python-/powershell-based automation tooling, e.g. script to quickly update JSON schema for a selected client or script to compose commands
  
 <!-- TOC -->
 
@@ -19,7 +22,7 @@ Q4 2021: learning/writing python scripts for handling jamstack-based knowledge b
     - [1.3. SAP BW/BI Support Engineer](#13-sap-bwbi-support-engineer)
     - [1.4. L2 Windows Support Engineer with German](#14-l2-windows-support-engineer-with-german)
     - [1.5. L1 Windows Support Engineer with iOS with German](#15-l1-windows-support-engineer-with-ios-with-german)
-- [2. Front-End Projects](#2-front-end-projects)
+- [2. Side Projects](#2-side-projects)
 - [3. Education](#3-education)
 - [4. Skills](#4-skills)
     - [4.1. Human languages](#41-human-languages)
@@ -54,17 +57,18 @@ Q4 2021: learning/writing python scripts for handling jamstack-based knowledge b
 * Infosys BPO
 * 2012-2015
 
-### 2. Front-End Projects
+### 2. Side Projects
  
-TOOL      | DOMAIN                        | URL
-----------|-------------------------------|-------------------------------------------------------------------
-Drupal    | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
-Wordpress | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
-Wordpress | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
-Wordpress | Museum                        | [http://musobrno.cz](http://musobrno.cz)
-Wordpress | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
-Worpress  | Psychological Conference      | [http://csgt.cz/konference](http://csgt.cz/konference)
-Jekyll    | Blog                          | [http://pavol.kutaj.com](http://pavol.kutaj.com)
+TOOL       | DESCRIPTION                   | URL
+-----------|-------------------------------|-------------------------------------------------------------------
+Powershell | CLI markdown Journal          | https://github.com/pkutaj/kronCLI
+Drupal     | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
+Wordpress  | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
+Wordpress  | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
+Wordpress  | Museum                        | [http://musobrno.cz](http://musobrno.cz)
+Wordpress  | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
+Worpress   | Psychological Conference      | [http://csgt.cz/konference](http://csgt.cz/konference)
+Jekyll     | Blog                          | [http://pavol.kutaj.com](http://pavol.kutaj.com)
 
 ### 3. Education
  
@@ -82,15 +86,15 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * German C1
  
 #### 4.2. Computer languagues in the order of current usaage
-* Markdown 
-* Regex 
 * Python
 * Powershell
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Javascript productive code
-* HTML5 productive code
-* CSS3 productive code
-* VBA productive code
+* Javascript 
+* Markdown 
+* Regex 
+* HTML5 
+* CSS3 
+* VBA 
 * C# 
  
 #### 4.3. Tools and Frameworks
