@@ -60,8 +60,8 @@ phone                                               | e-mail
 ### 2. Side Projects
  
 TOOL       | DESCRIPTION                   | URL
------------|-------------------------------|-------------------------------------------------------------------
-Powershell | CLI markdown Journal          | https://github.com/pkutaj/kronCLI
+-----------|-------------------------------|-----------------------------------------------------------------------
+Powershell | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
 Drupal     | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
 Wordpress  | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
 Wordpress  | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
