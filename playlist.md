@@ -44,6 +44,8 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [What to Learn](#what-to-learn)
     - [Productivity and Velocity](#productivity-and-velocity)
     - [Bash functions are better than I thought](#bash-functions-are-better-than-i-thought)
+- [NOV-2021](#nov-2021)
+    - [Microsoft and the Metaverse](#microsoft-and-the-metaverse)
 
 <!-- /TOC -->
 
@@ -188,3 +190,8 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### Bash functions are better than I thought
 * [Bash functions are better than I thought](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/)
 * More Importantly, the following [HN discussion thread](https://news.ycombinator.com/item?id=29058140)
+
+### NOV-2021
+#### Microsoft and the Metaverse
+* [Microsoft and the Metaverse – Stratechery by Ben Thompson](https://stratechery.com/2021/microsoft-and-the-metaverse/)
+* Great example of changing one's mind and an interesting argument of why VR should matter besides psychotherapy (gaming and porn are self-evident sad-stories)
