@@ -10,9 +10,10 @@ phone                                               | e-mail
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
 # Q4/2021
-* learning/writing python scripts for handling jamstack-based knowledge base
-* delving into the classics with the Structure and Interpretation of Computer Programs (SICP)
-* writing internal python-/powershell-based automation tooling, e.g. script to quickly update JSON schema for a selected client or script to compose commands
+* writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
+* writing python scripts for syncing knowledge base docs written in markdown with Zendesk Guide
+* writing powershell-based automation tooling
+* slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
  
 <!-- TOC -->
 
@@ -40,7 +41,6 @@ phone                                               | e-mail
 * Snowplow Analytics    
 * 2020-ongoing
 
-
 #### 1.2. .NET & Powershell Support Engineer
 * Avolin, Pivotal CRM
 * 2019-2020
@@ -59,16 +59,14 @@ phone                                               | e-mail
 
 ### 2. Side Projects
  
-TOOL       | DESCRIPTION                   | URL
------------|-------------------------------|-----------------------------------------------------------------------
-Powershell | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
-Drupal     | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
-Wordpress  | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
-Wordpress  | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
-Wordpress  | Museum                        | [http://musobrno.cz](http://musobrno.cz)
-Wordpress  | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
-Worpress   | Psychological Conference      | [http://csgt.cz/konference](http://csgt.cz/konference)
-Jekyll     | Blog                          | [http://pavol.kutaj.com](http://pavol.kutaj.com)
+TOOL       | NAME    | DESCRIPTION                   | URL
+-----------|---------|-------------------------------|-----------------------------------------------------------------------
+Python     | md2med  | Markdown → Medium publisher   | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
+Powershell | kronCLI | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
+Drupal     | website | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
+Wordpress  | website | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
+Wordpress  | website | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
+Wordpress  | website | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
 
 ### 3. Education
  
