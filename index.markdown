@@ -9,12 +9,14 @@ phone                                               | e-mail
 **place**                                           | **web**
 [Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
  
-# Q4/2021
+# now (Q4/2021)
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing python scripts for syncing knowledge base docs written in markdown with Zendesk Guide
 * writing powershell-based automation tooling
+* using my [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
- 
+
+# cv 
 <!-- TOC -->
 
 - [1. Experience](#1-experience)
