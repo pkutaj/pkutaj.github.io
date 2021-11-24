@@ -46,6 +46,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Bash functions are better than I thought](#bash-functions-are-better-than-i-thought)
 - [NOV-2021](#nov-2021)
     - [Microsoft and the Metaverse](#microsoft-and-the-metaverse)
+    - [python - Relative imports for the umpteenth time - Stack Overflow](#python---relative-imports-for-the-umpteenth-time---stack-overflow)
 
 <!-- /TOC -->
 
@@ -195,3 +196,6 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### Microsoft and the Metaverse
 * [Microsoft and the Metaverse – Stratechery by Ben Thompson](https://stratechery.com/2021/microsoft-and-the-metaverse/)
 * Great example of changing one's mind and an interesting argument of why VR should matter besides psychotherapy (gaming and porn are self-evident sad-stories)
+#### python - Relative imports for the umpteenth time - Stack Overflow
+* [python - Relative imports for the umpteenth time - Stack Overflow](https://stackoverflow.com/questions/14132789/relative-imports-for-the-umpteenth-time/14132912#14132912)
+* Actually reading the thread and finding great technical explanations
