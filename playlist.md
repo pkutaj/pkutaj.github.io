@@ -47,6 +47,9 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [NOV-2021](#nov-2021)
     - [Microsoft and the Metaverse](#microsoft-and-the-metaverse)
     - [python - Relative imports for the umpteenth time - Stack Overflow](#python---relative-imports-for-the-umpteenth-time---stack-overflow)
+    - [Linus on Linebreaks](#linus-on-linebreaks)
+- [DEC-2021](#dec-2021)
+    - [Three Steps to the Future](#three-steps-to-the-future)
 
 <!-- /TOC -->
 
@@ -196,6 +199,18 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### Microsoft and the Metaverse
 * [Microsoft and the Metaverse – Stratechery by Ben Thompson](https://stratechery.com/2021/microsoft-and-the-metaverse/)
 * Great example of changing one's mind and an interesting argument of why VR should matter besides psychotherapy (gaming and porn are self-evident sad-stories)
+
 #### python - Relative imports for the umpteenth time - Stack Overflow
 * [python - Relative imports for the umpteenth time - Stack Overflow](https://stackoverflow.com/questions/14132789/relative-imports-for-the-umpteenth-time/14132912#14132912)
 * Actually reading the thread and finding great technical explanations
+
+#### Linus on Linebreaks
+* [LKML: Linus Torvalds: Re: clean up kernel_{read,write} & friends v2](https://lkml.org/lkml/2020/5/29/1038)
+* and the accompanying [HN thread](https://news.ycombinator.com/item?id=29370692) with bullet points from one contributor that sounds like an except from a Letter to a Young Developer — taking this to heart
+
+> My mind is blown on an almost daily basis when some of our junior developers shares their screen with me. Two of them consistently have: 1. horizontal task bar; 2. display scaling set to 125% or worse (1080 native) 3. a terminal launched from VSCode (whaaaaaaaaaat) they leave on the bottom...
+
+### DEC-2021
+#### Three Steps to the Future
+* [Presentations — Benedict Evans](https://www.ben-evans.com/presentations)
+* More than the content itself, a great example of presentation aesthetics, something I believe [Seth Godin would embrace](https://seths.blog/2007/01/really_bad_powe/)
