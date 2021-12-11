@@ -15,6 +15,7 @@ phone                                               | e-mail
 * writing powershell-based automation tooling
 * using my [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* incrementally building up a [read-list of 2021](./playlist.md)
 
 # cv 
 <!-- TOC -->

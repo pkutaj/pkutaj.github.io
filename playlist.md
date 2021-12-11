@@ -50,6 +50,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Linus on Linebreaks](#linus-on-linebreaks)
 - [DEC-2021](#dec-2021)
     - [Three Steps to the Future](#three-steps-to-the-future)
+    - [0-Day (Computing)](#0-day-computing)
 
 <!-- /TOC -->
 
@@ -213,4 +214,10 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 ### DEC-2021
 #### Three Steps to the Future
 * [Presentations — Benedict Evans](https://www.ben-evans.com/presentations)
-* More than the content itself, a great example of presentation aesthetics, something I believe [Seth Godin would embrace](https://seths.blog/2007/01/really_bad_powe/)
+* More than the content itself, a great example of presentation aesthetics, something I believe Seth Godin recommends in both 
+    - [Really Bad Powerpoint, 2007 ](https://seths.blog/2007/01/really_bad_powe/) 
+    - [Words on slides, 2018](https://seths.blog/2018/04/words-on-slides/)
+
+#### 0-Day (Computing)
+* [Zero-day (computing) - Wikipedia](https://en.wikipedia.org/wiki/Zero-day_(computing))
+* Related to [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/); experiencing and watching wide security vulnerability incident, something I only heard of up until this point
