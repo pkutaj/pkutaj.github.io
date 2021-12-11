@@ -4,10 +4,10 @@ title: cv + now
 ---               
  
 phone                                               | e-mail
-----------------------------------------------------|---------------------------------------------
+----------------------------------------------------|------------------------------------------------------
 +420702152552                                       | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
-**place**                                           | **web**
-[Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavol.kutaj.com](http://pavol.kutaj.com)
+**place**                                           | **blog**
+[Brno, Czechia](https://en.wikipedia.org/wiki/Brno) | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
  
 # now (Q4/2021)
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
