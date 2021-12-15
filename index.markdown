@@ -1,8 +1,3 @@
----
-layout: page
-title: cv + now
----               
- 
 phone                                               | e-mail
 ----------------------------------------------------|------------------------------------------------------
 +420702152552                                       | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
@@ -64,6 +59,7 @@ phone                                               | e-mail
  
 TOOL       | NAME    | DESCRIPTION                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
+Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
 Python     | md2med  | Markdown → Medium publisher   | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
 Powershell | kronCLI | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
 Drupal     | website | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
