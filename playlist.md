@@ -51,6 +51,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
 - [DEC-2021](#dec-2021)
     - [Three Steps to the Future](#three-steps-to-the-future)
     - [0-Day (Computing)](#0-day-computing)
+    - [Some Thoughts on Writing](#some-thoughts-on-writing)
 
 <!-- /TOC -->
 
@@ -221,3 +222,8 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 #### 0-Day (Computing)
 * [Zero-day (computing) - Wikipedia](https://en.wikipedia.org/wiki/Zero-day_(computing))
 * Related to [Log4Shell: RCE 0-day exploit found in log4j2, a popular Java logging package](https://www.lunasec.io/docs/blog/log4j-zero-day/); experiencing and watching wide security vulnerability incident, something I only heard of up until this point
+
+#### Some Thoughts on Writing
+* [Some thoughts on writing - Dan Luu](https://danluu.com/writing-non-advice/)
+* As always, a great contrarian journey into the weeds of style of technical blogging. 
+* I would agree that _write as I write_ could be a bad advice - however I believe that you do learn by copying (Bach used to re-write whole compositions of other composers); as for writing I believe that finding your authentic voice is (for me) helped by finding texts that feels as if they were _written for me_ (like Dan's blog!); then I intentionally (steal) or unintentionally (mimic) it
