@@ -7,6 +7,7 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 * writing python scripts for syncing knowledge base docs written in markdown with Zendesk Guide
 * writing powershell-based automation tooling
 * using my [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
+* sharing some of [my side projects](#2-side-projects) on github
 * slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * incrementally building up a [read-list of 2021](./playlist.md)
 
@@ -30,8 +31,6 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
     - [4.6. methodologies](#46-methodologies)
 
 <!-- /TOC -->
-
-<hr>
 
 ### 1. Experience
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
