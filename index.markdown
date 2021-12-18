@@ -32,7 +32,6 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 <!-- /TOC -->
   
 ### 1. Experience
-
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
 * Snowplow Analytics
 * 2020-ongoing
@@ -54,7 +53,6 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 * 2012-2015
 
 ### 2. Side Projects
- 
 TOOL       | NAME    | DESCRIPTION                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
 Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
@@ -65,8 +63,7 @@ Wordpress  | website | Venetian Glass Art            | [http://syin.eu](http://s
 Wordpress  | website | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
 Wordpress  | website | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
 
-### 3. Education
- 
+### 3. Education 
 Charles University                 | Central European University
 -----------------------------------|-----------------------------------
 2005-2009                          | 2009-2011
