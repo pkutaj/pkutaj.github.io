@@ -33,6 +33,7 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 
   
 ### 1. Experience
+
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
 * Snowplow Analytics
 * 2020-ongoing
@@ -52,7 +53,6 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 #### 1.5. L1 Windows Support Engineer with iOS with German
 * Infosys BPO
 * 2012-2015
-
 
 ### 2. Side Projects
 TOOL       | NAME    | DESCRIPTION                   | URL
