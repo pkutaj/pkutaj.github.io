@@ -53,6 +53,7 @@ Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pa
 * Infosys BPO
 * 2012-2015
 
+
 ### 2. Side Projects
 TOOL       | NAME    | DESCRIPTION                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
