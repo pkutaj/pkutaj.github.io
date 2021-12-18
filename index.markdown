@@ -1,6 +1,6 @@
-phone         | e-mail                                       | blog
---------------|----------------------------------------------|------------------------------------------------------
-+420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
+name        | phone         | e-mail                                       | blog
+------------|---------------|----------------------------------------------|------------------------------------------------------
+Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
  
 # now (Q4/2021)
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
@@ -10,7 +10,7 @@ phone         | e-mail                                       | blog
 * slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * incrementally building up a [read-list of 2021](./playlist.md)
 
-# cv 
+# contents
 <!-- TOC -->
 
 - [1. Experience](#1-experience)
@@ -34,7 +34,7 @@ phone         | e-mail                                       | blog
 ### 1. Experience
 
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
-* Snowplow Analytics    
+* Snowplow Analytics
 * 2020-ongoing
 
 #### 1.2. .NET & Powershell Support Engineer
