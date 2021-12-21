@@ -52,6 +52,7 @@ List of texts / podcast with the score for perceived-usefulness for work (not qu
     - [Three Steps to the Future](#three-steps-to-the-future)
     - [0-Day (Computing)](#0-day-computing)
     - [Some Thoughts on Writing](#some-thoughts-on-writing)
+    - [Culture Matters](#culture-matters)
 
 <!-- /TOC -->
 
@@ -227,3 +228,10 @@ done = without_defects + fulfilled_requirement + fitting_purpose
 * [Some thoughts on writing - Dan Luu](https://danluu.com/writing-non-advice/)
 * As always, a great contrarian journey into the weeds of style of technical blogging. 
 * I would agree that _write as I write_ could be a bad advice - however I believe that you do learn by copying (Bach used to re-write whole compositions of other composers); as for writing I believe that finding your authentic voice is (for me) helped by finding texts that feels as if they were _written for me_ (like Dan's blog!); then I intentionally (steal) or unintentionally (mimic) it
+
+#### Culture Matters
+* [Culture matters — Dan Luu](https://danluu.com/culture/)
+* In other words: 
+> But one of the things that Cambridge could do and later Bell Labs could do is somehow raise people’s expectations of themselves. Raise the level that’s considered acceptable. You walk in and you see what people are doing, you see how people are doing it, you see how apparently easily they do it, you see how nice they are while doing it, and you realize, “I better sharpen up my game.” You have to get better because what is acceptable has changed. Some organizations can do that but most can’t to that extent. I’ve just been very, very lucky to be in a couple of places that actually can increase your level of ambition and the level of what is a good standard. 
+
+— [from Oral History of Bjarne Stroustrup, p.7](https://archive.computerhistory.org/resources/access/text/2015/07/102740024-05-01-acc.pdf)

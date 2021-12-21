@@ -1,7 +1,11 @@
-name        | phone         | e-mail                                       | blog
-------------|---------------|----------------------------------------------|------------------------------------------------------
-Pavol Kutaj | +420702152552 | [pkutaj@gmail.com](mailto: pkutaj@gmail.com) | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
- 
+&nbsp; | CONTACT
+-------|------------------------------------------------------
+name:  | Pavol Kutaj
+phone: | +420702152552
+email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
+web:   | [pavol.kutaj.com](https://pavol.kutaj.com)
+blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
+
 # now (Q4/2021)
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing python scripts for syncing knowledge base docs written in markdown with Zendesk Guide
