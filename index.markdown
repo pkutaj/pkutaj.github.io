@@ -58,6 +58,7 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * 2012-2015
 
 ### 2. Side Projects
+
 TOOL       | NAME    | DESCRIPTION                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
 Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
@@ -69,6 +70,7 @@ Wordpress  | website | Dermatologist                 | [http://iderma.cz](http:/
 Wordpress  | website | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
 
 ### 3. Education 
+
 Charles University                 | Central European University
 -----------------------------------|-----------------------------------
 2005-2009                          | 2009-2011
