@@ -85,7 +85,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Visual Studio Code as the editor of choice
 * git source control 
 * Docker, Vagrant 
-* Hashicorm Infrastructure as Code (Terraform; Consul)
+* Hashicorp Infrastructure as Code (Terraform; Consul)
 * GitHub, Github pages active user
 * Advanced  Chrome & Firefox Developer Tool Debugging
 * Wordpress and Drupal theming
