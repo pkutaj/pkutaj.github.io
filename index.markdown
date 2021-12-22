@@ -19,8 +19,8 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * writing powershell-based automation tooling
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2021](./playlist.md)
-* + sharing some of [my side projects](#2-side-projects) on github
-* + slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* sharing some of [my side projects](#2-side-projects) on github
+* slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
 ### 2. Experience
 #### Data Collection Support Engineer; KB owner (AWS dominated SaaS)
