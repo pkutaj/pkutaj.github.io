@@ -12,7 +12,7 @@ email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:   | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
-## Now (Q4/2021)
+### 1. Now (Q4/2021)
 * writing python scripts for syncing KB docs written in markdown with Zendesk Guide 
 * writing support KB docs
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
@@ -22,7 +22,7 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * + sharing some of [my side projects](#2-side-projects) on github
 * + slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 
-### 1. Experience
+### 2. Experience
 #### Data Collection Support Engineer; KB owner (AWS dominated SaaS)
 * [Snowplow Analytics](https://snowplowanalytics.com/)
 * 2020-ongoing
@@ -43,7 +43,7 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * Infosys BPO
 * 2012-2015
 
-### 2. Side Projects
+### 3. Side Projects
 
 TOOL       | NAME    | DESCRIPTION                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
@@ -55,7 +55,7 @@ Wordpress  | website | Venetian Glass Art            | [http://syin.eu](http://s
 Wordpress  | website | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
 Wordpress  | website | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
 
-### 3. Education 
+### 4. Education 
 
 Charles University                 | Central European University
 -----------------------------------|-----------------------------------
@@ -63,7 +63,7 @@ Charles University                 | Central European University
 Faculty of Humanities              | Department of Modern History
 B.A. degree; graduated with honors | M.A. degree; graduated with honors
  
-### 4. Skills
+### 5. Skills
 #### Human languages
 * Slovak native 
 * English C2
