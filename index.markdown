@@ -5,15 +5,14 @@
 layout: home
 ---
 
-hello  | world!
+role:  | Technical Support Engineer
 -------|------------------------------------------------------
-name:  | Pavol Kutaj
 phone: | +420702152552
 email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:   | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
-# now (Q4/2021)
+# Now (Q4/2021)
 * writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing python scripts for syncing knowledge base docs written in markdown with Zendesk Guide
 * writing powershell-based automation tooling
@@ -21,27 +20,6 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * sharing some of [my side projects](#2-side-projects) on github
 * slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 * incrementally building up a [read-list of 2021](./playlist.md)
-
-## contents
-<!-- TOC -->
-
-- [1. Experience](#1-experience)
-    - [1.1. Data Collection Support Engineer (AWS dominated SaaS)](#11-data-collection-support-engineer-aws-dominated-saas)
-    - [1.2. .NET & Powershell Support Engineer](#12-net--powershell-support-engineer)
-    - [1.3. SAP BW/BI Support Engineer](#13-sap-bwbi-support-engineer)
-    - [1.4. L2 Windows Support Engineer with German](#14-l2-windows-support-engineer-with-german)
-    - [1.5. L1 Windows Support Engineer with iOS with German](#15-l1-windows-support-engineer-with-ios-with-german)
-- [2. Side Projects](#2-side-projects)
-- [3. Education](#3-education)
-- [4. Skills](#4-skills)
-    - [4.1. Human languages](#41-human-languages)
-    - [4.2. Computer languagues in the order of current usaage](#42-computer-languagues-in-the-order-of-current-usaage)
-    - [4.3. Tools and Frameworks](#43-tools-and-frameworks)
-    - [4.4. SAP stuff](#44-sap-stuff)
-    - [4.5. OS & network](#45-os--network)
-    - [4.6. methodologies](#46-methodologies)
-
-<!-- /TOC -->
 
 ### 1. Experience
 #### 1.1. Data Collection Support Engineer (AWS dominated SaaS)
@@ -89,14 +67,14 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Slovak native 
 * English C2
 * Czech C2
-* German C1
+* German C1 certified, currently not used
  
 #### 4.2. Computer languagues in the order of current usaage
 * Python
-* Powershell
+* Powershell; Bash
+* Markdown 
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
 * Javascript 
-* Markdown 
 * Regex 
 * HTML5 
 * CSS3 
@@ -105,28 +83,23 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
  
 #### 4.3. Tools and Frameworks
 * Visual Studio Code as the editor of choice
-* xUnit testing framework
 * git source control 
+* Docker, Vagrant 
+* Hashicorm Infrastructure as Code (Terraform; Consul)
 * GitHub, Github pages active user
-* Google Apps Engine, Google Apps Script
-* Wordpress and Drupal theming
-* VBA Scripting and advanced Excel
 * Advanced  Chrome & Firefox Developer Tool Debugging
+* Wordpress and Drupal theming
 * Atlassian Jira, Confluence
 * Zendesk and Zendesk guide hands-on experience
-* Fogbugz (ex-Manuscript) ticketing tool
 * Windows advanced debugging (Sysiternal Tools, mainly procmon)
 * Fiddler
 * Node.js
- 
-#### 4.4. SAP stuff
-* SAP Data Warehousing Workbench (RSA1 suite)
-* BEx Query Designer
-* SAP BW Release and Cutover Management (RealTech) 
+* Google Apps Engine, Google Apps Script
+* xUnit testing framework
+* VBA Scripting and advanced Excel
  
 #### 4.5. OS & network
-* TCP/IP knowledge
-* DNS config 
+* TCP/IP, TLS- and DNS-config
 * IIS configuration
 * Windows Server Roles and Features setup
 * .htaccess configurations
