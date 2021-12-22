@@ -39,7 +39,7 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * [HeidelbergCement Group](https://www.gitc.heidelbergcement.com/en) 
 * 2015-2017
   
-#### L1 Windows Support Engineer with iOS with German; KB creator/owner
+#### L1 iOS Support Engineer with German
 * Infosys BPO
 * 2012-2015
 
