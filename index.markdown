@@ -5,7 +5,7 @@
 layout: home
 ---
 
-role:  | Technical Support Engineer / Graphomaniac
+~      | Technical Support Engineer / Graphomaniac
 -------|------------------------------------------------------
 phone: | +420702152552
 email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
@@ -45,7 +45,7 @@ blog:  | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
 ### 3. Side Projects
 
-TOOL       | NAME    | DESCRIPTION                   | URL
+Tool       | Name    | Description                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
 Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
 Python     | md2med  | Markdown → Medium publisher   | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
