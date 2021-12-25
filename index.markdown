@@ -5,8 +5,8 @@
 layout: home
 ---
 
-~      | Technical Support Engineer / Graphomaniac
--------|------------------------------------------------------
+~      | Technical support engineer with graphomaniacal tendencies
+-------|----------------------------------------------------------
 phone: | +420702152552
 email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:   | [pavol.kutaj.com](https://pavol.kutaj.com)
