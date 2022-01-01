@@ -5,7 +5,7 @@
 layout: home
 ---
 
-~      | Technical support engineer with graphomaniacal tendencies
+~      | Technical Support Engineer + Knowledge Base Builder
 -------|----------------------------------------------------------
 phone: | +420702152552
 email: | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
