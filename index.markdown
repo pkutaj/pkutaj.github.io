@@ -13,10 +13,10 @@ web:        | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
 ### 1. Now (Q1/2022)
-* writing python scripts for syncing KB docs written in markdown with Zendesk Guide 
-* writing support KB docs
-* writing first bash scripts, implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
-* writing powershell-based automation tooling
+* writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
+* writing Knowledge Base documents
+* writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
+* writing Powershell-based automation tooling to ease the work with Terraform / Consul (HashiCorp IAC stack)
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
 * sharing some of [my side projects](#2-side-projects) on github
@@ -47,6 +47,7 @@ blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
 Tool       | Name    | Description                   | URL
 -----------|---------|-------------------------------|-----------------------------------------------------------------------
+Powershell | mv      | Personal History of Software  | [https://github.com/pkutaj/mv](https://github.com/pkutaj/mv)
 Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
 Python     | md2med  | Markdown → Medium publisher   | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
 Powershell | kronCLI | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
