@@ -11,6 +11,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Ernst Jünger: our prophet of anarchy](#ernst-jünger-our-prophet-of-anarchy)
 - [Steve Yegge, practicing programming](#steve-yegge-practicing-programming)
 - [Ben Thomson, The Relentless Jeff Bezos](#ben-thomson-the-relentless-jeff-bezos)
+- [Bill Gates Gets the Internet](#bill-gates-gets-the-internet)
 
 <!-- /TOC -->
 
@@ -30,3 +31,7 @@ List of texts / podcast that caught my attention this year (2022).
 * [The Relentless Jeff Bezos – Stratechery by Ben Thompson](https://stratechery.com/2021/the-relentless-jeff-bezos/)
 * Re-reading the second most read Stratechery piece of 2020
 * Combining with one of my 2020s favorite piece [Culture matters](https://danluu.com/culture/) confirming that when it comes to culture, the [fish stinks from the head down](https://www.phrases.org.uk/meanings/fish-rot-from-the-head-down.html) not only in negative, but also in positive ways (it is emblematic that relentless.com redirects to amazon.com)
+
+### Bill Gates Gets the Internet
+* [Ch 2 Part 2 - Bill Gates "Gets" The Internet](https://www.youtube.com/watch?v=jnmrSvU9_ug)
+* From the great [Internet History Podcast](http://www.internethistorypodcast.com/), showing high adaptability of Bill Gates / Microsoft at the time

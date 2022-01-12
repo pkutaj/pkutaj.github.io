@@ -20,7 +20,7 @@ blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
 * sharing some of [my side projects](#2-side-projects) on github
-* slowly diving into the [Structure and Interpretation of Computer Programs (SICP)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* I decided to dedicate 2022 to work on leet code problems — check how I do on [pavol kutaj - LeetCode Profile](https://leetcode.com/pkutaj/)
 
 ### 2. Experience
 #### Data Collection Support Engineer; KB owner (AWS dominated SaaS)
