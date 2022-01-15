@@ -20,23 +20,24 @@ blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
 * sharing some of [my side projects](#2-side-projects) on github
-* I decided to dedicate 2022 to work on leet code problems — check how I do on [pavol kutaj - LeetCode Profile](https://leetcode.com/pkutaj/)
+* I decided to dedicate 2022 to work on leet code problems 
+    — check how I do on [my public LeetCode profile](https://leetcode.com/pkutaj/)
 
 ### 2. Experience
 #### Data Collection Support Engineer; KB owner (AWS dominated SaaS)
-* [Snowplow Analytics](https://snowplowanalytics.com/)
+* Snowplow Analytics
 * 2020-ongoing
 
 #### .NET & Powershell Support Engineer; KB quality assurance
-* [Avolin, Pivotal CRM](https://www.avolin.com/)
+* Avolin, Pivotal CRM
 * 2019-2020
  
 #### SAP BW/BI Support Engineer; KB creator/owner
-* [HeidelbergCement Group](https://www.gitc.heidelbergcement.com/en)
+* HeidelbergCement Group
 * 2017-2019
   
 #### L2 Windows Support Engineer with German; KB creator/owner 
-* [HeidelbergCement Group](https://www.gitc.heidelbergcement.com/en) 
+* HeidelbergCement Group
 * 2015-2017
   
 #### L1 iOS Support Engineer with German
