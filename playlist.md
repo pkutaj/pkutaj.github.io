@@ -12,6 +12,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Steve Yegge, practicing programming](#steve-yegge-practicing-programming)
     - [Ben Thomson, The Relentless Jeff Bezos](#ben-thomson-the-relentless-jeff-bezos)
     - [Bill Gates Gets the Internet](#bill-gates-gets-the-internet)
+    - [On the value of in-house expertise](#on-the-value-of-in-house-expertise)
 
 <!-- /TOC -->
 
@@ -35,3 +36,7 @@ List of texts / podcast that caught my attention this year (2022).
 #### Bill Gates Gets the Internet
 * [Ch 2 Part 2 - Bill Gates "Gets" The Internet](https://www.youtube.com/watch?v=jnmrSvU9_ug)
 * From the great [Internet History Podcast](http://www.internethistorypodcast.com/), showing high adaptability of Bill Gates / Microsoft at the time
+
+#### On the value of in-house expertise
+* [Luu, Dan. The value of in-house expertise](https://danluu.com/in-house/)
+* An argument for build in the build VS buy debate, claiming that in large-scale orgs there are highly specialized teams that are not directly related to a "core business", that actually function as profit centers (Twitter's kernel team). Always fun when Dan brings interdisciplinary examples, making his footnotes worth to pay attention to.

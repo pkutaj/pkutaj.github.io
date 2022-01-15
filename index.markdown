@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Pavol Kutaj | technical support engineer; passionate about code/docs
+PAVOL KUTAJ | technical support engineer; passionate about code/docs
 ------------|-------------------------------------------------------
 phone:      | +420702152552
 email:      | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
