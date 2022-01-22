@@ -2,8 +2,8 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Technical Support Engineer with Passion for Python & Docs_
-----------------|------------------------------------------------------------
+**PAVOL KUTAJ** | _Technical Support Engineer with a Passion for Python & Docs_
+----------------|--------------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
