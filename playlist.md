@@ -1,6 +1,6 @@
 ---
 layout: page
-title: readList
+title: read_list
 ---
 
 List of texts / podcast that caught my attention this year (2022).
