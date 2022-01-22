@@ -14,14 +14,12 @@ blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 
 ### 1. Now (Q1/2022)
 * writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
-* writing Knowledge Base documents
+* writing Knowledge Base documents in markdown / Visual Studio Code
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
-* writing Powershell-based automation tooling to ease the work with Terraform / Consul (HashiCorp IAC stack)
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
 * sharing some of [my side projects](#2-side-projects) on github
-* I decided to dedicate 2022 to work on leet code problems 
-* check how I do on [my public LeetCode profile](https://leetcode.com/pkutaj/)
+* in 2022, I am focusing on leet code problems (see [my public LeetCode profile](https://leetcode.com/pkutaj/))
 
 ### 2. Experience
 #### Data Collection Support Engineer; KB owner (AWS dominated SaaS)

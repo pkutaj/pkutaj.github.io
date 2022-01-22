@@ -13,6 +13,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Ben Thomson, The Relentless Jeff Bezos](#ben-thomson-the-relentless-jeff-bezos)
     - [Bill Gates Gets the Internet](#bill-gates-gets-the-internet)
     - [On the value of in-house expertise](#on-the-value-of-in-house-expertise)
+    - [What America’s largest technology firms are investing in](#what-americas-largest-technology-firms-are-investing-in)
 
 <!-- /TOC -->
 
@@ -40,3 +41,8 @@ List of texts / podcast that caught my attention this year (2022).
 #### On the value of in-house expertise
 * [Luu, Dan. The value of in-house expertise](https://danluu.com/in-house/)
 * An argument for build in the build VS buy debate, claiming that in large-scale orgs there are highly specialized teams that are not directly related to a "core business", that actually function as profit centers (Twitter's kernel team). Always fun when Dan brings interdisciplinary examples, making his footnotes worth to pay attention to.
+
+#### What America’s largest technology firms are investing in
+* [What America’s largest technology firms are investing in - The Economist](https://www.economist.com/briefing/2022/01/22/what-americas-largest-technology-firms-are-investing-in)
+> When the twin foundations of the computer age, the transistor and Claude Shannon’s theory of information, came out of Bell Labs in the mid-20th century, it was not because the labs’ owner, at&t, was facing lots of scrappy competitors. It was because it wanted to make and own the future. Rob Atkinson, head of the Information Technology and Innovation Foundation, a think-tank, argues something similar is true today: the Big Five are “oligopolists which use their market power to win the next big thing.”
+* Combine with the foundational [The End of the Beginning – Stratechery by Ben Thompson](https://stratechery.com/2020/the-end-of-the-beginning/)
