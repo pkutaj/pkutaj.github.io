@@ -12,6 +12,7 @@ email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
+resume:         | [PDF download](./assets/Pavol-Kutaj-Resume.pdf)
 
 ### NOW (Q1/2022)
 * writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
