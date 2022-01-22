@@ -11,10 +11,11 @@ phone:      | +420702152552
 email:      | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:        | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:       | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
+location:   | Brno, Czech Republic (working 100 % remotely)3
 
 ### NOW (Q1/2022)
 * writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
-* writing Knowledge Base documents in markdown / Visual Studio
+* writing Knowledge Base documents in markdown / Visual Studio Code
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
