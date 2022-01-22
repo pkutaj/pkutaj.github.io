@@ -5,13 +5,13 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Technical Support Engineer with Passion for3 Code & Docs_
+**PAVOL KUTAJ** | _Technical Support Engineer with Passion for Code & Docs_
 ----------------|----------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
-location:       | Brno, Czech Republic (working 100 % remotely)3
+location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2022)
 * writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
