@@ -14,6 +14,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Bill Gates Gets the Internet](#bill-gates-gets-the-internet)
     - [On the value of in-house expertise](#on-the-value-of-in-house-expertise)
     - [What America’s largest technology firms are investing in](#what-americas-largest-technology-firms-are-investing-in)
+    - [Get ahead by not shooting yourself in the foot](#get-ahead-by-not-shooting-yourself-in-the-foot)
 
 <!-- /TOC -->
 
@@ -47,3 +48,6 @@ List of texts / podcast that caught my attention this year (2022).
 > When the twin foundations of the computer age, the transistor and Claude Shannon’s theory of information, came out of Bell Labs in the mid-20th century, it was not because the labs’ owner, at&t, was facing lots of scrappy competitors. It was because it wanted to make and own the future. Rob Atkinson, head of the Information Technology and Innovation Foundation, a think-tank, argues something similar is true today: the Big Five are “oligopolists which use their market power to win the next big thing.”
 * Combine with the foundational [The End of the Beginning – Stratechery by Ben Thompson](https://stratechery.com/2020/the-end-of-the-beginning/)
 
+#### Get ahead by not shooting yourself in the foot
+* [Get ahead by not shooting yourself in the foot - Artur Piszek](https://piszek.com/2022/01/24/stop-shooting-yourself-in-the-foot/)
+* Reminds be of a strategy outlined in [The Education of a Speculator by Victor Niederhoffer](https://www.goodreads.com/en/book/show/495065.The_Education_of_a_Speculator) - for playing squash if I remember correctly, where the winner not the one that makes the kill, but the one that makes the least number of [unforced errors](https://en.wiktionary.org/wiki/unforced_error)

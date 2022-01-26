@@ -76,27 +76,25 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
 * Javascript 
 * Regex 
-* HTML5 
-* CSS3 
-* VBA 
+* HTML5/CSS3 
+* VBA/GAS 
 * C# 
  
 #### Tools and Frameworks
 * Visual Studio Code as the editor of choice
-* git source control 
+* advanced git + GitHub (actions, too)
 * Docker, Vagrant 
 * Hashicorp Infrastructure as Code (Terraform; Consul)
-* GitHub, Github pages active user
-* Advanced  Chrome & Firefox Developer Tool Debugging
+* Chrome & Firefox Developer Tool Debugging
+* Atlassian stack (Jira, Confluence, OpsGenie) + Zendesk
+* Windows debugging (Sysinternal Tools)
 * Wordpress and Drupal theming
-* Atlassian Jira, Confluence
-* Zendesk and Zendesk guide hands-on experience
-* Windows advanced debugging (Sysiternal Tools, mainly procmon)
 * Fiddler
-* Node.js
+* Advanced Grafana dashboard building
 * Google Apps Engine, Google Apps Script
-* xUnit testing framework
-* VBA Scripting and advanced Excel
+* VBA Scripting + advanced Excel <3
+* Node.js
+* Basic AWS knowledge/experience
  
 #### OS & network
 * TCP/IP, TLS- and DNS-config
