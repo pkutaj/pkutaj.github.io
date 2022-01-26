@@ -46,3 +46,4 @@ List of texts / podcast that caught my attention this year (2022).
 * [What America’s largest technology firms are investing in - The Economist](https://www.economist.com/briefing/2022/01/22/what-americas-largest-technology-firms-are-investing-in)
 > When the twin foundations of the computer age, the transistor and Claude Shannon’s theory of information, came out of Bell Labs in the mid-20th century, it was not because the labs’ owner, at&t, was facing lots of scrappy competitors. It was because it wanted to make and own the future. Rob Atkinson, head of the Information Technology and Innovation Foundation, a think-tank, argues something similar is true today: the Big Five are “oligopolists which use their market power to win the next big thing.”
 * Combine with the foundational [The End of the Beginning – Stratechery by Ben Thompson](https://stratechery.com/2020/the-end-of-the-beginning/)
+
