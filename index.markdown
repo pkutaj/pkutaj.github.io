@@ -16,7 +16,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
-* sharing some of [my side projects](#2-side-projects) on github
+* sharing some of [my side projects](#2-side-projects) on GitHub
 * in 2022, I am focusing on leet code problems 
 * if so inclined, see [my public LeetCode profile](https://leetcode.com/pkutaj/)
 
@@ -69,7 +69,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Czech C2
 * German C1 certified, currently not used
  
-#### Computer languagues in the order of current usaage
+#### Computer languagues sorted by useage
 * Python
 * Powershell; Bash
 * Markdown 
@@ -88,7 +88,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Chrome & Firefox Developer Tool Debugging
 * Atlassian stack (Jira, Confluence, OpsGenie) + Zendesk
 * Windows debugging (Sysinternal Tools)
-* Wordpress and Drupal theming
+* WordPress and Drupal theming
 * Fiddler
 * Advanced Grafana dashboard building
 * Google Apps Engine, Google Apps Script
