@@ -15,6 +15,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [On the value of in-house expertise](#on-the-value-of-in-house-expertise)
     - [What America’s largest technology firms are investing in](#what-americas-largest-technology-firms-are-investing-in)
     - [Get ahead by not shooting yourself in the foot](#get-ahead-by-not-shooting-yourself-in-the-foot)
+    - [The Biggest Mistake I See Engineers Make](#the-biggest-mistake-i-see-engineers-make)
+- [FEB 2022](#feb-2022)
 
 <!-- /TOC -->
 
@@ -51,3 +53,11 @@ List of texts / podcast that caught my attention this year (2022).
 #### Get ahead by not shooting yourself in the foot
 * [Get ahead by not shooting yourself in the foot - Artur Piszek](https://piszek.com/2022/01/24/stop-shooting-yourself-in-the-foot/)
 * Reminds be of a strategy outlined in [The Education of a Speculator by Victor Niederhoffer](https://www.goodreads.com/en/book/show/495065.The_Education_of_a_Speculator) - for playing squash if I remember correctly, where the winner not the one that makes the kill, but the one that makes the least number of [unforced errors](https://en.wiktionary.org/wiki/unforced_error)
+
+#### The Biggest Mistake I See Engineers Make
+* [The Biggest Mistake I See Engineers Make](https://www.thezbook.com/the-biggest-mistake-i-see-engineers-make/)
+* Common at Support Engineering level as well, complement with the [item 7 of Uncle Bob's Craftman's Oath](https://youtu.be/17vTLSkXTOo?t=2608):
+
+> I will continuously ensure that others can cover for me and that I can cover for them.
+
+### FEB 2022
