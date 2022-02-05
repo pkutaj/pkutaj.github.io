@@ -17,6 +17,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Get ahead by not shooting yourself in the foot](#get-ahead-by-not-shooting-yourself-in-the-foot)
     - [The Biggest Mistake I See Engineers Make](#the-biggest-mistake-i-see-engineers-make)
 - [FEB 2022](#feb-2022)
+    - [Extreme Programming 20 years later by Kent Beck](#extreme-programming-20-years-later-by-kent-beck)
 
 <!-- /TOC -->
 
@@ -61,3 +62,7 @@ List of texts / podcast that caught my attention this year (2022).
 > I will continuously ensure that others can cover for me and that I can cover for them.
 
 ### FEB 2022
+#### Extreme Programming 20 years later by Kent Beck
+* One of my favorite talks, the often black humor and an interesting facebook "patriotism" of the 2015 are noteworthy
+* [Extreme Programming 20 years later by Kent Beck - YouTube](https://www.youtube.com/watch?v=cGuTmOUdFbo)
+* Also summarized my blog post [The History Of Extreme Programming, Feb, 2022](https://pavolkutaj.medium.com/the-history-of-extreme-programming-dcf6e234cb54)
