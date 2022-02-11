@@ -18,6 +18,9 @@ List of texts / podcast that caught my attention this year (2022).
     - [The Biggest Mistake I See Engineers Make](#the-biggest-mistake-i-see-engineers-make)
 - [FEB 2022](#feb-2022)
     - [Extreme Programming 20 years later by Kent Beck](#extreme-programming-20-years-later-by-kent-beck)
+    - [Digital Advertising in 2022](#digital-advertising-in-2022)
+    - [Cocktail party ideas](#cocktail-party-ideas)
+    - [Stewart Brand on Starting Things and Staying Curious](#stewart-brand-on-starting-things-and-staying-curious)
 
 <!-- /TOC -->
 
@@ -63,6 +66,25 @@ List of texts / podcast that caught my attention this year (2022).
 
 ### FEB 2022
 #### Extreme Programming 20 years later by Kent Beck
-* One of my favorite talks, the often black humor and an interesting facebook "patriotism" of the 2015 are noteworthy
 * [Extreme Programming 20 years later by Kent Beck - YouTube](https://www.youtube.com/watch?v=cGuTmOUdFbo)
+* One of my favorite talks, the often black humor and an interesting facebook "patriotism" of the 2015 are noteworthy
 * Also summarized my blog post [The History Of Extreme Programming, Feb, 2022](https://pavolkutaj.medium.com/the-history-of-extreme-programming-dcf6e234cb54)
+
+#### Digital Advertising in 2022
+* [Digital Advertising in 2022](https://stratechery.com/2022/digital-advertising-in-2022/)
+* In a dialectical conversation with past self from 6 years ago. Adding Amazon to Google and Facebook masters of digital advertising, making it a triumvirate. Witnessing this conversation from one own's thinking of the past is another reason why longevity matters so much and as Malcolm Gladwell puts is
+
+> longevity, I have come to believe, is the most important and most often underestimated indicator of genius
+
+— [Why Paul Simon? - Meta Bulletin](https://malcolmgladwell.bulletin.com/212667970940416/)
+
+#### Cocktail party ideas
+* [Cocktail party ideas - Dan Luu](https://danluu.com/cocktail-ideas/)
+* Another contrarian piece. Dan seems to understand the old marketing adage that saying something like _if you want an audience start a fight_:
+> To validate someone's great idea see if they understand what subproblems need solution for the problem.
+
+#### Stewart Brand on Starting Things and Staying Curious
+* [Stewart Brand on Starting Things and Staying Curious (Ep. 142) - Conversations with Tyler](https://conversationswithtyler.com/episodes/stewart-brand/)
+* I found this _really_ intriguing, some weird californian marriage of socialism and capitalism that fuelled the idealism of many computer pioneers ???
+
+> I don’t think people know the extent to which the mob took over (Bay Area in the 1960s). At first pornography — there was some really, really creative pornography coming out of basically hippie artists having a good time and turning the camera on. Then the whole dope culture. “No hope without dope.” Everybody was selling or buying marijuana and these other drugs from each other. Then one of the guys, named Super Spade — his arms and legs cut off, and his torso was hung out by Ocean Beach from a tree. And this knowledge of, well, those amateur days of drug sales are gone now, and the big-time players are here in town, and “Do not f — with us.” That was the end of that. Everybody who had been selling dope and learned a little bit of business from doing it, then went into business — legitimate business — and they were good at it. Hippies became, basically, very good commercial startup folks, partly because of that sequence of experiences.
