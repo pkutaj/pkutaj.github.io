@@ -21,6 +21,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Digital Advertising in 2022](#digital-advertising-in-2022)
     - [Cocktail party ideas](#cocktail-party-ideas)
     - [Stewart Brand on Starting Things and Staying Curious](#stewart-brand-on-starting-things-and-staying-curious)
+    - [Nobody Cared About My Spreadsheets](#nobody-cared-about-my-spreadsheets)
 
 <!-- /TOC -->
 
@@ -88,3 +89,12 @@ List of texts / podcast that caught my attention this year (2022).
 * I found this _really_ intriguing, some weird californian marriage of socialism and capitalism that fuelled the idealism of many computer pioneers ???
 
 > I don’t think people know the extent to which the mob took over (Bay Area in the 1960s). At first pornography — there was some really, really creative pornography coming out of basically hippie artists having a good time and turning the camera on. Then the whole dope culture. “No hope without dope.” Everybody was selling or buying marijuana and these other drugs from each other. Then one of the guys, named Super Spade — his arms and legs cut off, and his torso was hung out by Ocean Beach from a tree. And this knowledge of, well, those amateur days of drug sales are gone now, and the big-time players are here in town, and “Do not f — with us.” That was the end of that. Everybody who had been selling dope and learned a little bit of business from doing it, then went into business — legitimate business — and they were good at it. Hippies became, basically, very good commercial startup folks, partly because of that sequence of experiences.
+
+#### Nobody Cared About My Spreadsheets
+* Excel has been my passion and obsession and I consider the Excel bashing to be uninformed / opportunistic
+* ...but always a great food for thought, here is a recent thread with Bryan Caplan's compaining that nobody looked into his _spreadsheets_ that served as an evidence for his _Case against Education_
+* [No one cared about Bryan's spreadsheets - Marginal REVOLUTION](https://marginalrevolution.com/marginalrevolution/2022/02/no-one-cared-about-bryans-spreadsheets.html)
+* [No One Cared About My Spreadsheets - Econlib](https://www.econlib.org/no-one-cared-about-my-spreadsheets/)
+* [On Bryan Caplan's spreadsheets](https://www.natemeyvis.com/writing/on-bryan-caplans-spreadsheets/)
+* I consider to be the final verdict this
+>
