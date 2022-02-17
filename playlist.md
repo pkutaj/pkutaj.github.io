@@ -97,4 +97,4 @@ List of texts / podcast that caught my attention this year (2022).
 * [No One Cared About My Spreadsheets - Econlib](https://www.econlib.org/no-one-cared-about-my-spreadsheets/)
 * [On Bryan Caplan's spreadsheets](https://www.natemeyvis.com/writing/on-bryan-caplans-spreadsheets/)
 * I consider to be the final verdict this
->
+> If the initial data set is small, and you don't know that much about what kind of data you're storing, use a highly flexible, easy-to-modify format to store it (Excel). When the data set gets bigger and/or your knowledge about the data starts to crystalize, then migrate it (Database).
