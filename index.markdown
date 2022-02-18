@@ -15,7 +15,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
-* writing up a [read-list of 2022](./playlist.md)
+* writing up a [read-list of 2022](https://pavol.kutaj.com/playlist.html)
 * sharing some of [my side projects](#2-side-projects) on GitHub
 * in 2022, I am focusing on leet code problems 
 * if so inclined, see [my public LeetCode profile](https://leetcode.com/pkutaj/)
