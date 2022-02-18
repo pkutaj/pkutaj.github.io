@@ -11,8 +11,8 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2022)
-* writing SQL to model customer contacts into a form that's easily importable/segmentable with Sendgrid
 * writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
+* writing SQL to model customer contacts into a form that's easily importable/segmentable with Sendgrid
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](https://pavol.kutaj.com/playlist.html)
