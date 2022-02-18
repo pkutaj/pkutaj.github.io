@@ -11,8 +11,8 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2022)
-* writing python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
-* writing Knowledge Base documents in markdown / Visual Studio Code
+* writing SQL to model customer contacts into a form that's easily importable/segmentable with Sendgrid
+* writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](./playlist.md)
@@ -43,16 +43,17 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### SIDE PROJECTS
 
-Tool       | Name    | Description                   | URL
------------|---------|-------------------------------|-----------------------------------------------------------------------
-Powershell | mv      | Personal History of Software  | [https://github.com/pkutaj/mv](https://github.com/pkutaj/mv)
-Powershell | z4v     | Zettelkasten 4 VSCode         | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
-Python     | md2med  | Markdown → Medium publisher   | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
-Powershell | kronCLI | CLI markdown Journal          | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
-Drupal     | website | Corporate IT department       | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
-Wordpress  | website | Venetian Glass Art            | [http://syin.eu](http://syin.eu)
-Wordpress  | website | Dermatologist                 | [http://iderma.cz](http://iderma.cz)
-Wordpress  | website | Psychotherapeutic Association | [http://csgt.cz](http://csgt.cz)
+Tool       | Name    | Description                         | URL
+-----------|---------|-------------------------------------|-----------------------------------------------------------------------
+Python     | jirc    | Create a **jir**a **c**ard from CLI | [https://github.com/pkutaj/jirc](https://github.com/pkutaj/jirc)
+Powershell | mv      | Personal History of Software        | [https://github.com/pkutaj/mv](https://github.com/pkutaj/mv)
+Powershell | z4v     | Zettelkasten 4 VSCode               | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
+Python     | md2med  | Markdown → Medium publisher         | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
+Powershell | kronCLI | CLI markdown Journal                | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
+Drupal     | website | Corporate IT department             | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
+Wordpress  | website | Venetian Glass Art                  | [http://syin.eu](http://syin.eu)
+Wordpress  | website | Dermatologist                       | [http://iderma.cz](http://iderma.cz)
+Wordpress  | website | Psychotherapeutic Association       | [http://csgt.cz](http://csgt.cz)
 
 ### EDUCATION 
 
