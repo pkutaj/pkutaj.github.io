@@ -22,6 +22,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Cocktail party ideas](#cocktail-party-ideas)
     - [Stewart Brand on Starting Things and Staying Curious](#stewart-brand-on-starting-things-and-staying-curious)
     - [Nobody Cared About My Spreadsheets](#nobody-cared-about-my-spreadsheets)
+    - [Sebastian Mallaby on Venture Capital](#sebastian-mallaby-on-venture-capital)
 
 <!-- /TOC -->
 
@@ -98,3 +99,12 @@ List of texts / podcast that caught my attention this year (2022).
 * [On Bryan Caplan's spreadsheets](https://www.natemeyvis.com/writing/on-bryan-caplans-spreadsheets/)
 * I consider to be the final verdict this
 > If the initial data set is small, and you don't know that much about what kind of data you're storing, use a highly flexible, easy-to-modify format to store it (Excel). When the data set gets bigger and/or your knowledge about the data starts to crystalize, then migrate it (Database).
+
+#### Sebastian Mallaby on Venture Capital
+* [Sebastian Mallaby on Venture Capital](https://conversationswithtyler.com/episodes/sebastian-mallaby/)
+* As a software/tech history fan I did enjoy the following association of Yahoo and Apple which I was not aware of previously
+
+> The first example of this is Yahoo, where Jerry Yang and David Filo were in their port-a-cabin on the Stanford campus. They thought they were building a hobby-type thing, and they were proud of Yahoo as a directory of the emerging internet. But Moritz showed up, listened, understood, and said, “This is the new Apple. You are going to make something with a quirky name. Apple was quirky, Yahoo is quirky. You’re going to have a brand, and you’re going to be the face of a new phase in tech history.” He enlarged their sense of themselves.
+
+* On Yahoo and early search engines, see the Chapter 4 of [Internet History Podcast](https://www.internethistorypodcast.com/podcasts-by-chapter/); also noting their rootedness in academia (internet before browsers was largely academic/unix-based and search algorithm is a major academic research problem in computer science)
+* Apart from interesting info about VC I fount it interesting how he plans his career in 5-year stints (5-year research dives into a topic followed by a book on the subject)
