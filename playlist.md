@@ -23,6 +23,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [Stewart Brand on Starting Things and Staying Curious](#stewart-brand-on-starting-things-and-staying-curious)
     - [Nobody Cared About My Spreadsheets](#nobody-cared-about-my-spreadsheets)
     - [Sebastian Mallaby on Venture Capital](#sebastian-mallaby-on-venture-capital)
+- [MAR 2022](#mar-2022)
+    - [What is the difference between __str__ and __repr__? in Python](#what-is-the-difference-between-__str__-and-__repr__-in-python)
 
 <!-- /TOC -->
 
@@ -108,3 +110,13 @@ List of texts / podcast that caught my attention this year (2022).
 
 * On Yahoo and early search engines, see the Chapter 4 of [Internet History Podcast](https://www.internethistorypodcast.com/podcasts-by-chapter/); also noting their rootedness in academia (internet before browsers was largely academic/unix-based and search algorithm is a major academic research problem in computer science)
 * Apart from interesting info about VC I fount it interesting how he plans his career in 5-year stints (5-year research dives into a topic followed by a book on the subject)
+
+### MAR 2022
+#### What is the difference between __str__ and __repr__? in Python
+* [python - What is the difference between __str__ and __repr__? - Stack Overflow](https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr/2626364#2626364)
+* By necessity, I am wrapping my head around how to log well and the following section just stuck
+
+> Let me come right out and say it — I do not believe in debuggers. I don’t really know how to use any debugger, and have never used one seriously. Furthermore, I believe that the big fault in debuggers is their basic nature — most failures I debug happened a long long time ago, in a galaxy far far away. This means that I do believe, with religious fervor, in logging. Logging is the lifeblood of any decent fire-and-forget server system. 
+
+
+
