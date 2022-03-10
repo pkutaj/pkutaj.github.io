@@ -25,6 +25,9 @@ List of texts / podcast that caught my attention this year (2022).
     - [Sebastian Mallaby on Venture Capital](#sebastian-mallaby-on-venture-capital)
 - [MAR 2022](#mar-2022)
     - [What is the difference between __str__ and __repr__? in Python](#what-is-the-difference-between-__str__-and-__repr__-in-python)
+    - [Platformers About Page](#platformers-about-page)
+    - [Choose Joy even in the Dark Ages](#choose-joy-even-in-the-dark-ages)
+    - [One Way Smart Developers Make Bad Strategic Decisions](#one-way-smart-developers-make-bad-strategic-decisions)
 
 <!-- /TOC -->
 
@@ -118,5 +121,20 @@ List of texts / podcast that caught my attention this year (2022).
 
 > Let me come right out and say it — I do not believe in debuggers. I don’t really know how to use any debugger, and have never used one seriously. Furthermore, I believe that the big fault in debuggers is their basic nature — most failures I debug happened a long long time ago, in a galaxy far far away. This means that I do believe, with religious fervor, in logging. Logging is the lifeblood of any decent fire-and-forget server system. 
 
+#### Platformers About Page
+* [About - Platformers](https://platformers.dev/about/)
+* A suprisingly succint, yet important
 
+> Although I've always tried to keep up with the latest in technology, I am a firm believer that the most important trait for success in the tech industry is the same as any other endeavor: recognizing and affirming the dignity of every human person I interact with.
 
+* Definitely in-line with the late Kent Beck's talk asserting that [Software design is an exercise in human relationships](https://www.youtube.com/watch?v=BFFY9Zor6zw&ab_channel=Confreaks)
+
+#### Choose Joy even in the Dark Ages
+* [Essential Life-Learnings from 14 Years of Brain Pickings – The Marginalian](https://www.themarginalian.org/2020/10/21/14-years-of-brain-pickings/)
+* Not-tech, but it is increasingly difficult in March-2022 to keep calm and carry on without thinking about how to help Ukrainians and what one's values are. So, this comes extremely timely to my personal attention
+
+> Choose joy. Choose it like a child chooses the shoe to put on the right foot, the crayon to paint a sky. Choose it at first consciously, effortfully, pressing against the weight of a world heavy with reasons for sorrow, restless with need for action. Feel the sorrow, take the action, but keep pressing the weight of joy against it all, until it becomes mindless, automated, like gravity pulling the stream down its course; until it becomes an inner law of nature.
+
+#### One Way Smart Developers Make Bad Strategic Decisions
+* [One Way Smart Developers Make Bad Strategic Decisions - Earthly Blog](https://earthly.dev/blog/see-state/)
+* Another suprising integration of craft with other domains, this time a critique of **top-down planning approach** (waterfall, remember?) that we can see evolving not only in the world of software but in the economy or in ones personal budgeting (read [Roll With The Punches](https://www.youneedabudget.com/the-four-rules/))
