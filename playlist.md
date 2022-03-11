@@ -28,6 +28,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Platformers About Page](#platformers-about-page)
     - [Choose Joy even in the Dark Ages](#choose-joy-even-in-the-dark-ages)
     - [One Way Smart Developers Make Bad Strategic Decisions](#one-way-smart-developers-make-bad-strategic-decisions)
+    - [Cormac McCarthy Non-Fiction Writing Tips](#cormac-mccarthy-non-fiction-writing-tips)
 
 <!-- /TOC -->
 
@@ -138,3 +139,12 @@ List of texts / podcast that caught my attention this year (2022).
 #### One Way Smart Developers Make Bad Strategic Decisions
 * [One Way Smart Developers Make Bad Strategic Decisions - Earthly Blog](https://earthly.dev/blog/see-state/)
 * Another suprising integration of craft with other domains, this time a critique of **top-down planning approach** (waterfall, remember?) that we can see evolving not only in the world of software but in the economy or in ones personal budgeting (read [Roll With The Punches](https://www.youneedabudget.com/the-four-rules/))
+
+#### Cormac McCarthy Non-Fiction Writing Tips
+* [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
+* I had about a year in my twenties when I read nothing but Cormac McCarthy (Borders Trilogy, The Road and Bloddy Meridian)
+* It came as a surprise that he recommends a minimal and clear style for writing scientific papers
+
+> Decide on your paper’s theme and two or three points you want every reader to remember. This theme and these points form the single thread that runs through your piece. The words, sentences, paragraphs and sections are the needlework that holds it together. If something isn’t needed to help the reader to understand the main theme, omit it
+
+* If you want a counter-argument, always go for Dan Luu and read his [Some thoughts on writing](https://danluu.com/writing-non-advice/)
