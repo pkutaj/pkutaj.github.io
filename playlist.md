@@ -29,6 +29,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [Choose Joy even in the Dark Ages](#choose-joy-even-in-the-dark-ages)
     - [One Way Smart Developers Make Bad Strategic Decisions](#one-way-smart-developers-make-bad-strategic-decisions)
     - [Cormac McCarthy Non-Fiction Writing Tips](#cormac-mccarthy-non-fiction-writing-tips)
+    - [They Predicted the Ukraine War. But Did They Still Get It Wrong?](#they-predicted-the-ukraine-war-but-did-they-still-get-it-wrong)
 
 <!-- /TOC -->
 
@@ -148,3 +149,7 @@ List of texts / podcast that caught my attention this year (2022).
 > Decide on your paper’s theme and two or three points you want every reader to remember. This theme and these points form the single thread that runs through your piece. The words, sentences, paragraphs and sections are the needlework that holds it together. If something isn’t needed to help the reader to understand the main theme, omit it
 
 * If you want a counter-argument, always go for Dan Luu and read his [Some thoughts on writing](https://danluu.com/writing-non-advice/)
+
+#### They Predicted the Ukraine War. But Did They Still Get It Wrong?
+* [Opinion - They Predicted the Ukraine War. But Did They Still Get It Wrong? - The New York Times](https://www.nytimes.com/2022/03/09/opinion/ukraine-russia-invasion-west.html)
+* On a fascitanitating dynamics of predictions where the one that were right still get descrited and lose authority
