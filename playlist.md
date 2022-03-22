@@ -30,6 +30,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [One Way Smart Developers Make Bad Strategic Decisions](#one-way-smart-developers-make-bad-strategic-decisions)
     - [Cormac McCarthy Non-Fiction Writing Tips](#cormac-mccarthy-non-fiction-writing-tips)
     - [They Predicted the Ukraine War. But Did They Still Get It Wrong?](#they-predicted-the-ukraine-war-but-did-they-still-get-it-wrong)
+    - [Kotkin On Invasion](#kotkin-on-invasion)
 
 <!-- /TOC -->
 
@@ -153,3 +154,11 @@ List of texts / podcast that caught my attention this year (2022).
 #### They Predicted the Ukraine War. But Did They Still Get It Wrong?
 * [Opinion - They Predicted the Ukraine War. But Did They Still Get It Wrong? - The New York Times](https://www.nytimes.com/2022/03/09/opinion/ukraine-russia-invasion-west.html)
 * On a fascitanitating dynamics of predictions where the one that were right still get descrited and lose authority
+
+#### Kotkin On Invasion
+* [A Scholar of Stalin Discusses Putin, Russia, Ukraine, and the West | The New Yorker](https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin)
+* Not only, but importantly on hubris within the Russian culture
+
+> Russia is a remarkable civilization: in the arts, music, literature, dance, film. In every sphere, it’s a profound, remarkable place—a whole civilization, more than just a country. At the same time, Russia feels that it has a “special place” in the world, a special mission. It’s Eastern Orthodox, not Western. And it wants to stand out as a great power. Its problem has always been not this sense of self or identity but the fact that its capabilities have never matched its aspirations. It’s always in a struggle to live up to these aspirations, but it can’t, because the West has always been more powerful.
+
+* I am somewhat missing the humiliation part as outlined by Masha Gessein in [Ezra Klein Interviews Masha Gessen - The New York Times](https://www.nytimes.com/2022/03/11/podcasts/transcript-ezra-klein-interviews-masha-gessen.html)
