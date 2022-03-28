@@ -30,7 +30,9 @@ List of texts / podcast that caught my attention this year (2022).
     - [One Way Smart Developers Make Bad Strategic Decisions](#one-way-smart-developers-make-bad-strategic-decisions)
     - [Cormac McCarthy Non-Fiction Writing Tips](#cormac-mccarthy-non-fiction-writing-tips)
     - [They Predicted the Ukraine War. But Did They Still Get It Wrong?](#they-predicted-the-ukraine-war-but-did-they-still-get-it-wrong)
-    - [Kotkin On Invasion](#kotkin-on-invasion)
+    - [Historian Stephen Kotkin On Invasion](#historian-stephen-kotkin-on-invasion)
+    - [Historian Timothy Snyder on Ukraine](#historian-timothy-snyder-on-ukraine)
+    - [Bookvine.io](#bookvineio)
 
 <!-- /TOC -->
 
@@ -155,10 +157,19 @@ List of texts / podcast that caught my attention this year (2022).
 * [Opinion - They Predicted the Ukraine War. But Did They Still Get It Wrong? - The New York Times](https://www.nytimes.com/2022/03/09/opinion/ukraine-russia-invasion-west.html)
 * On a fascitanitating dynamics of predictions where the one that were right still get descrited and lose authority
 
-#### Kotkin On Invasion
+#### Historian Stephen Kotkin On Invasion
 * [A Scholar of Stalin Discusses Putin, Russia, Ukraine, and the West | The New Yorker](https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin)
 * Not only, but importantly on hubris within the Russian culture
 
 > Russia is a remarkable civilization: in the arts, music, literature, dance, film. In every sphere, it’s a profound, remarkable place—a whole civilization, more than just a country. At the same time, Russia feels that it has a “special place” in the world, a special mission. It’s Eastern Orthodox, not Western. And it wants to stand out as a great power. Its problem has always been not this sense of self or identity but the fact that its capabilities have never matched its aspirations. It’s always in a struggle to live up to these aspirations, but it can’t, because the West has always been more powerful.
 
 * I am somewhat missing the humiliation part as outlined by Masha Gessein in [Ezra Klein Interviews Masha Gessen - The New York Times](https://www.nytimes.com/2022/03/11/podcasts/transcript-ezra-klein-interviews-masha-gessen.html)
+
+#### Historian Timothy Snyder on Ukraine
+* [Transcript: Ezra Klein Interviews Timothy Snyder - The New York Times](https://www.nytimes.com/2022/03/15/podcasts/transcript-ezra-klein-interviews-timothy-snyder.html)
+
+> Ancient Greece got grain from Ukraine. In the 16th century, Poland effectively colonized Ukraine during the Age of Discovery and sold grain from Ukraine around the world for gold and silver that came from Latin America. In the 20th century, Stalin also colonized Ukraine. And he actually used that language...Hitler is looking at Ukraine as a breadbasket. Hitler is looking at Ukraine as the last best opportunity for the Germans to create a colonial system, which he sees as like that of other countries, but coming in later, coming in harder and allowing Germany to catch up and become a superpower, like the British are, like the Americans are from his point of view...So it’s all about Ukraine. The Second World War, in Europe at least, is all about Ukraine. If not for Ukraine, if not for that vision, which we under the heading of “Lebensraum,” there wouldn’t have been a war. 
+
+#### Bookvine.io
+* A project of a 13-year old boy assisted by his developer dad, listing 300 books listed per-category. I am on the opposite side of the world and needed this, too for my kids. 
+* https://www.bookvine.io/
