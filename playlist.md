@@ -33,6 +33,11 @@ List of texts / podcast that caught my attention this year (2022).
     - [Historian Stephen Kotkin On Invasion](#historian-stephen-kotkin-on-invasion)
     - [Historian Timothy Snyder on Ukraine](#historian-timothy-snyder-on-ukraine)
     - [Bookvine.io](#bookvineio)
+    - [The modern data stack in 2021](#the-modern-data-stack-in-2021)
+- [APR 2022](#apr-2022)
+    - [How Microsoft hired Jim Allchin and destroyed Banyan VINES and created LAN for Enterprise](#how-microsoft-hired-jim-allchin-and-destroyed-banyan-vines-and-created-lan-for-enterprise)
+    - [The Current Thing](#the-current-thing)
+    - [What hacking AOL taught a generation of programmers](#what-hacking-aol-taught-a-generation-of-programmers)
 
 <!-- /TOC -->
 
@@ -173,3 +178,36 @@ List of texts / podcast that caught my attention this year (2022).
 #### Bookvine.io
 * A project of a 13-year old boy assisted by his developer dad, listing 300 books listed per-category. I am on the opposite side of the world and needed this, too for my kids. 
 * https://www.bookvine.io/
+
+#### The modern data stack in 2021
+* [The modern data stack in 2021](https://snowplowanalytics.com/blog/2021/05/12/modern-data-stack/)
+* My colleague Archit summarized 3 major technological breakthroughts of the early 21st century which enabled the universal use of business inteligence methodologies freed from the older constraints (large investment and huge compute demands)
+    - 2006 Apache Hadoop (distrubuted big data framework enabling horizontal scaling)
+    - 2006 AWS (cloud, no comment)
+    - 2012 Redshift (data warehouse in-the-cloud)
+* Can be combined with [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html) which claims memorably
+
+> Redshift is a data warehouse (aka OLAP database) offered by AWS. Before Redshift, it was the dark ages. The main player was Teradata, which had an on-prem offering. Startups said no to SQL and used Hadoop—SQL was kind of lame back then, for reasons that in hindsight appear absurd. I'm very happy we're out of this era. Anyway, one vendor was a company called ParAccel. AWS licensed their technology, rebranded it Redshift, and launched in 2012. Redshift at the time was the first data warehouse running in the cloud. It was a brilliant move by AWS, because it immediately lowered the bar for a small company to start doing analytics. You didn't have to set up any infrastructure yourself, or write custom mapreduce and reload the jobtracker all day. You could spin up a Redshift cluster in AWS, feed it humongous amounts of data, and it would … sort of just work.
+
+### APR 2022
+#### How Microsoft hired Jim Allchin and destroyed Banyan VINES and created LAN for Enterprise
+* [The History of Computing: Banyan Vines and the Emerging Local Area Network](https://thehistoryofcomputing.net/banyan-vines-and-the-emerging-local-area-network)
+* One of my favorites, Charles Edge is a young master
+
+> Yet, with incumbents like Banyan VINES and Novel Netware, this is another one of those times when Microsoft saw an opening for something better and just willed it into existence. And the story is similar to that of dozens of other companies including Novell, Lotus, VisiCalc, Netscape, Digital Research, and the list goes on and on and on. This kept happening because of a number of reasons. The field of computing had been comprised of former academics, many of whom weren’t aggressive in business. Microsoft ended up owning the operating system and so had selling power when it came to cornering adjacent markets because they could provide the cleanest possible user experience. People seemed to underestimate Microsoft until it was too late. Inertia. Oh, and Microsoft could outspend on top talent and offer them the biggest impact for their work. Whatever the motivators, Microsoft won in nearly every nook and cranny in the IT field that they pursued for decades. The damaging part for Banyan was when they teamed up with IBM to ship LAN Manager, which ultimately shipped under the name of each company. Microsoft ended up recruiting Jim Allchin away and with network interface cards falling below $1,000 it became clear that the local area network was really just in its infancy. He inherited LAN Manager and then NT from Dave Cutler and the next thing we knew, Windows NT Server was born, complete with file services, print services, and a domain, which wasn’t a fully qualified domain name until the release of Active Directory. Microsoft added Windsock in 1993 and released their own protocols. They supported protocols like IPX/SPX and DECnet but slowly moved customers to their own protocols.
+
+#### The Current Thing
+* [The Current Thing – Stratechery by Ben Thompson](https://stratechery.com/2022/the-current-thing/)
+* An intriguing analysis of a _meme_ pinpointing the absolutist tendencies of the internet ruled by a few major centers (Facebook, Google and Amazon)
+
+> sure, the Internet makes possible a wide range of viewpoints — you can absolutely find critics of Black Lives Matter, COVID policies, or pro-Ukraine policies — but the Internet, thanks to its lack of friction and instant feedback loops, also makes nearly every position but the dominant one untenable. If everyone believes one thing, the costs of believing something else increase dramatically, making the consensus opinion the only viable option; this is the same dynamic in which publishers become dependent on Google or Facebook, or retailers on Amazon, just because that is where money can be made.
+
+#### What hacking AOL taught a generation of programmers
+* [What hacking AOL taught a generation of programmers](https://github.com/readme/featured/aol-programming-culture)
+* Generation is a useful and well-conceptualized sociological concept, Seth Godin has described it succintly in one of his recent posts
+
+> Demographers use it to begin a conversation about the changes around us. While a birth range doesn’t guarantee an outlook, the demographics and cultural shifts that a group shares tell us a lot about how they might see the world. 
+
+— from [Generation C - Seth's Blog](https://seths.blog/2022/04/generation-c/)
+
+* This essay is about a formative coming-of-age experience of US-based software engineers experiencing IRC/AOL-hacking/empowering prog-culture as an imprinting one
