@@ -38,6 +38,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [How Microsoft hired Jim Allchin and destroyed Banyan VINES and created LAN for Enterprise](#how-microsoft-hired-jim-allchin-and-destroyed-banyan-vines-and-created-lan-for-enterprise)
     - [The Current Thing](#the-current-thing)
     - [What hacking AOL taught a generation of programmers](#what-hacking-aol-taught-a-generation-of-programmers)
+    - [Inside the Longest Atlassian Outage of All Time](#inside-the-longest-atlassian-outage-of-all-time)
+    - [Coiling Ropes](#coiling-ropes)
 
 <!-- /TOC -->
 
@@ -211,3 +213,17 @@ List of texts / podcast that caught my attention this year (2022).
 — from [Generation C - Seth's Blog](https://seths.blog/2022/04/generation-c/)
 
 * This essay is about a formative coming-of-age experience of US-based software engineers experiencing IRC/AOL-hacking/empowering prog-culture as an imprinting one
+
+#### Inside the Longest Atlassian Outage of All Time
+* [The Scoop: Inside the Longest Atlassian Outage of All Time](https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r)
+* When I read this, I think of [Uncle Bob's sermons on professionality](https://www.youtube.com/watch?v=17vTLSkXTOo&ab_channel=Codurance)
+* And I am also thinking: could I make such a mess myself ? Chilly thought. 
+
+> We are in the middle of the longest outage Atlassian has ever had. Close to 400 companies and anywhere from 50,000 to 400,000 users had no access to JIRA, Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services....having started on Monday, 4th of April 2022... A script was supposed to delete all customer data from a plugin but accidentally deleted all customer data for anyone using this plugin.
+
+#### Coiling Ropes
+> Professionals put things away slowly so that they’ll be ready quickly when needed Investing time now for time later.
+
+— https://seths.blog/2022/04/coiling-ropes/
+
+* Combine with [Kageyama 7-Dan on Amateurs and Professionals -  Arun Prasad](https://arunkprasad.com/log/kageyama-7-dan-on-amateurs-and-professionals/)
