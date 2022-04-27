@@ -40,6 +40,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [What hacking AOL taught a generation of programmers](#what-hacking-aol-taught-a-generation-of-programmers)
     - [Inside the Longest Atlassian Outage of All Time](#inside-the-longest-atlassian-outage-of-all-time)
     - [Coiling Ropes](#coiling-ropes)
+- [1x Programming](#1x-programming)
 
 <!-- /TOC -->
 
@@ -227,3 +228,10 @@ List of texts / podcast that caught my attention this year (2022).
 — https://seths.blog/2022/04/coiling-ropes/
 
 * Combine with [Kageyama 7-Dan on Amateurs and Professionals -  Arun Prasad](https://arunkprasad.com/log/kageyama-7-dan-on-amateurs-and-professionals/)
+
+### 1x Programming
+* [Tim McNamara – 1x Programming](https://tim.mcnamara.nz/post/667318290442600448/1x-programming)
+
+> Your team isn’t going to have fewer priorities next week or next month. There will not be an opportunity to do the wholesale rewrite that the code base deserves. The only way to improve a code base is incrementally.
+
+* It can be risky to take advices face-value even if they are introduced by `n` years of experience, but I suggest combining this one with the great [20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
