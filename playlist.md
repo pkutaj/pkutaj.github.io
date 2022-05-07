@@ -42,6 +42,9 @@ List of texts / podcast that caught my attention this year (2022).
     - [Coiling Ropes](#coiling-ropes)
     - [1x Programming](#1x-programming)
     - [How I Got a Computer Science Degree in 3 Months for Less Than $5000](#how-i-got-a-computer-science-degree-in-3-months-for-less-than-5000)
+- [MAY 2022](#may-2022)
+    - [Half Baked](#half-baked)
+    - [SRE Series](#sre-series)
 
 <!-- /TOC -->
 
@@ -240,3 +243,14 @@ List of texts / podcast that caught my attention this year (2022).
 #### How I Got a Computer Science Degree in 3 Months for Less Than $5000
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 - Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * ...on the beauty of hacking minset and the great use of leisure (can't imagine the guy has a family:)
+
+### MAY 2022
+#### Half Baked
+* [Half baked - Seth's Blog](https://seths.blog/2022/05/half-baked/)
+* Seth Godin is spot-on, again
+
+#### SRE Series
+* [Google - Site Reliability Engineering Book](https://sre.google/sre-book/table-of-contents/)
+* [Software Reliability Engineering – Hope is not a strategy](https://www.codingblocks.net/podcast/software-reliability-engineering-hope-is-not-a-strategy/)
+* [Site Reliability Engineering – Embracing Risk](https://www.codingblocks.net/podcast/site-reliability-engineering-embracing-risk/)
+* [Site Reliability Engineering – Service Level Indicators, Objectives, and Agreements](https://www.codingblocks.net/podcast/site-reliability-engineering-slis-slos-slas/)
