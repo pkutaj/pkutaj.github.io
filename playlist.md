@@ -45,6 +45,7 @@ List of texts / podcast that caught my attention this year (2022).
 - [MAY 2022](#may-2022)
     - [Half Baked](#half-baked)
     - [SRE Series](#sre-series)
+    - [On repl-driven programming](#on-repl-driven-programming)
 
 <!-- /TOC -->
 
@@ -254,3 +255,7 @@ List of texts / podcast that caught my attention this year (2022).
 * [Software Reliability Engineering – Hope is not a strategy](https://www.codingblocks.net/podcast/software-reliability-engineering-hope-is-not-a-strategy/)
 * [Site Reliability Engineering – Embracing Risk](https://www.codingblocks.net/podcast/site-reliability-engineering-embracing-risk/)
 * [Site Reliability Engineering – Service Level Indicators, Objectives, and Agreements](https://www.codingblocks.net/podcast/site-reliability-engineering-slis-slos-slas/)
+
+#### On repl-driven programming
+* [On repl-driven programming - by mikel evins](https://mikelevins.github.io/posts/2020-12-18-repl-driven/)
+* Great commentary to the Great [Video Lectures - Structure and Interpretation of Computer Programs - MIT OpenCourseWare](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)

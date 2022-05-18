@@ -21,7 +21,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * in 2022, I am focusing on leet code problems — see [my public LeetCode profile](https://leetcode.com/pkutaj/)
 
 ### EXPERIENCE
-#### Data Collection Support Engineer; KB owner (AWS dominated SaaS)
+#### Infrastructure Support Engineer; KB owner (AWS dominated SaaS)
 * Snowplow Analytics
 * 2020-ongoing
 
@@ -70,13 +70,13 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Czech C2
 * German C1 certified, currently not used
  
-#### Computer languagues sorted by useage
+#### Programming languagues sorted by usage
 * Python
+* Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Powershell; Bash
-* Markdown 
+* Regex 
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
 * Javascript 
-* Regex 
 * HTML5/CSS3 
 * VBA/GAS 
 * C# 
