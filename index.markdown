@@ -11,7 +11,7 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q2/2022)
-* big news: I joined the new **Infrastructure Support Team** assisting the proper SRE team with deployments and other cloud infrastructure related tasks/automations
+* NEWS: I joined the new **Infrastructure Support Team** assisting the proper SRE team with deployments and other cloud infrastructure related tasks/automations
 * working on SLI/SLO/SLA definition and breach analysis
 * writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
 * writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
