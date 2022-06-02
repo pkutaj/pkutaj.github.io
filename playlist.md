@@ -46,6 +46,9 @@ List of texts / podcast that caught my attention this year (2022).
     - [Half Baked](#half-baked)
     - [SRE Series](#sre-series)
     - [On repl-driven programming](#on-repl-driven-programming)
+    - [I spent 2 years launching tiny projects](#i-spent-2-years-launching-tiny-projects)
+- [JUNE 2022](#june-2022)
+    - [Paul Graham: Beyond Smart](#paul-graham-beyond-smart)
 
 <!-- /TOC -->
 
@@ -259,3 +262,15 @@ List of texts / podcast that caught my attention this year (2022).
 #### On repl-driven programming
 * [On repl-driven programming - by mikel evins](https://mikelevins.github.io/posts/2020-12-18-repl-driven/)
 * Great commentary to the Great [Video Lectures - Structure and Interpretation of Computer Programs - MIT OpenCourseWare](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+
+#### I spent 2 years launching tiny projects
+* A great complement to my favorite [Finish your stuff](https://250bpm.com/blog:50/)
+* [I Spent 2 years Launching Tiny Projects - Tiny Projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
+
+### JUNE 2022
+#### Paul Graham: Beyond Smart
+* Similar to Stratechery, it is inspiring to see how thinkers build on previous work and how internet allows linking to previous essays of the same author
+* [Beyond Smart](http://paulgraham.com/smart.html)
+
+> There are general techniques for having new ideas — for example, for working on your own [<u>projects</u>](own.html) and for overcoming the obstacles you face with [<u>early</u>](early.html) work — and these can all be learned. Some of them can be learned by societies. And there are also collections of techniques for generating specific types of new ideas, like [startup ideas](startupideas.html) and [essay topics](essay.html).
+
