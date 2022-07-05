@@ -49,6 +49,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [I spent 2 years launching tiny projects](#i-spent-2-years-launching-tiny-projects)
 - [JUNE 2022](#june-2022)
     - [Paul Graham: Beyond Smart](#paul-graham-beyond-smart)
+    - [The Grug Brained Developer](#the-grug-brained-developer)
     - [How To Remember Anything Forever-ish](#how-to-remember-anything-forever-ish)
 
 <!-- /TOC -->
@@ -274,6 +275,10 @@ List of texts / podcast that caught my attention this year (2022).
 * [Beyond Smart](http://paulgraham.com/smart.html)
 
 > There are general techniques for having new ideas — for example, for working on your own [<u>projects</u>](own.html) and for overcoming the obstacles you face with [<u>early</u>](early.html) work — and these can all be learned. Some of them can be learned by societies. And there are also collections of techniques for generating specific types of new ideas, like [startup ideas](startupideas.html) and [essay topics](essay.html).
+
+#### The Grug Brained Developer
+* Funny, great poetics
+* https://grugbrain.dev/
 
 #### How To Remember Anything Forever-ish
 * [How To Remember Anything Forever-ish](https://ncase.me/remember/)

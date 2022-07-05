@@ -62,7 +62,9 @@ Charles University                 | Central European University
 2005-2009                          | 2009-2011
 Faculty of Humanities              | Department of Modern History
 B.A. degree; graduated with honors | M.A. degree; graduated with honors
- 
+
+* 
+
 ### SKILLS
 #### Human languages
 * Slovak native 
