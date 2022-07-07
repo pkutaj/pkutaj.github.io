@@ -105,7 +105,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * TCP/IP, TLS- and DNS-config
 * IIS configuration
 * Windows Server Roles and Features setup
-* .htaccess configurations
+* .htaccess/Apache configurations
  
 #### Methodologies
 * Knowledge-Centered-Support
