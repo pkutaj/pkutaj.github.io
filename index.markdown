@@ -2,19 +2,18 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Technical Support Engineer with a Passion for Python & Docs_
-----------------|--------------------------------------------------------------
+**PAVOL KUTAJ** | _Infrastructure Support Engineer with a Passion for Python & Docs_
+----------------|-------------------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q2/2022)
-* NEWS: I joined the new **Infrastructure Support Team** assisting the proper SRE team with deployments and other cloud infrastructure related tasks/automations
-* working on SLI/SLO/SLA definition and breach analysis
+### NOW (Q3/2022)
+* optimizing deployment processes
+* optimizing configuration drift mechanisms and alerting (HashiCorp/Attlasian stacks)
 * writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
-* writing Bash scripts, currently implementing [Snowplow Tracking CLI](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/snowplow-tracking-cli/) for infrastructure monitoring
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](https://pavol.kutaj.com/playlist.html)
 * sharing some of [my side projects](#2-side-projects) on GitHub
@@ -63,8 +62,6 @@ Charles University                 | Central European University
 Faculty of Humanities              | Department of Modern History
 B.A. degree; graduated with honors | M.A. degree; graduated with honors
 
-* 
-
 ### SKILLS
 #### Human languages
 * Slovak native 
@@ -82,7 +79,12 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * HTML5/CSS3 
 * VBA/GAS 
 * C# 
- 
+
+#### Courses/Certificates
+* [Core Python: Getting Stared](https://www.pluralsight.com/courses/getting-started-python-core)
+* [Core Python: Organizing Larger Programs](https://www.pluralsight.com/courses/core-python-organizing-larger-programs)
+* [Core Python: Functions and Functional Programming](https://www.pluralsight.com/courses/core-python-functions-functional-programming)
+
 #### Tools and Frameworks
 * Visual Studio Code as the editor of choice
 * advanced git + GitHub (actions, too)
