@@ -51,6 +51,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [Paul Graham: Beyond Smart](#paul-graham-beyond-smart)
     - [The Grug Brained Developer](#the-grug-brained-developer)
     - [How To Remember Anything Forever-ish](#how-to-remember-anything-forever-ish)
+- [JULY 2022](#july-2022)
+    - [Bjarne Stroustrup on Lex Fridman Podcast](#bjarne-stroustrup-on-lex-fridman-podcast)
 
 <!-- /TOC -->
 
@@ -283,3 +285,12 @@ List of texts / podcast that caught my attention this year (2022).
 #### How To Remember Anything Forever-ish
 * [How To Remember Anything Forever-ish](https://ncase.me/remember/)
 * Similar to the awesome/useful [Moonwalking with Einstein](https://en.wikipedia.org/wiki/Moonwalking_with_Einstein)
+
+### JULY 2022
+#### Bjarne Stroustrup on Lex Fridman Podcast
+* https://lexfridman.com/bjarne-stroustrup/
+* _Happy families are all alike; every unhappy family is unhappy in its own way_, is perhaps the famous first sentence of any novel
+* It reminded me of Bjarne's contracting observation which could be paraphrased as
+> Messy code is all alike, every beautiful peace of code is beautiful in its own way.
+* In his own words
+> It's easier to recognize ugly than to recognize beauty in code and for the reason is that sometimes beauty comes from something that's innovative and unusual and you  have to sometimes think reasonably hard to appreciate that. On the other hand, the messes have things in common and you can have static checkers, dynamic checkers that  find large number of the most common  mistakes and you can catch a lot of sloppiness mechanically. 
