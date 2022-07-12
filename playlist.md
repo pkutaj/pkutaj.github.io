@@ -53,6 +53,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [How To Remember Anything Forever-ish](#how-to-remember-anything-forever-ish)
 - [JULY 2022](#july-2022)
     - [Bjarne Stroustrup on Lex Fridman Podcast](#bjarne-stroustrup-on-lex-fridman-podcast)
+    - [Working in the software industry, circa 1989](#working-in-the-software-industry-circa-1989)
 
 <!-- /TOC -->
 
@@ -294,3 +295,10 @@ List of texts / podcast that caught my attention this year (2022).
 > Messy code is all alike, every beautiful peace of code is beautiful in its own way.
 * In his own words
 > It's easier to recognize ugly than to recognize beauty in code and for the reason is that sometimes beauty comes from something that's innovative and unusual and you  have to sometimes think reasonably hard to appreciate that. On the other hand, the messes have things in common and you can have static checkers, dynamic checkers that  find large number of the most common  mistakes and you can catch a lot of sloppiness mechanically. 
+
+#### Working in the software industry, circa 1989
+* https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/
+
+>  projects always turned into awful death marches with lots of late nights and weekends in the weeks leading up to the release date. Burnout was high. But few people quit over it because we thought it was just how it had to be
+
+* so true, so applicable, and so important to have historical consciousness and being able to appreciate the solutions to problems the pain of which is no longer felt
