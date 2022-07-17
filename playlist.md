@@ -54,6 +54,7 @@ List of texts / podcast that caught my attention this year (2022).
 - [JULY 2022](#july-2022)
     - [Bjarne Stroustrup on Lex Fridman Podcast](#bjarne-stroustrup-on-lex-fridman-podcast)
     - [Working in the software industry, circa 1989](#working-in-the-software-industry-circa-1989)
+    - [Scratch is a big deal](#scratch-is-a-big-deal)
 
 <!-- /TOC -->
 
@@ -302,3 +303,7 @@ List of texts / podcast that caught my attention this year (2022).
 >  projects always turned into awful death marches with lots of late nights and weekends in the weeks leading up to the release date. Burnout was high. But few people quit over it because we thought it was just how it had to be
 
 * so true, so applicable, and so important to have historical consciousness and being able to appreciate the solutions to problems the pain of which is no longer felt
+
+#### Scratch is a big deal
+* https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/
+* This goes agaist the famous [E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) and is fully in line with an intuitive approach championed by [Bret Victor, beast of burden](http://worrydream.com/#)
