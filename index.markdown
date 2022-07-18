@@ -88,8 +88,8 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 #### Tools and Frameworks
 * Visual Studio Code as the editor of choice
 * advanced git + GitHub (actions, too)
-* Docker, Vagrant 
 * Hashicorp Infrastructure as Code (Terraform; Consul)
+* Docker, Vagrant 
 * Chrome & Firefox Developer Tool Debugging
 * Atlassian stack (Jira, Confluence, OpsGenie) + Zendesk
 * Windows debugging (Sysinternal Tools)
@@ -99,7 +99,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Google Apps Engine, Google Apps Script
 * VBA Scripting + advanced Excel <3
 * Node.js
-* Basic AWS knowledge/experience
+* AWS knowledge/experience
  
 #### OS & network
 * TCP/IP, TLS- and DNS-config
@@ -107,5 +107,3 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Windows Server Roles and Features setup
 * .htaccess/Apache configurations
  
-#### Methodologies
-* Knowledge-Centered-Support
