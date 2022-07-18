@@ -284,7 +284,7 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### The Grug Brained Developer
 * Funny, great poetics
-* https://grugbrain.dev/
+* <https://grugbrain.dev/>
 
 #### How To Remember Anything Forever-ish
 * [How To Remember Anything Forever-ish](https://ncase.me/remember/)
@@ -292,7 +292,7 @@ List of texts / podcast that caught my attention this year (2022).
 
 ### JULY 2022
 #### Bjarne Stroustrup on Lex Fridman Podcast
-* https://lexfridman.com/bjarne-stroustrup/
+* <https://lexfridman.com/bjarne-stroustrup/>
 * _Happy families are all alike; every unhappy family is unhappy in its own way_, is perhaps the famous first sentence of any novel
 * It reminded me of Bjarne's contracting observation which could be paraphrased as
 > Messy code is all alike, every beautiful peace of code is beautiful in its own way.
@@ -300,18 +300,18 @@ List of texts / podcast that caught my attention this year (2022).
 > It's easier to recognize ugly than to recognize beauty in code and for the reason is that sometimes beauty comes from something that's innovative and unusual and you  have to sometimes think reasonably hard to appreciate that. On the other hand, the messes have things in common and you can have static checkers, dynamic checkers that  find large number of the most common  mistakes and you can catch a lot of sloppiness mechanically. 
 
 #### Working in the software industry, circa 1989
-* https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/
+* <https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/>
 
 >  projects always turned into awful death marches with lots of late nights and weekends in the weeks leading up to the release date. Burnout was high. But few people quit over it because we thought it was just how it had to be
 
 * so true, so applicable, and so important to have historical consciousness and being able to appreciate the solutions to problems the pain of which is no longer felt
 
 #### Scratch is a big deal
-* https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/
+* <https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/>
 * This goes agaist the famous [E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) and is fully in line with an intuitive approach championed by [Bret Victor, beast of burden](http://worrydream.com/#)
 
 #### How to Read Fast
-* https://marginalrevolution.com/marginalrevolution/2006/12/how_to_read_fas.html
+* <https://marginalrevolution.com/marginalrevolution/2006/12/how_to_read_fas.html>
 * read a lot
 * this is like code
 * high initial cost, low margin cost
@@ -319,7 +319,7 @@ List of texts / podcast that caught my attention this year (2022).
 * each next piece of code will be easier to read and understand 
 
 #### Nat Friedman's Beliefs
-* https://nat.org/
+* <https://nat.org/>
 * Enjoyed the non-apologetic intro 
 > As human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
 * Disliked the stress on speed, understand the urgency, but there is no delicacy in speed
