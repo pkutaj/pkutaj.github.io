@@ -55,6 +55,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [Bjarne Stroustrup on Lex Fridman Podcast](#bjarne-stroustrup-on-lex-fridman-podcast)
     - [Working in the software industry, circa 1989](#working-in-the-software-industry-circa-1989)
     - [Scratch is a big deal](#scratch-is-a-big-deal)
+    - [How to Read Fast](#how-to-read-fast)
+    - [Nat Friedman's Beliefs](#nat-friedmans-beliefs)
 
 <!-- /TOC -->
 
@@ -307,3 +309,18 @@ List of texts / podcast that caught my attention this year (2022).
 #### Scratch is a big deal
 * https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/
 * This goes agaist the famous [E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html) and is fully in line with an intuitive approach championed by [Bret Victor, beast of burden](http://worrydream.com/#)
+
+#### How to Read Fast
+* https://marginalrevolution.com/marginalrevolution/2006/12/how_to_read_fas.html
+* read a lot
+* this is like code
+* high initial cost, low margin cost
+* read bunch of code slowly, but in a delightingly devouring fashion 
+* each next piece of code will be easier to read and understand 
+
+#### Nat Friedman's Beliefs
+* https://nat.org/
+* Enjoyed the non-apologetic intro 
+> As human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
+* Disliked the stress on speed, understand the urgency, but there is no delicacy in speed
+* Small teams mantra is also symphatetics
