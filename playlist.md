@@ -64,6 +64,8 @@ List of texts / podcast that caught my attention this year (2022).
     - [How long will this take?  Seth's Blog](#how-long-will-this-take--seths-blog)
     - [History and effective use of Vim](#history-and-effective-use-of-vim)
     - [What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}](#what-is-reverse-dns-and-how-does-it-work-how-to-do-a-rdns-lookup)
+- [082022](#082022)
+    - [How To Check If A String Contains A Substring In SQL Server](#how-to-check-if-a-string-contains-a-substring-in-sql-server)
 
 <!-- /TOC -->
 
@@ -357,3 +359,8 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}
 * https://phoenixnap.com/kb/reverse-dns-lookup
+
+### 082022
+#### How To Check If A String Contains A Substring In SQL Server
+* https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server
+* I've needed this for a query written in Redash against Redshift source, so this applies for Postgres, too
