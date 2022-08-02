@@ -58,11 +58,12 @@ List of texts / podcast that caught my attention this year (2022).
     - [How to Read Fast](#how-to-read-fast)
     - [Nat Friedman's Beliefs](#nat-friedmans-beliefs)
     - [Applying cardiac alarm management techniques to your on-call](#applying-cardiac-alarm-management-techniques-to-your-on-call)
-    - [On proving yourself | thesephist.com](#on-proving-yourself--thesephistcom)
+    - [On proving yourself thesephist.com](#on-proving-yourself-thesephistcom)
     - [The New Geopolitics by Bruno Maçães - Project Syndicate](#the-new-geopolitics-by-bruno-maçães---project-syndicate)
     - [How I regained concentration and focus – INNOQ](#how-i-regained-concentration-and-focus--innoq)
-    - [How long will this take? | Seth's Blog](#how-long-will-this-take--seths-blog)
+    - [How long will this take?  Seth's Blog](#how-long-will-this-take--seths-blog)
     - [History and effective use of Vim](#history-and-effective-use-of-vim)
+    - [What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}](#what-is-reverse-dns-and-how-does-it-work-how-to-do-a-rdns-lookup)
 
 <!-- /TOC -->
 
@@ -336,7 +337,7 @@ List of texts / podcast that caught my attention this year (2022).
 * Found this link in an SRE book
 * Another great insight from medical enrivonment - after the _Checklist Manifesto_
 
-#### On proving yourself | thesephist.com
+#### On proving yourself thesephist.com
 * https://thesephist.com/posts/prove/
 * an apology of ambition, against complacent class
 
@@ -347,7 +348,7 @@ List of texts / podcast that caught my attention this year (2022).
 * https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/
 > A (currently very strict) zero-news-diet.
 
-#### How long will this take? | Seth's Blog
+#### How long will this take?  Seth's Blog
 * https://seths.blog/2022/08/how-long-will-this-take/
 > Pathfinding takes longer than path following. Discussions lead to changes in spec. Dependencies always add time.
 
