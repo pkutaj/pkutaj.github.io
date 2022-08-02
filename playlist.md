@@ -57,6 +57,12 @@ List of texts / podcast that caught my attention this year (2022).
     - [Scratch is a big deal](#scratch-is-a-big-deal)
     - [How to Read Fast](#how-to-read-fast)
     - [Nat Friedman's Beliefs](#nat-friedmans-beliefs)
+    - [Applying cardiac alarm management techniques to your on-call](#applying-cardiac-alarm-management-techniques-to-your-on-call)
+    - [On proving yourself | thesephist.com](#on-proving-yourself--thesephistcom)
+    - [The New Geopolitics by Bruno Maçães - Project Syndicate](#the-new-geopolitics-by-bruno-maçães---project-syndicate)
+    - [How I regained concentration and focus – INNOQ](#how-i-regained-concentration-and-focus--innoq)
+    - [How long will this take? | Seth's Blog](#how-long-will-this-take--seths-blog)
+    - [History and effective use of Vim](#history-and-effective-use-of-vim)
 
 <!-- /TOC -->
 
@@ -324,3 +330,29 @@ List of texts / podcast that caught my attention this year (2022).
 > As human beings it is our right (maybe our moral duty) to reshape the universe to our preferences
 * Disliked the stress on speed, understand the urgency, but there is no delicacy in speed
 * Small teams mantra is also symphatetics
+
+#### Applying cardiac alarm management techniques to your on-call
+* https://fractio.nl/2014/08/26/cardiac-alarms-and-ops/
+* Found this link in an SRE book
+* Another great insight from medical enrivonment - after the _Checklist Manifesto_
+
+#### On proving yourself | thesephist.com
+* https://thesephist.com/posts/prove/
+* an apology of ambition, against complacent class
+
+#### The New Geopolitics by Bruno Maçães - Project Syndicate
+* https://www.project-syndicate.org/onpoint/the-new-geopolitics-rivalries-over-writing-the-rules-by-bruno-macaes-2022-06?h=cy0OhZQJZzEBbdC%2bGJOpeymHZtCATwq6%2beQaWe%2fwbZc%3d&
+
+#### How I regained concentration and focus – INNOQ
+* https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/
+> A (currently very strict) zero-news-diet.
+
+#### How long will this take? | Seth's Blog
+* https://seths.blog/2022/08/how-long-will-this-take/
+> Pathfinding takes longer than path following. Discussions lead to changes in spec. Dependencies always add time.
+
+#### History and effective use of Vim
+* https://begriffs.com/posts/2019-07-19-history-use-vim.html
+
+#### What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}
+* https://phoenixnap.com/kb/reverse-dns-lookup
