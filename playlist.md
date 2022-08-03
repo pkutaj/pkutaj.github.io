@@ -364,3 +364,11 @@ List of texts / podcast that caught my attention this year (2022).
 #### How To Check If A String Contains A Substring In SQL Server
 * https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server
 * I've needed this for a query written in Redash against Redshift source, so this applies for Postgres, too
+#### How I Used DALL·E 2 to Generate The Logo for OctoSQL 
+* https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
+
+#### 
+* undefined
+
+#### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
+* https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
