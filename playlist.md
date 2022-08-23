@@ -372,3 +372,15 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
 * https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
+
+#### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
+* https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
+
+#### The unconventional guide to AWS EC2 instance types. · Archer Imagine
+* https://www.archerimagine.com/articles/aws/aws-ec2-instance-type-tutorial.html
+
+#### Crickets 
+* https://seths.blog/2022/08/crickets/
+
+#### Manage file permissions on Unix-like systems
+* https://kb.iu.edu/d/abdb#:~:text=To%20change%20file%20and%20directory,%2C%20write%2C%20and%20execute%20permissions.
