@@ -83,6 +83,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [The AI Art Apocalypse – Alexander Wales](#the-ai-art-apocalypse--alexander-wales)
     - [The DevOps Handbook – The Technical Practices of Flow](#the-devops-handbook--the-technical-practices-of-flow)
     - [The History of Computing: The IBM System/360 Mainframe](#the-history-of-computing-the-ibm-system360-mainframe)
+    - [The next generation of Data Platforms is the Data Mesh](#the-next-generation-of-data-platforms-is-the-data-mesh)
 
 <!-- /TOC -->
 
@@ -439,4 +440,9 @@ List of texts / podcast that caught my attention this year (2022).
 #### The History of Computing: The IBM System/360 Mainframe
 * https://thehistoryofcomputing.net/the-ibm-system360
 * This is why the famous IMB AI is called _Watson_
->  Thomas Watson Jr, son of the great IBM business executive Thomas Watson Sr, bet the proverbial farm on IBM S360. And won that bet. In all, IBM spent 5 billion dollars in mid-1960s money, which would be $41B today with a cumulative 726.3% rate of inflation. To put things in context around the impact of the mainframe business, IBM revenues were at $3.23 B in 1964 and more than doubled to $7.19 B by 1970 when the next edition, the 370, was released. To further that context, the Manhattan Project, which resulted in the first atomic bomb, cost $2 B. IBM did not have a project this large before the introduction of the S360 and has not had one in the more than 50 years since then. 
+>  Thomas Watson Jr, son of the great IBM business executive Thomas Watson Sr, bet the proverbial farm on IBM S360. And won that bet. In all, IBM spent 5 billion dollars in mid-1960s money, which would be $41B today with a cumulative 726.3% rate of inflation. To put things in context around the impact of the mainframe business, IBM revenues were at $3.23 B in 1964 and more than doubled to $7.19 B by 1970 when the next edition, the 370, was released. To further that context, the Manhattan Project, which resulted in the first atomic bomb, cost $2 B. IBM did not have a project this large before the introduction of the S360 and has not had one in the more than 50 years since then. bookmark -url $url -title $title
+
+#### The next generation of Data Platforms is the Data Mesh
+* https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522
+* In my reading, another contribution to the old [Inmon vs Kimball - the great data warehousing debate ](https://medium.com/cloudzone/inmon-vs-kimball-the-great-data-warehousing-debate-78c57f0b5e0e)
+* https://martinfowler.com/articles/data-monolith-to-mesh.html
