@@ -66,6 +66,23 @@ List of texts / podcast that caught my attention this year (2022).
     - [What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}](#what-is-reverse-dns-and-how-does-it-work-how-to-do-a-rdns-lookup)
 - [082022](#082022)
     - [How To Check If A String Contains A Substring In SQL Server](#how-to-check-if-a-string-contains-a-substring-in-sql-server)
+    - [How I Used DALL·E 2 to Generate The Logo for OctoSQL](#how-i-used-dall·e-2-to-generate-the-logo-for-octosql)
+    - [What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog](#whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out---interviewingio-blog)
+    - [What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog](#whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out---interviewingio-blog-1)
+    - [The unconventional guide to AWS EC2 instance types. · Archer Imagine](#the-unconventional-guide-to-aws-ec2-instance-types-·-archer-imagine)
+    - [Crickets](#crickets)
+    - [Manage file permissions on Unix-like systems](#manage-file-permissions-on-unix-like-systems)
+    - [Advanced Bash-Scripting Guide](#advanced-bash-scripting-guide)
+    - [Good conversations have lots of doorknobs](#good-conversations-have-lots-of-doorknobs)
+    - [Colleen Hoover books: The author’s success is due to much more than BookTok.](#colleen-hoover-books-the-authors-success-is-due-to-much-more-than-booktok)
+    - [The DevOps Handbook – The Technical Practices of Feedback](#the-devops-handbook--the-technical-practices-of-feedback)
+    - [Against essential and accidental complexity](#against-essential-and-accidental-complexity)
+    - [Don’t call it a comeback: Why Java is still champ](#dont-call-it-a-comeback-why-java-is-still-champ)
+    - [Redis Explained](#redis-explained)
+    - [Scraping web pages from the command line with shot-scraper](#scraping-web-pages-from-the-command-line-with-shot-scraper)
+    - [The AI Art Apocalypse – Alexander Wales](#the-ai-art-apocalypse--alexander-wales)
+    - [The DevOps Handbook – The Technical Practices of Flow](#the-devops-handbook--the-technical-practices-of-flow)
+    - [The History of Computing: The IBM System/360 Mainframe](#the-history-of-computing-the-ibm-system360-mainframe)
 
 <!-- /TOC -->
 
@@ -364,11 +381,9 @@ List of texts / podcast that caught my attention this year (2022).
 #### How To Check If A String Contains A Substring In SQL Server
 * https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server
 * I've needed this for a query written in Redash against Redshift source, so this applies for Postgres, too
+
 #### How I Used DALL·E 2 to Generate The Logo for OctoSQL 
 * https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
-
-#### 
-* undefined
 
 #### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
 * https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
@@ -384,3 +399,44 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### Manage file permissions on Unix-like systems
 * https://kb.iu.edu/d/abdb#:~:text=To%20change%20file%20and%20directory,%2C%20write%2C%20and%20execute%20permissions.
+
+#### Advanced Bash-Scripting Guide
+* https://tldp.org/LDP/abs/html/
+
+#### Good conversations have lots of doorknobs
+* https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs
+
+#### Colleen Hoover books: The author’s success is due to much more than BookTok.
+* https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html
+
+#### The DevOps Handbook – The Technical Practices of Feedback
+* https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-feedback/
+
+#### Against essential and accidental complexity
+* https://danluu.com/essential-complexity/
+* I love Dan, but he is so boring here, there is nothing comparable to Fred Brooks brilliance in his original _No Silver Bullet_ (Aristotle! Werewolves!)
+
+#### Don’t call it a comeback: Why Java is still champ
+* https://github.com/readme/featured/java-programming-language
+* Historia magistra vitae
+
+#### Redis Explained
+* https://architecturenotes.co/redis/
+> The most accurate description of Redis is that it's a data structure server. This specific nature of Redis has led to much of its popularity and adoption amongst developers.Rather than iterating over, sorting, and ordering rows, what if the data was in data structures you wanted from the ground up? Early on, it was used much like Memcached, but as Redis improved, it became viable for many other use cases, including publish-subscribe mechanisms, streaming, and queues.
+
+#### Scraping web pages from the command line with shot-scraper
+* https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/
+* Always in for a beautiful project
+
+#### The AI Art Apocalypse – Alexander Wales
+* https://alexanderwales.com/the-ai-art-apocalypse/
+* A bit too pompous, a bit egocentric, but great to read daring bets about the future of "art" (I can't but add lol at one layer of my interpretation)
+
+#### The DevOps Handbook – The Technical Practices of Flow
+* https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-flow/
+* This is NOT _Mihaly Csikszentmihalyi_ (software is hard work, not ecstasy), this is actually useful, based on kanzen and mythical japanese productivity 
+
+#### The History of Computing: The IBM System/360 Mainframe
+* https://thehistoryofcomputing.net/the-ibm-system360
+* This is why the famous IMB AI is called _Watson_
+>  Thomas Watson Jr, son of the great IBM business executive Thomas Watson Sr, bet the proverbial farm on IBM S360. And won that bet. In all, IBM spent 5 billion dollars in mid-1960s money, which would be $41B today with a cumulative 726.3% rate of inflation. To put things in context around the impact of the mainframe business, IBM revenues were at $3.23 B in 1964 and more than doubled to $7.19 B by 1970 when the next edition, the 370, was released. To further that context, the Manhattan Project, which resulted in the first atomic bomb, cost $2 B. IBM did not have a project this large before the introduction of the S360 and has not had one in the more than 50 years since then. 
