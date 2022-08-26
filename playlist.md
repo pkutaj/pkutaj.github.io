@@ -84,6 +84,12 @@ List of texts / podcast that caught my attention this year (2022).
     - [The DevOps Handbook – The Technical Practices of Flow](#the-devops-handbook--the-technical-practices-of-flow)
     - [The History of Computing: The IBM System/360 Mainframe](#the-history-of-computing-the-ibm-system360-mainframe)
     - [The next generation of Data Platforms is the Data Mesh](#the-next-generation-of-data-platforms-is-the-data-mesh)
+    - [*Of Boys and Men* - Marginal REVOLUTION](#of-boys-and-men---marginal-revolution)
+    - [Turing’s Cathedral](#turings-cathedral)
+    - [The Most Important Piece of Career Advice You Probably Never Heard - Study Hacks - Cal Newport](#the-most-important-piece-of-career-advice-you-probably-never-heard---study-hacks---cal-newport)
+    - [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism)
+    - [The E.U. Is Finally Becoming a Real Union — Time](#the-eu-is-finally-becoming-a-real-union--time)
+    - [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism-1)
 
 <!-- /TOC -->
 
@@ -446,3 +452,30 @@ List of texts / podcast that caught my attention this year (2022).
 * https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522
 * In my reading, another contribution to the old [Inmon vs Kimball - the great data warehousing debate ](https://medium.com/cloudzone/inmon-vs-kimball-the-great-data-warehousing-debate-78c57f0b5e0e)
 * https://martinfowler.com/articles/data-monolith-to-mesh.html
+
+#### *Of Boys and Men* - Marginal REVOLUTION
+* https://marginalrevolution.com/marginalrevolution/2022/08/of-boys-and-men.html
+* Complementing Boy Crisis by Warren Ferrel. For anyone having sons this is essential reading
+
+#### Turing’s Cathedral 
+* https://andrewjudson.com/book%20review/2019/03/09/turing.html
+* Necessity is also the mother of computing
+> In particular I was struck by how closely entwined the history of the computer was with the building of the atomic and hydrogen bombs. I had always had a sort of general feeling about the correlation of the invention of the computer and war, but it was always on the level of “Oh, Turing used it to crack codes!”. There wasn’t that explicit direct link between the computer and atomic fire. The book describes how all of the early computers in the US were explicitly military and primarily used for bomb calculations - from ENIAC on to the IAS machine, and then the commercial IBM machines that came after that. In particular I was struck by how closely entwined the history of the computer was with the building of the atomic and hydrogen bombs. I had always had a sort of general feeling about the correlation of the invention of the computer and war, but it was always on the level of “Oh, Turing used it to crack codes!”. There wasn’t that explicit direct link between the computer and atomic fire. The book describes how all of the early computers in the US were explicitly military and primarily used for bomb calculations - from ENIAC on to the IAS machine, and then the commercial IBM machines that came after that.  
+
+#### The Most Important Piece of Career Advice You Probably Never Heard - Study Hacks - Cal Newport
+* https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/
+
+#### The Perils of Audience Capture - by Gurwinder - The Prism
+* https://gurwinder.substack.com/p/the-perils-of-audience-capture
+* Essay of the year so far. Important.
+> We develop our personalities by imagining ourselves through others' eyes, using their borrowed gazes like mirrors to dress ourselves.
+
+#### The E.U. Is Finally Becoming a Real Union — Time
+* https://time.com/6202299/ukraine-invasion-european-union-becoming-union/
+* Currently Bruno Macaes is the reason to open Twitter. Met him at Conversations with Tyler. 
+> A political union in Europe was never going to be built on economic foundations. Europe will come together as a geopolitical union or not come together at all.
+
+#### The Perils of Audience Capture - by Gurwinder - The Prism
+* https://gurwinder.substack.com/p/the-perils-of-audience-capture
+* Interesting for those wanting to know how is it possible to track behaviour accross domains. There has to be a handshake. It happens in a query string (last part of the URL). 
+> Due to web browsers’ same-origin policy, a browser cookie is only available to the domain it is written on and all its subdomains (by default). 
