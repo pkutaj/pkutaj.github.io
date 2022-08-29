@@ -479,3 +479,13 @@ List of texts / podcast that caught my attention this year (2022).
 * https://gurwinder.substack.com/p/the-perils-of-audience-capture
 * Interesting for those wanting to know how is it possible to track behaviour accross domains. There has to be a handshake. It happens in a query string (last part of the URL). 
 > Due to web browsers’ same-origin policy, a browser cookie is only available to the domain it is written on and all its subdomains (by default). 
+
+#### breck7/pldb: The Programming Language Database
+* https://github.com/breck7/pldb
+* A wonderful project for getting a quick taste for a computer language
+> n/a
+
+#### breck7/pldb: The Programming Language Database
+* https://github.com/breck7/pldb
+* An attempt to bring the crisis of facts to the center of the political
+> The main binary in political virtualism is not between left and right but between fiction and reality
