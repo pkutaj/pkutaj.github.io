@@ -489,3 +489,28 @@ List of texts / podcast that caught my attention this year (2022).
 * https://github.com/breck7/pldb
 * An attempt to bring the crisis of facts to the center of the political
 > The main binary in political virtualism is not between left and right but between fiction and reality
+
+#### 
+* 
+* A cool, even if a bit click-baity, argument against untouchability of popular concepts such as devops and agile. Watch Kent Back talking about the need for an authentic process in https://www.youtube.com/watch?v=fH4gqsIYzyE&t=1823s&ab_channel=BeingHumanPodcast
+> To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an “IT Operations” guy, but now he’s a “DevOps Engineer”.
+
+#### Devops: An Idea so Good, No One Admits They Don’t Do It 
+* https://wagslane.dev/posts/no-one-does-devops/
+* A cool, even if a bit click-baity, argument against untouchability of popular concepts such as devops and agile. Watch Kent Back talking about the need for an authentic process in https://www.youtube.com/watch?v=fH4gqsIYzyE&t=1823s&ab_channel=BeingHumanPodcast
+> To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an “IT Operations” guy, but now he’s a “DevOps Engineer”.
+
+#### Ptpython: A Better Python REPL 
+* https://towardsdatascience.com/ptpython-a-better-python-repl-6e21df1eb648
+* Elegance and quality of this blog is often breath-taking and inspiring. Needed this just to see function signatures when working with REPL. Ptpython is the best, too. 
+> n/a
+
+#### Bell Labs Org Chart
+* https://neil.computer/notes/bell-labs-org-chart/
+* Part of my little project to understand Unix via https://www.pluralsight.com/courses/unix-and-systems-big-picture
+> I  was curious – how does Big Tech research compare to Bell Labs? I can't name a single thing from Google X or Amazon 126, Apple or Microsoft Research departments. Perhaps a faint idea of drones deliveries, balloon weather projects, AR/VR tech, failed chat apps, quantum something, and a lot of PR. Listing Bell Labs' major inventions really put things into perspective: Laser, Solar-cells, Communications Satellites, Touch-tone telephones, Transistor, UNIX, C language, Digital Signal Processing (DSP), Cellular Telephones, Data Networking, Charge-coupled device (CCD), Information Theory, Television, Sound motion pictures, and a total of 8 Nobel Prizes in Physics.
+
+#### System Design — Choosing Between AWS Kinesis and AWS SQS 
+* https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
+* SQS is single-consumer smaller-data scalable messaging service. Kinesis is for data processing. 
+> Kinesis can send stream records directly to services such as Amazon S3, Amazon Redshift, Amazon ElasticSearch, Splunk, AWS Lambda
