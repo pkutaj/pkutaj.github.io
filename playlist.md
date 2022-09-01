@@ -514,3 +514,13 @@ List of texts / podcast that caught my attention this year (2022).
 * https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
 * SQS is single-consumer smaller-data scalable messaging service. Kinesis is for data processing. 
 > Kinesis can send stream records directly to services such as Amazon S3, Amazon Redshift, Amazon ElasticSearch, Splunk, AWS Lambda
+
+#### python - It is more efficient to use if-return-return or if-else-return? - Stack Overflow
+* https://stackoverflow.com/questions/9191388/it-is-more-efficient-to-use-if-return-return-or-if-else-return
+* Studies into readibility of Python code
+> n/a
+
+#### Visual Studio Code is designed to fracture
+* https://ghuntley.com/fracture/
+* Stratechery-like insights into what Microsoft has been up to in the last 10 years, i.e. transitioning itself into a 'service company'
+> Circa 9 years ago Microsoft started an internal transformation in the way they delivered software to customers. Instead of directly (ie. in-house) employing quality assurance teams who were dedicated to testing software builds Microsoft's switched to a model based on sprint-based development work and rolling releases with feedback from telemetry data that is gathered from Insider Builds of Microsoft's software. At the same time, wider organisational changes took place in the form of functional restructures, which transitioned Microsoft into becoming a services company. Their Azure cloud-computing offering during this period has grown into a legitimate challenger to Amazon's cloud-computing offering called AWS. The biggest side effect of this change for consumers was that instead of delivering installable products that could be run on-premises Microsoft in true Microsoft form of moving ever so slowly and doing it over a generation of people as not to spook them.
