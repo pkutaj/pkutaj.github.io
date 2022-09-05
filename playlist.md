@@ -545,3 +545,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://electrictoolbox.com/setting-tab-size-in-nano/#:~:text=By%20default%20the%20tab%20size,a%20user%20specific%20configuration%20file.&>text=In%20the%20examples%20above%20we,from%20the%20default%208%20characters.
 * You still have to create .nanorc manually in C:\ProgramData\.nanorc if the file does not exist
 > n/a
+
+#### The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells
+* <https://thehistoryofcomputing.net/the-evolution-of-unix-mac-and-chrome-os-shells>
+* Learnt that the variety of shells is possible due to the fact that it is decoupled from the OS
+> Brian Fox then added on to the Bourne shell with bash. He was working with the Free Software Foundation with Richard Stallman, and they wanted a shell that could do more advanced scripting but whose source code was open source. They started the project in 1988 and shipped bash in 1989. Bash then went on to become the most widely used and distributed shell in the arsenal of the Unix programmer. Bash stands for Bourne Again Shell and so was backwards compatible with bourne shell but also added features from tcsh, korn, and C shell, staying mostly backwards compatible with other shells. Due to the licensing, bash became the de facto standard (and often default shell) for GNU/Linux distributions and serves as the standard interactive shell for users, located at /bin/bash location. Now we had command history, tabbed auto-completion, command-line editing, multiple paths, multiple options for interpreters, a directory stack, full environment variables, and the modern command line environment.
