@@ -90,6 +90,17 @@ List of texts / podcast that caught my attention this year (2022).
     - [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism)
     - [The E.U. Is Finally Becoming a Real Union — Time](#the-eu-is-finally-becoming-a-real-union--time)
     - [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism-1)
+    - [breck7/pldb: The Programming Language Database](#breck7pldb-the-programming-language-database)
+    - [breck7/pldb: The Programming Language Database](#breck7pldb-the-programming-language-database-1)
+    - [](#)
+    - [Devops: An Idea so Good, No One Admits They Don’t Do It](#devops-an-idea-so-good-no-one-admits-they-dont-do-it)
+    - [Ptpython: A Better Python REPL](#ptpython-a-better-python-repl)
+    - [Bell Labs Org Chart](#bell-labs-org-chart)
+    - [System Design — Choosing Between AWS Kinesis and AWS SQS](#system-design--choosing-between-aws-kinesis-and-aws-sqs)
+    - [python - It is more efficient to use if-return-return or if-else-return? - Stack Overflow](#python---it-is-more-efficient-to-use-if-return-return-or-if-else-return---stack-overflow)
+    - [Visual Studio Code is designed to fracture](#visual-studio-code-is-designed-to-fracture)
+    - [Be good-argument-driven, not data-driven - Richard Marmorstein](#be-good-argument-driven-not-data-driven---richard-marmorstein)
+    - [Setting the tab size in nano](#setting-the-tab-size-in-nano)
 
 <!-- /TOC -->
 
@@ -229,7 +240,7 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### Bookvine.io
 * A project of a 13-year old boy assisted by his developer dad, listing 300 books listed per-category. I am on the opposite side of the world and needed this, too for my kids. 
-* https://www.bookvine.io/
+* <https://www.bookvine.io/>
 
 #### The modern data stack in 2021
 * [The modern data stack in 2021](https://snowplowanalytics.com/blog/2021/05/12/modern-data-stack/)
@@ -347,7 +358,7 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://marginalrevolution.com/marginalrevolution/2006/12/how_to_read_fas.html>
 * read a lot
 * this is like code
-* high initial cost, low margin cost
+* <high initial cost, low margin cost>
 * read bunch of code slowly, but in a delightingly devouring fashion 
 * each next piece of code will be easier to read and understand 
 
@@ -359,134 +370,134 @@ List of texts / podcast that caught my attention this year (2022).
 * Small teams mantra is also symphatetics
 
 #### Applying cardiac alarm management techniques to your on-call
-* https://fractio.nl/2014/08/26/cardiac-alarms-and-ops/
+* <https://fractio.nl/2014/08/26/cardiac-alarms-and-ops/>
 * Found this link in an SRE book
 * Another great insight from medical enrivonment - after the _Checklist Manifesto_
 
 #### On proving yourself thesephist.com
-* https://thesephist.com/posts/prove/
+* <https://thesephist.com/posts/prove/>
 * an apology of ambition, against complacent class
 
 #### The New Geopolitics by Bruno Maçães - Project Syndicate
-* https://www.project-syndicate.org/onpoint/the-new-geopolitics-rivalries-over-writing-the-rules-by-bruno-macaes-2022-06?h=cy0OhZQJZzEBbdC%2bGJOpeymHZtCATwq6%2beQaWe%2fwbZc%3d&
+* <https://www.project-syndicate.org/onpoint/the-new-geopolitics-rivalries-over-writing-the-rules-by-bruno-macaes-2022-06?>h=cy0OhZQJZzEBbdC%2bGJOpeymHZtCATwq6%2beQaWe%2fwbZc%3d&
 
 #### How I regained concentration and focus – INNOQ
-* https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/
+* <https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/>
 > A (currently very strict) zero-news-diet.
 
 #### How long will this take?  Seth's Blog
-* https://seths.blog/2022/08/how-long-will-this-take/
+* <https://seths.blog/2022/08/how-long-will-this-take/>
 > Pathfinding takes longer than path following. Discussions lead to changes in spec. Dependencies always add time.
 
 #### History and effective use of Vim
-* https://begriffs.com/posts/2019-07-19-history-use-vim.html
+* <https://begriffs.com/posts/2019-07-19-history-use-vim.html>
 
 #### What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}
-* https://phoenixnap.com/kb/reverse-dns-lookup
+* <https://phoenixnap.com/kb/reverse-dns-lookup>
 
 ### 082022
 #### How To Check If A String Contains A Substring In SQL Server
-* https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server
+* <https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server>
 * I've needed this for a query written in Redash against Redshift source, so this applies for Postgres, too
 
 #### How I Used DALL·E 2 to Generate The Logo for OctoSQL 
-* https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
+* <https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/>
 
 #### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
-* https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
+* <https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/>
 
 #### What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog
-* https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/
+* <https://blog.interviewing.io/whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out/>
 
 #### The unconventional guide to AWS EC2 instance types. · Archer Imagine
-* https://www.archerimagine.com/articles/aws/aws-ec2-instance-type-tutorial.html
+* <https://www.archerimagine.com/articles/aws/aws-ec2-instance-type-tutorial.html>
 
 #### Crickets 
-* https://seths.blog/2022/08/crickets/
+* <https://seths.blog/2022/08/crickets/>
 
 #### Manage file permissions on Unix-like systems
-* https://kb.iu.edu/d/abdb#:~:text=To%20change%20file%20and%20directory,%2C%20write%2C%20and%20execute%20permissions.
+* <https://kb.iu.edu/d/abdb#:~:text=To%20change%20file%20and%20directory,%2C%20write%2C%20and%20execute%20permissions.>
 
 #### Advanced Bash-Scripting Guide
-* https://tldp.org/LDP/abs/html/
+* <https://tldp.org/LDP/abs/html/>
 
 #### Good conversations have lots of doorknobs
-* https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs
+* <https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs>
 
 #### Colleen Hoover books: The author’s success is due to much more than BookTok.
-* https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html
+* <https://slate.com/culture/2022/08/colleen-hoover-books-it-ends-with-us-verity.html>
 
 #### The DevOps Handbook – The Technical Practices of Feedback
-* https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-feedback/
+* <https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-feedback/>
 
 #### Against essential and accidental complexity
-* https://danluu.com/essential-complexity/
+* <https://danluu.com/essential-complexity/>
 * I love Dan, but he is so boring here, there is nothing comparable to Fred Brooks brilliance in his original _No Silver Bullet_ (Aristotle! Werewolves!)
 
 #### Don’t call it a comeback: Why Java is still champ
-* https://github.com/readme/featured/java-programming-language
-* Historia magistra vitae
+* <https://github.com/readme/featured/java-programming-language>
+* <Historia magistra vitae>
 
 #### Redis Explained
-* https://architecturenotes.co/redis/
+* <https://architecturenotes.co/redis/>
 > The most accurate description of Redis is that it's a data structure server. This specific nature of Redis has led to much of its popularity and adoption amongst developers.Rather than iterating over, sorting, and ordering rows, what if the data was in data structures you wanted from the ground up? Early on, it was used much like Memcached, but as Redis improved, it became viable for many other use cases, including publish-subscribe mechanisms, streaming, and queues.
 
 #### Scraping web pages from the command line with shot-scraper
-* https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/
+* <https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/>
 * Always in for a beautiful project
 
 #### The AI Art Apocalypse – Alexander Wales
-* https://alexanderwales.com/the-ai-art-apocalypse/
+* <https://alexanderwales.com/the-ai-art-apocalypse/>
 * A bit too pompous, a bit egocentric, but great to read daring bets about the future of "art" (I can't but add lol at one layer of my interpretation)
 
 #### The DevOps Handbook – The Technical Practices of Flow
-* https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-flow/
+* <https://www.codingblocks.net/podcast/the-devops-handbook-the-technical-practices-of-flow/>
 * This is NOT _Mihaly Csikszentmihalyi_ (software is hard work, not ecstasy), this is actually useful, based on kanzen and mythical japanese productivity 
 
 #### The History of Computing: The IBM System/360 Mainframe
-* https://thehistoryofcomputing.net/the-ibm-system360
+* <https://thehistoryofcomputing.net/the-ibm-system360>
 * This is why the famous IMB AI is called _Watson_
 >  Thomas Watson Jr, son of the great IBM business executive Thomas Watson Sr, bet the proverbial farm on IBM S360. And won that bet. In all, IBM spent 5 billion dollars in mid-1960s money, which would be $41B today with a cumulative 726.3% rate of inflation. To put things in context around the impact of the mainframe business, IBM revenues were at $3.23 B in 1964 and more than doubled to $7.19 B by 1970 when the next edition, the 370, was released. To further that context, the Manhattan Project, which resulted in the first atomic bomb, cost $2 B. IBM did not have a project this large before the introduction of the S360 and has not had one in the more than 50 years since then. bookmark -url $url -title $title
 
 #### The next generation of Data Platforms is the Data Mesh
-* https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522
+* <https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522>
 * In my reading, another contribution to the old [Inmon vs Kimball - the great data warehousing debate ](https://medium.com/cloudzone/inmon-vs-kimball-the-great-data-warehousing-debate-78c57f0b5e0e)
-* https://martinfowler.com/articles/data-monolith-to-mesh.html
+* <https://martinfowler.com/articles/data-monolith-to-mesh.html>
 
 #### *Of Boys and Men* - Marginal REVOLUTION
-* https://marginalrevolution.com/marginalrevolution/2022/08/of-boys-and-men.html
+* <https://marginalrevolution.com/marginalrevolution/2022/08/of-boys-and-men.html>
 * Complementing Boy Crisis by Warren Ferrel. For anyone having sons this is essential reading
 
 #### Turing’s Cathedral 
-* https://andrewjudson.com/book%20review/2019/03/09/turing.html
+* <https://andrewjudson.com/book%20review/2019/03/09/turing.html>
 * Necessity is also the mother of computing
 > In particular I was struck by how closely entwined the history of the computer was with the building of the atomic and hydrogen bombs. I had always had a sort of general feeling about the correlation of the invention of the computer and war, but it was always on the level of “Oh, Turing used it to crack codes!”. There wasn’t that explicit direct link between the computer and atomic fire. The book describes how all of the early computers in the US were explicitly military and primarily used for bomb calculations - from ENIAC on to the IAS machine, and then the commercial IBM machines that came after that. In particular I was struck by how closely entwined the history of the computer was with the building of the atomic and hydrogen bombs. I had always had a sort of general feeling about the correlation of the invention of the computer and war, but it was always on the level of “Oh, Turing used it to crack codes!”. There wasn’t that explicit direct link between the computer and atomic fire. The book describes how all of the early computers in the US were explicitly military and primarily used for bomb calculations - from ENIAC on to the IAS machine, and then the commercial IBM machines that came after that.  
 
 #### The Most Important Piece of Career Advice You Probably Never Heard - Study Hacks - Cal Newport
-* https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/
+* <https://www.calnewport.com/blog/2008/05/21/the-most-important-piece-of-career-advice-you-probably-never-heard/>
 
 #### The Perils of Audience Capture - by Gurwinder - The Prism
-* https://gurwinder.substack.com/p/the-perils-of-audience-capture
+* <https://gurwinder.substack.com/p/the-perils-of-audience-capture>
 * Essay of the year so far. Important.
 > We develop our personalities by imagining ourselves through others' eyes, using their borrowed gazes like mirrors to dress ourselves.
 
 #### The E.U. Is Finally Becoming a Real Union — Time
-* https://time.com/6202299/ukraine-invasion-european-union-becoming-union/
+* <https://time.com/6202299/ukraine-invasion-european-union-becoming-union/>
 * Currently Bruno Macaes is the reason to open Twitter. Met him at Conversations with Tyler. 
 > A political union in Europe was never going to be built on economic foundations. Europe will come together as a geopolitical union or not come together at all.
 
 #### The Perils of Audience Capture - by Gurwinder - The Prism
-* https://gurwinder.substack.com/p/the-perils-of-audience-capture
+* <https://gurwinder.substack.com/p/the-perils-of-audience-capture>
 * Interesting for those wanting to know how is it possible to track behaviour accross domains. There has to be a handshake. It happens in a query string (last part of the URL). 
 > Due to web browsers’ same-origin policy, a browser cookie is only available to the domain it is written on and all its subdomains (by default). 
 
 #### breck7/pldb: The Programming Language Database
-* https://github.com/breck7/pldb
+* <https://github.com/breck7/pldb>
 * A wonderful project for getting a quick taste for a computer language
 > n/a
 
 #### breck7/pldb: The Programming Language Database
-* https://github.com/breck7/pldb
+* <https://github.com/breck7/pldb>
 * An attempt to bring the crisis of facts to the center of the political
 > The main binary in political virtualism is not between left and right but between fiction and reality
 
@@ -496,31 +507,41 @@ List of texts / podcast that caught my attention this year (2022).
 > To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an “IT Operations” guy, but now he’s a “DevOps Engineer”.
 
 #### Devops: An Idea so Good, No One Admits They Don’t Do It 
-* https://wagslane.dev/posts/no-one-does-devops/
+* <https://wagslane.dev/posts/no-one-does-devops/>
 * A cool, even if a bit click-baity, argument against untouchability of popular concepts such as devops and agile. Watch Kent Back talking about the need for an authentic process in https://www.youtube.com/watch?v=fH4gqsIYzyE&t=1823s&ab_channel=BeingHumanPodcast
 > To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an “IT Operations” guy, but now he’s a “DevOps Engineer”.
 
 #### Ptpython: A Better Python REPL 
-* https://towardsdatascience.com/ptpython-a-better-python-repl-6e21df1eb648
+* <https://towardsdatascience.com/ptpython-a-better-python-repl-6e21df1eb648>
 * Elegance and quality of this blog is often breath-taking and inspiring. Needed this just to see function signatures when working with REPL. Ptpython is the best, too. 
 > n/a
 
 #### Bell Labs Org Chart
-* https://neil.computer/notes/bell-labs-org-chart/
+* <https://neil.computer/notes/bell-labs-org-chart/>
 * Part of my little project to understand Unix via https://www.pluralsight.com/courses/unix-and-systems-big-picture
 > I  was curious – how does Big Tech research compare to Bell Labs? I can't name a single thing from Google X or Amazon 126, Apple or Microsoft Research departments. Perhaps a faint idea of drones deliveries, balloon weather projects, AR/VR tech, failed chat apps, quantum something, and a lot of PR. Listing Bell Labs' major inventions really put things into perspective: Laser, Solar-cells, Communications Satellites, Touch-tone telephones, Transistor, UNIX, C language, Digital Signal Processing (DSP), Cellular Telephones, Data Networking, Charge-coupled device (CCD), Information Theory, Television, Sound motion pictures, and a total of 8 Nobel Prizes in Physics.
 
 #### System Design — Choosing Between AWS Kinesis and AWS SQS 
-* https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
+* <https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d>
 * SQS is single-consumer smaller-data scalable messaging service. Kinesis is for data processing. 
 > Kinesis can send stream records directly to services such as Amazon S3, Amazon Redshift, Amazon ElasticSearch, Splunk, AWS Lambda
 
 #### python - It is more efficient to use if-return-return or if-else-return? - Stack Overflow
-* https://stackoverflow.com/questions/9191388/it-is-more-efficient-to-use-if-return-return-or-if-else-return
+* <https://stackoverflow.com/questions/9191388/it-is-more-efficient-to-use-if-return-return-or-if-else-return>
 * Studies into readibility of Python code
 > n/a
 
 #### Visual Studio Code is designed to fracture
-* https://ghuntley.com/fracture/
+* <https://ghuntley.com/fracture/>
 * Stratechery-like insights into what Microsoft has been up to in the last 10 years, i.e. transitioning itself into a 'service company'
 > Circa 9 years ago Microsoft started an internal transformation in the way they delivered software to customers. Instead of directly (ie. in-house) employing quality assurance teams who were dedicated to testing software builds Microsoft's switched to a model based on sprint-based development work and rolling releases with feedback from telemetry data that is gathered from Insider Builds of Microsoft's software. At the same time, wider organisational changes took place in the form of functional restructures, which transitioned Microsoft into becoming a services company. Their Azure cloud-computing offering during this period has grown into a legitimate challenger to Amazon's cloud-computing offering called AWS. The biggest side effect of this change for consumers was that instead of delivering installable products that could be run on-premises Microsoft in true Microsoft form of moving ever so slowly and doing it over a generation of people as not to spook them.
+
+#### Be good-argument-driven, not data-driven - Richard Marmorstein
+* <http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html>
+* A great call to 'think', to use dialectics, contemplation, poetics, intuition and other underpinnings next to facts that may drive great ideas and arguments.
+> There’s nothing wrong with a fondness for data. The trouble begins when you begin to favor bad arguments that involve data over good arguments that don’t, or insist that metrics be introduced in realms where data can’t realistically be the foundation of a good argument.
+
+#### Setting the tab size in nano 
+* <https://electrictoolbox.com/setting-tab-size-in-nano/#:~:text=By%20default%20the%20tab%20size,a%20user%20specific%20configuration%20file.&>text=In%20the%20examples%20above%20we,from%20the%20default%208%20characters.
+* You still have to create .nanorc manually in C:\ProgramData\.nanorc if the file does not exist
+> n/a
