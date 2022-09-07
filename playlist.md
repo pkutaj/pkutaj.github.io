@@ -100,7 +100,12 @@ List of texts / podcast that caught my attention this year (2022).
     - [python - It is more efficient to use if-return-return or if-else-return? - Stack Overflow](#python---it-is-more-efficient-to-use-if-return-return-or-if-else-return---stack-overflow)
     - [Visual Studio Code is designed to fracture](#visual-studio-code-is-designed-to-fracture)
     - [Be good-argument-driven, not data-driven - Richard Marmorstein](#be-good-argument-driven-not-data-driven---richard-marmorstein)
+- [092022](#092022)
     - [Setting the tab size in nano](#setting-the-tab-size-in-nano)
+    - [The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells](#the-history-of-computing-the-evolution-of-unix-mac-and-chrome-os-shells)
+    - [How to discover Indian classical music - Marginal REVOLUTION](#how-to-discover-indian-classical-music---marginal-revolution)
+    - [How to create sudo user on Ubuntu 18.04 Bionic Beaver Linux - Linux Tutorials - Learn Linux Configuration](#how-to-create-sudo-user-on-ubuntu-1804-bionic-beaver-linux---linux-tutorials---learn-linux-configuration)
+    - [Difference between Single Responsibility Principle and Separation of Concerns - Stack Overflow](#difference-between-single-responsibility-principle-and-separation-of-concerns---stack-overflow)
 
 <!-- /TOC -->
 
@@ -541,6 +546,7 @@ List of texts / podcast that caught my attention this year (2022).
 * A great call to 'think', to use dialectics, contemplation, poetics, intuition and other underpinnings next to facts that may drive great ideas and arguments.
 > There’s nothing wrong with a fondness for data. The trouble begins when you begin to favor bad arguments that involve data over good arguments that don’t, or insist that metrics be introduced in realms where data can’t realistically be the foundation of a good argument.
 
+### 092022
 #### Setting the tab size in nano 
 * <https://electrictoolbox.com/setting-tab-size-in-nano/#:~:text=By%20default%20the%20tab%20size,a%20user%20specific%20configuration%20file.&>text=In%20the%20examples%20above%20we,from%20the%20default%208%20characters.
 * You still have to create .nanorc manually in C:\ProgramData\.nanorc if the file does not exist
@@ -550,3 +556,23 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://thehistoryofcomputing.net/the-evolution-of-unix-mac-and-chrome-os-shells>
 * Learnt that the variety of shells is possible due to the fact that it is decoupled from the OS
 > Brian Fox then added on to the Bourne shell with bash. He was working with the Free Software Foundation with Richard Stallman, and they wanted a shell that could do more advanced scripting but whose source code was open source. They started the project in 1988 and shipped bash in 1989. Bash then went on to become the most widely used and distributed shell in the arsenal of the Unix programmer. Bash stands for Bourne Again Shell and so was backwards compatible with bourne shell but also added features from tcsh, korn, and C shell, staying mostly backwards compatible with other shells. Due to the licensing, bash became the de facto standard (and often default shell) for GNU/Linux distributions and serves as the standard interactive shell for users, located at /bin/bash location. Now we had command history, tabbed auto-completion, command-line editing, multiple paths, multiple options for interpreters, a directory stack, full environment variables, and the modern command line environment.
+
+#### How to discover Indian classical music - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2022/09/how-to-discover-indian-classical-music.html>
+* Bildungsroman-redux. Infatuation with Indian Classical music is a really weird hobby. Aesthetic mind sharpener of a lover of Indian culture. The thesis that orchestral music can only be fully experiences with live performance is repeatedly stressed and, who knows, maybe even Metaverse will not change this one.
+> you are looking to hear world class performers in live concert, there is no substitute for that, most of all for the percussion, but also for the overall sense of energy
+
+#### How to create sudo user on Ubuntu 18.04 Bionic Beaver Linux - Linux Tutorials - Learn Linux Configuration
+* <https://linuxconfig.org/how-to-create-sudo-user-on-ubuntu-18-04-bionic-beaver-linux>
+* Learning the intricasies of Linux Account Administration
+> The sudo user can execute any command with administrative privileges, hence execute commands as root.
+
+#### Difference between Single Responsibility Principle and Separation of Concerns - Stack Overflow
+* <https://stackoverflow.com/questions/1724469/difference-between-single-responsibility-principle-and-separation-of-concerns>
+* A tiny illustration of the lack of historical consciousness is apparrent in this thread. 
+> n/a
+
+#### So You Want to be a Writer... - Hugh Howey
+* <https://hughhowey.com/so-you-want-to-be-a-writer/>
+* The Decalogue for Aspiring Professionals
+> Look around. What are other aspiring writers doing? That’s your ground floor. Your minimum. That’s where you begin. Double that. I promise you, this is the easiest path to success. What follows is specifics.
