@@ -576,3 +576,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://hughhowey.com/so-you-want-to-be-a-writer/>
 * The Decalogue for Aspiring Professionals
 > Look around. What are other aspiring writers doing? That’s your ground floor. Your minimum. That’s where you begin. Double that. I promise you, this is the easiest path to success. What follows is specifics.
+
+#### Too Many Parameters
+* <http://wiki.c2.com/?TooManyParameters>
+* This is the famous encyclopedia of programming knowledge and the very first wiki ever created. 
+> n/a
+
+#### Constraints are a gift 
+* <https://seths.blog/2022/09/constraints-are-a-gift/>
+* On Constraints as prerequisite for creativity
+> If the constraints went away, you’d be playing a totally different game, because your competitors would see their constraints lifted as well.
