@@ -586,3 +586,32 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://seths.blog/2022/09/constraints-are-a-gift/>
 * On Constraints as prerequisite for creativity
 > If the constraints went away, you’d be playing a totally different game, because your competitors would see their constraints lifted as well.
+
+#### python - Call Hierarchy in Visual Studio Code - Stack Overflow
+* <https://stackoverflow.com/questions/56008476/call-hierarchy-in-visual-studio-code>
+* Learning better and better features of the editor during the short copy sessions where I am just completely rewriting code written by my colleagues. 
+> 
+
+#### How to Use Colorama in Python
+* <https://linuxhint.com/colorama-python/>
+* Improving The UI/UX with CLI scripts bit by bit.
+> Many built-in modules and libraries exist in Python to print the colored text in the terminal. The Colorama is one of the built-in Python modules to display the text in different colors. It is used to make the code more readable. Three formatting options are available in this module for coloring text.
+
+#### 
+* <>
+* Apple treats itself like a fancy club with quite high entry and quite high margins on services that it provides. Since it all works out of the box, my impression is that it makes mostly kids uninterested at ways how computers actually functions. Something I was stuck with when the first 386DX/40 arrived and someone showed me how to start Goblins from command line or even installed Norton Commander. 
+> The most surprising announcement of all, though, were the prices. Everything stayed the same! This was not what I, or close followers of Apple like John Gruber, expected at all. After all, Apple’s strategy the past several years seemed to be focused on wringing more revenue out of existing customers. More importantly, the last year has seen a big increase in inflation - What this means is that in real terms Apple’s products actually got cheaper.
+
+#### The Services iPhone – Stratechery by Ben Thompson
+* <https://stratechery.com/2022/the-services-iphone/>
+* The most surprising announcement of all, though, were the prices. Everything stayed the same! This was not what I, or close followers of Apple like John Gruber, expected at all. After all, Apple’s strategy the past several years seemed to be focused on wringing more revenue out of existing customers. More importantly, the last year has seen a big increase in inflation - What this means is that in real terms Apple’s products actually got cheaper.
+
+#### The Services iPhone – Stratechery by Ben Thompson
+* <https://stratechery.com/2022/the-services-iphone/>
+* Apple treats itself like a fancy club with quite high entry and quite high margins on services that it provides. Since it all works out of the box, my impression is that it makes mostly kids uninterested at ways how computers actually functions. Something I was stuck with when the first 386DX/40 arrived and someone showed me how to start Goblins from command line or even installed Norton Commander. 
+> The most surprising announcement of all, though, were the prices. Everything stayed the same! This was not what I, or close followers of Apple like John Gruber, expected at all. After all, Apple’s strategy the past several years seemed to be focused on wringing more revenue out of existing customers. More importantly, the last year has seen a big increase in inflation - What this means is that in real terms Apple’s products actually got cheaper.
+
+#### But first, we need to talk about it 
+* <https://seths.blog/2022/09/but-first-we-need-to-talk-about-it/>
+* Stressing the fact that with none of the tools will help - if you keep avoiding to confront the problem. As John Bradshaw said in Homecoming, life can be framed as a series of confrontations with problems. 
+> People don’t talk about end-of-life suffering or the cost of healthcare in the last year of life, so it never gets better. Instead, we pretend it isn’t an issue and the problem persists.
