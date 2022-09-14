@@ -615,3 +615,26 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://seths.blog/2022/09/but-first-we-need-to-talk-about-it/>
 * Stressing the fact that with none of the tools will help - if you keep avoiding to confront the problem. As John Bradshaw said in Homecoming, life can be framed as a series of confrontations with problems. 
 > People don’t talk about end-of-life suffering or the cost of healthcare in the last year of life, so it never gets better. Instead, we pretend it isn’t an issue and the problem persists.
+
+#### 
+* <>
+
+#### Checking if a Cell Contains a Substring in Excel or Google Docs
+* <https://chartio.com/resources/tutorials/how-to-check-if-a-cell-contains-a-substring-in-excel-or-google-docs/>
+* Learning How to Quickly Test if a Column or Multiple Columns Contain a Substring in Google Sheets - a tool we are still using in our release engineering process. 
+> 
+
+#### Russian Offensive Campaign Assessment, September 8 
+* <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-september-8>
+* The notion of "information space control" and the "establishment of desired narrative" keeps popping up in ISW daily updates on the situation in Ukraine. There must be an initiative purpose and truthfulness of the narratives permeating the confrontations of problems in general. 
+> The Russian MoD repeated its Bilohorivka information mistake by failing to acknowledge the situation around Kharkiv Oblast and establish a desired narrative, leaving milbloggers to fill this gap with criticism of Russian forces. The Russian MoD only claimed to have destroyed a Ukrainian ammunition depot in Balakliya.[7] Some milbloggers complained that the Russian MoD did not seize the information space in a timely manner to prevent the spread of Ukrainian social media on Russian Telegram channels, leading to distrust among Russian audiences.[8] Milbloggers largely supported the Russian MoD’s narratives that the Ukrainian counteroffensive in Kherson Oblast had completely failed just days prior to Ukrainian breakthroughs in Kharkiv Oblast.[9] Such a shift in milblogger perceptions of Russian progress in Ukraine can be partially attributed to the flaws in the Russian war-time information strategy...
+
+#### Organizations need to deliberately create data
+* <https://datacreation.substack.com/p/organizations-need-to-deliberately>
+* In 2017, Economist published [The world’s most valuable resource is no longer oil, but data | The Economist](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data). Yali (my boss/co-founder) takes an issue of the core metaphor driving not only the value of Big Data, but also the names of the tools (data pipelines, mining, extraction, exhaust). In my reading, he is saying "Data is Software, too", in other words, he repeats the old functional programming insight that the difference between code and data is more complicated than meets the eye (that code == data and data == code?)
+> These assumptions are fundamentally wrong. Organizations can deliberately create the data that data scientists and other data consumers need, data that today those organizations simply do not have. More than that, organizations should deliberately create the data that they need: as Peter Norvig observed many years ago - “more data beats clever algorithms, and better data beats more data”: so it makes sense to spend at least as much time creating better data as developing better algorithms.
+
+#### Artificial Intelligence Will Be a Great Equalizer - Bloomberg
+* <https://www.bloomberg.com/opinion/articles/2022-09-09/artificial-intelligence-will-be-a-great-equalizer>
+* 2022 is the year of AI and mainly via progress in image generation - a few places offer this much excitement for me. 
+> The people who least need AI are the super-rich. They already can hire armies of servants to manage their obligations, schedules, and so on. They do not need to economize on the use of human labor. The rest of us do, whether directly or indirectly through the businesses we patronize...On average, better educated individuals are more skilled at retraining. So increasing the importance of retraining will have some significant inegalitarian effects, namely that the lesser educated may fall behind or be re-employed at lower wages. This is the real worry about AI, which is not the same as “the robots taking all our jobs.”
