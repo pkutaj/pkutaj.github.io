@@ -638,3 +638,7 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.bloomberg.com/opinion/articles/2022-09-09/artificial-intelligence-will-be-a-great-equalizer>
 * 2022 is the year of AI and mainly via progress in image generation - a few places offer this much excitement for me. 
 > The people who least need AI are the super-rich. They already can hire armies of servants to manage their obligations, schedules, and so on. They do not need to economize on the use of human labor. The rest of us do, whether directly or indirectly through the businesses we patronize...On average, better educated individuals are more skilled at retraining. So increasing the importance of retraining will have some significant inegalitarian effects, namely that the lesser educated may fall behind or be re-employed at lower wages. This is the real worry about AI, which is not the same as “the robots taking all our jobs.”
+
+#### The Birth of UNIX With Brian Kernighan - CoRecursive Podcast
+* <https://corecursive.com/brian-kernighan-unix-bell-labs1/>
+* One of my favorite podcast episodes ever. The contextualization and sidecommets are amazing as well as the guest. 
