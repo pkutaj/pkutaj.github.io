@@ -106,6 +106,22 @@ List of texts / podcast that caught my attention this year (2022).
     - [How to discover Indian classical music - Marginal REVOLUTION](#how-to-discover-indian-classical-music---marginal-revolution)
     - [How to create sudo user on Ubuntu 18.04 Bionic Beaver Linux - Linux Tutorials - Learn Linux Configuration](#how-to-create-sudo-user-on-ubuntu-1804-bionic-beaver-linux---linux-tutorials---learn-linux-configuration)
     - [Difference between Single Responsibility Principle and Separation of Concerns - Stack Overflow](#difference-between-single-responsibility-principle-and-separation-of-concerns---stack-overflow)
+    - [So You Want to be a Writer... - Hugh Howey](#so-you-want-to-be-a-writer---hugh-howey)
+    - [Too Many Parameters](#too-many-parameters)
+    - [Constraints are a gift](#constraints-are-a-gift)
+    - [python - Call Hierarchy in Visual Studio Code - Stack Overflow](#python---call-hierarchy-in-visual-studio-code---stack-overflow)
+    - [How to Use Colorama in Python](#how-to-use-colorama-in-python)
+    - [The Services iPhone – Stratechery by Ben Thompson](#the-services-iphone--stratechery-by-ben-thompson)
+    - [But first, we need to talk about it](#but-first-we-need-to-talk-about-it)
+    - [Checking if a Cell Contains a Substring in Excel or Google Docs](#checking-if-a-cell-contains-a-substring-in-excel-or-google-docs)
+    - [Russian Offensive Campaign Assessment, September 8](#russian-offensive-campaign-assessment-september-8)
+    - [Organizations need to deliberately create data](#organizations-need-to-deliberately-create-data)
+    - [Artificial Intelligence Will Be a Great Equalizer - Bloomberg](#artificial-intelligence-will-be-a-great-equalizer---bloomberg)
+    - [The Birth of UNIX With Brian Kernighan - CoRecursive Podcast](#the-birth-of-unix-with-brian-kernighan---corecursive-podcast)
+    - [Clean Code: Error Handling. Next chapter in the series is Error…](#clean-code-error-handling-next-chapter-in-the-series-is-error)
+    - [The History of Computing: The History Of Android](#the-history-of-computing-the-history-of-android)
+    - [What Makes a Senior Engineer? Writing Software vs Building Systems - codewithstyle.info](#what-makes-a-senior-engineer-writing-software-vs-building-systems---codewithstyleinfo)
+    - [Open Source is Broken - Xe](#open-source-is-broken---xe)
 
 <!-- /TOC -->
 
@@ -590,21 +606,11 @@ List of texts / podcast that caught my attention this year (2022).
 #### python - Call Hierarchy in Visual Studio Code - Stack Overflow
 * <https://stackoverflow.com/questions/56008476/call-hierarchy-in-visual-studio-code>
 * Learning better and better features of the editor during the short copy sessions where I am just completely rewriting code written by my colleagues. 
-> 
 
 #### How to Use Colorama in Python
 * <https://linuxhint.com/colorama-python/>
 * Improving The UI/UX with CLI scripts bit by bit.
 > Many built-in modules and libraries exist in Python to print the colored text in the terminal. The Colorama is one of the built-in Python modules to display the text in different colors. It is used to make the code more readable. Three formatting options are available in this module for coloring text.
-
-#### 
-* <>
-* Apple treats itself like a fancy club with quite high entry and quite high margins on services that it provides. Since it all works out of the box, my impression is that it makes mostly kids uninterested at ways how computers actually functions. Something I was stuck with when the first 386DX/40 arrived and someone showed me how to start Goblins from command line or even installed Norton Commander. 
-> The most surprising announcement of all, though, were the prices. Everything stayed the same! This was not what I, or close followers of Apple like John Gruber, expected at all. After all, Apple’s strategy the past several years seemed to be focused on wringing more revenue out of existing customers. More importantly, the last year has seen a big increase in inflation - What this means is that in real terms Apple’s products actually got cheaper.
-
-#### The Services iPhone – Stratechery by Ben Thompson
-* <https://stratechery.com/2022/the-services-iphone/>
-* The most surprising announcement of all, though, were the prices. Everything stayed the same! This was not what I, or close followers of Apple like John Gruber, expected at all. After all, Apple’s strategy the past several years seemed to be focused on wringing more revenue out of existing customers. More importantly, the last year has seen a big increase in inflation - What this means is that in real terms Apple’s products actually got cheaper.
 
 #### The Services iPhone – Stratechery by Ben Thompson
 * <https://stratechery.com/2022/the-services-iphone/>
@@ -616,13 +622,9 @@ List of texts / podcast that caught my attention this year (2022).
 * Stressing the fact that with none of the tools will help - if you keep avoiding to confront the problem. As John Bradshaw said in Homecoming, life can be framed as a series of confrontations with problems. 
 > People don’t talk about end-of-life suffering or the cost of healthcare in the last year of life, so it never gets better. Instead, we pretend it isn’t an issue and the problem persists.
 
-#### 
-* <>
-
 #### Checking if a Cell Contains a Substring in Excel or Google Docs
 * <https://chartio.com/resources/tutorials/how-to-check-if-a-cell-contains-a-substring-in-excel-or-google-docs/>
 * Learning How to Quickly Test if a Column or Multiple Columns Contain a Substring in Google Sheets - a tool we are still using in our release engineering process. 
-> 
 
 #### Russian Offensive Campaign Assessment, September 8 
 * <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-september-8>
@@ -642,3 +644,28 @@ List of texts / podcast that caught my attention this year (2022).
 #### The Birth of UNIX With Brian Kernighan - CoRecursive Podcast
 * <https://corecursive.com/brian-kernighan-unix-bell-labs1/>
 * One of my favorite podcast episodes ever. The contextualization and sidecommets are amazing as well as the guest. 
+
+#### Clean Code: Error Handling. Next chapter in the series is Error… 
+* <https://medium.com/@shley_ng/clean-code-error-handling-19fec47ad688>
+* Watch out for making error handling the first impression that the code gives
+> Many code bases are completely dominated by error handling…I don’t mean that error handling is all that they do. I mean that it is nearly impossible to see what the code does because of all the scattered error handling. Error handling is important, but if it obscures logic, it’s wrong.
+
+#### The History of Computing: The History Of Android
+* <https://thehistoryofcomputing.net/the-history-of-android>
+* On the beginnings of Android and the smartphone revolution kicked off in 2007/8 with the release of the first iPhone.
+> The first iPhone was released in 2007. I think we sometimes think that along came the iPhone and Blackberries started to disappear. It took years. But the fall was fast. While the iPhone was also impactful, the Android-based devices were probably more-so. That release of the iPhone kicked Andy Rubin in the keister and he pivoted over from the Blackberry-styled keyboard to a touch screen, which changed… everything. Suddenly this weird innovation wasn’t yet another frivolous expensive Apple extravagance. The logo helped grow the popularity as well, I think. Internally at Google Dan Morrill started creating what were known as Dandroids. But the bugdroid as it’s known was designed by Irina Blok on the Android launch team. It was eventually licensed under Creative Commons, which resulted in lots of different variations of the logo; a sharp contrast to the control Apple puts around the usage of their own logo. The first version of the shipping Android code came along in 2008.
+
+#### What Makes a Senior Engineer? Writing Software vs Building Systems - codewithstyle.info
+* <https://codewithstyle.info/software-vs-systems/>
+* Seniority means business (professionality). It should not mean less coding, though.
+> Junior Engineers care about writing Software. They value code quality, employ best practices, try to adopt cutting-edge technologies. They invest a lot of time into learning new technologies. To them, the ultimate goal is to create elegant, performant, maintainable software.
+
+#### Open Source is Broken - Xe
+* <https://xeiaso.net/blog/open-source-broken-2021-12-11>
+* Great Summary of the vulnerabilities of open source paradigm. 
+> or: Why I Don't Write Useful Software Unless You Pay Me
+
+#### Clean Code – How to Write Amazing Functions
+* <https://www.codingblocks.net/podcast/how-to-write-amazing-functions/>
+* I keep revisiting this chapter and this episode over and over. Also the little "cock fight" between the two host about the virtues of a correction that one has done to another is hilarious. And Alan says that his functions just follow this chapter e2e and he's really happy about that. Highly recommended.
+> 1st rule – Functions should be small; 2nd rule – Functions should be smaller than that!
