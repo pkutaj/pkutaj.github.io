@@ -669,3 +669,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.codingblocks.net/podcast/how-to-write-amazing-functions/>
 * I keep revisiting this chapter and this episode over and over. Also the little "cock fight" between the two host about the virtues of a correction that one has done to another is hilarious. And Alan says that his functions just follow this chapter e2e and he's really happy about that. Highly recommended.
 > 1st rule – Functions should be small; 2nd rule – Functions should be smaller than that!
+
+#### ls -la /.dockerenv
+* <https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker>
+* Based of my readings on Open Source, I've decided to contribute and made my first feedback to the great python module at https://github.com/asweigart/pyperclip/issues/194; This useful thread is useful to find out where you are running your code: in a Docker container or not. 
+> n/a
