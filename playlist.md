@@ -674,3 +674,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker>
 * Based of my readings on Open Source, I've decided to contribute and made my first feedback to the great python module at https://github.com/asweigart/pyperclip/issues/194; This useful thread is useful to find out where you are running your code: in a Docker container or not. 
 > n/a
+
+#### Launch HN: Spinach.io (YC W22) – Better daily standups 
+* <https://news.ycombinator.com/item?id=32911232>
+* I like this because it smoothens context switches. In my experience the context switching has cognitive costs mainly when the switch is done by the mind - not because mind is switched in itself. When the music stops automatically or the movie ends automatically that is drastically different then when I have to stop it in the middle. Similar for rotating who is speaking when and when and how to prep for the meeting. 
+> n/a
+
+#### Count – Make decisions with data, together
+* <https://count.co/>
+* A BI tool competitive to Redash I've been using, recommended by a colleague. 
+> n/a
