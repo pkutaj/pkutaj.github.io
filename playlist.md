@@ -684,3 +684,18 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://count.co/>
 * A BI tool competitive to Redash I've been using, recommended by a colleague. 
 > n/a
+
+#### How to Delete Lines in Vim / Vi 
+* <https://linuxize.com/post/vim-delete-line/>
+* Working in Docker Container with text editors needs some knowledge of vim editor, like it or now
+> 
+
+#### An Introduction to Base64 Encoding 
+* <https://levelup.gitconnected.com/an-introduction-to-base64-encoding-716cdccc58ce>
+* Really useful intro to the daily bread of base64 encoding
+> Base64 is a frequently used and reliable method of representing arbitrary binary data as text. The name comes from the fact that Base64 uses 64 possible values for representing binary data. This means there are six bits for representing a single Base64 character (2⁶ = 64). The values are made up of uppercase and lowercase letters, numbers 0 through 9, as well as the “+” and “/” signs.
+
+#### so you want to be a writer? by Charles Bukowski - Poems 
+* <https://poets.org/poem/so-you-want-be-writer>
+* Found this gem upon returning to the wonderful <https://hughhowey.com/so-you-want-to-be-a-writer/> 
+> when it is truly time, and if you have been chosen, it will do it by itself and it will keep on doing it until you die or it dies in you. there is no other way. and there never was.
