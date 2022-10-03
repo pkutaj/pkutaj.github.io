@@ -64,7 +64,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [How long will this take?  Seth's Blog](#how-long-will-this-take--seths-blog)
     - [History and effective use of Vim](#history-and-effective-use-of-vim)
     - [What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}](#what-is-reverse-dns-and-how-does-it-work-how-to-do-a-rdns-lookup)
-- [082022](#082022)
+- [AUGUST 2022](#august-2022)
     - [How To Check If A String Contains A Substring In SQL Server](#how-to-check-if-a-string-contains-a-substring-in-sql-server)
     - [How I Used DALL·E 2 to Generate The Logo for OctoSQL](#how-i-used-dall·e-2-to-generate-the-logo-for-octosql)
     - [What's actually going on with Google and Facebook hiring freezes? We surveyed 1000 engineers to find out. - interviewing.io blog](#whats-actually-going-on-with-google-and-facebook-hiring-freezes-we-surveyed-1000-engineers-to-find-out---interviewingio-blog)
@@ -92,7 +92,6 @@ List of texts / podcast that caught my attention this year (2022).
     - [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism-1)
     - [breck7/pldb: The Programming Language Database](#breck7pldb-the-programming-language-database)
     - [breck7/pldb: The Programming Language Database](#breck7pldb-the-programming-language-database-1)
-    - [](#)
     - [Devops: An Idea so Good, No One Admits They Don’t Do It](#devops-an-idea-so-good-no-one-admits-they-dont-do-it)
     - [Ptpython: A Better Python REPL](#ptpython-a-better-python-repl)
     - [Bell Labs Org Chart](#bell-labs-org-chart)
@@ -100,7 +99,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [python - It is more efficient to use if-return-return or if-else-return? - Stack Overflow](#python---it-is-more-efficient-to-use-if-return-return-or-if-else-return---stack-overflow)
     - [Visual Studio Code is designed to fracture](#visual-studio-code-is-designed-to-fracture)
     - [Be good-argument-driven, not data-driven - Richard Marmorstein](#be-good-argument-driven-not-data-driven---richard-marmorstein)
-- [092022](#092022)
+- [SEPT 2022](#sept-2022)
     - [Setting the tab size in nano](#setting-the-tab-size-in-nano)
     - [The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells](#the-history-of-computing-the-evolution-of-unix-mac-and-chrome-os-shells)
     - [How to discover Indian classical music - Marginal REVOLUTION](#how-to-discover-indian-classical-music---marginal-revolution)
@@ -122,6 +121,15 @@ List of texts / podcast that caught my attention this year (2022).
     - [The History of Computing: The History Of Android](#the-history-of-computing-the-history-of-android)
     - [What Makes a Senior Engineer? Writing Software vs Building Systems - codewithstyle.info](#what-makes-a-senior-engineer-writing-software-vs-building-systems---codewithstyleinfo)
     - [Open Source is Broken - Xe](#open-source-is-broken---xe)
+    - [Clean Code – How to Write Amazing Functions](#clean-code--how-to-write-amazing-functions)
+    - [ls -la /.dockerenv](#ls--la-dockerenv)
+    - [Launch HN: Spinach.io (YC W22) – Better daily standups](#launch-hn-spinachio-yc-w22--better-daily-standups)
+    - [Count – Make decisions with data, together](#count--make-decisions-with-data-together)
+    - [How to Delete Lines in Vim / Vi](#how-to-delete-lines-in-vim--vi)
+    - [An Introduction to Base64 Encoding](#an-introduction-to-base64-encoding)
+    - [so you want to be a writer? by Charles Bukowski - Poems](#so-you-want-to-be-a-writer-by-charles-bukowski---poems)
+- [102022](#102022)
+    - [Russian Offensive Campaign Assessment, October 2](#russian-offensive-campaign-assessment-october-2)
 
 <!-- /TOC -->
 
@@ -416,7 +424,7 @@ List of texts / podcast that caught my attention this year (2022).
 #### What Is Reverse DNS and How Does It Work? {How to Do a rDNS Lookup}
 * <https://phoenixnap.com/kb/reverse-dns-lookup>
 
-### 082022
+### AUGUST 2022
 #### How To Check If A String Contains A Substring In SQL Server
 * <https://www.c-sharpcorner.com/blogs/how-to-check-if-a-string-contains-a-substring-in-sql-server>
 * I've needed this for a query written in Redash against Redshift source, so this applies for Postgres, too
@@ -522,11 +530,6 @@ List of texts / podcast that caught my attention this year (2022).
 * An attempt to bring the crisis of facts to the center of the political
 > The main binary in political virtualism is not between left and right but between fiction and reality
 
-#### 
-* 
-* A cool, even if a bit click-baity, argument against untouchability of popular concepts such as devops and agile. Watch Kent Back talking about the need for an authentic process in https://www.youtube.com/watch?v=fH4gqsIYzyE&t=1823s&ab_channel=BeingHumanPodcast
-> To me, the most egregious example of this is when a company simply changes the job titles of all its ops people. John use to be an “IT Operations” guy, but now he’s a “DevOps Engineer”.
-
 #### Devops: An Idea so Good, No One Admits They Don’t Do It 
 * <https://wagslane.dev/posts/no-one-does-devops/>
 * A cool, even if a bit click-baity, argument against untouchability of popular concepts such as devops and agile. Watch Kent Back talking about the need for an authentic process in https://www.youtube.com/watch?v=fH4gqsIYzyE&t=1823s&ab_channel=BeingHumanPodcast
@@ -562,10 +565,10 @@ List of texts / podcast that caught my attention this year (2022).
 * A great call to 'think', to use dialectics, contemplation, poetics, intuition and other underpinnings next to facts that may drive great ideas and arguments.
 > There’s nothing wrong with a fondness for data. The trouble begins when you begin to favor bad arguments that involve data over good arguments that don’t, or insist that metrics be introduced in realms where data can’t realistically be the foundation of a good argument.
 
-### 092022
+### SEPT 2022
 #### Setting the tab size in nano 
-* <https://electrictoolbox.com/setting-tab-size-in-nano/#:~:text=By%20default%20the%20tab%20size,a%20user%20specific%20configuration%20file.&>text=In%20the%20examples%20above%20we,from%20the%20default%208%20characters.
-* You still have to create .nanorc manually in C:\ProgramData\.nanorc if the file does not exist
+* <https://electrictoolbox.com/setting-tab-size-in-nano>
+* You still have to create `.nanorc` manually in C:\ProgramData\.nanorc if the file does not exist
 > n/a
 
 #### The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells
@@ -699,3 +702,10 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://poets.org/poem/so-you-want-be-writer>
 * Found this gem upon returning to the wonderful <https://hughhowey.com/so-you-want-to-be-a-writer/> 
 > when it is truly time, and if you have been chosen, it will do it by itself and it will keep on doing it until you die or it dies in you. there is no other way. and there never was.
+
+### 102022
+
+#### Russian Offensive Campaign Assessment, October 2 
+* <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-october-2>
+* One of Kevin Kelly's recommendations is "Underpromise, Overdeliver" - what is painstakingly clear from these brilliant analysis is how exactly that is the problem of Russian narrative-shaping. 
+> The Russian MoD has consistently focused on exaggerating Russian success in Ukraine with vague optimistic statements while omitting presentations of specific details of the military campaign. The daily Russian MoD briefing has claimed to capture the same villages more than once as ISW and independent investigators have observed, and the Russian MoD rarely releases photographic evidence confirming claims of Russian advances
