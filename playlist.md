@@ -709,3 +709,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-october-2>
 * One of Kevin Kelly's recommendations is "Underpromise, Overdeliver" - what is painstakingly clear from these brilliant analysis is how exactly that is the problem of Russian narrative-shaping. 
 > The Russian MoD has consistently focused on exaggerating Russian success in Ukraine with vague optimistic statements while omitting presentations of specific details of the military campaign. The daily Russian MoD briefing has claimed to capture the same villages more than once as ISW and independent investigators have observed, and the Russian MoD rarely releases photographic evidence confirming claims of Russian advances
+
+#### What is a good way to order methods in a Python class? - Stack Overflow
+* <https://stackoverflow.com/questions/10289461/what-is-a-good-way-to-order-methods-in-a-python-class>
+* The order of methods in a class is different than the order of functions in a CLI script
+> 

@@ -10,17 +10,18 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q3/2022)
-* optimizing deployment processes
-* optimizing configuration drift mechanisms and alerting (HashiCorp/Attlasian stacks)
-* writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide 
+### NOW (Q4/2022)
+* optimizing deployment processes (Python/HashiCorp stack)
+* optimizing configuration drift mechanisms and alerting (HashiCorp/Atlasian stacks)
+* building dashboards for SLA/SLO breach analysis (SQL/Redash)
+* writing Python scripts for syncing the internal Knowledge Base documents with Zendesk Guide (Python)
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
 * writing up a [read-list of 2022](https://pavol.kutaj.com/playlist.html)
 * sharing some of [my side projects](#2-side-projects) on GitHub
 * in 2022, I am focusing on leet code problems — see [my public LeetCode profile](https://leetcode.com/pkutaj/)
 
 ### EXPERIENCE
-#### Infrastructure Support Engineer; KB owner (AWS dominated SaaS)
+#### Infrastructure Support Engineer; KB owner
 * Snowplow Analytics
 * 2020-ongoing
 
