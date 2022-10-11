@@ -714,3 +714,38 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://stackoverflow.com/questions/10289461/what-is-a-good-way-to-order-methods-in-a-python-class>
 * The order of methods in a class is different than the order of functions in a CLI script
 > 
+
+#### Explanatory variables - Method Call
+* <https://methodcall.com/explanatory-variables/>
+* A great explanation of explanatories in code
+> Contrary to what people think, most of a programmers' time is spent reading code, rather than writing it.
+
+#### The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software
+* <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/>
+* The Classic
+> 
+
+#### CS631 – Advanced Programming in the Unix Environment 
+* <https://news.ycombinator.com/item?id=33140795>
+* History of Unix in the First Lecture is great. Notes on Editors are great. Not understing much of the meat, but definitelly worth a worthy bookmark. 
+> For coding in your normal day to day? Sure use intellij. For trying to debug some deep level production only issue where every second of downtime means big money lost? You'll want to know vim/emacs..
+
+#### Trey Howard, arguing nuclear risk is low - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2022/10/trey-howard-arguing-nuclear-risk-is-low.html>
+* It is healthy to read contradicting opinions. Also a great Russian Historian Stephen Kotkin said 'Ukraine is Winning War on Twitter'
+> Ukrainian military power is over-rated. It still seems like we are giving Ukraine 1/10th of the equipment they would need to actually eject the Russians.
+
+#### Ask HN: In what ways is programming more difficult today than it was years ago? 
+* <https://news.ycombinator.com/item?id=33056052>
+* Complexity, complexity, complexity. Back to SICP.
+> Nowadays you spend most of your time figuring out all the tools and dependencies and configurations and systems and how to glue them all together and get them actually working together properly. There's relatively little time left for the actual problem you're trying to solve and the actual code that you're writing. Actually doing the thing that achieves the objective is kind of just an afterthought done in your spare time when you're not busy babysitting the ecosystem.
+
+#### 
+* <>
+* J.S.Bach was learning by transcribing. I believe the best way to read/learn code is to transcribe, too. Erik Kennedy has the same idea about learning UI/UX. Read, read, read ? A.k.a. Steal / Copy like an Artist. 
+>  Copywork is a technique that writers and painters have been using for centuries. It is the process of recreating an existing work as closely as possible in order to improve one’s skill. In our case, this means recreating a user interface (UI) design pixel for pixel.
+
+#### Copy If You Can: Improving Your UI Design Skills With Copywork — Smashing Magazine
+* <https://www.smashingmagazine.com/2017/02/improving-ui-design-skills-copywork/>
+* J.S.Bach was learning by transcribing. I believe the best way to read/learn code is to transcribe, too. Erik Kennedy has the same idea about learning UI/UX. Read, read, read ? A.k.a. Steal / Copy like an Artist. 
+>  Copywork is a technique that writers and painters have been using for centuries. It is the process of recreating an existing work as closely as possible in order to improve one’s skill. In our case, this means recreating a user interface (UI) design pixel for pixel.
