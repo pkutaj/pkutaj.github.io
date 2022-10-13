@@ -130,6 +130,22 @@ List of texts / podcast that caught my attention this year (2022).
     - [so you want to be a writer? by Charles Bukowski - Poems](#so-you-want-to-be-a-writer-by-charles-bukowski---poems)
 - [102022](#102022)
     - [Russian Offensive Campaign Assessment, October 2](#russian-offensive-campaign-assessment-october-2)
+    - [What is a good way to order methods in a Python class? - Stack Overflow](#what-is-a-good-way-to-order-methods-in-a-python-class---stack-overflow)
+    - [Explanatory variables - Method Call](#explanatory-variables---method-call)
+    - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software](#the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses--joel-on-software)
+    - [CS631 – Advanced Programming in the Unix Environment](#cs631--advanced-programming-in-the-unix-environment)
+    - [Trey Howard, arguing nuclear risk is low - Marginal REVOLUTION](#trey-howard-arguing-nuclear-risk-is-low---marginal-revolution)
+    - [Ask HN: In what ways is programming more difficult today than it was years ago?](#ask-hn-in-what-ways-is-programming-more-difficult-today-than-it-was-years-ago)
+    - [Copy If You Can: Improving Your UI Design Skills With Copywork — Smashing Magazine](#copy-if-you-can-improving-your-ui-design-skills-with-copywork--smashing-magazine)
+    - [Mike Acton’s Expectations of Professional Software Engineers - Adam Johnson](#mike-actons-expectations-of-professional-software-engineers---adam-johnson)
+    - [chardet/chardet: Python character encoding detector](#chardetchardet-python-character-encoding-detector)
+    - [Junior to Senior: Career Advice for the Ambitious Programmer — Holloway](#junior-to-senior-career-advice-for-the-ambitious-programmer--holloway)
+    - [The Paris Review - What Writers and Editors Do - The Paris Review](#the-paris-review---what-writers-and-editors-do---the-paris-review)
+    - [Python Sorted Containers — Sorted Containers 2.4.0 documentation](#python-sorted-containers--sorted-containers-240-documentation)
+    - [Total Recall](#total-recall)
+    - [dynamic typing - Can an interpreted statically typed language be considered type safe? - Software Engineering Stack Exchange](#dynamic-typing---can-an-interpreted-statically-typed-language-be-considered-type-safe---software-engineering-stack-exchange)
+    - [How does the Russo-Ukrainian War end? - by Timothy Snyder](#how-does-the-russo-ukrainian-war-end---by-timothy-snyder)
+    - [Meta Meets Microsoft – Stratechery by Ben Thompson](#meta-meets-microsoft--stratechery-by-ben-thompson)
 
 <!-- /TOC -->
 
@@ -723,7 +739,6 @@ List of texts / podcast that caught my attention this year (2022).
 #### The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software
 * <https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/>
 * The Classic
-> 
 
 #### CS631 – Advanced Programming in the Unix Environment 
 * <https://news.ycombinator.com/item?id=33140795>
@@ -740,12 +755,50 @@ List of texts / podcast that caught my attention this year (2022).
 * Complexity, complexity, complexity. Back to SICP.
 > Nowadays you spend most of your time figuring out all the tools and dependencies and configurations and systems and how to glue them all together and get them actually working together properly. There's relatively little time left for the actual problem you're trying to solve and the actual code that you're writing. Actually doing the thing that achieves the objective is kind of just an afterthought done in your spare time when you're not busy babysitting the ecosystem.
 
-#### 
-* <>
-* J.S.Bach was learning by transcribing. I believe the best way to read/learn code is to transcribe, too. Erik Kennedy has the same idea about learning UI/UX. Read, read, read ? A.k.a. Steal / Copy like an Artist. 
->  Copywork is a technique that writers and painters have been using for centuries. It is the process of recreating an existing work as closely as possible in order to improve one’s skill. In our case, this means recreating a user interface (UI) design pixel for pixel.
-
 #### Copy If You Can: Improving Your UI Design Skills With Copywork — Smashing Magazine
 * <https://www.smashingmagazine.com/2017/02/improving-ui-design-skills-copywork/>
 * J.S.Bach was learning by transcribing. I believe the best way to read/learn code is to transcribe, too. Erik Kennedy has the same idea about learning UI/UX. Read, read, read ? A.k.a. Steal / Copy like an Artist. 
 >  Copywork is a technique that writers and painters have been using for centuries. It is the process of recreating an existing work as closely as possible in order to improve one’s skill. In our case, this means recreating a user interface (UI) design pixel for pixel.
+
+#### Mike Acton’s Expectations of Professional Software Engineers - Adam Johnson
+* <https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/>
+* Post and talk in a similar vein of Uncle Bob's talk on demanding professionalism (https://youtu.be/p0O1VVqRSK0?t=334), quite a humbling list. 
+> I do not require multiple reminders to respond to a request or complete work.
+
+#### chardet/chardet: Python character encoding detector
+* <https://github.com/chardet/chardet>
+* If you need to find an encoding of bytes object in Python
+> This is a continuation of Mark Pilgrim's excellent original chardet port from C, and Ian Cordasco's charade Python 3-compatible for
+
+#### Junior to Senior: Career Advice for the Ambitious Programmer — Holloway
+* <https://www.holloway.com/b/junior-to-senior>
+* Adding to the readlist for the future times
+> But writing code is only part of our job as software developers. It’s equally essential for developers to cultivate the soft skills critical for adding value for their team, their company, their customers, and their career—and it’s often neglected.
+
+#### The Paris Review - What Writers and Editors Do - The Paris Review
+* <https://www.theparisreview.org/blog/2021/01/05/what-writers-and-editors-do/>
+* Another Classic I am returning to Regularly
+> writing is about getting to the core, something that can be done only once, in that one way, which can never be repeated, because if you repeat it then you are no longer at the core but at something false that merely resembles. So what writing is about, more than anything else, is not practicing, but failing. Failing, not succeeding, not being able to make it work, failing, failing, failing—but not in order to get to the core at some future time, that would be half-hearted, and the half-hearted is the antithesis of writing, no, failing must come from risking everything, in all earnestness, with the utmost of effort. Failing to get the ball properly under control on the football pitch can be annoying, but it doesn’t hurt. Failing in literature hurts, if it doesn’t then it’s an exercise and can lead nowhere. In other words, in order to write you must trick yourself, you must believe that this time I’m onto something, no matter how worthless it might turn out to be.
+
+#### Python Sorted Containers — Sorted Containers 2.4.0 documentation
+* <https://grantjenks.com/docs/sortedcontainers/>
+* An example of good code
+
+#### Total Recall 
+* <https://www.newyorker.com/magazine/2012/08/13/total-recall>
+* On Knausgaard's first volume of My Struggle
+> A fair amount of contemporary prose seems to have been written by people who, like Tolstoy’s Ivan Ilyich, refuse to accept that they will die; there is a puerile or evasive quality in many new novels (not to mention movies), especially in America, where infinite information promises to outlive us, and dazzle down the terminality of existence. Are there serious contemporary writers who remind us of our mortality?
+
+#### dynamic typing - Can an interpreted statically typed language be considered type safe? - Software Engineering Stack Exchange
+* <https://softwareengineering.stackexchange.com/questions/332214/can-an-interpreted-statically-typed-language-be-considered-type-safe>
+* Some answers are worth of a bookmark and being re-read as a stand-alone blog posts
+> There is no such thing as an interpreted statically typed language, simply because there is no such thing as an interpreted language, period. Interpretation and compilation are traits of the, well, interpreter or compiler (duh!), i.e. the implementation, not the language. Every language can be implemented with an interpreter and every language can be implemented with a compiler. In fact, many languages have both interpreted and compiled implementations. For example, Haskell has several compiled implementations (Ghc, Jhc, Yhc, Lhv) and an interpreted implementation (Hugs). ECMAScript has pure compiled implementations (V8), and hybrid mixed-mode implementations (e.g. SpiderMonkey AOT-compiles ECMAScript to SpiderMonkey bytecode, then both compiles and interprets this bytecode)
+
+#### How does the Russo-Ukrainian War end? - by Timothy Snyder
+* <https://snyder.substack.com/p/how-does-the-russo-ukrainian-war>
+* optimistic, sober, wise
+
+#### Meta Meets Microsoft – Stratechery by Ben Thompson
+* <https://stratechery.com/2022/meta-meets-microsoft/>
+* A continuation of the argument that VR is coming through enterprise. Same as PC did (through Excel and ERPs), by the way. 
+> What is clear is that Zuckerberg in particular seems more committed to VR than ever. It may be the case that he is seen as the founding father of the Metaverse, even as Meta is a potential casualty.
