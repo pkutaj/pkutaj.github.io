@@ -802,3 +802,61 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://stratechery.com/2022/meta-meets-microsoft/>
 * A continuation of the argument that VR is coming through enterprise. Same as PC did (through Excel and ERPs), by the way. 
 > What is clear is that Zuckerberg in particular seems more committed to VR than ever. It may be the case that he is seen as the founding father of the Metaverse, even as Meta is a potential casualty.
+
+#### 
+* <>
+
+#### Plod has a bunch of questions - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2022/10/plod-has-a-bunch-of-questions.html>
+* On The Decrease of Male Ambition
+>  I would blame (in no particular order): deindustrialization, women who don’t need male financial support anymore, marijuana, on-line pornography, improved measurement of worker quality, the ongoing rise of the service sector, too much homework in schools, better entertainment options, and the general increasing competitiveness of the world, causing many to retreat in pre-emptive defeat
+
+#### Low Earth Orbit Visualization 
+* <https://news.ycombinator.com/item?id=33205563>
+* Fascinating
+> n/a
+
+#### Learn enough C to survive - by The Jesus - Code of Honor
+* <https://codeofhonor.substack.com/p/learn-enough-c-to-survive>
+* On C as being the classics language of Computer Science today
+> Heck, in 1900, Latin and Greek were required subjects in college, not because they served any purpose, but because they were sort of considered an obvious requirement for educated people. […] Are pointers and recursion the Latin and Greek of Computer Science?
+
+#### Trying new programming languages helped me grow as a software engineer 
+* <https://news.ycombinator.com/item?id=33222357>
+* A great debate on the virtues of polyglotic efforts
+> Learning different programming languages definitely helped expose me to new ideas, but I think it's a relatively shallow way to grow
+
+#### linux - documenting shell scripts' parameters - Stack Overflow
+* <https://stackoverflow.com/questions/687780/documenting-shell-scripts-parameters>
+* Debate on proper docs in bash scripts
+> n/a
+
+#### Russian Offensive Campaign Assessment, October 16 
+* <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-october-16>
+* Also for life in general?
+> ...one does not attempt to defend a position by standing on it—reliable defenses must be established well forward of the points or lines that must be held
+
+#### typeset -p 
+* <https://stackoverflow.com/questions/69257739/bash-get-a-list-of-environment-variables-with-proper-handling-of-new-lines>
+* Learning my ways around bash environmental variables
+> n/a
+
+#### E.W. Dijkstra Archive: On the role of scientific thought (EWD447)
+* <https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD447.html>
+*  In another mood we may ask ourselves whether, and if so: why, the program is desirable. But nothing is gained —on the contrary!— by tackling these various aspects simultaneously. It is what I sometimes have called "the separation of concerns", which, even if not perfectly possible, is yet the only available technique for effective ordering of one's thoughts, that I know of. This is what I mean by "focussing one's attention upon some aspect": it does not mean ignoring the other aspects, it is just doing justice to the fact that from this aspect's point of view, the other is irrelevant. It is being one- and multiple-track minded simultaneously.
+> n/a
+
+#### Walter Russell Mead on the Past and Future of American Foreign Policy (full) 
+* <https://www.youtube.com/watch?v=DDqMSMnVwas&ab_channel=MercatusCenter>
+* Wonderful illustration of the virtues of pragmatic thinking (hello Pragmatic Programmer)
+> I think that some of the problem, though, is not so much in the intellectual weaknesses of a lot of conventional postgrad education, but simply almost the crime against humanity of having whole generations of smart people spend the first 30, 35 years of their lives in a total bubble, where they’re in this academic setting, and the rule . . . They become socialized into the academy, just as much as prisoners get socialized into the routines of a prison.
+
+#### Professio sano in vitam sanam (on balancing work and life) - Study Hacks - Cal Newport
+* <https://www.calnewport.com/blog/2022/10/21/professio-sano-in-vitam-sanam-on-balancing-work-and-life/>
+* Yes another argument on less is more in a long term when it comes to productivity and another rebuttal of 'loving 80 hour work weeks' as popularized by young Steve Jobs in Apple. 
+> (The same says Mark Andreesen on his partner Horowitz in Tyler Cowen's podcast) “When I was at work, I worked.  And when I was with my family, I concentrated on them. The change in focus cleared and refreshed my mind so that when I went to work, I was efficient…Five to eight hours per day of clear thinking and concentrated work five days per week produces more impressive results than the coffee, chit-chat, and various displacement activities that often fill the time of many of those who think they are working seventy or eighty hours a week.”
+
+#### APT (software) - Wikipedia
+* <https://en.wikipedia.org/wiki/APT_(software)>
+* One of the Best features of Debian Linux Distro is its package manager called apt (old name deity was abandoned for PC reasons)
+> APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages, either from precompiled files or by compiling source code.
