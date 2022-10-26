@@ -860,3 +860,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://en.wikipedia.org/wiki/APT_(software)>
 * One of the Best features of Debian Linux Distro is its package manager called apt (old name deity was abandoned for PC reasons)
 > APT simplifies the process of managing software on Unix-like computer systems by automating the retrieval, configuration and installation of software packages, either from precompiled files or by compiling source code.
+
+#### Teach Yourself Programming in Ten Years
+* <https://norvig.com/21-days.html>
+* Read with Cal Newport's notes on Slow Productivity and with Hugh Howey's 'So You Want to be a Writer'
+>  As Prof. K. Anders Ericsson puts it, "In most domains it's remarkable how much time even the most talented individuals need in order to reach the highest levels of performance. The 10,000 hour number just gives you a sense that we're talking years of 10 to 20 hours a week which those who some people would argue are the most innately talented individuals still need to get to the highest level."
+
+#### Dremel: Interactive Analysis of Web-Scale Datasets – Google Research
+* <https://research.google/pubs/pub36632/>
+* I have read only abstract as I need to situate the use of Apache Parquet file format in my work to something external and rooted in historical context.
+> Proc. of the 36th Int'l Conf on Very Large Data Bases (2010), pp. 330-339, The system scales to thousands of CPUs and petabytes of data, and has thousands of users at Google. In this paper, we describe the architecture and implementation of Dremel, and explain how it complements MapReduce-based computing.
