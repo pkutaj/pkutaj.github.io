@@ -870,3 +870,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://research.google/pubs/pub36632/>
 * I have read only abstract as I need to situate the use of Apache Parquet file format in my work to something external and rooted in historical context.
 > Proc. of the 36th Int'l Conf on Very Large Data Bases (2010), pp. 330-339, The system scales to thousands of CPUs and petabytes of data, and has thousands of users at Google. In this paper, we describe the architecture and implementation of Dremel, and explain how it complements MapReduce-based computing.
+
+#### How SRE Relates to DevOps 
+* <https://sre.google/workbook/how-sre-relates/#id-lb4cnu8tz>
+* Reading through Google's Great Book as a helper to a conversation I had with someone doing devops and my environment embracing the SRE role. Some nuances and the SRE stress on "the weeds" are really interesting
+> A note on “the wisdom of production”: by this phrase, we mean the wisdom you get from something running in production—the messy details of how it actually behaves, and how software should actually be designed, rather than a whiteboarded view of a service isolated from the facts on the ground. All of the pages you get, the tickets the team gets, and so on, are a direct connection with reality that should inform better system design and behavior.
