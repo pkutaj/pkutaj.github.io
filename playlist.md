@@ -875,3 +875,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://sre.google/workbook/how-sre-relates/#id-lb4cnu8tz>
 * Reading through Google's Great Book as a helper to a conversation I had with someone doing devops and my environment embracing the SRE role. Some nuances and the SRE stress on "the weeds" are really interesting
 > A note on “the wisdom of production”: by this phrase, we mean the wisdom you get from something running in production—the messy details of how it actually behaves, and how software should actually be designed, rather than a whiteboarded view of a service isolated from the facts on the ground. All of the pages you get, the tickets the team gets, and so on, are a direct connection with reality that should inform better system design and behavior.
+
+#### ngrok - Online in One Line
+* <https://ngrok.com/>
+* Essential networking edge computing reverse proxy for globally distributed services
+> ngrok is a globally distributed reverse proxy fronting your web services
+
+#### ngrok - Online in One Line
+* <https://ngrok.com/>
+* Essential networking edge computing reverse proxy for globally distributed services
+> ngrok is a globally distributed reverse proxy fronting your web services running in any cloud or private network, or your machine.
