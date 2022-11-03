@@ -128,7 +128,7 @@ List of texts / podcast that caught my attention this year (2022).
     - [How to Delete Lines in Vim / Vi](#how-to-delete-lines-in-vim--vi)
     - [An Introduction to Base64 Encoding](#an-introduction-to-base64-encoding)
     - [so you want to be a writer? by Charles Bukowski - Poems](#so-you-want-to-be-a-writer-by-charles-bukowski---poems)
-- [102022](#102022)
+- [OCT 2022](#oct-2022)
     - [Russian Offensive Campaign Assessment, October 2](#russian-offensive-campaign-assessment-october-2)
     - [What is a good way to order methods in a Python class? - Stack Overflow](#what-is-a-good-way-to-order-methods-in-a-python-class---stack-overflow)
     - [Explanatory variables - Method Call](#explanatory-variables---method-call)
@@ -146,6 +146,25 @@ List of texts / podcast that caught my attention this year (2022).
     - [dynamic typing - Can an interpreted statically typed language be considered type safe? - Software Engineering Stack Exchange](#dynamic-typing---can-an-interpreted-statically-typed-language-be-considered-type-safe---software-engineering-stack-exchange)
     - [How does the Russo-Ukrainian War end? - by Timothy Snyder](#how-does-the-russo-ukrainian-war-end---by-timothy-snyder)
     - [Meta Meets Microsoft – Stratechery by Ben Thompson](#meta-meets-microsoft--stratechery-by-ben-thompson)
+    - [Plod has a bunch of questions - Marginal REVOLUTION](#plod-has-a-bunch-of-questions---marginal-revolution)
+    - [Low Earth Orbit Visualization](#low-earth-orbit-visualization)
+    - [Learn enough C to survive - by The Jesus - Code of Honor](#learn-enough-c-to-survive---by-the-jesus---code-of-honor)
+    - [Trying new programming languages helped me grow as a software engineer](#trying-new-programming-languages-helped-me-grow-as-a-software-engineer)
+    - [linux - documenting shell scripts' parameters - Stack Overflow](#linux---documenting-shell-scripts-parameters---stack-overflow)
+    - [Russian Offensive Campaign Assessment, October 16](#russian-offensive-campaign-assessment-october-16)
+    - [typeset -p](#typeset--p)
+    - [E.W. Dijkstra Archive: On the role of scientific thought (EWD447)](#ew-dijkstra-archive-on-the-role-of-scientific-thought-ewd447)
+    - [Walter Russell Mead on the Past and Future of American Foreign Policy (full)](#walter-russell-mead-on-the-past-and-future-of-american-foreign-policy-full)
+    - [Professio sano in vitam sanam (on balancing work and life) - Study Hacks - Cal Newport](#professio-sano-in-vitam-sanam-on-balancing-work-and-life---study-hacks---cal-newport)
+    - [APT (software) - Wikipedia](#apt-software---wikipedia)
+    - [Teach Yourself Programming in Ten Years](#teach-yourself-programming-in-ten-years)
+    - [Dremel: Interactive Analysis of Web-Scale Datasets – Google Research](#dremel-interactive-analysis-of-web-scale-datasets--google-research)
+    - [How SRE Relates to DevOps](#how-sre-relates-to-devops)
+    - [ngrok - Online in One Line](#ngrok---online-in-one-line)
+    - [ngrok - Online in One Line](#ngrok---online-in-one-line-1)
+    - [New Feature: Objects have changed outside of Terraform – HashiCorp Help Center](#new-feature-objects-have-changed-outside-of-terraform--hashicorp-help-center)
+    - [Variability, not repetition, is the key to mastery](#variability-not-repetition-is-the-key-to-mastery)
+    - [My Top 10 Tips for Doing Time In ‘the Hole’](#my-top-10-tips-for-doing-time-in-the-hole)
 
 <!-- /TOC -->
 
@@ -719,7 +738,7 @@ List of texts / podcast that caught my attention this year (2022).
 * Found this gem upon returning to the wonderful <https://hughhowey.com/so-you-want-to-be-a-writer/> 
 > when it is truly time, and if you have been chosen, it will do it by itself and it will keep on doing it until you die or it dies in you. there is no other way. and there never was.
 
-### 102022
+### OCT 2022
 
 #### Russian Offensive Campaign Assessment, October 2 
 * <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-october-2>
@@ -729,7 +748,6 @@ List of texts / podcast that caught my attention this year (2022).
 #### What is a good way to order methods in a Python class? - Stack Overflow
 * <https://stackoverflow.com/questions/10289461/what-is-a-good-way-to-order-methods-in-a-python-class>
 * The order of methods in a class is different than the order of functions in a CLI script
-> 
 
 #### Explanatory variables - Method Call
 * <https://methodcall.com/explanatory-variables/>
@@ -742,7 +760,8 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### CS631 – Advanced Programming in the Unix Environment 
 * <https://news.ycombinator.com/item?id=33140795>
-* History of Unix in the First Lecture is great. Notes on Editors are great. Not understing much of the meat, but definitelly worth a worthy bookmark. 
+* History of Unix in the First Lecture is great. 
+* Notes on Editors are great. Not understing much of the meat, but definitelly worth a worthy bookmark. 
 > For coding in your normal day to day? Sure use intellij. For trying to debug some deep level production only issue where every second of downtime means big money lost? You'll want to know vim/emacs..
 
 #### Trey Howard, arguing nuclear risk is low - Marginal REVOLUTION
@@ -796,15 +815,13 @@ List of texts / podcast that caught my attention this year (2022).
 
 #### How does the Russo-Ukrainian War end? - by Timothy Snyder
 * <https://snyder.substack.com/p/how-does-the-russo-ukrainian-war>
-* optimistic, sober, wise
+* optimistic  & sober & wise
+> At first, no one could imagine that the Russo-Ukrainian war could begin. And yet it began.  And now, no one can imagine how it will end.  And yet end it will. 
 
 #### Meta Meets Microsoft – Stratechery by Ben Thompson
 * <https://stratechery.com/2022/meta-meets-microsoft/>
 * A continuation of the argument that VR is coming through enterprise. Same as PC did (through Excel and ERPs), by the way. 
 > What is clear is that Zuckerberg in particular seems more committed to VR than ever. It may be the case that he is seen as the founding father of the Metaverse, even as Meta is a potential casualty.
-
-#### 
-* <>
 
 #### Plod has a bunch of questions - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2022/10/plod-has-a-bunch-of-questions.html>
@@ -885,3 +902,23 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://ngrok.com/>
 * Essential networking edge computing reverse proxy for globally distributed services
 > ngrok is a globally distributed reverse proxy fronting your web services running in any cloud or private network, or your machine.
+
+#### New Feature: Objects have changed outside of Terraform – HashiCorp Help Center
+* <https://support.hashicorp.com/hc/en-us/articles/4405950960147-New-Feature-Objects-have-changed-outside-of-Terraform->
+* Learning about terraform internals
+> 
+
+#### Variability, not repetition, is the key to mastery 
+* <https://news.ycombinator.com/item?id=33354355>
+* You need different angle of the same thing. Repetition AND variability. Both matter. Comparative perspective. Drill. Yin and Yang relationship there?
+> A common tactic in practicing music is to play a passage slowed down, sped up, with varying rhythms, up/down an octave, etc, with the idea that if you have complete mastery you can also play it the way it's written.
+
+#### My Top 10 Tips for Doing Time In ‘the Hole’ 
+* <https://www.themarshallproject.org/2022/09/30/how-i-survived-a-year-in-the-hole-without-losing-my-mind>
+* This has an impression of being important for wellbeing of everyone (if you agree that life - by definition - is hard)
+> Always practice your faith. Day in and day out, I prayed, meditated and took Bible-related correspondence courses. I also practiced martial arts and breathing techniques, and I worked on improving my foresight. For me, faith is the most important survival tool. Faith is what got me through my worst-of-the-worst times in the hole.
+
+#### Slow prompt command (oh-my-zsh) · Issue #1 · hsab/WSL-config
+* <https://github.com/hsab/WSL-config/issues/1>
+* Working with Linux Docker box in Windows environment has quirks. There is no such thing as platform-independent (Mike Action)
+> 
