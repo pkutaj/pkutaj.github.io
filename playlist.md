@@ -922,3 +922,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://github.com/hsab/WSL-config/issues/1>
 * Working with Linux Docker box in Windows environment has quirks. There is no such thing as platform-independent (Mike Action)
 > 
+
+#### This war is forever–you hear, Sofi? — APOFENIE
+* <https://www.apofenie.com/letters-and-essays/2022/11/6/this-war-is-forever>
+* Even if Bruno Macaes suggests that Ukraine is new Syria and this heartbreaking essay even finds solitude with the reconciliation of no end in sight, there is still wisdom of Timothy Snyder that war begins as unimaginable and their end is unimaginable as well. This is politics and nature of politics too.
+> 
+
+#### helix-editor/helix: A post-modern modal text editor.
+* <https://github.com/helix-editor/helix>
+* I passed this one and then returned to it - it stuck in my memory, which is a phenomenon I trust. 
+> 
