@@ -932,3 +932,33 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://github.com/helix-editor/helix>
 * I passed this one and then returned to it - it stuck in my memory, which is a phenomenon I trust. 
 > 
+
+#### How to Sum Filtered Rows in Google Sheets (With Examples) - Statology
+* <https://www.statology.org/google-sheets-sum-filtered-rows/#:~:text=If%20we%20attempt%20to%20use,What%20is%20this%3F&text=Instead%2C%20we%20can%20use%20the,of%20only%20the%20visible%20rows.>
+* for overhead personal accounting
+> n/a
+
+#### Product Documentation vs. Knowledge Base - DZone Agile
+* <https://dzone.com/articles/product-documentation-vs-knowledge-base-1>
+* A description of situation also at Snowplow; but we do have structured KB and good so
+> The knowledge base doesn’t aim to be comprehensive, it contains little to no structure in and of itself, and the articles are short and to the point.
+
+#### Link to a specific page in a PDF file
+* <https://www.abeautifulsite.net/posts/link-to-a-specific-page-in-a-pdf-file/>
+* Looking for linking a particular page in pdf file
+> n/a
+
+#### Strings and Templates - Configuration Language 
+* <https://developer.hashicorp.com/terraform/language/expressions/strings>
+* Learning about the meaning of EOT and Heredoc in Terraform
+> n/a
+
+#### How T.S. Eliot’s Therapeutic Practice Produced The Waste Land ‹ Literary Hub
+* <https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/>
+* Rhythm, imagination, attention to detail and poetics, 4 ingredients of the therapeutic practice one can take as inspiring.
+> Eliot is using the poem as a kind of therapy, a way of relieving the anxieties that dogged him so severely. Readers have struggled to interpret the layers of allusion in the poem. Yet if you take its content, as Matthew K. Gold and Amanda Harris have done, as echoing the therapeutic process he was engaged in with Vittoz, then these echoes and visions are there also to anchor the wandering mind.
+
+#### Best free Linux Router and firewall software 2020 (4 recommendations)
+* <https://teklager.se/en/best-free-linux-router-firewall-software-2019/>
+* A realization what there must be an OS on a home wifi router :)
+> n/a
