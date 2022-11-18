@@ -962,3 +962,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://teklager.se/en/best-free-linux-router-firewall-software-2019/>
 * A realization what there must be an OS on a home wifi router :)
 > n/a
+
+#### Getting curl to output HTTP status code? - Super User
+* <https://superuser.com/questions/272265/getting-curl-to-output-http-status-code>
+* In a need to respond to a client with a clear-cut demonstration of HTTP status returned by an endpoint. Kudos curl, times and again.
+> n/a
+
+#### On what terms could the war in Ukraine stop? 
+* <https://www.economist.com/briefing/2022/11/10/on-what-terms-could-the-war-in-ukraine-stop>
+* I expected more from this Briefing, tldr's that Democracies are moody and let's hope Trump will not win the election. 
+> Keep up the pressure. Don’t be in a hurry to draw lines on a map. It would be bureaucratic suicide. Somebody will put it up on Twitter alongside the Molotov-Ribbentrop pact.
