@@ -972,3 +972,13 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.economist.com/briefing/2022/11/10/on-what-terms-could-the-war-in-ukraine-stop>
 * I expected more from this Briefing, tldr's that Democracies are moody and let's hope Trump will not win the election. 
 > Keep up the pressure. Don’t be in a hurry to draw lines on a map. It would be bureaucratic suicide. Somebody will put it up on Twitter alongside the Molotov-Ribbentrop pact.
+
+#### The Anti-Promethean Backlash - by Brink Lindsey
+* <https://brinklindsey.substack.com/p/the-anti-promethean-backlash>
+* Even though I am tempted to agree with The Great Stagnation critics, this kind of modernism feels particularly American. Writing from Central Europe, my historical consciousness is dominated by a human meat grinder from both Nazi/Stalinist projects, which were at their core modernist, too.
+> No, the revolution I’m talking about can be described as the anti-Promethean backlash — the broad-based cultural turn away from those forms of technological progress that extend and amplify human mastery over the physical world. The quest to build bigger, go farther and faster and higher, and harness ever greater sources of power was, if not abandoned, then greatly deprioritized in the United States and other rich democracies starting in the 1960s and 70s. We made it to the moon, and then stopped going. We pioneered commercial supersonic air travel, and then discontinued it. We developed nuclear power, and then stopped building new plants. There is really no precedent for this kind of abdication of powers in Western modernity; one historical parallel that comes to mind is the Ming dynasty’s abandonment of its expeditionary treasure fleet after the voyages of Zheng He.
+
+#### Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange
+* <https://applerankings.com/>
+* Beautiful one
+> n/a
