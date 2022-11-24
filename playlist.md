@@ -982,3 +982,37 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://applerankings.com/>
 * Beautiful one
 > n/a
+
+#### It’s Costing Peanuts for the US to Defeat Russia - CEPA
+* <https://cepa.org/article/its-costing-peanuts-for-the-us-to-defeat-russia/>
+* Quite Cynical, Extremelly Optimistic. 
+> 
+
+#### Russian Offensive Campaign Assessment, November 20 
+* <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-november-20>
+* ISW provides food for sociological thought with its analysis of Russia in 2022. On one hand, the classical Weberian definition of modern state (monopoly on violence) seems not to hold (due to autonomy of warlords on the ground). On the other hand (this report), the intellectual class (milbloggers) is extremelly powerful, and, surprisingly, not supressed by the state. Tynothy Snyder has argued that this is a recipe for the fall, as was already seen with Glasnost in the late 1980s. Also, this is really not a totalitarian Stalinist way of going about the political. It is almost as if Kremlin had a religious certainty that the powerblocks it keeps operating on its own will not turn against it.
+> is report discusses the rising influence of the milblogger (military correspondent or voenkor) community in Russia despite its increasingly critical commentary on the conduct of the war. The milblogger community reportedly consists of over 500 independent authors and has emerged as an authoritative voice on the Russian war.[1] The community maintains a heavily pro-war and Russian nationalist outlook and is intertwined with prominent Russian nationalist ideologists...Russian President Vladimir Putin has defended the milbloggers from MoD attacks and protected their independence even as he increases oppression and censorship throughout Russia.
+
+#### The Case Against Negotiations with Russia 
+* <https://www.understandingwar.org/backgrounder/case-against-negotiations-russia>
+* n/a
+
+#### The Case Against Negotiations with Russia 
+* <https://www.understandingwar.org/backgrounder/case-against-negotiations-russia>
+* More intruiging than Economist overview of possibilities of peace that offered Israel analogy, but not the case. This case is for not giving up at this point. It is easy to assert from the Americal soil, but it also makes a lots of sense presented in this fashion. 
+> Negotiations cannot end the Russian war against Ukraine; they can only pause it. The renewed Russian invasion in February 2022 after eight years of deadly “ceasefire” following the first Russian invasions of 2014 demonstrates that Russian President Vladimir Putin will not rest until he has conquered Kyiv. Ukraine’s resistance to the invasion this year shows that Ukrainians will not easily surrender. The conflict is unresolvable as long as Putinism rules the Kremlin. Negotiations won’t change that reality. They can only create the conditions from which Putin or a Putinist successor will contemplate renewing the attack on Ukraine’s independence. Before pressing Ukraine to ask Russia for talks we must examine the terms Ukraine might offer Russia, the dangers of offering those terms, and, more importantly, the likelihood that Putin would accept them.
+
+#### Demystifying the Parquet File Format 
+* <https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705>
+* From the best Medium Outlet I know
+> n/a
+
+#### Zen and the Art of Motorcycle Maintenance - Wikipedia
+* <https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance>
+* Perhaps a next book on the bookshelf
+> Many of these discussions are tied together by the story of the narrator's own past self, who is referred to in the third person as Phaedrus (after Plato's dialogue). Phaedrus, a teacher of creative and technical writing at Montana State College, became engrossed in the question of what defines good writing, and what in general defines good, or "Quality", which he understands similar to Tao. Phaedrus's philosophical investigations eventually drove him insane, and he was subjected to electroconvulsive therapy, which permanently changed his personality.
+
+#### What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport
+* <https://www.calnewport.com/blog/2022/11/21/what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much/>
+* Interesting mostly due to my colleague enterring a managerial role from an engineering post and being flooded by meetings.
+> n/a
