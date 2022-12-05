@@ -165,6 +165,34 @@ List of texts / podcast that caught my attention this year (2022).
     - [New Feature: Objects have changed outside of Terraform – HashiCorp Help Center](#new-feature-objects-have-changed-outside-of-terraform--hashicorp-help-center)
     - [Variability, not repetition, is the key to mastery](#variability-not-repetition-is-the-key-to-mastery)
     - [My Top 10 Tips for Doing Time In ‘the Hole’](#my-top-10-tips-for-doing-time-in-the-hole)
+    - [Slow prompt command (oh-my-zsh) · Issue #1 · hsab/WSL-config](#slow-prompt-command-oh-my-zsh-·-issue-1-·-hsabwsl-config)
+    - [This war is forever–you hear, Sofi? — APOFENIE](#this-war-is-foreveryou-hear-sofi--apofenie)
+    - [helix-editor/helix: A post-modern modal text editor.](#helix-editorhelix-a-post-modern-modal-text-editor)
+    - [How to Sum Filtered Rows in Google Sheets (With Examples) - Statology](#how-to-sum-filtered-rows-in-google-sheets-with-examples---statology)
+    - [Product Documentation vs. Knowledge Base - DZone Agile](#product-documentation-vs-knowledge-base---dzone-agile)
+    - [Link to a specific page in a PDF file](#link-to-a-specific-page-in-a-pdf-file)
+    - [Strings and Templates - Configuration Language](#strings-and-templates---configuration-language)
+    - [How T.S. Eliot’s Therapeutic Practice Produced The Waste Land ‹ Literary Hub](#how-ts-eliots-therapeutic-practice-produced-the-waste-land-‹-literary-hub)
+    - [Best free Linux Router and firewall software 2020 (4 recommendations)](#best-free-linux-router-and-firewall-software-2020-4-recommendations)
+    - [Getting curl to output HTTP status code? - Super User](#getting-curl-to-output-http-status-code---super-user)
+    - [On what terms could the war in Ukraine stop?](#on-what-terms-could-the-war-in-ukraine-stop)
+    - [The Anti-Promethean Backlash - by Brink Lindsey](#the-anti-promethean-backlash---by-brink-lindsey)
+    - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](#home---apple-rankings-by-the-appleist-brian-frange---comedian-brian-frange)
+    - [It’s Costing Peanuts for the US to Defeat Russia - CEPA](#its-costing-peanuts-for-the-us-to-defeat-russia---cepa)
+    - [Russian Offensive Campaign Assessment, November 20](#russian-offensive-campaign-assessment-november-20)
+    - [The Case Against Negotiations with Russia](#the-case-against-negotiations-with-russia)
+    - [The Case Against Negotiations with Russia](#the-case-against-negotiations-with-russia-1)
+    - [Demystifying the Parquet File Format](#demystifying-the-parquet-file-format)
+    - [Zen and the Art of Motorcycle Maintenance - Wikipedia](#zen-and-the-art-of-motorcycle-maintenance---wikipedia)
+    - [What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport](#what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much---study-hacks---cal-newport)
+    - [Lecture Videos](#lecture-videos)
+    - [Shared post - Nerd Roundup: I took umbrage at something Uncle ...](#shared-post---nerd-roundup-i-took-umbrage-at-something-uncle-)
+    - [The costs and consequences of Europe’s energy crisis are growing](#the-costs-and-consequences-of-europes-energy-crisis-are-growing)
+    - [git - Github - Old commits shows up in new pull request - Stack Overflow](#git---github---old-commits-shows-up-in-new-pull-request---stack-overflow)
+    - [no hello](#no-hello)
+    - [Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss](#stephen-wolfram--personal-productivity-systems-richard-feynman-stories-computational-thinking-as-a-superpower-perceiving-a-branching-universe-and-the-ruliad-the-biggest-object-in-metascience-637---the-blog-of-author-tim-ferriss)
+    - [Designing Windows 95’s User Interface – Socket 3](#designing-windows-95s-user-interface--socket-3)
+    - [Shared post - Nerd Roundup: I took umbrage at something Uncle ...](#shared-post---nerd-roundup-i-took-umbrage-at-something-uncle--1)
 
 <!-- /TOC -->
 
@@ -1015,4 +1043,75 @@ List of texts / podcast that caught my attention this year (2022).
 #### What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport
 * <https://www.calnewport.com/blog/2022/11/21/what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much/>
 * Interesting mostly due to my colleague enterring a managerial role from an engineering post and being flooded by meetings.
+> n/a
+
+#### Lecture Videos 
+* <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/>
+* On Datastructures, contextualizing leetcode assignments
+> n/a
+
+#### Shared post - Nerd Roundup: I took umbrage at something Uncle ...
+* <https://danielbmarkham.locals.com/post/137665/nerd-roundup-i-took-umbrage-at-something-uncle-bob-said-and-its-about-time-i-gave-him-some-umbrag>
+* A short chat on the definition of OOP, funny.
+> n/a
+
+#### The costs and consequences of Europe’s energy crisis are growing 
+* <https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing>
+* On the streets of Czech Republic, the current Christmas Mood seems to confirm that "nothing's happening". This is a great reminder that Winter's coming, in 2023!
+> ...the feared economic meltdown has not materialised. German industrial production ticked up in September and unemployment remained stable at 3%. An early estimate of gdp growth for the eu as a whole in the third quarter compared with the previous one came in at 0.2%–not much, but not a recession either. Employment continued to grow. Retail sales were up, too, hinting at undaunted consumers. Has Europe’s crisis ended before it even started? The answer, sadly, is no. Europe’s politicians are spending lavishly both to obtain alternative supplies of energy and to shield consumers from high prices. But the energy crisis is far from over and rifts within Europe over how to deal with it are widening. Inflation is accelerating. The massive expense of energy subsidies is creating big fiscal problems. And the frantic scramble to keep the lights on has distracted governments from other pressing business. Europe’s crisis has only just begun.
+
+#### git - Github - Old commits shows up in new pull request - Stack Overflow
+* <https://stackoverflow.com/questions/71074242/github-old-commits-shows-up-in-new-pull-request>
+* n/a
+> n/a
+
+#### no hello
+* <https://nohello.net/en/>
+* Stuck in my memory for ever. Thanks!
+> n/a
+
+#### Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
+* <https://tim.blog/2022/11/24/stephen-wolfram/>
+* For later enjoyment, the theory of computer science
+> n/a
+
+
+#### Designing Windows 95’s User Interface – Socket 3
+* <https://socket3.wordpress.com/2018/02/03/designing-windows-95s-user-interface/>
+* Sources for UIUX work on Win95
+> In the “waterfall” approach, the design of the system is compartmentalized (usually limited to a specification writing phase) and usability testing typically occurs near the end of the process, during quality assurance activities. We recognized that we needed much more opportunity to create a design, try it out with users (perhaps comparing it to other designs), make changes, and gather more user feedback. Our desire to abandon the waterfall model and opt for iterative design fortunately followed similar efforts in other areas of the company, so we had concrete examples of its benefits and feasibility.
+
+#### Shared post - Nerd Roundup: I took umbrage at something Uncle ...
+* <https://danielbmarkham.locals.com/post/137665/nerd-roundup-i-took-umbrage-at-something-uncle-bob-said-and-its-about-time-i-gave-him-some-umbrag>
+* Another podcast stressing the Engineers know nothing about metaphysics and seem to believe that object oriented programming came up with some general insight about the world while it just reiterated fragments of Aristotle. 
+> n/a
+
+#### On Feminism - by Arnold Kling - In My Tribe
+* <https://arnoldkling.substack.com/p/on-feminism?publication_id=338673&isFreemail=true>
+* Arnold is interesting in his general ideas, but his concrete example seem wrong to me: Software Engineering is has a proud and important female tradition and became masculinized only with the formalization/academization/scientification/monetivization of the field. Also, female professionals in medicine and law are surely educating themselves outside of the office hours (pure assumption on my end but can't imagine it would hold on traditional highly respected / non-purely-masculine sectors)
+> I think that among high-level executives, men are more likely to view an organization in terms of its systems, and women are more likely to view it in terms of its people. Men think that they can solve problems by changing the organization chart, updating the policies and procedures, rolling out a training program, changing the compensation system, or adopting new technology. Women think that they can solve problems by removing the impediments to better teamwork, and they can spot the individuals who are the main source of the trouble. Again, these male-female differences are average differences, not universal differences.
+
+#### How I write < Nassim Nicholas Taleb < Medium
+* <https://medium.com/incerto/how-i-write-8b495eae033>
+* Fascinating, as usual.
+> If you want to be read in the future, make sure you would have been read in the past. We have no idea of what’s in the future, but we have some knowledge of what was in the past. So I make sure I would have been read both in the past and in the present time, that is by both the comtemporaries and the dead. So I speculated that books that would have been relevant twenty years in the past (conditional of course of being relevant today) would be interesting twenty years in the future.
+
+#### Quickly Get a Router IP Address from the Command Line
+* <https://osxdaily.com/2012/03/23/get-router-ip-address-command-line/>
+* Learning netstat command to quickly get home router IP
+> netstat -rn |grep default
+
+#### Why I am learning category theory 
+* <https://the.scapegoat.dev/why-i-am-learning-category-theory-1/>
+* Great take on why theoretical and historical and interdisciplinary underpinnings matter 
+> Since I write mostly C++, PHP or Javascript, I use functions and simple data structures and don't go heavy on generics and type system magic. However, because of its theoretical underpinnings, my code can (usually) be cleanly composed into larger structures.
+
+#### The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells
+* <https://thehistoryofcomputing.net/the-evolution-of-unix-mac-and-chrome-os-shells>
+* (Bourne Shell AND C shell) => (Korn Shell) => Bash
+> Brian Fox then added on to the Bourne shell with bash. He was working with the Free Software Foundation with Richard Stallman, and they wanted a shell that could do more advanced scripting but whose source code was open source. They started the project in 1988 and shipped bash in 1989. Bash then went on to become the most widely used and distributed shell in the arsenal of the Unix programmer. Bash stands for Bourne Again Shell and so was backwards compatible with bourne shell but also added features from tcsh, korn, and C shell, staying mostly backwards compatible with other shells. Due to the licensing, bash became the de facto standard (and often default shell) for GNU/Linux distributions and serves as the standard interactive shell for users, located at /bin/bash location. Now we had command history, tabbed auto-completion, command-line editing, multiple paths, multiple options for interpreters, a directory stack, full environment variables, and the modern command line environment.
+
+#### Docker ARG vs ENV · vsupalov.com
+* <https://vsupalov.com/docker-arg-vs-env/>
+* Elegant web, I must admit
 > n/a
