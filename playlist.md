@@ -161,12 +161,12 @@ List of texts / podcast that caught my attention this year (2022).
     - [Dremel: Interactive Analysis of Web-Scale Datasets – Google Research](#dremel-interactive-analysis-of-web-scale-datasets--google-research)
     - [How SRE Relates to DevOps](#how-sre-relates-to-devops)
     - [ngrok - Online in One Line](#ngrok---online-in-one-line)
-    - [ngrok - Online in One Line](#ngrok---online-in-one-line-1)
     - [New Feature: Objects have changed outside of Terraform – HashiCorp Help Center](#new-feature-objects-have-changed-outside-of-terraform--hashicorp-help-center)
     - [Variability, not repetition, is the key to mastery](#variability-not-repetition-is-the-key-to-mastery)
     - [My Top 10 Tips for Doing Time In ‘the Hole’](#my-top-10-tips-for-doing-time-in-the-hole)
     - [Slow prompt command (oh-my-zsh) · Issue #1 · hsab/WSL-config](#slow-prompt-command-oh-my-zsh-·-issue-1-·-hsabwsl-config)
     - [This war is forever–you hear, Sofi? — APOFENIE](#this-war-is-foreveryou-hear-sofi--apofenie)
+- [NOV 2022](#nov-2022)
     - [helix-editor/helix: A post-modern modal text editor.](#helix-editorhelix-a-post-modern-modal-text-editor)
     - [How to Sum Filtered Rows in Google Sheets (With Examples) - Statology](#how-to-sum-filtered-rows-in-google-sheets-with-examples---statology)
     - [Product Documentation vs. Knowledge Base - DZone Agile](#product-documentation-vs-knowledge-base---dzone-agile)
@@ -181,7 +181,6 @@ List of texts / podcast that caught my attention this year (2022).
     - [It’s Costing Peanuts for the US to Defeat Russia - CEPA](#its-costing-peanuts-for-the-us-to-defeat-russia---cepa)
     - [Russian Offensive Campaign Assessment, November 20](#russian-offensive-campaign-assessment-november-20)
     - [The Case Against Negotiations with Russia](#the-case-against-negotiations-with-russia)
-    - [The Case Against Negotiations with Russia](#the-case-against-negotiations-with-russia-1)
     - [Demystifying the Parquet File Format](#demystifying-the-parquet-file-format)
     - [Zen and the Art of Motorcycle Maintenance - Wikipedia](#zen-and-the-art-of-motorcycle-maintenance---wikipedia)
     - [What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport](#what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much---study-hacks---cal-newport)
@@ -193,6 +192,13 @@ List of texts / podcast that caught my attention this year (2022).
     - [Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss](#stephen-wolfram--personal-productivity-systems-richard-feynman-stories-computational-thinking-as-a-superpower-perceiving-a-branching-universe-and-the-ruliad-the-biggest-object-in-metascience-637---the-blog-of-author-tim-ferriss)
     - [Designing Windows 95’s User Interface – Socket 3](#designing-windows-95s-user-interface--socket-3)
     - [Shared post - Nerd Roundup: I took umbrage at something Uncle ...](#shared-post---nerd-roundup-i-took-umbrage-at-something-uncle--1)
+    - [On Feminism - by Arnold Kling - In My Tribe](#on-feminism---by-arnold-kling---in-my-tribe)
+    - [How I write < Nassim Nicholas Taleb < Medium](#how-i-write--nassim-nicholas-taleb--medium)
+    - [Quickly Get a Router IP Address from the Command Line](#quickly-get-a-router-ip-address-from-the-command-line)
+    - [Why I am learning category theory](#why-i-am-learning-category-theory)
+    - [The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells](#the-history-of-computing-the-evolution-of-unix-mac-and-chrome-os-shells-1)
+- [DEC 2022](#dec-2022)
+    - [Docker ARG vs ENV · vsupalov.com](#docker-arg-vs-env-·-vsupalovcom)
 
 <!-- /TOC -->
 
@@ -926,10 +932,6 @@ List of texts / podcast that caught my attention this year (2022).
 * Essential networking edge computing reverse proxy for globally distributed services
 > ngrok is a globally distributed reverse proxy fronting your web services
 
-#### ngrok - Online in One Line
-* <https://ngrok.com/>
-* Essential networking edge computing reverse proxy for globally distributed services
-> ngrok is a globally distributed reverse proxy fronting your web services running in any cloud or private network, or your machine.
 
 #### New Feature: Objects have changed outside of Terraform – HashiCorp Help Center
 * <https://support.hashicorp.com/hc/en-us/articles/4405950960147-New-Feature-Objects-have-changed-outside-of-Terraform->
@@ -955,6 +957,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.apofenie.com/letters-and-essays/2022/11/6/this-war-is-forever>
 * Even if Bruno Macaes suggests that Ukraine is new Syria and this heartbreaking essay even finds solitude with the reconciliation of no end in sight, there is still wisdom of Timothy Snyder that war begins as unimaginable and their end is unimaginable as well. This is politics and nature of politics too.
 > 
+
+### NOV 2022
 
 #### helix-editor/helix: A post-modern modal text editor.
 * <https://github.com/helix-editor/helix>
@@ -1021,9 +1025,6 @@ List of texts / podcast that caught my attention this year (2022).
 * ISW provides food for sociological thought with its analysis of Russia in 2022. On one hand, the classical Weberian definition of modern state (monopoly on violence) seems not to hold (due to autonomy of warlords on the ground). On the other hand (this report), the intellectual class (milbloggers) is extremelly powerful, and, surprisingly, not supressed by the state. Tynothy Snyder has argued that this is a recipe for the fall, as was already seen with Glasnost in the late 1980s. Also, this is really not a totalitarian Stalinist way of going about the political. It is almost as if Kremlin had a religious certainty that the powerblocks it keeps operating on its own will not turn against it.
 > is report discusses the rising influence of the milblogger (military correspondent or voenkor) community in Russia despite its increasingly critical commentary on the conduct of the war. The milblogger community reportedly consists of over 500 independent authors and has emerged as an authoritative voice on the Russian war.[1] The community maintains a heavily pro-war and Russian nationalist outlook and is intertwined with prominent Russian nationalist ideologists...Russian President Vladimir Putin has defended the milbloggers from MoD attacks and protected their independence even as he increases oppression and censorship throughout Russia.
 
-#### The Case Against Negotiations with Russia 
-* <https://www.understandingwar.org/backgrounder/case-against-negotiations-russia>
-* n/a
 
 #### The Case Against Negotiations with Russia 
 * <https://www.understandingwar.org/backgrounder/case-against-negotiations-russia>
@@ -1110,6 +1111,8 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://thehistoryofcomputing.net/the-evolution-of-unix-mac-and-chrome-os-shells>
 * (Bourne Shell AND C shell) => (Korn Shell) => Bash
 > Brian Fox then added on to the Bourne shell with bash. He was working with the Free Software Foundation with Richard Stallman, and they wanted a shell that could do more advanced scripting but whose source code was open source. They started the project in 1988 and shipped bash in 1989. Bash then went on to become the most widely used and distributed shell in the arsenal of the Unix programmer. Bash stands for Bourne Again Shell and so was backwards compatible with bourne shell but also added features from tcsh, korn, and C shell, staying mostly backwards compatible with other shells. Due to the licensing, bash became the de facto standard (and often default shell) for GNU/Linux distributions and serves as the standard interactive shell for users, located at /bin/bash location. Now we had command history, tabbed auto-completion, command-line editing, multiple paths, multiple options for interpreters, a directory stack, full environment variables, and the modern command line environment.
+
+### DEC 2022
 
 #### Docker ARG vs ENV · vsupalov.com
 * <https://vsupalov.com/docker-arg-vs-env/>
