@@ -167,36 +167,6 @@ List of texts / podcast that caught my attention this year (2022).
     - [Slow prompt command (oh-my-zsh) · Issue #1 · hsab/WSL-config](#slow-prompt-command-oh-my-zsh-·-issue-1-·-hsabwsl-config)
     - [This war is forever–you hear, Sofi? — APOFENIE](#this-war-is-foreveryou-hear-sofi--apofenie)
 - [NOV 2022](#nov-2022)
-    - [helix-editor/helix: A post-modern modal text editor.](#helix-editorhelix-a-post-modern-modal-text-editor)
-    - [How to Sum Filtered Rows in Google Sheets (With Examples) - Statology](#how-to-sum-filtered-rows-in-google-sheets-with-examples---statology)
-    - [Product Documentation vs. Knowledge Base - DZone Agile](#product-documentation-vs-knowledge-base---dzone-agile)
-    - [Link to a specific page in a PDF file](#link-to-a-specific-page-in-a-pdf-file)
-    - [Strings and Templates - Configuration Language](#strings-and-templates---configuration-language)
-    - [How T.S. Eliot’s Therapeutic Practice Produced The Waste Land ‹ Literary Hub](#how-ts-eliots-therapeutic-practice-produced-the-waste-land-‹-literary-hub)
-    - [Best free Linux Router and firewall software 2020 (4 recommendations)](#best-free-linux-router-and-firewall-software-2020-4-recommendations)
-    - [Getting curl to output HTTP status code? - Super User](#getting-curl-to-output-http-status-code---super-user)
-    - [On what terms could the war in Ukraine stop?](#on-what-terms-could-the-war-in-ukraine-stop)
-    - [The Anti-Promethean Backlash - by Brink Lindsey](#the-anti-promethean-backlash---by-brink-lindsey)
-    - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](#home---apple-rankings-by-the-appleist-brian-frange---comedian-brian-frange)
-    - [It’s Costing Peanuts for the US to Defeat Russia - CEPA](#its-costing-peanuts-for-the-us-to-defeat-russia---cepa)
-    - [Russian Offensive Campaign Assessment, November 20](#russian-offensive-campaign-assessment-november-20)
-    - [The Case Against Negotiations with Russia](#the-case-against-negotiations-with-russia)
-    - [Demystifying the Parquet File Format](#demystifying-the-parquet-file-format)
-    - [Zen and the Art of Motorcycle Maintenance - Wikipedia](#zen-and-the-art-of-motorcycle-maintenance---wikipedia)
-    - [What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport](#what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much---study-hacks---cal-newport)
-    - [Lecture Videos](#lecture-videos)
-    - [Shared post - Nerd Roundup: I took umbrage at something Uncle ...](#shared-post---nerd-roundup-i-took-umbrage-at-something-uncle-)
-    - [The costs and consequences of Europe’s energy crisis are growing](#the-costs-and-consequences-of-europes-energy-crisis-are-growing)
-    - [git - Github - Old commits shows up in new pull request - Stack Overflow](#git---github---old-commits-shows-up-in-new-pull-request---stack-overflow)
-    - [no hello](#no-hello)
-    - [Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss](#stephen-wolfram--personal-productivity-systems-richard-feynman-stories-computational-thinking-as-a-superpower-perceiving-a-branching-universe-and-the-ruliad-the-biggest-object-in-metascience-637---the-blog-of-author-tim-ferriss)
-    - [Designing Windows 95’s User Interface – Socket 3](#designing-windows-95s-user-interface--socket-3)
-    - [Shared post - Nerd Roundup: I took umbrage at something Uncle ...](#shared-post---nerd-roundup-i-took-umbrage-at-something-uncle--1)
-    - [On Feminism - by Arnold Kling - In My Tribe](#on-feminism---by-arnold-kling---in-my-tribe)
-    - [How I write < Nassim Nicholas Taleb < Medium](#how-i-write--nassim-nicholas-taleb--medium)
-    - [Quickly Get a Router IP Address from the Command Line](#quickly-get-a-router-ip-address-from-the-command-line)
-    - [Why I am learning category theory](#why-i-am-learning-category-theory)
-    - [The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells](#the-history-of-computing-the-evolution-of-unix-mac-and-chrome-os-shells-1)
 - [DEC 2022](#dec-2022)
     - [Docker ARG vs ENV · vsupalov.com](#docker-arg-vs-env-·-vsupalovcom)
 
@@ -960,161 +930,21 @@ List of texts / podcast that caught my attention this year (2022).
 
 ### NOV 2022
 
-#### helix-editor/helix: A post-modern modal text editor.
-* <https://github.com/helix-editor/helix>
-* I passed this one and then returned to it - it stuck in my memory, which is a phenomenon I trust. 
-> 
 
-#### How to Sum Filtered Rows in Google Sheets (With Examples) - Statology
-* <https://www.statology.org/google-sheets-sum-filtered-rows/#:~:text=If%20we%20attempt%20to%20use,What%20is%20this%3F&text=Instead%2C%20we%20can%20use%20the,of%20only%20the%20visible%20rows.>
-* for overhead personal accounting
-> n/a
-
-#### Product Documentation vs. Knowledge Base - DZone Agile
-* <https://dzone.com/articles/product-documentation-vs-knowledge-base-1>
-* A description of situation also at Snowplow; but we do have structured KB and good so
-> The knowledge base doesn’t aim to be comprehensive, it contains little to no structure in and of itself, and the articles are short and to the point.
-
-#### Link to a specific page in a PDF file
-* <https://www.abeautifulsite.net/posts/link-to-a-specific-page-in-a-pdf-file/>
-* Looking for linking a particular page in pdf file
-> n/a
-
-#### Strings and Templates - Configuration Language 
-* <https://developer.hashicorp.com/terraform/language/expressions/strings>
-* Learning about the meaning of EOT and Heredoc in Terraform
-> n/a
-
-#### How T.S. Eliot’s Therapeutic Practice Produced The Waste Land ‹ Literary Hub
-* <https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/>
-* Rhythm, imagination, attention to detail and poetics, 4 ingredients of the therapeutic practice one can take as inspiring.
-> Eliot is using the poem as a kind of therapy, a way of relieving the anxieties that dogged him so severely. Readers have struggled to interpret the layers of allusion in the poem. Yet if you take its content, as Matthew K. Gold and Amanda Harris have done, as echoing the therapeutic process he was engaged in with Vittoz, then these echoes and visions are there also to anchor the wandering mind.
-
-#### Best free Linux Router and firewall software 2020 (4 recommendations)
-* <https://teklager.se/en/best-free-linux-router-firewall-software-2019/>
-* A realization what there must be an OS on a home wifi router :)
-> n/a
-
-#### Getting curl to output HTTP status code? - Super User
-* <https://superuser.com/questions/272265/getting-curl-to-output-http-status-code>
-* In a need to respond to a client with a clear-cut demonstration of HTTP status returned by an endpoint. Kudos curl, times and again.
-> n/a
-
-#### On what terms could the war in Ukraine stop? 
-* <https://www.economist.com/briefing/2022/11/10/on-what-terms-could-the-war-in-ukraine-stop>
-* I expected more from this Briefing, tldr's that Democracies are moody and let's hope Trump will not win the election. 
-> Keep up the pressure. Don’t be in a hurry to draw lines on a map. It would be bureaucratic suicide. Somebody will put it up on Twitter alongside the Molotov-Ribbentrop pact.
-
-#### The Anti-Promethean Backlash - by Brink Lindsey
-* <https://brinklindsey.substack.com/p/the-anti-promethean-backlash>
-* Even though I am tempted to agree with The Great Stagnation critics, this kind of modernism feels particularly American. Writing from Central Europe, my historical consciousness is dominated by a human meat grinder from both Nazi/Stalinist projects, which were at their core modernist, too.
-> No, the revolution I’m talking about can be described as the anti-Promethean backlash — the broad-based cultural turn away from those forms of technological progress that extend and amplify human mastery over the physical world. The quest to build bigger, go farther and faster and higher, and harness ever greater sources of power was, if not abandoned, then greatly deprioritized in the United States and other rich democracies starting in the 1960s and 70s. We made it to the moon, and then stopped going. We pioneered commercial supersonic air travel, and then discontinued it. We developed nuclear power, and then stopped building new plants. There is really no precedent for this kind of abdication of powers in Western modernity; one historical parallel that comes to mind is the Ming dynasty’s abandonment of its expeditionary treasure fleet after the voyages of Zheng He.
-
-#### Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange
-* <https://applerankings.com/>
-* Beautiful one
-> n/a
-
-#### It’s Costing Peanuts for the US to Defeat Russia - CEPA
-* <https://cepa.org/article/its-costing-peanuts-for-the-us-to-defeat-russia/>
-* Quite Cynical, Extremelly Optimistic. 
-> 
-
-#### Russian Offensive Campaign Assessment, November 20 
-* <https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-november-20>
-* ISW provides food for sociological thought with its analysis of Russia in 2022. On one hand, the classical Weberian definition of modern state (monopoly on violence) seems not to hold (due to autonomy of warlords on the ground). On the other hand (this report), the intellectual class (milbloggers) is extremelly powerful, and, surprisingly, not supressed by the state. Tynothy Snyder has argued that this is a recipe for the fall, as was already seen with Glasnost in the late 1980s. Also, this is really not a totalitarian Stalinist way of going about the political. It is almost as if Kremlin had a religious certainty that the powerblocks it keeps operating on its own will not turn against it.
-> is report discusses the rising influence of the milblogger (military correspondent or voenkor) community in Russia despite its increasingly critical commentary on the conduct of the war. The milblogger community reportedly consists of over 500 independent authors and has emerged as an authoritative voice on the Russian war.[1] The community maintains a heavily pro-war and Russian nationalist outlook and is intertwined with prominent Russian nationalist ideologists...Russian President Vladimir Putin has defended the milbloggers from MoD attacks and protected their independence even as he increases oppression and censorship throughout Russia.
-
-
-#### The Case Against Negotiations with Russia 
-* <https://www.understandingwar.org/backgrounder/case-against-negotiations-russia>
-* More intruiging than Economist overview of possibilities of peace that offered Israel analogy, but not the case. This case is for not giving up at this point. It is easy to assert from the Americal soil, but it also makes a lots of sense presented in this fashion. 
-> Negotiations cannot end the Russian war against Ukraine; they can only pause it. The renewed Russian invasion in February 2022 after eight years of deadly “ceasefire” following the first Russian invasions of 2014 demonstrates that Russian President Vladimir Putin will not rest until he has conquered Kyiv. Ukraine’s resistance to the invasion this year shows that Ukrainians will not easily surrender. The conflict is unresolvable as long as Putinism rules the Kremlin. Negotiations won’t change that reality. They can only create the conditions from which Putin or a Putinist successor will contemplate renewing the attack on Ukraine’s independence. Before pressing Ukraine to ask Russia for talks we must examine the terms Ukraine might offer Russia, the dangers of offering those terms, and, more importantly, the likelihood that Putin would accept them.
-
-#### Demystifying the Parquet File Format 
-* <https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705>
-* From the best Medium Outlet I know
-> n/a
-
-#### Zen and the Art of Motorcycle Maintenance - Wikipedia
-* <https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance>
-* Perhaps a next book on the bookshelf
-> Many of these discussions are tied together by the story of the narrator's own past self, who is referred to in the third person as Phaedrus (after Plato's dialogue). Phaedrus, a teacher of creative and technical writing at Montana State College, became engrossed in the question of what defines good writing, and what in general defines good, or "Quality", which he understands similar to Tao. Phaedrus's philosophical investigations eventually drove him insane, and he was subjected to electroconvulsive therapy, which permanently changed his personality.
-
-#### What Happened When Zapier Cancelled Meetings for a Week? (Hint: Not Much) - Study Hacks - Cal Newport
-* <https://www.calnewport.com/blog/2022/11/21/what-happened-when-zapier-cancelled-meetings-for-a-week-hint-not-much/>
-* Interesting mostly due to my colleague enterring a managerial role from an engineering post and being flooded by meetings.
-> n/a
-
-#### Lecture Videos 
-* <https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/>
-* On Datastructures, contextualizing leetcode assignments
-> n/a
-
-#### Shared post - Nerd Roundup: I took umbrage at something Uncle ...
-* <https://danielbmarkham.locals.com/post/137665/nerd-roundup-i-took-umbrage-at-something-uncle-bob-said-and-its-about-time-i-gave-him-some-umbrag>
-* A short chat on the definition of OOP, funny.
-> n/a
-
-#### The costs and consequences of Europe’s energy crisis are growing 
-* <https://www.economist.com/briefing/2022/11/24/the-costs-and-consequences-of-europes-energy-crisis-are-growing>
-* On the streets of Czech Republic, the current Christmas Mood seems to confirm that "nothing's happening". This is a great reminder that Winter's coming, in 2023!
-> ...the feared economic meltdown has not materialised. German industrial production ticked up in September and unemployment remained stable at 3%. An early estimate of gdp growth for the eu as a whole in the third quarter compared with the previous one came in at 0.2%–not much, but not a recession either. Employment continued to grow. Retail sales were up, too, hinting at undaunted consumers. Has Europe’s crisis ended before it even started? The answer, sadly, is no. Europe’s politicians are spending lavishly both to obtain alternative supplies of energy and to shield consumers from high prices. But the energy crisis is far from over and rifts within Europe over how to deal with it are widening. Inflation is accelerating. The massive expense of energy subsidies is creating big fiscal problems. And the frantic scramble to keep the lights on has distracted governments from other pressing business. Europe’s crisis has only just begun.
-
-#### git - Github - Old commits shows up in new pull request - Stack Overflow
-* <https://stackoverflow.com/questions/71074242/github-old-commits-shows-up-in-new-pull-request>
-* n/a
-> n/a
-
-#### no hello
-* <https://nohello.net/en/>
-* Stuck in my memory for ever. Thanks!
-> n/a
-
-#### Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
-* <https://tim.blog/2022/11/24/stephen-wolfram/>
-* For later enjoyment, the theory of computer science
-> n/a
-
-
-#### Designing Windows 95’s User Interface – Socket 3
-* <https://socket3.wordpress.com/2018/02/03/designing-windows-95s-user-interface/>
-* Sources for UIUX work on Win95
-> In the “waterfall” approach, the design of the system is compartmentalized (usually limited to a specification writing phase) and usability testing typically occurs near the end of the process, during quality assurance activities. We recognized that we needed much more opportunity to create a design, try it out with users (perhaps comparing it to other designs), make changes, and gather more user feedback. Our desire to abandon the waterfall model and opt for iterative design fortunately followed similar efforts in other areas of the company, so we had concrete examples of its benefits and feasibility.
-
-#### Shared post - Nerd Roundup: I took umbrage at something Uncle ...
-* <https://danielbmarkham.locals.com/post/137665/nerd-roundup-i-took-umbrage-at-something-uncle-bob-said-and-its-about-time-i-gave-him-some-umbrag>
-* Another podcast stressing the Engineers know nothing about metaphysics and seem to believe that object oriented programming came up with some general insight about the world while it just reiterated fragments of Aristotle. 
-> n/a
-
-#### On Feminism - by Arnold Kling - In My Tribe
-* <https://arnoldkling.substack.com/p/on-feminism?publication_id=338673&isFreemail=true>
-* Arnold is interesting in his general ideas, but his concrete example seem wrong to me: Software Engineering is has a proud and important female tradition and became masculinized only with the formalization/academization/scientification/monetivization of the field. Also, female professionals in medicine and law are surely educating themselves outside of the office hours (pure assumption on my end but can't imagine it would hold on traditional highly respected / non-purely-masculine sectors)
-> I think that among high-level executives, men are more likely to view an organization in terms of its systems, and women are more likely to view it in terms of its people. Men think that they can solve problems by changing the organization chart, updating the policies and procedures, rolling out a training program, changing the compensation system, or adopting new technology. Women think that they can solve problems by removing the impediments to better teamwork, and they can spot the individuals who are the main source of the trouble. Again, these male-female differences are average differences, not universal differences.
-
-#### How I write < Nassim Nicholas Taleb < Medium
-* <https://medium.com/incerto/how-i-write-8b495eae033>
-* Fascinating, as usual.
-> If you want to be read in the future, make sure you would have been read in the past. We have no idea of what’s in the future, but we have some knowledge of what was in the past. So I make sure I would have been read both in the past and in the present time, that is by both the comtemporaries and the dead. So I speculated that books that would have been relevant twenty years in the past (conditional of course of being relevant today) would be interesting twenty years in the future.
-
-#### Quickly Get a Router IP Address from the Command Line
-* <https://osxdaily.com/2012/03/23/get-router-ip-address-command-line/>
-* Learning netstat command to quickly get home router IP
-> netstat -rn |grep default
-
-#### Why I am learning category theory 
-* <https://the.scapegoat.dev/why-i-am-learning-category-theory-1/>
-* Great take on why theoretical and historical and interdisciplinary underpinnings matter 
-> Since I write mostly C++, PHP or Javascript, I use functions and simple data structures and don't go heavy on generics and type system magic. However, because of its theoretical underpinnings, my code can (usually) be cleanly composed into larger structures.
-
-#### The History of Computing: The Evolution Of Unix, Mac, and Chrome OS Shells
-* <https://thehistoryofcomputing.net/the-evolution-of-unix-mac-and-chrome-os-shells>
-* (Bourne Shell AND C shell) => (Korn Shell) => Bash
-> Brian Fox then added on to the Bourne shell with bash. He was working with the Free Software Foundation with Richard Stallman, and they wanted a shell that could do more advanced scripting but whose source code was open source. They started the project in 1988 and shipped bash in 1989. Bash then went on to become the most widely used and distributed shell in the arsenal of the Unix programmer. Bash stands for Bourne Again Shell and so was backwards compatible with bourne shell but also added features from tcsh, korn, and C shell, staying mostly backwards compatible with other shells. Due to the licensing, bash became the de facto standard (and often default shell) for GNU/Linux distributions and serves as the standard interactive shell for users, located at /bin/bash location. Now we had command history, tabbed auto-completion, command-line editing, multiple paths, multiple options for interpreters, a directory stack, full environment variables, and the modern command line environment.
 
 ### DEC 2022
 
 #### Docker ARG vs ENV · vsupalov.com
 * <https://vsupalov.com/docker-arg-vs-env/>
 * Elegant web, I must admit
+> n/a
+
+#### ec
+* <https://stackoverflow.com/questions/2675028/list-attributes-of-an-object>
+* Tinkering with Python Objects
+> n/a
+
+#### python - What is the difference between is None and == None - Stack Overflow
+* <https://stackoverflow.com/questions/3257919/what-is-the-difference-between-is-none-and-none>
+* n/a
 > n/a
