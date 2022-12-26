@@ -948,3 +948,33 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://stackoverflow.com/questions/3257919/what-is-the-difference-between-is-none-and-none>
 * n/a
 > n/a
+
+#### networking - What does it mean to have a subnet mask /32? - Super User
+* <https://superuser.com/questions/1473252/what-does-it-mean-to-have-a-subnet-mask-32>
+* A bit of networking at work
+> 
+
+#### Writing good performance self reviews - by Andrew Huth
+* <https://andrewhuth.substack.com/p/writing-good-performance-self-reviews>
+* Applying this piece of wisdom to my own review.
+> Think of it as a cheat sheet for your manager - if your manager uses your self review to advocate for you, then a helpful way of thinking about it is as a cheat sheet... elate your accomplishments to company goals - try to relate some stuff back to company goals. Doesn’t need to be everything. But at least make it clear that some of your work is directly related to higher-level goals.
+
+#### Cut Command in Linux 
+* <https://linuxize.com/post/linux-cut-command/>
+* Learning to split strings in bash
+> 
+
+#### future proof 
+* <https://www.etymonline.com/search?q=future+proof>
+* A bit of etymology around the word futureproof
+> 
+
+#### Pub/Sub gains topic retention feature 
+* <https://cloud.google.com/blog/products/data-analytics/pubsub-gains-topic-retention-feature>
+* Solving an incident
+> n/a
+
+#### nonlocal 
+* <https://www.datacamp.com/tutorial/scope-of-variables-python>
+* Learning how to access vars in enclosed scope in python
+> This is another handy keyword that allows us to work more flexibly and tidily with variable scopes. The nonlocal keyword is useful in nested functions.
