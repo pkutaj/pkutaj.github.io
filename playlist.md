@@ -978,3 +978,41 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.datacamp.com/tutorial/scope-of-variables-python>
 * Learning how to access vars in enclosed scope in python
 > This is another handy keyword that allows us to work more flexibly and tidily with variable scopes. The nonlocal keyword is useful in nested functions.
+
+#### scowled 
+* <https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184>
+
+#### Putin, Isolated and Distrustful, Leans on Handful of Hard-Line Advisers - WSJ
+* <https://www.wsj.com/articles/putin-russia-ukraine-war-advisers-11671815184>
+* How bias works in authoritarian regimes and how bad decisions are made.
+> 
+
+#### What's the difference between Python's subprocess.call and subprocess.run - Stack Overflow
+* <https://stackoverflow.com/questions/40697583/whats-the-difference-between-pythons-subprocess-call-and-subprocess-run#:~:text=I%20can%20say%20that%20you,causing%20the%20program%20to%20crash.>
+* Trying to be consistent - run method wins.
+> n/a
+
+#### Philip Pullman: ‘I had to grow up before I could cope with Middlemarch’ 
+* <https://www.theguardian.com/books/2022/dec/23/philip-pullman-i-had-to-grow-up-before-i-could-cope-with-middlemarch>
+* My Favorite Writer of 2022
+> The book I reread? Not so much a single book as all the poetry I know by heart, and all the poetry I don’t know by heart and want to. Poetry is everything.
+
+#### Bash: grep with LookBehind and LookAhead to isolate desired text 
+* <https://fabianlee.org/2021/01/09/bash-grep-with-lookbehind-and-lookahead-to-isolate-desired-text/>
+* Extracting with regex and grep in bash
+> n/a
+
+#### What is the XY problem? - Meta Stack Exchange
+* <https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem>
+* Perl Monks giving a great name to a common thinking error
+> you are trying to solve problem X, and you think solution Y would work, but instead of asking about X when you run into trouble, you ask about Y
+
+#### bash - How to reload .bashrc settings without logging out and back in again? - Stack Overflow
+* <https://stackoverflow.com/questions/2518127/how-to-reload-bashrc-settings-without-logging-out-and-back-in-again?rq=1>
+* 
+> 
+
+#### Jak jednoduše a rychle odmrazit mrazák během pár minut 
+* <https://www.kupi.cz/magazin/clanek/2967-jak-jednoduse-a-rychle-odmrazit-mrazak-behem-par-minut>
+* homework
+> 
