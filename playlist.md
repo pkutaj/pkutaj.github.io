@@ -1016,3 +1016,33 @@ List of texts / podcast that caught my attention this year (2022).
 * <https://www.kupi.cz/magazin/clanek/2967-jak-jednoduse-a-rychle-odmrazit-mrazak-behem-par-minut>
 * homework
 > 
+
+#### GitHub Copilot preliminary experience report
+* <https://blog.ploeh.dk/2022/12/05/github-copilot-preliminary-experience-report/>
+* Notes on Experience with Github Pilot, similar to that of mine - it has the potential to surprise you, which is great. 
+> I was, frankly, stunned. While I do understand that Copilot doesn't actually understand the code it suggests, Hedgehog is sufficiently esoteric that I didn't expect Copilot to have enough training data to enable it to make a useful contribution in this niche. I was wrong. I've repeatedly seen Copilot make suggestions to my F# and Haskell code. It's not just for C#, JavaScript, or python code.
+
+#### Free YouTube Transcripts
+* <https://ytscribe.com/>
+* For cases a transcription's required
+> 
+
+#### imaginAIry/README.md at master · brycedrennan/imaginAIry
+* <https://github.com/brycedrennan/imaginAIry/blob/master/README.md>
+* wow
+> 
+
+#### Overconfidence and AI 
+* <https://seths.blog/2023/01/overconfidence-and-ai/>
+* My friend told me "AI is bullshitting a lot" which Seth Godin kindly frames as overconfidence
+> Human beings are often more effective when we’re a bit self-effacing. “I think,” “Perhaps,” or “I might be missing something, but…” are fine ways to give our assertions a chance to be considered.
+
+#### Fighting Distraction With Unit Tests 
+* <https://matthewc.dev/musings/unit-tests/>
+* A hemmingway-style approach to writing code where you stop at writing the failing unit test as a sort of cliffhanger. 
+> n/a
+
+#### ChatGPT Is Only Going to Get Better, and We Better Get Used to It - Bloomberg
+* <https://www.bloomberg.com/opinion/articles/2023-01-23/chatgpt-is-only-going-to-get-better-and-we-better-get-used-to-it?utm_content=view&utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-view&sref=htOHjx5Y>
+* AI is developing in leaps - mind you.
+> I ’ve started dividing the people I know into three camps: those who are not yet aware of LLMs; those who complain about their current LLMs; and those who have some inkling of the startling future before us. The intriguing thing about LLMs is that they do not follow smooth, continuous rules of development. Rather they are like a larva due to sprout into a butterfly. It is only human, if I may use that word, to be anxious about this future. But we should also be ready for it.
