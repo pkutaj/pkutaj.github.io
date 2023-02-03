@@ -26,6 +26,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [The inside story of ChatGPT: How OpenAI founder Sam Altman built the world’s hottest technology with billions from Microsoft](#the-inside-story-of-chatgpt-how-openai-founder-sam-altman-built-the-worlds-hottest-technology-with-billions-from-microsoft)
     - [Oleksiy Danilov interview:](#oleksiy-danilov-interview)
     - [Five Days in Class with ChatGPT – The Alperovitch Institute](#five-days-in-class-with-chatgpt--the-alperovitch-institute)
+    - [Get/Want/Have To](#getwanthave-to)
+    - [Alex Epstein's *Fossil Future* - Marginal REVOLUTION](#alex-epsteins-fossil-future---marginal-revolution)
 
 <!-- /TOC -->
 ### JAN 2023
@@ -118,3 +120,23 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://alperovitch.sais.jhu.edu/five-days-in-class-with-chatgpt/>
 * And I say this as somebody who had been a hardened skeptic of the artificial intelligence hype for many years. Note that I didn’t say likely transform. It will transform higher education. Here’s why. The first use-case is that the machine “filters mundane questions,” as one of our students put it quite eloquently. Meaning: you can ask the dumb questions to the AI, instead of in-class. Yes, there are dumb questions—or at least there are questions where the answer is completely obvious to anybody who knows even just a little bit about, say, malware analysis (or has done their assigned readings).
 > n/a
+
+#### Get/Want/Have To 
+* <https://seths.blog/2023/01/get-want-have-to/>
+* A poetic approach to a mindset - for a thief of moments for passionate endevours, like reading a book for 5 minutes.
+> The magic trick begins with realizing that the get to tasks are priceless want to moments if we choose. And, if we’re careful and plan ahead, we can get to the point where the have to agenda is something we can eagerly look forward to.
+
+#### Alex Epstein's *Fossil Future* - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2023/01/alex-epsteins-fossil-future.html>
+* Remember Macaes: Most dangerous political movement in the West today is not populism, post fascism, wokeism… It’s a reflexive contrarianism that affirms the opposite of every sensible opinion. Silicon Valley actually played a role in this. Idolatry of disruption but now out of its element.
+> My overall view is this: it is a good rebuttal to “the unrealistic ones,” who don’t see the benefits of fossil fuels.  But it does not rebut a properly steelmanned case for a transition away from fossil fuels.I view the steelmanned case as this: we cannot simply keep on producing increasing amounts of carbon emissions for centuries on end.  We thus need some trajectory where — at a pace we can debate — carbon emissions end up declining.  I’ve stressed on MR many times that climate change is not in fact an existential risk, but it could be a civilization-destroying risk if we just keep on boosting carbon emissions without end.  I don’t know a serious scientist who takes issue with that claim.
+
+#### Yiren Lu on Twitter: I’ve been playing around with GPT for various use cases. Here are some low-hanging ones I haven’t heard people mention
+* <https://twitter.com/YirenLu/status/1620171019788120066>
+* Continuing the discovery of usecases and cultivating the general awareness for the arrival the beast.
+> At my agency, a great deal of operational work involves simply taking information from email conversations and inputting them in structured ways into a spreadsheet or web app. This is quite tedious to do, and is prone to errors/missing data. But ChatGPT is pretty good at this!
+
+#### javascript - Timestamp of when request was submitted from client - Stack Overflow
+* <https://stackoverflow.com/questions/22996416/timestamp-of-when-request-was-submitted-from-client>
+* Wrapping my head around network latencies
+> You do realize that you cannot trust the client for anything? And that noone knows when the client's request was initiated except the client? – JonApr 10, 2014 at 18:47
