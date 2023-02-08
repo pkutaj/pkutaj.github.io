@@ -187,3 +187,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stackoverflow.com/questions/37439887/how-to-access-the-metadata-of-a-docker-container-from-a-script-running-inside-th>
 * How to distinguish between various containers
 > You can query unix sockets with new curl - but All that said-- this isn't very secure, and environment variables are probably a better bet.
+
+#### ossu/computer-science: Path to a free self-taught education in Computer Science!
+* <https://github.com/ossu/computer-science>
+* A big temptation
+> 
