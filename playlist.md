@@ -192,3 +192,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://github.com/ossu/computer-science>
 * A big temptation
 > 
+
+#### Complete External Attack Surface Management 
+* <https://detectify.com/>
+* Interesting product for external attack surface detection, testing endpoints with scriptattacks
+> 
