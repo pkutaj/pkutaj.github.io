@@ -197,3 +197,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://detectify.com/>
 * Interesting product for external attack surface detection, testing endpoints with scriptattacks
 > 
+
+#### The Four Horsemen of the Tech Recession – Stratechery by Ben Thompson
+* <https://stratechery.com/2023/the-four-horsemen-of-the-tech-recession/>
+* Great work on imaginery + AI + a comprehensible model to current wave of layoffs in Tech
+> 
+
+#### Anti-pattern - Wikipedia
+* <https://en.wikipedia.org/wiki/Anti-pattern#Software_engineering_anti-patterns>
+* Great metaphor to learn - a warning sign.
+> A Big Ball of Mud is a haphazardly structured, sprawling, sloppy, duct-tape-and-baling-wire, spaghetti-code jungle. These systems show unmistakable signs of unregulated growth, and repeated, expedient repair. Information is shared promiscuously among distant elements of the system, often to the point where nearly all the important information becomes global or duplicated.The overall structure of the system may never have been well defined.If it was, it may have eroded beyond recognition. Programmers with a shred of architectural sensibility shun these quagmires. Only those who are unconcerned about architecture, and, perhaps, are comfortable with the inertia of the day-to-day chore of patching the holes in these failing dikes, are content to work on such systems.
+
+#### Guido van Rossum: Python and the Future of Programming 
+* <https://www.youtube.com/watch?v=-DVyjdw4t9I>
+* 
+> 
