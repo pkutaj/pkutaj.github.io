@@ -288,3 +288,38 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stackoverflow.com/questions/65489705/transcribing-mp3-to-text-python-riff-id-error>
 * 
 > 
+
+#### My excellent Conversation with Will MacAskill - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2022/08/my-excellent-conversation-with-will-macaskill.html>
+* My neighbor is reading his 'What we owe the future' saying 10% of all people who ever existed live NOW. 
+> 
+
+#### Text is All You Need - by Venkatesh Rao - Ribbonfarm Studio
+* <https://studio.ribbonfarm.com/p/text-is-all-you-need>
+* Almost hegelian definition of personhood as the crucial moment seems to be the moment of Acknowledgement as person ? 
+> The Copernican MomentSo what’s being stripped away here? And how?The what is easy. It’s personhood.By personhood I mean what it takes in an entity to get another person treat it unironically as a human, and feel treated as a human in turn. In shorthand, personhood is the capacity to see and be seen.This is obviously a circular definition, but that’s not a problem so long as we have at least one reference entity that we all agree has personhood. Almost any random human, like me or you (I’m not entirely sure about a few, but most people qualify), will do. So long as we have one “real person” in the universe, and agree to elevate any entity they treat unironically as a person as also a person, in principle, we can tag all the persons in the universe.In Martin Buber’s terminology (ht Dorian Taylor for suggesting this way of looking at it), X is a person if another person relates to it in an I-you way rather than an I-it way.
+
+#### The Sociological Canon, Relations between Theories and Methods, and a Latent Political Structure: Findings from a Survey of Sociology Students in Germany and Consequences for Teaching - Christian Schneickert, Alexander Lenger, Leonie C. Steckermeier, Tobias Rieder, 2019
+* <https://journals.sagepub.com/doi/full/10.1177/0092055X19865301>
+* Writing a Book from Wikipedia
+> 
+
+#### The Sociological Canon, Relations between Theories and Methods, and a Latent Political Structure: Findings from a Survey of Sociology Students in Germany and Consequences for Teaching - Christian Schneickert, Alexander Lenger, Leonie C. Steckermeier, Tobias Rieder, 2019
+* <https://journals.sagepub.com/doi/full/10.1177/0092055X19865301>
+* Writing a Book from Wikipedia
+> 
+
+#### The Sociological Canon, Relations between Theories and Methods, and a Latent Political Structure
+* <https://journals.sagepub.com/doi/full/10.1177/0092055X19865301>
+* Writing a Book from Wikipedia for the Intro to Sociology - getting the top20 sociologists from curricula to get proper reference field. 
+> 
+
+#### Presentations — Benedict Evans
+* <https://www.ben-evans.com/presentations>
+* 
+> 
+
+#### snowplow-incubator/snowplow-event-generator
+* <https://github.com/snowplow-incubator/snowplow-event-generator>
+* 
+> 
