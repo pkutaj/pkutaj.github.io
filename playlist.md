@@ -323,3 +323,16 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://github.com/snowplow-incubator/snowplow-event-generator>
 * 
 > 
+
+#### OpenAI /ChatGPT— How to Use it With Python 
+* <https://blog.devgenius.io/chatgpt-how-to-use-it-with-python-5d729ac34c0d>
+* Great write-up on how simple it is to start using Open AI models via API (currently free trial, of course)
+> 
+
+#### Is it possible to monitor the number of pod-replicas in a Kubernetes cluster over time with StackDriver? - Stack Overflow
+* <https://stackoverflow.com/questions/55687658/is-it-possible-to-monitor-the-number-of-pod-replicas-in-a-kubernetes-cluster-ove>
+
+#### Is it possible to monitor the number of pod-replicas in a Kubernetes cluster over time with StackDriver? - Stack Overflow
+* <https://stackoverflow.com/questions/55687658/is-it-possible-to-monitor-the-number-of-pod-replicas-in-a-kubernetes-cluster-ove>
+* 
+> 
