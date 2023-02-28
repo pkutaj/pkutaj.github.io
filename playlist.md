@@ -336,3 +336,23 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stackoverflow.com/questions/55687658/is-it-possible-to-monitor-the-number-of-pod-replicas-in-a-kubernetes-cluster-ove>
 * 
 > 
+
+#### Racket (programming language) - Wikipedia
+* <https://en.wikipedia.org/wiki/Racket_(programming_language)>
+* A language and environment used for OSSU Module 1
+> 
+
+#### Krickelkrackel 
+* <https://krickelkrackel.com/en>
+* I have a formalist approach to interpretation, i.e. that the knowledge of forms used by an artist (or a deliberate lack of thereof) lets you communicate better with the work or art, same as understanding the language improves the communication with another human being
+> 
+
+#### Why we are teaching this class · Missing Semester
+* <https://missing.csail.mit.edu/about/>
+* Looks really useful. Sometimes things that catch your eye take time, and often they are not forgotten (OSSU!). But I'm bookmarking all the same. Memory is a trickster. 
+> During a traditional Computer Science education, chances are you will take plenty of classes that teach you advanced topics within CS, everything from Operating Systems to Programming Languages to Machine Learning. But at many institutions there is one essential topic that is rarely covered and is instead left for students to pick up on their own: computing ecosystem literacy.
+
+#### An open-source LLM based research assistant
+* <https://twitter.com/mukul0x/status/1625673579399446529>
+* 
+> 
