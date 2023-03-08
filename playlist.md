@@ -388,3 +388,44 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://htdp.org/2018-01-06/Book/part_preface.html>
 * n/a
 > The typical course on programming teaches a “tinker until it works” approach. When it works, students exclaim “It works!” and move on. Sadly, this phrase is also the shortest lie in computing, and it has cost many people many hours of their lives. In contrast, this book focuses on habits of good programming, addressing both professional and vocational programmers.By “good programming,” we mean an approach to the creation of software that relies on systematic thought, planning, and understanding from the very beginning, at every stage, and for every step. To emphasize the point, we speak of systematic program design and systematically designed programs. Critically, the latter articulates the rationale of the desired functionality. Good programming also satisfies an aesthetic sense of accomplishment; the elegance of a good program is comparable to time-tested poems or the black-and-white photographs of a bygone era. In short, programming differs from good programming like crayon sketches in a diner from oil paintings in a museum.
+
+#### Quotient - Wikipedia
+* <https://en.wikipedia.org/wiki/Quotient>
+* Learning Math Terminology with Dr Racket - in Python I'll just call this floored quotient or floor divide. Also https://docs.python.org/3/library/stdtypes.html?highlight=operators#numeric-types-int-float-complex. 
+> In arithmetic, a quotient (from Latin: quotiens 'how many times', pronounced /ˈkwoʊʃənt/) is a quantity produced by the division of two numbers.[1] The quotient has widespread use throughout mathematics, and is commonly referred to as the integer part of a division (in the case of Euclidean division),[2] or as a fraction or a ratio (in the case of proper division). For example, when dividing 20 (the dividend) by 3 (the divisor), the quotient is "6 with a remainder of 2" in the Euclidean division sense, and 623
+
+#### 50 conversations in Bangalore and Chennai 
+* <https://sive.rs/meet-chbg>
+
+#### 50 conversations in Bangalore and Chennai 
+* <https://sive.rs/meet-chbg>
+* Always interesting !
+> I went to Chennai and Bengaluru, India. My sole purpose was to meet new friends. I’m an “Overseas Citizen of India” and my son is half-Indian (Tamil). I will always have ties to India. I wanted to deepen those ties and make new connections.So I scheduled fifty one-hour conversations with fifty interesting people over seven days. Back-to-back meetings from 9am to 10pm every day. It was one of the most intense and fascinating (and heart-warming and educational) things I’ve ever done in my life. I recorded almost every conversation into a little voice recorder, then had it transcribed. When I got home to New Zealand I spent 30 hours reading through the transcriptions to help me remember what we talked about, then made a tiny summary, below....And WhatApp is practically the sole mode of communication.
+
+#### A Devastating Moment of Clarity in Ukraine - Tablet Magazine
+* <https://www.tabletmag.com/sections/news/articles/devastating-moment-clarity-ukraine>
+* 
+> 
+
+#### The Future of the Modern Data Stack in 2023 
+* <https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2023-b08c2aed04e2>
+* 
+> 
+
+#### Thinking about Tracking Design, Part 1: What is tracking anyways?
+* <https://randallhelms.substack.com/p/thinking-about-tracking-design-part?utm_source=post-email-title&publication_id=1240188&post_id=105545888&isFreemail=true&utm_medium=email>
+* The pop-culture metaphor works greatly and it is a sign of good writing then these analogies (tracking as secret police spying on YOU, as in the movie 'The Lives of Others')
+> 1I think it’s fair to say that behavioral tracking is not well understood outside the data world; the term ‘tracking’ itself sounds scary, like stalking! It makes people think about something very personal, a process where a website comes to know your deepest secrets, as with the Stasi agents in the German field Das Leben der Anderen (The Lives of Others).The reality is more prosaic, however, so with this first post I would like to demystify this process and explain what is actually going on
+
+#### Louis CK- Back to the Garden
+* <https://www.bitchute.com/video/ImMGnr6VfMGr/>
+* His first standup I did not pay for (sorrry Louis), the provocations are great, I can't help, however, but to think if some deeper mechanism responsible also for his art is not too affected by his enemies. Jordan Peterson's appearance on Lex Friedman's show left a weird taste in my mouth and I am attributing his pro-russian stance as being in a wrong battle against woke for way too long.
+> 
+
+#### : We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
+* <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
+
+#### How the War in Ukraine Ends 
+* <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
+* 
+> At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
