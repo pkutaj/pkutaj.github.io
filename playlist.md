@@ -429,3 +429,38 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
 * 
 > At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
+
+#### The Great Feminization of the American University 
+* <https://www.city-journal.org/the-great-feminization-of-the-american-university>
+* I worked for NYU, so this interesting mostly on a personal level. Else, I have a more of a "hardcode history" view where the feminization is probably the part of civilization that would and will erode in terms of acute crisis, collapse and war. I may be mistaken, of course.
+> Sometimes a single incident efficiently summarizes a larger trend. So it is with New York University’s selection of its new president, Linda Mills, a licensed clinical social worker and an NYU social work professor. She researches trauma and bias, as well as race and gender in the legal academy. She is a documentary filmmaker and teaches advocacy filmmaking. She serves as an NYU vice chancellor and as a senior vice provost for Global Programs and University Life. In all these roles, Mills is the very embodiment of the contemporary academy. The most significant part of her identity, however, and the one that ties the rest of her curriculum vitae together, is that she is female, and thus overdetermined as NYU’s next president.
+
+#### Who are the people I most admire? - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2015/02/who-are-the-people-i-most-admire.html>
+* I have the similar look like Tyler, where the people of my admiration not just sacrificied but were able to 1)risk 2)display courage 3)value love and in my case 4)love books. So Vaclav Havel (inprisoned by communists) and Vaclav Cerny (imprisoned by nazis) are on the top of the list, being a great artist and a great scholar, respectivelly. 
+> Overall I was surprised how few of you approached the question the way I have, rather as a group you picked too many nerdy white guys.  Now I don’t like to play “the PC card,” and if a process generates a lot of nerdy white guys, I don’t then assume that process is necessarily biased or requiring correction.  Still, the fact that my list creates so much room for women (and non-whites) suggests it reflects the universality of human experience more than what most of you came up with.
+
+#### Manhole cover - Wikipedia
+* <https://en.wikipedia.org/wiki/Manhole_cover#Shape>
+* 
+> 
+
+#### PEP 435 – Adding an Enum type to the Python standard library 
+* <https://peps.python.org/pep-0435/>
+* Python has an ENUM type which was not known to me until studying <https://www.edx.org/course/how-to-code-simple-data>
+> The properties of an enumeration are useful for defining an immutable, related set of constant values that may or may not have a semantic meaning. Classic examples are days of the week (Sunday through Saturday) and school assessment grades (‘A’ through ‘D’, and ‘F’). Other examples include error status values and states within a defined process.It is possible to simply define a sequence of values of some other basic type, such as int or str, to represent discrete arbitrary values. However, an enumeration ensures that such values are distinct from any others including, importantly, values within other enumerations, and that operations without meaning (“Wednesday times two”) are not defined for these values. It also provides a convenient printable representation of enum values without requiring tedious repetition while defining them (i.e. no GREEN = 'green').
+
+#### enum — Support for enumerations — Python 3.11.2 documentation
+* <https://docs.python.org/3/library/enum.html#creating-an-enum>
+* 
+> 
+
+#### Python list of lists from enum - Stack Overflow
+* <https://stackoverflow.com/questions/42912518/python-list-of-lists-from-enum>
+* 
+> 
+
+#### We’re Missing a Key Driver of Teen Anxiety - The Atlantic
+* <https://www.theatlantic.com/newsletters/archive/2023/03/teen-anxiety-elite-schools-sat-act-paradox-wealthy-nations/673307/>
+* It must be possible to grow-up both smart and wise in a better way than exemplified here. But from Central European perspective, it's still "probably the phones"
+> Last week, columbia university became the latest school to announce that it would no longer require SAT or ACT scores for undergraduate admissions. The school’s decision was “rooted in the belief that students are dynamic, multi-faceted individuals who cannot be defined by any single factor,” the college said in a defense of its policy change.The SAT has faced heavy scrutiny for privileging rich families, which can pay for test-prep classes for their kids. Some believe that dropping the test is an ethical move toward equality in selective college admissions. Others argue that Columbia is replacing one metric skewed toward rich students with a bundle of metrics that are even more stratified by socioeconomic status, such as high GPAs, internships in Nicaragua, and expensive traveling soccer teams.
