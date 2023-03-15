@@ -73,6 +73,22 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [2.41. What Is Nix](#241-what-is-nix)
     - [2.42. The typical course on programming teaches a](#242-the-typical-course-on-programming-teaches-a)
     - [2.43. How to Design Programs > Preface](#243-how-to-design-programs--preface)
+    - [Quotient - Wikipedia](#quotient---wikipedia)
+    - [50 conversations in Bangalore and Chennai](#50-conversations-in-bangalore-and-chennai)
+- [MAR 2013](#mar-2013)
+    - [A Devastating Moment of Clarity in Ukraine - Tablet Magazine](#a-devastating-moment-of-clarity-in-ukraine---tablet-magazine)
+    - [The Future of the Modern Data Stack in 2023](#the-future-of-the-modern-data-stack-in-2023)
+    - [Thinking about Tracking Design, Part 1: What is tracking anyways?](#thinking-about-tracking-design-part-1-what-is-tracking-anyways)
+    - [Louis CK- Back to the Garden](#louis-ck--back-to-the-garden)
+    - [: We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.](#-we-havent-ramped-up-industrial-production-at-all-at-peak-the-ukrainians-were-firingexpendingupward-of-ninety-thousand-artillery-shells-a-month-us-monthly-production-of-artillery-shells-is-fifteen-thousand-with-all-our-allies-thrown-in-everybody-in-the-mix-who-supports-ukraine-you-get-another-fifteen-thousand-at-the-highest-estimates-so-you-can-do-thirty-thousand-in-the-production-of-artillery-shells-while-expending-ninety-thousand-a-month-we-havent-ramped-up-were-just-drawing-down-the-stocks-and-you-know-what-were-running-out)
+    - [How the War in Ukraine Ends](#how-the-war-in-ukraine-ends)
+    - [The Great Feminization of the American University](#the-great-feminization-of-the-american-university)
+    - [Who are the people I most admire? - Marginal REVOLUTION](#who-are-the-people-i-most-admire---marginal-revolution)
+    - [Manhole cover - Wikipedia](#manhole-cover---wikipedia)
+    - [PEP 435 – Adding an Enum type to the Python standard library](#pep-435--adding-an-enum-type-to-the-python-standard-library)
+    - [enum — Support for enumerations — Python 3.11.2 documentation](#enum--support-for-enumerations--python-3112-documentation)
+    - [Python list of lists from enum - Stack Overflow](#python-list-of-lists-from-enum---stack-overflow)
+    - [We’re Missing a Key Driver of Teen Anxiety - The Atlantic](#were-missing-a-key-driver-of-teen-anxiety---the-atlantic)
 
 <!-- /TOC -->
 ### 1. JAN 2023
@@ -396,11 +412,10 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### 50 conversations in Bangalore and Chennai 
 * <https://sive.rs/meet-chbg>
-
-#### 50 conversations in Bangalore and Chennai 
-* <https://sive.rs/meet-chbg>
 * Always interesting !
 > I went to Chennai and Bengaluru, India. My sole purpose was to meet new friends. I’m an “Overseas Citizen of India” and my son is half-Indian (Tamil). I will always have ties to India. I wanted to deepen those ties and make new connections.So I scheduled fifty one-hour conversations with fifty interesting people over seven days. Back-to-back meetings from 9am to 10pm every day. It was one of the most intense and fascinating (and heart-warming and educational) things I’ve ever done in my life. I recorded almost every conversation into a little voice recorder, then had it transcribed. When I got home to New Zealand I spent 30 hours reading through the transcriptions to help me remember what we talked about, then made a tiny summary, below....And WhatApp is practically the sole mode of communication.
+
+### MAR 2013
 
 #### A Devastating Moment of Clarity in Ukraine - Tablet Magazine
 * <https://www.tabletmag.com/sections/news/articles/devastating-moment-clarity-ukraine>
@@ -464,3 +479,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.theatlantic.com/newsletters/archive/2023/03/teen-anxiety-elite-schools-sat-act-paradox-wealthy-nations/673307/>
 * It must be possible to grow-up both smart and wise in a better way than exemplified here. But from Central European perspective, it's still "probably the phones"
 > Last week, columbia university became the latest school to announce that it would no longer require SAT or ACT scores for undergraduate admissions. The school’s decision was “rooted in the belief that students are dynamic, multi-faceted individuals who cannot be defined by any single factor,” the college said in a defense of its policy change.The SAT has faced heavy scrutiny for privileging rich families, which can pay for test-prep classes for their kids. Some believe that dropping the test is an ethical move toward equality in selective college admissions. Others argue that Columbia is replacing one metric skewed toward rich students with a bundle of metrics that are even more stratified by socioeconomic status, such as high GPAs, internships in Nicaragua, and expensive traveling soccer teams.
+
+#### High Quality Server Hosting at a Value for Everyone 
+* <https://contabo.com/en/about-us/>
+* Getting to known another server hosting provider.
+> While everyone brags about their prices, we actually deliver on this promise. For example whenever choosing hardware we not only look at the raw performance, but also on the purchase price in relation to performance and power consumption. Read more about how we keep our prices low. In Contabo we believe that every customer deservers a Premium Support Experience no matter they spend thousands or just €5.99 a month. That's why we've set rigorous quality standards for our support team making sure that your experience is as good as possible. The great reviews we get only makes us work harder.
+
+#### How-To Find the Process ID Holding Open Ports 
+* <https://www.squintz.org/posts/how-t0-find-process-id-holding-ports-open/>
+* Great style, great care. 
+> 
+
+#### Is there a way to have a default value inside a dictionary in Python? - Stack Overflow
+* <https://stackoverflow.com/questions/71003828/is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python>
+* 
+> 
