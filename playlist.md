@@ -494,3 +494,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stackoverflow.com/questions/71003828/is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python>
 * 
 > 
+
+#### Simple techniques for complex projects 
+* <https://seths.blog/2023/03/simple-techniques-for-complex-projects/>
+* Seth needs to repeat and repeat and repeat the good old insights, as we all are defaulting to crappy practices. Refreshments required.
+> Invest in slack buffers for any critical dependent components.Heroism is more fun but less reliable than good planning.Invest in slack buffers for any critical dependent components....and more
+
+#### The False Promise of ChatGPT 
+* <https://news.ycombinator.com/item?id=35067619>
+* It would be interesting to have a longitudinal study on the arrival of AI, done in real-time, to have researcher's reflextion as well
+> ChatGPT is a bullshit artist with no real understanding of what it's writing about, but so are an awful lot of white-collar workers. It reliably emulates the shibboleths that indicate membership of the professional middle class. It isn't particularly creative or interesting, but it wasn't trained to do that - it was trained to produce maximally safe, inoffensive output. If people don't see ChatGPT as being massively disruptive, then I think they have failed to recognise the sheer proportion of working hours that are spent writing quite mundane letters and reports. Anyone who spends most of their working day in Outlook and Word should be extremely nervous about the medium-term implications of LLM
