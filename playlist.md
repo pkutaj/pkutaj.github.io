@@ -89,6 +89,22 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [enum — Support for enumerations — Python 3.11.2 documentation](#enum--support-for-enumerations--python-3112-documentation)
     - [Python list of lists from enum - Stack Overflow](#python-list-of-lists-from-enum---stack-overflow)
     - [We’re Missing a Key Driver of Teen Anxiety - The Atlantic](#were-missing-a-key-driver-of-teen-anxiety---the-atlantic)
+    - [High Quality Server Hosting at a Value for Everyone](#high-quality-server-hosting-at-a-value-for-everyone)
+    - [How-To Find the Process ID Holding Open Ports](#how-to-find-the-process-id-holding-open-ports)
+    - [Is there a way to have a default value inside a dictionary in Python? - Stack Overflow](#is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python---stack-overflow)
+    - [Simple techniques for complex projects](#simple-techniques-for-complex-projects)
+    - [The False Promise of ChatGPT](#the-false-promise-of-chatgpt)
+    - [Snowclone - Wikipedia](#snowclone---wikipedia)
+    - [The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic](#the-strongest-evidence-yet-that-an-animal-started-the-pandemic---the-atlantic)
+    - [Mass converting .doc to .docx - Microsoft Community Hub](#mass-converting-doc-to-docx---microsoft-community-hub)
+    - [Awakening from the Meaning Crisis - YouTube](#awakening-from-the-meaning-crisis---youtube)
+    - [Awakening from the Meaning Crisis](#awakening-from-the-meaning-crisis)
+    - [Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation](#mocking-monkey-patching-and-faking-functionality--python-401-21-documentation)
+    - [A Year after the Invasion, the Russian Economy Is Self-Immolating](#a-year-after-the-invasion-the-russian-economy-is-self-immolating)
+    - [*Colonialism: A Moral Reckoning* - Marginal REVOLUTION](#colonialism-a-moral-reckoning---marginal-revolution)
+    - [Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman](#dmytro-kuleba-russian-victory-will-ruin-everything-the-west-stands-for---new-statesman)
+    - [Ezra Klein: This Changes Everything](#ezra-klein-this-changes-everything)
+    - [Pynecone: The easiest way to build web apps.](#pynecone-the-easiest-way-to-build-web-apps)
 
 <!-- /TOC -->
 ### 1. JAN 2023
@@ -504,3 +520,64 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://news.ycombinator.com/item?id=35067619>
 * It would be interesting to have a longitudinal study on the arrival of AI, done in real-time, to have researcher's reflextion as well
 > ChatGPT is a bullshit artist with no real understanding of what it's writing about, but so are an awful lot of white-collar workers. It reliably emulates the shibboleths that indicate membership of the professional middle class. It isn't particularly creative or interesting, but it wasn't trained to do that - it was trained to produce maximally safe, inoffensive output. If people don't see ChatGPT as being massively disruptive, then I think they have failed to recognise the sheer proportion of working hours that are spent writing quite mundane letters and reports. Anyone who spends most of their working day in Outlook and Word should be extremely nervous about the medium-term implications of LLM
+
+#### Snowclone - Wikipedia
+* <https://en.wikipedia.org/wiki/Snowclone>
+* Love at the time of Cholera, Agency at the time of Anthropocene, etc.
+> 
+
+#### The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic
+* <https://www.theatlantic.com/science/archive/2023/03/covid-origins-research-raccoon-dogs-wuhan-market-lab-leak/673390/>
+* Example when reading Latour
+> 
+
+#### Mass converting .doc to .docx - Microsoft Community Hub
+* <https://techcommunity.microsoft.com/t5/microsoft-365/mass-converting-doc-to-docx/m-p/194462>
+* Thinking about the creation of a new zettelkasten for humanities
+> 
+
+#### Awakening from the Meaning Crisis - YouTube
+* <https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ>
+* interesting, perhaps?
+> 
+
+#### Awakening from the Meaning Crisis
+* <https://www.youtube.com/watch?v=SNcJ79qPIg8>
+* Brilliant!
+> 
+
+#### Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation
+* <https://codefellows.github.io/sea-python-401d7/lectures/mock.html>
+* Learning the differences between mocking, monkeypatching, fixtures and alike. 
+> Sometimes while testing you need some fake data. is a part of the  library that allows you to intercept what a function would normally do, substituting its full execution with a return value of your own specification. Note that **monkey patching a function call does not count as actually testing that function call!** **You ARE NOT actually using the function that you’ve monkey patched; you are rejecting its default behavior and subsituting it with new behavior.**
+
+#### A Year after the Invasion, the Russian Economy Is Self-Immolating 
+* <https://insights.som.yale.edu/insights/year-after-the-invasion-the-russian-economy-is-self-immolating>
+* This is working in slower time then headlines, but it seems to be working. Ezra Klein has a great podcast on this, too.
+> Russia’s permanent loss of 1,000+ global multinational businesses coupled with escalating economic sanctionsPlummeting energy revenues thanks to the G7 oil price cap and Putin’s punctured natural gas gambitTalent and capital flightRussia will only become increasingly irrelevant as supply chains continue to adaptThe Russian economy is being propped up by the KremlinMore can be done.....
+
+#### *Colonialism: A Moral Reckoning* - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2023/03/colonialism-a-moral-reckoning.html>
+* The good old "If you want attention, start a fight" seems to suit here, I am afraid. Tyler's takes on books are just amazing. 
+> That is the new book by Nigel Biggar, and it has already created a storm of controversy because of his claims that the British empire is, in my words, “underrated.”Let me first say that I am in no way upset at this thesis being put explicitly on the table.  And the book has many valuable discussions, covering issues such as how hard (at some point) the British worked to ban slavery, what were their motives for empire, what kinds of pressures for assimilation were asserted, and much more.My disappointment is how little space is devoted to the topic of sustainable economic growth.  In which parts of the empire did British rule boost sustainable economic growth, relative to a counterfactual of peaceful interaction but no conquest?  Singapore and Hong Kong seem obviously much richer and better off due to earlier British rule.  Malaysia likely as well, though the magnitude of the gain there is smaller.  But Sierra Leone not?  The country is miserably poor and has had numerous years of civil war, with a legacy of slavery as well.  Who could object to trying another run of history there, removing the British imperial role?  It is hard to see that it could get very much worse.  But then where does one put Kenya?
+
+
+#### Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman
+* <https://www.newstatesman.com/the-weekend-interview/2023/03/ukraine-foreign-minister-dmytro-kuleba-interview>
+* Really impressed by the age/responsibility ratio here. 
+> Only 41, he is Ukraine’s youngest foreign minister and a career diplomat, as well as the son of a career diplomat. But when I spoke to him by video link on 9 March he was blunt and direct with his answers, though he never strayed too far from his role. When I asked him if the war would end with a military victory or diplomacy, his first instinct was to reply, “Russian defeat”, but he quickly reverted back to diplomat in chief.
+
+#### Ezra Klein: This Changes Everything 
+* <https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html>
+* The argument in this essay nudged me significantly to apply for a phD in Sociology. Let's see...
+> 
+
+#### Pynecone: The easiest way to build web apps.
+* <https://pynecone.io/>
+* I've been automating workflows using CLI tools and it's working great for me. However terminal is scary for non-programmers; this could be a way to migrate python scripts to web apps rather quickly. 
+> 
+
+#### The Impact of AI on Productivity - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2023/03/the-impact-of-ai-on-productivity.html>
+* Quantitative Expression of the Programmer's Acceleration via GitHub Copilot. I just wonder that since it SO facilitates programming by co-incidence, I wonder if also AI will do all of the maintenance work where it is essential to reason on the level of model in order to implement the change efficiently (as opposed to jumping straight into the code)
+> Conditioning on completing the task, the average completion time from the treated group is 71.17 minutes and 160.89 minutes for the control group. This represents a 55.8% reduction in completion time. The p-value for the t-test is 0.0017, and a 95% confidence interval for the improvement is between [21%, 89%]. There are four outliers with time to completion above 300 min. All outliers are in the control group, however our results remain robust if these outliers are dropped. This result suggests that Copilot increases average productivity significantly in our experiment population. We also find that the treated group’s success rate is 7 percentage points higher than the control group, but the estimate is not statistically significant, with a 95% confidence interval of [-0.11, 0.25].
