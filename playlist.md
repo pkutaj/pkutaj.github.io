@@ -581,3 +581,58 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://marginalrevolution.com/marginalrevolution/2023/03/the-impact-of-ai-on-productivity.html>
 * Quantitative Expression of the Programmer's Acceleration via GitHub Copilot. I just wonder that since it SO facilitates programming by co-incidence, I wonder if also AI will do all of the maintenance work where it is essential to reason on the level of model in order to implement the change efficiently (as opposed to jumping straight into the code)
 > Conditioning on completing the task, the average completion time from the treated group is 71.17 minutes and 160.89 minutes for the control group. This represents a 55.8% reduction in completion time. The p-value for the t-test is 0.0017, and a 95% confidence interval for the improvement is between [21%, 89%]. There are four outliers with time to completion above 300 min. All outliers are in the control group, however our results remain robust if these outliers are dropped. This result suggests that Copilot increases average productivity significantly in our experiment population. We also find that the treated group’s success rate is 7 percentage points higher than the control group, but the estimate is not statistically significant, with a 95% confidence interval of [-0.11, 0.25].
+
+#### Full interview with Clifford Geertz - part one - YouTube
+* <https://www.youtube.com/watch?v=3dQDx3axrDs>
+* Clifford Geertz in person, scientist, poet, adventurer.
+> 
+
+#### Khan Academy integrates GPT-4 as every student’s customized tutor 
+* <https://news.ycombinator.com/item?id=35155684>
+* Education (personal AI assistant) usecase has been mentioned repeatedly as one of the imaginable benefits (see Sam Altman talking with Kara Swisher in the second half of March 2023), but I am not convinced, I am not convinced. I can imagine it helping me interacting over a long complicated difficult text, for example what Mortimer Adler called "synoptic reading" (comparing to texts I don't know about). Curious.  
+> 
+
+#### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
+* <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
+* Podcast with the head of OpenAI, but the most memorable is Kara's view on risk and a generational take. Altman is another young optimist, similar to what we have seen with the coming of the internet in the 90s, and there were many downsides (weaponization) that they were not treating properly. Not that Altman does not say - we wanted this to be a government project and it failed or that he is not 'building in public' to make everyone every (and others join) or that he is pro-regulatory. His view of humanity as one big technical revolution should be mitigated by reading some of Timothy Snyder's books. 
+> 
+
+#### 3: Baggage 
+* <https://www.economist.com/podcasts/2023/03/11/3-baggage>
+* Great podcast about Georgia and it's bleak future with the surreal visit of the musem of Stalin. 
+> n one sense, the war did not really begin in 2022. It did not even begin in Ukraine. It started the first time Vladimir Putin invaded one of Russia’s neighbours and got away with it. That was 15 years ago, in Georgia. And in the same place Joseph Stalin, author of the Soviet empire’s darkest chapter, was born.
+
+#### How will AI transform childhood? - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2023/03/how-will-ai-transform-childhood.html>
+* There is a general idea that digital technogy gets us information and makes us stupid, or at least intellectually weaker. I am a strong believer of a modular approach; the "devices" should be first and foremost "removables" before they become anything else and we should be able to peacefully walk and contemplate life without any need to get satisfaction via "digital assistant". Of course, also this idea has stupid at the edge (how autonomy do want, there are people living a happy life absolutely disconnected, but does that scale?). In any case, sure, AI for kids, but not if that makes him a stupid addict. 
+> Many parents may be reluctant to let their kids become attached to an AI. But I predict that most families will welcome it. For one, parents will be able to turn off the connection whenever they wish. Simply clicking a button is easier than yanking an iPad out of a kid’s grasp.Most of all, letting your kid have an AI companion will bring big advantages. Your child will learn to read and write much faster and better, and will do better in school. Or maybe you want your kid to master Spanish or Chinese, but you can’t afford an expensive tutor who comes only twice a week. Do you want your child to learn how to read music? The AI services will be as limited or as expansive as you want them to be.It is an open question how quickly schools will embrace these new methods of learning. At some point, however, they will become part of the curriculum. Competitive pressures will make parents reluctant to withhold AI from their kids. Even if the AIs are not present in the classroom, some kids will use them to help do their homework, gaining a big advantage, and the practice will likely spread.Of course children will use these AIs for purposes far beyond what their parents intend. They will become playthings, companions, entertainers and much more. When I was a kid, with no internet and mediocre TV, I created imaginary worlds in the dirt, or with simple household items, and my parents often had no clue. The AI services will become part of this model of spontaneous play, even if parents try to make them purely educational.What about teenagers? Well, many parents may allow their kids to speak with AI therapists. It might be better than nothing, and perhaps better than many human therapists.
+
+#### E.W.Dijkstra Archive: The Humble Programmer (EWD 340)
+* <https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html>
+* I always looked at this with admiration of both style and insight
+> Now for the fifth argument. It has to do with the influence of the tool we are trying to use upon our own thinking habits. I observe a cultural tradition, which in all probability has its roots in the Renaissance, to ignore this influence, to regard the human mind as the supreme and autonomous master of its artefacts. But if I start to analyse the thinking habits of myself and of my fellow human beings, I come, whether I like it or not, to a completely different conclusion, viz. that the tools we are trying to use and the language or notation we are using to express or record our thoughts, are the major factors determining what we can think or express at all! The analysis of the influence that programming languages have on the thinking habits of its users, and the recognition that, by now, brainpower is by far our scarcest resource, they together give us a new collection of yardsticks for comparing the relative merits of various programming languages. The competent programmer is fully aware of the strictly
+
+#### The Microsoft Copilot future of work demo is incredible
+* <https://twitter.com/hamandcheese/status/1636576542351302657>
+* The surveillance mode of AI is to be analyzed as well, it is a big sociological theme at least since Foucault has focused on it with passion. 
+> The Microsoft Copilot "future of work" demo is incredible. Your boss will soon be able to ask their Copilot to create a summary of who does the least work on average and have their termination letter already drafted in Outlook.This isn't necessarily a bad thing. Managers often have to make subjective evaluations of workers with imperfect information. Soon, you can instead just ask Co-pilot to analyze the meeting transcripts in the knowledge graph and rank who make the most insightful contributions.From the reply: ust the world we wanted. Sounds great.The tech industry and USA libertarian intellectual class has failed us by their lack of humanity. From the reply: ust the world we wanted. Sounds great.
+
+#### How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN
+* <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391863>
+* Even though teachers are not going to be "replaced" easily, next to science is pedagogy/training one of the main advertised usecases, 
+> 
+
+#### Pinker on Alignment and Intelligence as a Magical Potion
+* <https://richardhanania.substack.com/p/pinker-on-alignment-and-intelligence>
+* A quite interesting, including a noteworth constructivist/sociological take on the concept of IQ
+> While I defend the existence and utility of IQ and its principal component, general intelligence or g,  in the study of individual differences, I think it’s completely irrelevant to AI, AI scaling, and [existential risk from AI]. It’s a measure of differences among humans within the restricted range they occupy, developed more than a century ago. It’s a statistical construct with no theoretical foundation, and it has tenuous connections to any mechanistic understanding of cognition other than as an omnibus measure of processing efficiency (speed of neural transmission, amount of neural tissue, and so on). It exists as a coherent variable only because performance scores on subtests like vocabulary, digit string memorization, and factual knowledge intercorrelate, yielding a statistical principal component, probably a global measure of neural fitness.In that regard, it’s like a Consumer Reports global rating of cars, or overall score in the pentathlon. It would not be surprising that a car with a more powerful engine also had a better suspension and sound system, or that better swimmers are also, on average, better fencers and shooters. But this tells us precisely nothing about how engines or human bodies work. And imagining an extrapolation to a supervehicle or a superathlete is an exercise in fantasy but not a means to develop new technologies.
+
+#### Anki-fy Your Life - by Moses Liew - About to Learn
+* <https://abouttolearn.substack.com/p/anki-fy-your-life>
+* My bet is that with the arrival of AI is amplifying the divide of those who remember and those who don't. 
+> If you store this content in your long-term memory, it also allows your brain to subconsciously make connections and solve problems with the knowledge.There’s also a great argument for using Anki to understand hard concepts, especially in research papers. That’s a slightly different process, involving multiple re-reads and building up a knowledge from very basic questions about the concepts.
+
+#### State diagram - Wikipedia
+* <https://en.wikipedia.org/wiki/State_diagram>
+* Learning about Circles and Arrows as Shannon's way to think visualizing computation already in 1949; learning about state machines and state diagrams. 
+> State diagrams can be used to graphically represent finite-state machines (also called finite automata). This was introduced by Claude Shannon and Warren Weaver in their 1949 book The Mathematical Theory of Communication. Another source is Taylor Booth in his 1967 book Sequential Machines and Automata Theory. Another possible representation is the state-transition table.
