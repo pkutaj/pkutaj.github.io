@@ -105,6 +105,37 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman](#dmytro-kuleba-russian-victory-will-ruin-everything-the-west-stands-for---new-statesman)
     - [Ezra Klein: This Changes Everything](#ezra-klein-this-changes-everything)
     - [Pynecone: The easiest way to build web apps.](#pynecone-the-easiest-way-to-build-web-apps)
+    - [The Impact of AI on Productivity - Marginal REVOLUTION](#the-impact-of-ai-on-productivity---marginal-revolution)
+    - [Full interview with Clifford Geertz - part one - YouTube](#full-interview-with-clifford-geertz---part-one---youtube)
+    - [Khan Academy integrates GPT-4 as every student’s customized tutor](#khan-academy-integrates-gpt-4-as-every-students-customized-tutor)
+- [April2013](#april2013)
+    - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
+    - [3: Baggage](#3-baggage)
+    - [How will AI transform childhood? - Marginal REVOLUTION](#how-will-ai-transform-childhood---marginal-revolution)
+    - [E.W.Dijkstra Archive: The Humble Programmer (EWD 340)](#ewdijkstra-archive-the-humble-programmer-ewd-340)
+    - [The Microsoft Copilot future of work demo is incredible](#the-microsoft-copilot-future-of-work-demo-is-incredible)
+    - [How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN](#how-to-learn-and-teach-economics-with-large-language-models-including-gpt-by-tyler-cowen-alexander-t-tabarrok--ssrn)
+    - [Pinker on Alignment and Intelligence as a Magical Potion](#pinker-on-alignment-and-intelligence-as-a-magical-potion)
+    - [Anki-fy Your Life - by Moses Liew - About to Learn](#anki-fy-your-life---by-moses-liew---about-to-learn)
+    - [State diagram - Wikipedia](#state-diagram---wikipedia)
+    - [The philosopher: A conversation with Grady Booch](#the-philosopher-a-conversation-with-grady-booch)
+    - [you, skeptic:](#you-skeptic)
+    - [(1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs will have on the nature of software distribution and end-user programming? some early, v tentative thoughts: 1/ / Twitter](#1-geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating-the-effect-llms-will-have-on-the-nature-of-software-distribution-and-end-user-programming-some-early-v-tentative-thoughts-1--twitter)
+    - [(1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs](#1-geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating-the-effect-llms)
+    - [Thinking about Tracking Design, Part 2: Why track in the first place?](#thinking-about-tracking-design-part-2-why-track-in-the-first-place)
+    - [Waiting for the Betterness Explosion](#waiting-for-the-betterness-explosion)
+    - [https://andrew-quinn.me/fzf/](#httpsandrew-quinnmefzf)
+    - [Adobe Firefly: AI Art Generator](#adobe-firefly-ai-art-generator)
+    - [Define Wokeness! Or how you shall know a word by the company it keeps](#define-wokeness-or-how-you-shall-know-a-word-by-the-company-it-keeps)
+    - [The cloud backlash has begun: Why big data is pulling compute back on premises](#the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises)
+    - [[YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl](#youtube-unable-to-extract-uploader-id-·-issue-31530-·-ytdl-orgyoutube-dl)
+    - [What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium](#what-is-conscious-consumerism-who-is-a-conscious-consumer-medium)
+    - [Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen](#book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen)
+    - [1984 Kundera The Tragedy of Central Europe](#1984-kundera-the-tragedy-of-central-europe)
+    - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution-1)
+    - [On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot](#on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot)
+    - [Steampipe: select * from cloud;](#steampipe-select--from-cloud)
+    - [Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174)](#tom-holland-on-history-christianity-and-the-value-of-the-countryside-ep-174)
 
 <!-- /TOC -->
 ### 1. JAN 2023
@@ -435,13 +466,9 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### A Devastating Moment of Clarity in Ukraine - Tablet Magazine
 * <https://www.tabletmag.com/sections/news/articles/devastating-moment-clarity-ukraine>
-* 
-> 
 
 #### The Future of the Modern Data Stack in 2023 
 * <https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2023-b08c2aed04e2>
-* 
-> 
 
 #### Thinking about Tracking Design, Part 1: What is tracking anyways?
 * <https://randallhelms.substack.com/p/thinking-about-tracking-design-part?utm_source=post-email-title&publication_id=1240188&post_id=105545888&isFreemail=true&utm_medium=email>
@@ -451,14 +478,12 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Louis CK- Back to the Garden
 * <https://www.bitchute.com/video/ImMGnr6VfMGr/>
 * His first standup I did not pay for (sorrry Louis), the provocations are great, I can't help, however, but to think if some deeper mechanism responsible also for his art is not too affected by his enemies. Jordan Peterson's appearance on Lex Friedman's show left a weird taste in my mouth and I am attributing his pro-russian stance as being in a wrong battle against woke for way too long.
-> 
 
 #### : We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
 * <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
 
 #### How the War in Ukraine Ends 
-* <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
-* 
+* <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends> 
 > At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
 
 #### The Great Feminization of the American University 
@@ -473,8 +498,6 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### Manhole cover - Wikipedia
 * <https://en.wikipedia.org/wiki/Manhole_cover#Shape>
-* 
-> 
 
 #### PEP 435 – Adding an Enum type to the Python standard library 
 * <https://peps.python.org/pep-0435/>
@@ -483,13 +506,9 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### enum — Support for enumerations — Python 3.11.2 documentation
 * <https://docs.python.org/3/library/enum.html#creating-an-enum>
-* 
-> 
 
 #### Python list of lists from enum - Stack Overflow
 * <https://stackoverflow.com/questions/42912518/python-list-of-lists-from-enum>
-* 
-> 
 
 #### We’re Missing a Key Driver of Teen Anxiety - The Atlantic
 * <https://www.theatlantic.com/newsletters/archive/2023/03/teen-anxiety-elite-schools-sat-act-paradox-wealthy-nations/673307/>
@@ -504,12 +523,9 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### How-To Find the Process ID Holding Open Ports 
 * <https://www.squintz.org/posts/how-t0-find-process-id-holding-ports-open/>
 * Great style, great care. 
-> 
 
 #### Is there a way to have a default value inside a dictionary in Python? - Stack Overflow
 * <https://stackoverflow.com/questions/71003828/is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python>
-* 
-> 
 
 #### Simple techniques for complex projects 
 * <https://seths.blog/2023/03/simple-techniques-for-complex-projects/>
@@ -524,27 +540,22 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Snowclone - Wikipedia
 * <https://en.wikipedia.org/wiki/Snowclone>
 * Love at the time of Cholera, Agency at the time of Anthropocene, etc.
-> 
 
 #### The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic
 * <https://www.theatlantic.com/science/archive/2023/03/covid-origins-research-raccoon-dogs-wuhan-market-lab-leak/673390/>
 * Example when reading Latour
-> 
 
 #### Mass converting .doc to .docx - Microsoft Community Hub
 * <https://techcommunity.microsoft.com/t5/microsoft-365/mass-converting-doc-to-docx/m-p/194462>
 * Thinking about the creation of a new zettelkasten for humanities
-> 
 
 #### Awakening from the Meaning Crisis - YouTube
 * <https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ>
 * interesting, perhaps?
-> 
 
 #### Awakening from the Meaning Crisis
 * <https://www.youtube.com/watch?v=SNcJ79qPIg8>
 * Brilliant!
-> 
 
 #### Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation
 * <https://codefellows.github.io/sea-python-401d7/lectures/mock.html>
@@ -570,12 +581,10 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Ezra Klein: This Changes Everything 
 * <https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html>
 * The argument in this essay nudged me significantly to apply for a phD in Sociology. Let's see...
-> 
 
 #### Pynecone: The easiest way to build web apps.
 * <https://pynecone.io/>
 * I've been automating workflows using CLI tools and it's working great for me. However terminal is scary for non-programmers; this could be a way to migrate python scripts to web apps rather quickly. 
-> 
 
 #### The Impact of AI on Productivity - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/03/the-impact-of-ai-on-productivity.html>
@@ -585,13 +594,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Full interview with Clifford Geertz - part one - YouTube
 * <https://www.youtube.com/watch?v=3dQDx3axrDs>
 * Clifford Geertz in person, scientist, poet, adventurer.
-> 
 
 #### Khan Academy integrates GPT-4 as every student’s customized tutor 
 * <https://news.ycombinator.com/item?id=35155684>
 * Education (personal AI assistant) usecase has been mentioned repeatedly as one of the imaginable benefits (see Sam Altman talking with Kara Swisher in the second half of March 2023), but I am not convinced, I am not convinced. I can imagine it helping me interacting over a long complicated difficult text, for example what Mortimer Adler called "synoptic reading" (comparing to texts I don't know about). Curious.  
-> 
 
+
+### April2013
 #### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
 * <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
 * Podcast with the head of OpenAI, but the most memorable is Kara's view on risk and a generational take. Altman is another young optimist, similar to what we have seen with the coming of the internet in the 90s, and there were many downsides (weaponization) that they were not treating properly. Not that Altman does not say - we wanted this to be a government project and it failed or that he is not 'building in public' to make everyone every (and others join) or that he is pro-regulatory. His view of humanity as one big technical revolution should be mitigated by reading some of Timothy Snyder's books. 
@@ -636,3 +645,94 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://en.wikipedia.org/wiki/State_diagram>
 * Learning about Circles and Arrows as Shannon's way to think visualizing computation already in 1949; learning about state machines and state diagrams. 
 > State diagrams can be used to graphically represent finite-state machines (also called finite automata). This was introduced by Claude Shannon and Warren Weaver in their 1949 book The Mathematical Theory of Communication. Another source is Taylor Booth in his 1967 book Sequential Machines and Automata Theory. Another possible representation is the state-transition table.
+
+#### The philosopher: A conversation with Grady Booch 
+* <https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html>
+* Saving this conversation only because it's done by the creator of UML, which was a big deal in the 1990s and Uncle Bob talks with him a great deal and I've seen Grady conducting oral history museum for Computing History Museum. 
+> 
+
+#### you, skeptic: 
+* <https://twitter.com/geoffreylitt/status/1637592619269214209>
+
+#### (1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs will have on the nature of software distribution and end-user programming? some early, v tentative thoughts: 1/ / Twitter
+* <https://twitter.com/geoffreylitt/status/1637592619269214209>
+* A great analogy of AI-based software with Spreadsheeds. Not convinced, surely impressed. 
+> ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 " ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 "
+
+#### (1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs
+* <https://twitter.com/geoffreylitt/status/1637592619269214209>
+* A great analogy of AI-based software with Spreadsheeds. Not convinced, surely impressed. 
+> ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 " Yeah totally true... also all qualities which also apply to spreadsheets vs "real apps"! 3/
+
+#### Thinking about Tracking Design, Part 2: Why track in the first place?
+* <https://randallhelms.substack.com/p/thinking-about-tracking-design-part-2-why-track?utm_source=post-email-title&publication_id=1240188&post_id=104644747&isFreemail=true&utm_medium=email>
+* I really enjoyed the first part when the popular image of tracking was framed as a scene from the movie Das Leben den Anderen. This did not contain such a gem, but boiling down the purpose of tracking to the discovery of 1) origins 2) intentions works elegantly and is supplied with clear illustrations. 
+> Here’s a practical example to help you understand how this traffic information is essential: let’s say you run an ecommerce store for sneakers and suddenly you have an unexpected burst of sales on a particular item; you normally sell 10 pairs a week, and suddenly you get orders for 100 in a day! What happened? You turn to your traffic data, and you find that most of the new orders came from people who had gone directly to the page via a link on a blog for sneaker collectors. With this information you can reach out to the blog owner and discuss potential business opportunities, for example some kind of affiliate deal or a collaboration.Without the detailed traffic data, all you would have known was that you had a big spike in orders, and … that’s it! There would be no way to really capitalize on it.
+
+#### Waiting for the Betterness Explosion 
+* <https://www.cspicenter.com/p/waiting-for-the-betterness-explosion#details>
+* It's great so see intellectualls live, I believe. 
+> What’s the heart of the problem with the idea that there’s going to be something that’s so smart, it makes us feel like ants, and that basically it can do whatever it wants and we can’t help to control it and foresee it, and we’re all going to be at its mercy and potentially die. What’s the argument against this?Robin: I think you’re right that there’s this very common phenomenon whereby most people have some sort of default views about the world and history and the future, and then some smaller groups come to a contrary view, that is a view that on the face of it would seem unlikely from some broad considerations. And then they develop a lot of detailed discussion of that, and then they try to engage that with the larger world, and then what they get usually is a big imbalance of attention, in the sense that they...Think of 9/11 truthers or something, right? They’re going to talk about this building and this piece of evidence and this time and this testimony or something, and people on the outside are just going to be talking mainly about the very idea of this thing, and is this at all plausible? And the insiders are going to be upset that they don’t engage all their specific things, and they introduce terminology and concepts and things like that, and they have meetings or they invite each other to talk a lot. And the outsiders are just at a different level of, does this really make much sense at all?And then, when the insiders are trying to get more attention and the outsiders, some of them will engage. There’ll be a difference between some very high profile people who just give very dismissive comments, versus lower status people who might look at their stuff in more detail, and they’re just going to be much more interested in engaging that first group than the second because the fact that somebody high profile even discussed them is something worthy of note. And then, the fact that this person was very dismissive and doesn’t really know much of their details, in their mind supports their view that they’re right and the other people are just neglecting them.So here, the key thing to notice is just, on the face of it, they’re postulating something that seems a priori pretty unlikely relative to a background of the past and other sorts of things. That would be the crux of the main response, is to say, look, what are you proposing here, and how would that look if we had seen it in the past? How unusual would that be?
+
+\\#### 
+* <f>
+
+#### https://andrew-quinn.me/fzf/
+* <https://andrew-quinn.me/fzf/>
+* AI demonstrated the power of plain text to everyone, something that programmers settled in terminals know itimatelly and this is a great empowerement even for terminal dwellers. 
+> 
+
+#### Adobe Firefly: AI Art Generator 
+* <https://news.ycombinator.com/item?id=35246139>
+* I believe Ben Thomson's thesis about 'The end of beginning' (of computing history via stabilization of the number of major players) is correct and this seems like a good illustration. Also with a poignant HN comment.
+> What this reinforces is that unlike with previous big innovations (cloud, iphone, etc), incumbents will not sit on their laurels with the AI wave. They are aggressively integrating it into their products which (1) provides a relatively cheap step function upgrade and (2) keeps the barrier high for startups to use AI as their wedge.I attribute the speed at which incumbents are integrating AI into their products to a couple things:* Whereas AI was a hand-wavey marketing term in the past, it's now the real deal and provides actual value to the end user.* The technology and DX with integrating w/products from OpenAPI, SD, is good.* AI and LLMs are capturing a lot of attention right now (as seen easily by how often they pop up on HN these days). It's in the zeigeist so you get a marketing boost for free.
+
+#### Define Wokeness! Or how you shall know a word by the company it keeps
+* <https://davidrozado.substack.com/p/wo>
+* Linguistics visualized and data employed in very elegant manner. 
+> 
+
+#### The cloud backlash has begun: Why big data is pulling compute back on premises 
+* <https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/?guccounter=1>
+* Combine with https://medium.com/@laurengreerbalik/customer-empathy-is-dead-10f412782b5e
+> 
+
+#### [YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl
+* <https://github.com/ytdl-org/youtube-dl/issues/31530#issuecomment-1435477247>
+* How to Install Youtube DL with a Single command? 
+> pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
+
+#### What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium
+* <https://welearnwegrow.medium.com/lets-define-conscious-living-for-the-21st-century-336fcba332dc>
+* Looking for concepts like cultural mainstreaming, cultural appropriation and the rise of reuse economy. 
+> 
+
+#### Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen 
+* <https://blogs.lse.ac.uk/lsereviewofbooks/2021/07/13/book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen/>
+* Anothe catch-phrase of critical sociology and the critique of conscious consumerism as consciousness hygiene. 
+> 
+
+#### 1984 Kundera The Tragedy of Central Europe
+* <http://www.kx.hu/kepek/ises/anyagok/Kundera_tragedy_of_Central_Europe.pdf>
+* I regard this as a bit pompous, and a bit nostalgic, and truly elegant as Kundera usually is.
+> The last direct personal experience of the West that Central European countries remember isthe period from 1918 to 1938. Their picture of the West, then, is of the West in the past, of aWest in which culture had not yet entirely bowed out.With this in mind, I want to stress a significant circumstance: the Central European revoltswere not nourished by the newspapers, radio, or television—that is, by the "media." Theywere prepared, shaped, realized by novels, poetry, theater, cinema, historiography, literaryreviews, popular comedy and cabaret, philosophical discussions—that is, by culture.[15] Themass media—which, for the French and Americans, are indistinguishable from whatever theWest today is meant to be—played no part in these revolts (since the press and televisionwere completely under state control). While still shaken by this triply tragic event which the invasion of Prague represented, Iarrived in France and tried to explain to French friends the massacre of culture that had takenplace after the invasion: "Try to imagine! All of the literary and cultural reviews wereliquidated! Every one, without exception! That never happened before in Czech history, noteven under the Nazi occupation during the war." Then my friends would look at me indulgently with an embarrassment that I understood onlylater. When all the reviews in Czechoslovakia were liquidated, the entire nation knew it, andwas in a state of anguish because of the immense impact of the event.[17] If all the reviews inFrance or England disappeared, no one would notice it, not even their editors. In Paris, evenin a completely cultivated milieu, during dinner parties people discuss television programs,not reviews. For culture has already bowed out. Its disappearance, which we experienced inPrague as a catastrophe, a shock, a tragedy, is perceived in Paris as something banal andinsignificant, scarcely visible, a non-event.
+
+#### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
+* <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
+* Sam Altman tells a story of the OpenAI in - for me - a new way, making me think of it as a "New Netscape"
+> Now, the reason we’re doing this work is because we want to minimize those downsides while still letting society get the big upsides, and we think it’s very possible to do that. But it requires, in our belief, this continual deployment in the world, where you let people gradually get used to this technology, where you give institutions, regulators, policy-makers time to react to it, where you let people feel it, find the exploits, the creative energy the world will come up with — use cases we and all the red teamers we could hire would never imagine.And so we want to see all of the good and the bad, and figure out how to continually minimize the bad and improve the benefits. You can’t do that in the lab. This idea that we have, that we have an obligation and society will be better off for us to build in public, even if it means making some mistakes along the way — I think that’s really important.
+
+#### On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot
+* <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot.html>
+* An Optimist take, making me think about possibilities to help many hypochonders today. As you know, the google image search for a symptom does not help of course. Having an assistance running an initial analytics of a picture of a rash or something "suspicious" on your body? Or the sound of the cought of your child? LGTM!
+> Hoffman: But it isn’t that I deny that there aren’t challenges with currently deployed technology or being-developed technology, but I think that shaping the technology is the solution and that the solution can be so much better. So, for example, let’s talk about AI. If you say, well, I have a line of sight right now to every smart phone having an AI tutor and an AI doctor, that could be for everybody. Everybody in the entire world who has a smart phone. Delaying that is a huge cost in human suffering. Like, that’s a hugely valuable —
+
+#### Steampipe: select * from cloud; 
+* <https://steampipe.io/blog/introducing-steampipe>
+* Yet another embrace of SQL. Thistime +CLI to remove context switching for technical teams. 
+> 
+
+#### Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174) 
+* <https://conversationswithtyler.com/episodes/tom-holland/>
+* He says many wonderful things and this episode introduced me to (since then) my favorite 'The Rest is History' podcast, but the celebration of curiosity on the side of Herodotus is possibly the most memorable one. 
+> What I learned about modernity from Herodotus is that I think the quality about Herodotus that I have always loved — he’s always been my favorite writer, not just my favorite ancient writer but my favorite writer. He was the first classic writer I read. I’ve re-read him, I’ve reinterpreted him, I’ve translated him.I realized, as I was writing it, what I loved was the infinite curiosity that he has about everything. His writings are called Historia, which in Greek basically means researches, inquiries. It doesn’t mean history in the sense that we have. He is writing about the past. He says that this is his aim, but he’s not exclusively writing about the past.He’s writing about wild animals, he’s writing about rivers, he’s writing about wonders in different lands. He’s writing about how Egyptian men squat to go to the toilet and Egyptian women stand up, and how Scythians get stoned on bongs, and all kinds of extraordinary, mad, weird, fascinating stuff. He was called, in antiquity, the father of lies because there were lots of people who felt that he was just making it all up. I think that’s incredibly harsh. Often, many of the things that he was doubted for, he’s been vindicated.I was translating Herodotus, and I was able to use the internet as I was doing it. If there was a subject’s name or something, I wouldn’t have to go to a book to look it up. I could look it up online. I realized — it brought home to me how arrogant it is for us to sit in judgment on him when he was the first person to be doing this. He was the first person to be pursuing the infinite curiosity he felt about the vast expanse of everything to its absolute limits and so, of course, he got things wrong. We would. He didn’t have the internet. He didn’t have an example of Herodotus. Herodotus didn’t exist. There was no Herodotus before Herodotus. He’s doing it for the first time.I think that the sense of curiosity that the modern world is all about — we have access to more knowledge than is beyond the wildest dreams of previous generations, and we can follow it wherever we want.Herodotus, for me, stands at the head of that tradition, the head of that fascination with the vastness, the infinitude of the world and the universe that we inhabit. I look at modernity, and Herodotus sharpens for me a sense of how extraordinary and wonderful it is that we can know everything that we do, and that we have access to all the sources of information that we have. It’s a wonderful, wonderful thing, an incredible privilege of being alive in 2023.
