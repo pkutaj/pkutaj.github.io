@@ -766,3 +766,24 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://seths.blog/2023/04/the-natural-size/>
 * As if written by a Renaissance thinker
 > No matter how many people come over for dinner, you’re only going to be able to engage with a few.And no matter how big the crowd in the arena, the musicians can only see the faces of a few hundred.An investor can only be engaged and smart about a very small number of companies.And it doesn’t matter how many students are in the class, the teacher is only going to be able to get in sync with a few.Microphones, network connections and other forms of scale are a miracle, but sooner or later, our brains get in the way.
+
+#### War Diary by Jean Malaquais 
+* <https://www.goodreads.com/book/show/24261955-war-diary>
+* Great read, in Czech - only? - about the sudden disconnect from daily existence in Paris and being thrown into the mass of ordinary soldiers marching to the quick French defeat in 1939. Poetic, disturbing. Mailer was Malaquis to be French Orwell.
+> 
+
+#### 354–418
+* <https://en.wikipedia.org/wiki/Pelagius>
+
+#### Pelagius - Wikipedia
+* <https://en.wikipedia.org/wiki/Pelagius>
+* Tom Holland talks about him Extensivelly in the podcast about, paradoxically, Communism (the rest is history). 
+> Pelagius (/pəˈleɪdʒiəs/; c. 354–418) was a Romano-British theologian known for promoting a system of doctrines (termed Pelagianism by his opponents) which emphasized human choice in salvation and denied original sin.[1] Pelagius was accused of heresy at the synod of Jerusalem in 415 and his doctrines were harshly criticized by Augustine of Hippo, especially the Pelagian views about humankind's good nature and individual responsibility for choosing ascetism.[2] Pelagius especially stressed the freedom of human will.[3] Very little is known about the personal life and career of Pelagius.[4]
+
+#### scheme - What is the definition of 
+* <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
+
+#### scheme - What is the definition of natural recursion? - Stack Overflow
+* <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
+* Result of my search for the typization and etymology of the word 'natural' as part of 'How to Code: Simple data' Course.
+> "Natural" (or just "Structural") recursion is the best way to start teaching students about recursion. This is because it has the wonderful guarantee that Joshua Taylor points out: it's guaranteed to terminate[*]. Students have a hard enough time wrapping their heads around this kind of program that making this a "rule" can save them a huge amount of head-against-wall-banging.When you choose to leave the realm of structural recursion, you (the programmer) have taken on an additional responsibility, which is to ensure that your program halts on all inputs; it's one more thing to think about & prove.
