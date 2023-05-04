@@ -108,7 +108,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [The Impact of AI on Productivity - Marginal REVOLUTION](#the-impact-of-ai-on-productivity---marginal-revolution)
     - [Full interview with Clifford Geertz - part one - YouTube](#full-interview-with-clifford-geertz---part-one---youtube)
     - [Khan Academy integrates GPT-4 as every student’s customized tutor](#khan-academy-integrates-gpt-4-as-every-students-customized-tutor)
-- [April2013](#april2013)
+- [APR 2013](#apr-2013)
     - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
     - [3: Baggage](#3-baggage)
     - [How will AI transform childhood? - Marginal REVOLUTION](#how-will-ai-transform-childhood---marginal-revolution)
@@ -119,9 +119,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [Anki-fy Your Life - by Moses Liew - About to Learn](#anki-fy-your-life---by-moses-liew---about-to-learn)
     - [State diagram - Wikipedia](#state-diagram---wikipedia)
     - [The philosopher: A conversation with Grady Booch](#the-philosopher-a-conversation-with-grady-booch)
-    - [you, skeptic:](#you-skeptic)
-    - [(1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs will have on the nature of software distribution and end-user programming? some early, v tentative thoughts: 1/ / Twitter](#1-geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating-the-effect-llms-will-have-on-the-nature-of-software-distribution-and-end-user-programming-some-early-v-tentative-thoughts-1--twitter)
-    - [(1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs](#1-geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating-the-effect-llms)
+    - [Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...](#geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating)
     - [Thinking about Tracking Design, Part 2: Why track in the first place?](#thinking-about-tracking-design-part-2-why-track-in-the-first-place)
     - [Waiting for the Betterness Explosion](#waiting-for-the-betterness-explosion)
     - [https://andrew-quinn.me/fzf/](#httpsandrew-quinnmefzf)
@@ -136,6 +134,25 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot](#on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot)
     - [Steampipe: select * from cloud;](#steampipe-select--from-cloud)
     - [Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174)](#tom-holland-on-history-christianity-and-the-value-of-the-countryside-ep-174)
+    - [Dana Gioia on Becoming an Information Billionaire (Ep. 119)](#dana-gioia-on-becoming-an-information-billionaire-ep 119)
+    - [Existential risk, AI, and the inevitable turn in human history - Marginal REVOLUTION](#existential-risk-ai-and-the-inevitable-turn-in-human-history---marginal-revolution)
+    - [Augmenting Long-term Memory](#augmenting-long-term-memory)
+    - [The age of average — Alex Murrell](#the-age-of-average--alex-murrell)
+    - [become a 1000x engineer or die tryin'](#become-a-1000x-engineer-or-die-tryin)
+    - [The natural size](#the-natural-size)
+    - [War Diary by Jean Malaquais](#war-diary-by-jean-malaquais)
+    - [354–418](#354418)
+    - [Pelagius - Wikipedia](#pelagius---wikipedia)
+    - [scheme - What is the definition of](#scheme---what-is-the-definition-of)
+    - [scheme - What is the definition of natural recursion? - Stack Overflow](#scheme---what-is-the-definition-of-natural-recursion---stack-overflow)
+    - [Pairing with GPT-4 · Fly](#pairing-with-gpt-4-·-fly)
+    - [Tom Peters](#tom-peters)
+    - [coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)](#coursera-dledx-dl-a-simple-tool-to-download-video-lectures-from-edxorg-and-other-openedx-sites)
+    - [Effective Python Testing With Pytest – Real Python](#effective-python-testing-with-pytest--real-python)
+    - [The Importance of Being Earnest - The 'Handbag' scene - YouTube](#the-importance-of-being-earnest---the-handbag-scene---youtube)
+    - [the rest is history - Podgraph Search](#the-rest-is-history---podgraph-search)
+    - [48. The French Revolution](#48-the-french-revolution)
+    - [AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson](#ai-nil-and-zero-trust-authenticity--stratechery-by-ben-thompson)
 
 <!-- /TOC -->
 ### 1. JAN 2023
@@ -600,7 +617,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Education (personal AI assistant) usecase has been mentioned repeatedly as one of the imaginable benefits (see Sam Altman talking with Kara Swisher in the second half of March 2023), but I am not convinced, I am not convinced. I can imagine it helping me interacting over a long complicated difficult text, for example what Mortimer Adler called "synoptic reading" (comparing to texts I don't know about). Curious.  
 
 
-### April2013
+### APR 2013
 #### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
 * <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
 * Podcast with the head of OpenAI, but the most memorable is Kara's view on risk and a generational take. Altman is another young optimist, similar to what we have seen with the coming of the internet in the 90s, and there were many downsides (weaponization) that they were not treating properly. Not that Altman does not say - we wanted this to be a government project and it failed or that he is not 'building in public' to make everyone every (and others join) or that he is pro-regulatory. His view of humanity as one big technical revolution should be mitigated by reading some of Timothy Snyder's books. 
@@ -651,18 +668,11 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Saving this conversation only because it's done by the creator of UML, which was a big deal in the 1990s and Uncle Bob talks with him a great deal and I've seen Grady conducting oral history museum for Computing History Museum. 
 > 
 
-#### you, skeptic: 
-* <https://twitter.com/geoffreylitt/status/1637592619269214209>
-
-#### (1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs will have on the nature of software distribution and end-user programming? some early, v tentative thoughts: 1/ / Twitter
+#### Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...
 * <https://twitter.com/geoffreylitt/status/1637592619269214209>
 * A great analogy of AI-based software with Spreadsheeds. Not convinced, surely impressed. 
 > ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 " ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 "
 
-#### (1) Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating the effect LLMs
-* <https://twitter.com/geoffreylitt/status/1637592619269214209>
-* A great analogy of AI-based software with Spreadsheeds. Not convinced, surely impressed. 
-> ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 " Yeah totally true... also all qualities which also apply to spreadsheets vs "real apps"! 3/
 
 #### Thinking about Tracking Design, Part 2: Why track in the first place?
 * <https://randallhelms.substack.com/p/thinking-about-tracking-design-part-2-why-track?utm_source=post-email-title&publication_id=1240188&post_id=104644747&isFreemail=true&utm_medium=email>
@@ -787,3 +797,68 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
 * Result of my search for the typization and etymology of the word 'natural' as part of 'How to Code: Simple data' Course.
 > "Natural" (or just "Structural") recursion is the best way to start teaching students about recursion. This is because it has the wonderful guarantee that Joshua Taylor points out: it's guaranteed to terminate[*]. Students have a hard enough time wrapping their heads around this kind of program that making this a "rule" can save them a huge amount of head-against-wall-banging.When you choose to leave the realm of structural recursion, you (the programmer) have taken on an additional responsibility, which is to ensure that your program halts on all inputs; it's one more thing to think about & prove.
+
+#### Pairing with GPT-4 · Fly
+* <https://fly.io/ruby-dispatch/pairing-with-gpt-4/>
+* A great report from writing code with an AI assistant. 
+> This type of prompt is something that feels more like an experienced developer talking to a developer who might just be starting out. It gives us back some more reasonable code.You Still Need to Know What You're DoingIt's Great at Jumping ContextsIt Makes Up Seemingly Plausible Answers That Could Be Wrong.It Gets Stuck When the "contexts" Get Too Large, You Still Need to Know What You're DoingIt's Great at Jumping ContextsIt Makes Up Seemingly Plausible Answers That Could Be Wrong.It Gets Stuck When the "contexts" Get Too Large,
+
+#### Tom Peters 
+* <https://seths.blog/2023/03/tom-peters/>
+* I remember listening Peter's on a podcast with Kara Swisher
+> I’d have to characterize it with a quick review of the story. “In Search of Excellence” was published in 1982. The research began in 1978 or so. The Americans, of course, came out of World War II kings of the hill with nobody even in second place, and then the Japanese had the audacity to do these things like build cars that work, and they got us in ship building and they got us in steel, but who the hell cares about that? The car is intimate to the American life fantasy. We were second in a way.There were a couple of guys at Harvard, Bob Hayes and Bill Abernathy, and they wrote a single article in the Harvard Business Review that was called “Managing Our Way to Economic Decline,” and they said too much marketing, too much finance, not enough product quality. We dittoed that in a way, but there was another part of the story that was interesting as well.I was at McKinsey at the time, and McKinsey was getting beaten up for the first time in its history by the Boston Consulting Group, and our managing director said, “We’ve got to have something to talk about.” He had all these famous projects on operations and strategy, and then he called me in. I was a junior person, which was bizarre. I just got my PhD from Stanford in organization effectiveness. I think that was the reason. He said, “Look,” he said, “We’re the smartest people in the world and we design the smartest strategies in the world and then our clients get out-implemented. Whose problem is it? What the hell is going on?”Our fundamental hypothesis was, yeah, the Americans are getting the crap beaten out of us, but there’s got to be some places that work. We went to some obvious places like IBM that at that point was so far No. 1 it wasn’t funny. We went to places — and this is weird to say in 2018 — I went to St. Paul on a cold day and talked to 3M. Nothing had been written about 3M. Also at the time, we went to a middle-sized company or a large middle-sized company. I myself as co-author. Bob Waterman at McKinsey office in San Francisco where the weirdos in theory were, according to McKinsey. We went 30 miles down the road and talked to this funny little company that nobody had ever heard of, and it’s reasonably well-known today, and it’s called Hewlett-Packard.The lid comes off the whole thing. There are a million ways to describe that, but at any rate, so we wrote this book called “In Search of Excellence.”
+
+#### coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)
+* <https://github.com/coursera-dl/edx-dl>
+* A great project for OSSU. Wondefing if it's still working. 
+> edx-dl is a simple tool to download videos and lecture materials from Open edX-based sites. It requires a Python interpreter (>= 2.7) and very few other dependencies. It is platform independent, and should work fine under Unix (Linux, BSDs etc.), Windows or Mac OS X.
+
+#### Effective Python Testing With Pytest – Real Python
+* <https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies>
+* TBD, need to learn how to test for side effects with fixtures.
+> 
+
+#### The Importance of Being Earnest - The 'Handbag' scene - YouTube
+* <https://www.youtube.com/watch?v=F5bPnllVq2Y&t=434s>
+*  I confess I feel somewhat bewildered by what you have just told me. To be born, or at any rate bred, in a hand-bag, whether it had handles or not, seems to me to display a contempt for the ordinary decencies of family life that reminds one of the worst excesses of the French Revolution. And I presume you know what that unfortunate movement led to? As for the particular locality in which the hand-bag was found, a cloak-room at a railway station might serve to conceal a social indiscretion – has probably, indeed, been used for that purpose before now – but it could hardly be regarded as an assured basis for a recognized position in good society.
+> 
+
+#### the rest is history - Podgraph Search
+* <https://search.podgraph.io/search?q=the%20rest%20is%20history>
+* finally transcripts for my new favorite podcast!
+> 
+
+#### 48. The French Revolution 
+* <https://play.acast.com/s/the-rest-is-history-podcast/48.thefrenchrevolution>
+* Great take, from England, with humour, full of opinionated, moderate ideas and details. 
+> Now, the French Revolution is not one event. It's a process. And it's not something that anybody plans. It's not a protest about inequality, which people often think. And nor is it an uprising of the poor against the rich. It's none of those things. Where it comes from, I guess, is that France has got three interlinked problems. One is there's a general kind of economic depression. There are economic discontent. Its population has massively exploded by far the most popular nation in Europe. But it's got huge unemployment. There's not enough jobs for everybody. Food prices have gone through the roof. There's not enough food being produced. So in other words, you've got a lot of people, let's say in Paris, you've got a third of the population of Paris. These are kind of young people. So they're in their 20s and 30s. They don't have a job. And they don't have any food. And they cross about it. And sort of discontent is rising. So that's the first thing. Second thing is that France is heavily indebted. Because of all these wars it's been fighting. Now, it's not the only country in Europe with debts. But it finds it's very hard to service its debts. It can't. Its tax raising system and its sort of political system is incredibly antiquated and complicated. And the king, Louis XVI, can't get enough money to pay his debts. So France is basically on the verge of bankruptcy. And the third thing that sort of compounds all that is just bad luck. They have a series of terrible harvests. There's a really, really bad weather. Terrible winter in 1788, 89. So people are starving on the streets.
+
+#### AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson
+* <https://stratechery.com/2023/ai-nil-and-zero-trust-authenticity/>
+* A great summary of the advent of multi-factor authentication and IAM authentication methods called 'zero trust authenticity' that succeeded the traditional Intranet | Firewall | Internet structure we know from corporations (where it still applies, I believe) in the course of 2010s due to the arrival of smartphones + cloud + SaaS. 
+> n this model trust is at the level of the verified individual: access (usually) depends on multi-factor authentication (such as a password and a trusted device, or temporary code), and even once authenticated an individual only has access to granularly-defined resources or applications. This model solves all of the issues inherent to a castle-and-moat approach:If there is no internal network, there is no longer the concept of an outside intruder, or remote workerIndividual-based authentication scales on the user side across devices and on the application side across on-premises resources, SaaS applications, or the public cloud (particularly when implemented with single-sign on services like Okta or Azure Active Directory).In short, zero trust computing starts with Internet assumptions: everyone and everything is connected, both good and bad, and leverages the power of zero transaction costs to make continuous access decisions at a far more distributed and granular level than would ever be possible when it comes to physical security, rendering the fundamental contradiction at the core of castle-and-moat security moot.
+
+#### Everything Is A Practice - by Scott Gilbertson
+* <https://luxagraf.net/essay/everything-is-a-practice>
+* The read of the year. Beautiful, backed by existence and suggesting the only personal spirituality that has ever appealed to my weird soul. 
+> Everything is a Practice.A practice is the disciplined repetition of what you know with enough experimentation in that repetition to unlock those things you don’t yet know. It is ever-accumulating, and never-ending. It is sometimes painful, but that is the way.Individual projects may come to an end, but the practices that made them possible do not. You may finish writing a book, or reach the end of a run, or understand how to fix an engine, but there is no point where you’ve written enough, you’ve worked out enough, you’ve learned enough. The practices never end, which means you get to keep improving.The practice leaves a path behind you to show you how far you have come and carves out a path ahead of you to show you where you can go.The practices of your life are your life. They form the path you follow, they are how you become what you want to become, they make you who you are and who the world wants you to be. You are not solely in charge of your practices or the path they form. The world gets a vote too. In the end that’s part of the practice too — adjusting to feedback from the world, your body, your life, your family, your friends. All of these things are part of the practice, all of them inform it.
+
+#### Age of Invention: The Bourgeois Supremacy
+* <https://antonhowes.substack.com/p/age-of-invention-the-bourgeois-supremacy>
+* The Economist started, iirc, as part of the initiative against the corn laws, i.e. as one of the initial liberal initiatives. 
+> ut when did England start seeing itself as a primarily commercial nation? When did the interests of its merchants and manufacturers begin to hold sway against the interests of its landed aristocracy? The early nineteenth century certainly saw major battles between these competing camps. When European trade resumed in 1815 after the Napoleonic Wars, an influx of cheap grain threatened the interests of the farmers and the landowners to whom they paid rent. Britain’s parliament responded by severely restricting grain imports, propping up the price of grain in order to keep rents high. These restrictions came to be known as the Corn Laws (grain was then generally referred to as “corn”, nothing to do with maize). The Corn Laws were to become one of the most important dividing lines in British politics for decades, as the opposing interests of the cities — workers and their employers alike, united under the banner of Free Trade — first won greater political representation in the 1830s and then repeal of the Corn
+
+#### amazon web services - Downloading an entire S3 bucket? - Stack Overflow
+* <https://stackoverflow.com/questions/8659382/downloading-an-entire-s3-bucket>
+* Basic stuff, part of ticket handling, very popular answer. 
+> aws s3 sync s3://<source_bucket> <local_destination>
+
+#### paypal/data-contract-template: Template for a data contract used in a data mesh.
+* <https://github.com/paypal/data-contract-template/tree/main>
+* paypal embracing data contracting
+> 
+
+#### The Emergence of the Composable Customer Data Platform - The Databricks Blog
+* <https://www.databricks.com/blog/2022/06/24/the-emergence-of-the-composable-customer-data-platform.html>
+* On Composable VS Packaged CDPs
+> The term CDP was first introduced by David Rabb, a marketing technology consultant and industry analyst in April 2013. The piece titled "I've Discovered a New Class of System: the Customer Data Platform. Causata Is An Example," introduced the term CDP to the market for the first time.Tag management platforms were amongst the first to adopt this early definition of CDPs. In 2012, Google launched Google Tag Manager, a free tool allowing brands to manage their client-side web tracking. With a behemoth like Google releasing a free tool, household names in the tag management space no longer held the same value. They had to pivot their technology, focusing on data collection, a consolidated customer profile and activation through their integrations.CDPs were at the time seen as a solution to help brands build towards a single view of their customer and activate the data either through integrations with other tools or natively within their own tool's platform.So why aren't off-the-shelf CDPs the solution for every business?
