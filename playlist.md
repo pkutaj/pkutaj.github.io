@@ -110,7 +110,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [Khan Academy integrates GPT-4 as every student’s customized tutor](#khan-academy-integrates-gpt-4-as-every-students-customized-tutor)
 - [APR 2013](#apr-2013)
     - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
-    - [3: Baggage](#3-baggage)
+    - [Baggage On Georgia](#baggage-on-georgia)
     - [How will AI transform childhood? - Marginal REVOLUTION](#how-will-ai-transform-childhood---marginal-revolution)
     - [E.W.Dijkstra Archive: The Humble Programmer (EWD 340)](#ewdijkstra-archive-the-humble-programmer-ewd-340)
     - [The Microsoft Copilot future of work demo is incredible](#the-microsoft-copilot-future-of-work-demo-is-incredible)
@@ -141,9 +141,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [become a 1000x engineer or die tryin'](#become-a-1000x-engineer-or-die-tryin)
     - [The natural size](#the-natural-size)
     - [War Diary by Jean Malaquais](#war-diary-by-jean-malaquais)
-    - [354–418](#354418)
     - [Pelagius - Wikipedia](#pelagius---wikipedia)
-    - [scheme - What is the definition of](#scheme---what-is-the-definition-of)
     - [scheme - What is the definition of natural recursion? - Stack Overflow](#scheme---what-is-the-definition-of-natural-recursion---stack-overflow)
     - [Pairing with GPT-4 · Fly](#pairing-with-gpt-4-·-fly)
     - [Tom Peters](#tom-peters)
@@ -153,6 +151,16 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [the rest is history - Podgraph Search](#the-rest-is-history---podgraph-search)
     - [48. The French Revolution](#48-the-french-revolution)
     - [AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson](#ai-nil-and-zero-trust-authenticity--stratechery-by-ben-thompson)
+    - [Everything Is A Practice - by Scott Gilbertson](#everything-is-a-practice---by-scott-gilbertson)
+    - [Age of Invention: The Bourgeois Supremacy](#age-of-invention-the-bourgeois-supremacy)
+    - [amazon web services - Downloading an entire S3 bucket? - Stack Overflow](#amazon-web-services---downloading-an-entire-s3-bucket---stack-overflow)
+    - [paypal/data-contract-template: Template for a data contract used in a data mesh.](#paypaldata-contract-template-template-for-a-data-contract-used-in-a-data-mesh)
+    - [The Emergence of the Composable Customer Data Platform - The Databricks Blog](#the-emergence-of-the-composable-customer-data-platform---the-databricks-blog)
+- [MAY 2023](#may-2023)
+    - [AI isn't the app, it's the UI - Stack Overflow Blog](#ai-isnt-the-app-its-the-ui---stack-overflow-blog)
+    - [How to Design Programs 2nd Edition](#how-to-design-programs-2nd-edition)
+    - [To Supercharge Learning, Look to Play - Nautilus](#to-supercharge-learning-look-to-play---nautilus)
+    - [EA, AI, and the rationality community - Marginal REVOLUTION](#ea-ai-and-the-rationality-community---marginal-revolution)
 
 <!-- /TOC -->
 ### 1. JAN 2023
@@ -623,7 +631,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Podcast with the head of OpenAI, but the most memorable is Kara's view on risk and a generational take. Altman is another young optimist, similar to what we have seen with the coming of the internet in the 90s, and there were many downsides (weaponization) that they were not treating properly. Not that Altman does not say - we wanted this to be a government project and it failed or that he is not 'building in public' to make everyone every (and others join) or that he is pro-regulatory. His view of humanity as one big technical revolution should be mitigated by reading some of Timothy Snyder's books. 
 > 
 
-#### 3: Baggage 
+#### Baggage On Georgia
 * <https://www.economist.com/podcasts/2023/03/11/3-baggage>
 * Great podcast about Georgia and it's bleak future with the surreal visit of the musem of Stalin. 
 > n one sense, the war did not really begin in 2022. It did not even begin in Ukraine. It started the first time Vladimir Putin invaded one of Russia’s neighbours and got away with it. That was 15 years ago, in Georgia. And in the same place Joseph Stalin, author of the Soviet empire’s darkest chapter, was born.
@@ -646,7 +654,6 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN
 * <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391863>
 * Even though teachers are not going to be "replaced" easily, next to science is pedagogy/training one of the main advertised usecases, 
-> 
 
 #### Pinker on Alignment and Intelligence as a Magical Potion
 * <https://richardhanania.substack.com/p/pinker-on-alignment-and-intelligence>
@@ -666,7 +673,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### The philosopher: A conversation with Grady Booch 
 * <https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html>
 * Saving this conversation only because it's done by the creator of UML, which was a big deal in the 1990s and Uncle Bob talks with him a great deal and I've seen Grady conducting oral history museum for Computing History Museum. 
-> 
+
 
 #### Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...
 * <https://twitter.com/geoffreylitt/status/1637592619269214209>
@@ -684,13 +691,10 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * It's great so see intellectualls live, I believe. 
 > What’s the heart of the problem with the idea that there’s going to be something that’s so smart, it makes us feel like ants, and that basically it can do whatever it wants and we can’t help to control it and foresee it, and we’re all going to be at its mercy and potentially die. What’s the argument against this?Robin: I think you’re right that there’s this very common phenomenon whereby most people have some sort of default views about the world and history and the future, and then some smaller groups come to a contrary view, that is a view that on the face of it would seem unlikely from some broad considerations. And then they develop a lot of detailed discussion of that, and then they try to engage that with the larger world, and then what they get usually is a big imbalance of attention, in the sense that they...Think of 9/11 truthers or something, right? They’re going to talk about this building and this piece of evidence and this time and this testimony or something, and people on the outside are just going to be talking mainly about the very idea of this thing, and is this at all plausible? And the insiders are going to be upset that they don’t engage all their specific things, and they introduce terminology and concepts and things like that, and they have meetings or they invite each other to talk a lot. And the outsiders are just at a different level of, does this really make much sense at all?And then, when the insiders are trying to get more attention and the outsiders, some of them will engage. There’ll be a difference between some very high profile people who just give very dismissive comments, versus lower status people who might look at their stuff in more detail, and they’re just going to be much more interested in engaging that first group than the second because the fact that somebody high profile even discussed them is something worthy of note. And then, the fact that this person was very dismissive and doesn’t really know much of their details, in their mind supports their view that they’re right and the other people are just neglecting them.So here, the key thing to notice is just, on the face of it, they’re postulating something that seems a priori pretty unlikely relative to a background of the past and other sorts of things. That would be the crux of the main response, is to say, look, what are you proposing here, and how would that look if we had seen it in the past? How unusual would that be?
 
-\\#### 
-* <f>
 
 #### https://andrew-quinn.me/fzf/
 * <https://andrew-quinn.me/fzf/>
 * AI demonstrated the power of plain text to everyone, something that programmers settled in terminals know itimatelly and this is a great empowerement even for terminal dwellers. 
-> 
 
 #### Adobe Firefly: AI Art Generator 
 * <https://news.ycombinator.com/item?id=35246139>
@@ -700,12 +704,12 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Define Wokeness! Or how you shall know a word by the company it keeps
 * <https://davidrozado.substack.com/p/wo>
 * Linguistics visualized and data employed in very elegant manner. 
-> 
+
 
 #### The cloud backlash has begun: Why big data is pulling compute back on premises 
 * <https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/?guccounter=1>
 * Combine with https://medium.com/@laurengreerbalik/customer-empathy-is-dead-10f412782b5e
-> 
+
 
 #### [YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl
 * <https://github.com/ytdl-org/youtube-dl/issues/31530#issuecomment-1435477247>
@@ -715,12 +719,12 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium
 * <https://welearnwegrow.medium.com/lets-define-conscious-living-for-the-21st-century-336fcba332dc>
 * Looking for concepts like cultural mainstreaming, cultural appropriation and the rise of reuse economy. 
-> 
+
 
 #### Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen 
 * <https://blogs.lse.ac.uk/lsereviewofbooks/2021/07/13/book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen/>
 * Anothe catch-phrase of critical sociology and the critique of conscious consumerism as consciousness hygiene. 
-> 
+
 
 #### 1984 Kundera The Tragedy of Central Europe
 * <http://www.kx.hu/kepek/ises/anyagok/Kundera_tragedy_of_Central_Europe.pdf>
@@ -740,7 +744,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Steampipe: select * from cloud; 
 * <https://steampipe.io/blog/introducing-steampipe>
 * Yet another embrace of SQL. Thistime +CLI to remove context switching for technical teams. 
-> 
+
 
 #### Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174) 
 * <https://conversationswithtyler.com/episodes/tom-holland/>
@@ -782,16 +786,11 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Great read, in Czech - only? - about the sudden disconnect from daily existence in Paris and being thrown into the mass of ordinary soldiers marching to the quick French defeat in 1939. Poetic, disturbing. Mailer was Malaquis to be French Orwell.
 > 
 
-#### 354–418
-* <https://en.wikipedia.org/wiki/Pelagius>
 
 #### Pelagius - Wikipedia
 * <https://en.wikipedia.org/wiki/Pelagius>
 * Tom Holland talks about him Extensivelly in the podcast about, paradoxically, Communism (the rest is history). 
 > Pelagius (/pəˈleɪdʒiəs/; c. 354–418) was a Romano-British theologian known for promoting a system of doctrines (termed Pelagianism by his opponents) which emphasized human choice in salvation and denied original sin.[1] Pelagius was accused of heresy at the synod of Jerusalem in 415 and his doctrines were harshly criticized by Augustine of Hippo, especially the Pelagian views about humankind's good nature and individual responsibility for choosing ascetism.[2] Pelagius especially stressed the freedom of human will.[3] Very little is known about the personal life and career of Pelagius.[4]
-
-#### scheme - What is the definition of 
-* <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
 
 #### scheme - What is the definition of natural recursion? - Stack Overflow
 * <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
@@ -816,12 +815,11 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Effective Python Testing With Pytest – Real Python
 * <https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies>
 * TBD, need to learn how to test for side effects with fixtures.
-> 
 
 #### The Importance of Being Earnest - The 'Handbag' scene - YouTube
 * <https://www.youtube.com/watch?v=F5bPnllVq2Y&t=434s>
 *  I confess I feel somewhat bewildered by what you have just told me. To be born, or at any rate bred, in a hand-bag, whether it had handles or not, seems to me to display a contempt for the ordinary decencies of family life that reminds one of the worst excesses of the French Revolution. And I presume you know what that unfortunate movement led to? As for the particular locality in which the hand-bag was found, a cloak-room at a railway station might serve to conceal a social indiscretion – has probably, indeed, been used for that purpose before now – but it could hardly be regarded as an assured basis for a recognized position in good society.
-> 
+
 
 #### the rest is history - Podgraph Search
 * <https://search.podgraph.io/search?q=the%20rest%20is%20history>
@@ -862,6 +860,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.databricks.com/blog/2022/06/24/the-emergence-of-the-composable-customer-data-platform.html>
 * On Composable VS Packaged CDPs
 > The term CDP was first introduced by David Rabb, a marketing technology consultant and industry analyst in April 2013. The piece titled "I've Discovered a New Class of System: the Customer Data Platform. Causata Is An Example," introduced the term CDP to the market for the first time.Tag management platforms were amongst the first to adopt this early definition of CDPs. In 2012, Google launched Google Tag Manager, a free tool allowing brands to manage their client-side web tracking. With a behemoth like Google releasing a free tool, household names in the tag management space no longer held the same value. They had to pivot their technology, focusing on data collection, a consolidated customer profile and activation through their integrations.CDPs were at the time seen as a solution to help brands build towards a single view of their customer and activate the data either through integrations with other tools or natively within their own tool's platform.So why aren't off-the-shelf CDPs the solution for every business?
+
+### MAY 2023
 
 #### AI isn't the app, it's the UI - Stack Overflow Blog
 * <https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/>
