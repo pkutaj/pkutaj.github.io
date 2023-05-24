@@ -882,3 +882,63 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://marginalrevolution.com/marginalrevolution/2023/04/ea-ai-and-the-rationality-community.html>
 * Another great post on AI, filled with interesting ideas on how West Coast Movements (rationality community? EA?) are running the major AGI labs; how their teachings and worldviews (naive, perhaps) are driving them and how doomsters (they are not rationality/EA folks, I suppose) are pushing AI, hopefully, into the right hands (national security apparatus?)
 > To this day, the Doomsters are de facto the greatest accelerationists.  Have you noticed how the Democrats (or Republicans) “own” certain political issues?  For instance, voters trust the Democrats more with Social Security, and the mere mention of the topic helps them, even if a Republican has a good point to make.  Well, the national security establishment “owns” the ideas of existential risk and risk from foreign powers.  The more you talk about doomsday issues, the more AI risk gets slotted into their purview, for better or worse
+
+#### Rudolf II and His World: A Study in Intellectual History, 1576-1612 by R.J.W. Evans 
+* <https://www.goodreads.com/en/book/show/4401507>
+* An interesting, topical non-chronological take on one of the weirdest kings Europe has seen. The last flower of Renaissance in central Europe. Patron of artists and alchymists, inhabiting Prague, single, mysterious. 
+> ...the conflict which played itself out in the Hapsburg lands during these years was a political manifestation of the intellectual confrontation between the old guard and and their preoccupation with the mystical, spiritual and hermetic sciences, and the rise of a more rational and empirical view of the world. Rudolf, as the embodiment of the old philosophy, failed to grasp this profound shift in the prevailing climate and Professor Evans argues that it was this failure which led to his eventual tragic downfall.
+
+#### ChatPDF - Chat with any PDF!
+* <https://www.chatpdf.com/>
+* I was using this to help with the elementary and structural reading of sociological papers, but I can't say I'm impressed. The UI that I am impressed with is Bing Search, where I do a long conversation and copy out the summary with code examples and markdown tables. 
+> 
+
+#### 90% of My Skills Are Now Worth  - by Kent Beck
+* <https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0>
+* I am partially suprised by this take from Kent. Code is deterministic. AI is stochastic/probabilistic/non-deterministic (as a feature); there are tools to get to determinism (wolfram plugin) which I have not tested, but you have to intensify the critical thought when you work with the tool. And I hope it stays the same. Edge cases eat most of the time. Simply not convinced yet
+> Fourth, to everyone say, “Yeah, but ChatGPT isn’t very good,” I would remind you that technological revolutions aren’t about absolute values but rather growth rates. If I’m big & you’re small & you’re growing faster, then it’s a matter of time before you surpass me.
+
+#### Home - Coalesce
+* <https://coalesce.io/>
+* DBT competitor for to create and run datamodeling jobs on top of Snowflake, with both code and no-code, just like BEx Query Designer for SAP BW in my old days. 
+> 
+
+#### Mitchell's New Role at HashiCorp
+* <https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp>
+* A reason why, if buying stock, HaschiCorp would be the first one
+> 
+
+#### Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto
+* <https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting>
+* Personally a first look into methodical engineering practice behind prompting. 
+> "Prompt Engineering" emerged from the growth of language models to describe the process of applying prompting to effectively extract information from language models, typically for use in real-world applications.A lot of people who claim to be doing prompt engineering today are actually just blind prompting.1 "Blind Prompting" is a term I am using to describe the method of creating prompts with a crude trial-and-error approach paired with minimal or no testing and a very surface level knowedge of prompting. Blind prompting is not prompt engineering.There is also a lot of skepticism about whether prompt engineering can truly be described as "engineering" or if it's just "witchcraft" spouted by hype-chasers. I think in most cases the skepticism is rooted in the fact that a lot of tweets and blog posts I've seen claiming to be on prompt engineering are really at best a thin layer above blind prompting.
+
+#### Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation 
+* <https://www.cambridge.org/core/journals/american-political-science-review/article/tilly-goes-to-church-the-religious-and-medieval-roots-of-european-state-fragmentation/4EEE3598EF17E46DF0050C375C9FDD45#>
+* Fascinating thesis and yet another reason why religion study is wonderful
+> The starting point for many analyses of European state development is the historical fragmentation of territorial authority. The dominant bellicist explanation for state formation argues that this fragmentation was an unintended consequence of imperial collapse, and that warfare in the early modern era overcame fragmentation by winnowing out small polities and consolidating strong states. Using new data on papal conflict and religious institutions, I show instead that political fragmentation was the outcome of deliberate choices, that it is closely associated with papal conflict, and that political fragmentation persisted for longer than the bellicist explanations would predict. The medieval Catholic Church deliberately and effectively splintered political power in Europe by forming temporal alliances, funding proxy wars, launching crusades, and advancing ideology to ensure its autonomy and power. The roots of European state formation are thus more religious, older, and intentional than often assumed.
+
+#### ‘I Cry Quietly’: A Soldier Describes the Toll of Russia’s War - YouTube
+* <https://www.youtube.com/watch?v=GeelZuwRxhY&t=5s>
+* The horrors of the world war we, peaceful people, used to learn from fiction (Remarque) or histories (Dan Carlin) showed in this short video report. 
+> 
+
+#### A Programmer's Introduction to Mathematics
+* <https://pimbook.org/>
+* Unavoidable future :)
+> 
+
+#### Rules of Thumb for Software Development Estimations
+* <https://vadimkravcenko.com/shorts/project-estimates/>
+* Going against Uncle Bob's three scenarios (optimal, standard, worst)
+> Initially, you might think of capturing a best-case and worst-case scenario, but I don’t find that too useful. Instead, I prefer to capture expected-case and worst-case. Coming in early is never a problem, and in my experience, the best-case rarely happens. But it is important to capture how long something could take if things go poorly. Therefore, my uncertainty system starts with the expected time (captured above), and then applies an “if-things-go-wrong” multiplier
+
+#### Lessons from The Years of Lyndon Johnson by Robert Caro
+* <https://www.dwarkeshpatel.com/p/lyndon-johnson>
+* Seems like a must-have for every student of power.
+> Robert Caro’s The Years of Lyndon Johnson are not only the best biographies I have ever read - and not only the best histories I have ever read. They're perhaps the best books I've ever read. Below are the main lessons I got from these four volumes about power and powerful personalities....
+
+#### madhadron - The seven programming ur-languages
+* <https://madhadron.com/programming/seven_ur_languages.html#fn1>
+* An assertion that most of modern languages are progeny of a single one - ALGOL, but that there are 6 more siblings in the family tree that have contemporary implementations that is worth looking at. Basically, an alternative to the three programming paradigms. 
+> Every programmer needs to know a language in the ALGOL family well. Once you do, then it’s worth branching out. Learning a new language that traces to an unfamiliar ur-language each year will pay dividends. The languages I would suggest today in each of these families, and maybe in this order, are:Lisp: PLT RacketML: HaskellSelf: SelfProlog: PrologForth: gForth1APL: K (via ok)If you do a lot of numerical work, learn K earlier. If you do lots of embedded programming, learn gForth earlier. But the order is not important, nor is the exact language. You could learn Standard ML or OCaml instead of Haskell, Common Lisp instead of PLT Racket, and Factor instead of gForth with absolute impunity.
