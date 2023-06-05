@@ -942,3 +942,105 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://madhadron.com/programming/seven_ur_languages.html#fn1>
 * An assertion that most of modern languages are progeny of a single one - ALGOL, but that there are 6 more siblings in the family tree that have contemporary implementations that is worth looking at. Basically, an alternative to the three programming paradigms. 
 > Every programmer needs to know a language in the ALGOL family well. Once you do, then it’s worth branching out. Learning a new language that traces to an unfamiliar ur-language each year will pay dividends. The languages I would suggest today in each of these families, and maybe in this order, are:Lisp: PLT RacketML: HaskellSelf: SelfProlog: PrologForth: gForth1APL: K (via ok)If you do a lot of numerical work, learn K earlier. If you do lots of embedded programming, learn gForth earlier. But the order is not important, nor is the exact language. You could learn Standard ML or OCaml instead of Haskell, Common Lisp instead of PLT Racket, and Factor instead of gForth with absolute impunity.
+
+#### Larry Masinter - Wikipedia
+* <https://en.wikipedia.org/wiki/Larry_Masinter>
+* The first author including the extraction of repeated values into a constant name in the mid-80s in Interlisp-D
+> Masinter went to work for Xerox PARC in 1976. In 1981, Warren Teitelman and Masinter published a paper on Interlisp in IEEE Computer.[7]Masinter documented the failed attempt in 1982 to port Interlisp to the Berkeley Software Distribution (BSD) Unix on the VAX.[8] This led to the initial Interlisp IDEs, for which Masinter was initially known.Masinter later helped develop the URL standard, along with Mark McCahill and Tim Berners-Lee.[8]
+
+#### Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation
+* <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
+* A great module for getting what you want from a URL - quickly in python (links, texts, etc.)
+> 
+
+#### Stephen C. Johnson - Wikipedia
+* <https://en.wikipedia.org/wiki/Stephen_C._Johnson>
+* Meeting the creator of the first linter for the C programming language. 
+> Stephen Curtis Johnson (b. 1944; known as Steve Johnson)[1] is a computer scientist who worked at Bell Labs and AT&T for nearly 20 years. He is best known for Yacc, Lint, spell, and the Portable C Compiler, which contributed to the spread of Unix and C.[2] He has also contributed to fields as diverse as computer music, psychometrics and VLSI design.[3]
+
+#### Do the weirdest thing that feels right. - by Charlie Becker
+* <https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels>
+* A hint that it makes sense to LISTEN to conscience (feeling right) and what to listen for (weirdness)
+> 1While agonizing over what to write last week, I tried to reverse engineer my writing wins. In the process, I discovered that the decision which separated my good writing from my bad writing expanded to my whole life, and was the dividing line between my triumphs and my regrets. “Do the weirdest thing that feels right.”
+
+#### Modular Docs - Why Mojo🔥
+* <https://docs.modular.com/mojo/why-mojo.html>
+* Introducing a new member of Python family
+> The just-announced Mojo is a Python superset aimed at fixing Python’s performance and deployment problems. It has a great pedigree (Chris Lattner whom you may know from LLVM, Clang & Swift) and Fast.ai’s Jeremy Howard, who is also an advisor to Modular, Mojo’s creators, is very excited about it. Jeremy says: “I remember the first time I used the v1.0 of Visual Basic. Back then, it was a program for DOS. Before it, writing programs was extremely complex and I’d never managed to make much progress beyond the most basic toy applications. But with VB, I drew a button on the screen, typed in a single line of code that I wanted to run when that button was clicked, and I had a complete application I could now run. It was such an amazing experience that I’ll never forget that feeling. It felt like coding would never be the same again. Writing code in Mojo is the second time in my life I’ve had that feeling”
+
+#### Livebook's big launch week featuring José Valim (Changelog Interviews #538) 
+* <https://changelog.com/podcast/538>
+* On the new product - an interactive code notebook mixing runtime with docs - with its creator, and the creator of elixir language Jose Valim
+> Let’s focus in then on Livebook. You’ve recently had your very first Livebook launch week, which I thought might be inspired by our friends at Supabase, and then I actually saw you reference them in one of your posts explicitly; like, their idea, you liked it. I think it’s a really cool idea, especially for people who want to come on podcasts and talk, because it gives us a bunch of stuff to talk about. Like, let’s launch one thing a day for five days, and then we can come on to The Changelog and talk about that, which is a lot easier than having one amorphous thing. So launch week - do you want to talk more about the idea and the inspiration, how it went for you? because it was just a week or so back, and now you’re in the wake of launch week.
+
+#### The Middle Kingdoms: A New History of Central Europe: Rady, Martyn: 9781541619784: Amazon.com: Books
+* <https://www.amazon.com/Middle-Kingdoms-History-Central-Europe/dp/1541619781/ref=sr_1_1?crid=2CF9PX19FU68L&keywords=the+middle+kingdoms+martyn+rady&qid=1683819691&sprefix=martyn+rady%2Caps%2C146&sr=8-1>
+* Looking forward to delving into this, checking public libraries already.
+> Central Europe has always been more than merely the fault line between West and East. Even as Central European powers warred with their neighbors, the region developed its own cohesive identity and produced tremendous accomplishments in politics, society, and culture. Central Europeans launched the Reformation and Romanticism, developed the philosophy of the Renaissance and the Enlightenment, and advanced some of the twentieth century’s most important artistic movements.
+
+#### Friction >> Debt
+* <https://www.mechanical-orchard.com/post/friction-over-debt>
+* An attempt to re-frame the concept of technical debt as its original meaning of 'borrowing' at the time of high need so that you pay back later with interest has been lost to the business. Friction has much better face value. 
+> By Kent BeckWard Cunningham told me about “technical debt” soon after he invented the phrase. He was working with fixed income traders who understood the financial uses of debt and wanted to explain to them why sometimes development went faster and sometimes it went slower.Since then “technical debt” has gone on to be the preferred explanation for development activities not directly resulting in features. “We need to pay down our technical debt.” [ed: auto complete suggested “technical debt”, which must be the modern definition of widespread usage]“That’s just an excuse for programmers to mess around.”
+
+#### 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney 
+* <https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know>
+* Super easy read that may bring some inspiration, for example I've started reading more code. 
+> 
+
+#### 333. The Republic of Britain: Life under Cromwell - The Rest Is History 
+* <https://shows.acast.com/the-rest-is-history-podcast/episodes/333-the-republic-of-britain-life-under-cromwell>
+* 1648, end of 30 years war in Europe, while in the UK the beginning of an experiment that will sharpen British sensibilities until today. 
+> The reality is that most people aren't great sort of ideological standard bearers. They're trying to get on, trying to buy their neighbors' field, the whatever it is. And, you know, most people didn't fight for either side in civil war. Most people kept their heads down. And a lot of people like Marksman Needham, we're looking around them, thinking, well, maybe there's an opportunity for me here to, you know, make a better money
+
+#### 244. Trafalgar: Countdown to Annihilation on Podgraph.io
+* <https://www.podgraph.io/episodes/TheRestIsHistory/244TrafalgarCountdowntoAnnihil.html>
+* On Nelson as a leader, performer and the symbol of courage.
+> Well, actually, the management techniques of Horatio Nelson would be a reasonable because he's a brilliant manager of his of his staff of his underlings, isn't he? Because he gets on fantastically well with the cast. Well, I think I think that's basically to work with Nelson was to adore him. That's what essentially everybody says. There are his peers who find him insufferable. You think he's he's bumpest. So a bit like a Churchill, a bit like with the young Churchill, but they think he's a metal hunter. They think he's fame hungry. They think he's annoying and windy and difficult and all those things. But the people who work for him worship him, don't they? Completely. Because his charisma, his courage, but also the way that he obviously loves his captains and loves his men. So Adam Nicholson, who wrote a brilliant book, Men of Honor, about Trafalgar, says that the people Nelson loved, a part of course, where ever Hamilton, his mistress, were his captains. And I think that that sense of a band of brothers
+
+#### Writing Python like it’s Rust 
+* <https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html>
+* Wonderful longread for something I don't see much - comparative (software) linguistics! 5* piece.
+> I started programming in Rust several years ago, and it has gradually changed the way I design programs in other programming languages, most notably in Python. Before I started using Rust, I was usually writing Python code in a very dynamic and type-loose way, without type hints, passing and returning dictionaries everywhere, and occasionally falling back to “stringly-typed” interfaces. However, after experiencing the strictness of the Rust type system, and noticing all the problems that it prevents “by construction”, I suddenly became quite anxious whenever I got back to Python and wasn’t provided with the same guarantees.
+
+#### Dabeaz Courses
+* <https://www.dabeaz.com/courses.html>
+* Just inspiring 
+
+#### Antonio Gramsci is the Marxist thinker for our times
+* <https://www.newstatesman.com/culture/2018/02/antonio-gramsci-marxist-thinker>
+* An theorist of war against cultural hegemony, helping to understand why Cleopatra is black, spiderman is black and 4th musketeer is black in 2023. 
+> The defining Gramscian concept is that of hegemony. This denotes a level of political domination that extends beyond control of a state or a parliament into the realm of culture and ideas. Gramsci was preoccupied by the question of why the 1917 Russian revolution had not been followed by others in western Europe. He located the answer in the persistence of capitalist ideas among civil society institutions (political parties, trade unions, churches, the media). As he wrote: “The state was only an outer ditch, behind which there stood a powerful system of fortresses.”
+
+#### Fold 'N Fly » Paper Airplane Folding Instructions
+* <https://www.foldnfly.com>
+* A nostalgia in beautiful implementation.
+> 
+
+#### Windows and the AI Platform Shift – Stratechery by Ben Thompson
+* <https://stratechery.com/2023/windows-and-the-ai-platform-shift/>
+* The argument that AI is, after OS (Windows) a legitimate reason to move to Microsoft in 2023 is one that I have already fulfilled as I am using Bing as Mentor/UI multiple times a day and keep it open constantly. 
+> It’s important to note that Windows persisted as the linchpin of Microsoft’s strategy for over three decades for a very good reason: it made everything the company did possible. Windows had the ecosystem and the lock-in, and provided the foundation for Office and Windows Server, both of which were built with the assumption of Windows at the center....Still, the very fact that Windows is suddenly interesting again, while a new Apple product faces a major software question, is evidence for Nadella’s argument that AI is a platform shift, and for the first time in a long time it is Microsoft that actually has a clear path to not just leveraging its base but actually expanding it.Apple, meanwhile, still dominates the platforms where AI will be used for the foreseeable future — ChatGPT released their app on iPhone first, after all — but then again, Windows was still the dominant platform for the first decade-and-a-half of the Internet. Ultimately, though, the Internet eroded Windows’ dominance and set the stage for the smartphone; surely Apple knows it ought not risk a similar erosion of differentiation at the hand of AI, particularly as they courageously build products beyond the iPhones.
+
+#### Rotten-Scripts/Python at master · HarshCasper/Rotten-Scripts · GitHub
+* <https://github.com/HarshCasper/Rotten-Scripts/tree/master/Python>
+* Transcribing some of the scripts as a matter of practice
+> 
+
+#### Learn C • Build Your Own Lisp
+* <https://buildyourownlisp.com/>
+* Even if you look only at the front cover of this project it is infused with beauty that engineering should aim at.
+> 
+
+#### Works of Lucian, Vol. I: Dialogues of the Dead: XVIII
+* <https://www.sacred-texts.com/cla/luc/wl1/wl163.htm>
+* From the introduction of The Night with Hamlet by Vladimir Holan, which reminds me of Wasteland. 
+> DIALOGUES OF THE DEADXVIIIMenippus. HermesMe. Where are all the beauties, Hermes? Show me round; I am a new-comer.Her. I am busy, Menippus. But look over there to your right, and you will see Hyacinth, Narcissus, Nireus, Achilles, Tyro, Helen, Leda,--all the beauties of old.Me. I can only see bones, and bare skulls; most of them are exactly alike.Her. Those bones, of which you seem to think so lightly, have been the theme of admiring poets.Me. Well, but show me Helen; I shall never be able to make her out by myself.Her. This skull is Helen.Me. And for this a thousand ships carried warriors from everyp. 138part of Greece; Greeks and barbarians were slain, and cities made desolate.Her. Ah, Menippus, you never saw the living Helen; or you would have said with Homer,Well might they suffer grievous years of toilWho strove for such a prize.[paragraph continues]We look at withered flowers, whose dye is gone from them, and what can we call them but unlovely things? Yet in the hour of their bloom these unlovely things were things of beauty.Me. Strange, that the Greeks could not realize what it was for which they laboured; how short-lived, how soon to fade.Her. I have no time for moralizing. Choose your spot, where you will, and lie down. I must go to fetch new dead.
+
+#### Where have all the hackers gone? + a way to discuss programming languages
+* <https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html>
+* On discussing programming languages and many more. 
+> Soil is the properties of running code in that language. Most of it is when the code is actually running (basic performance characteristics, "is it a binary or interpreted by a VM," scheduler and/or relationship to multicore/parallelism, garbage collector) but a more broad generalization is "everything that isn't code editing that doesn't directly involve "community,"" so I'll involve things like build times and some properties of its tooling. So the stuff I brought up in the Golang discussion are "soil," but so is:That Python code is often hundreds or thousands of times slower than other languages.Languages with long compile times (Scala, Kotlin) vs. short ones (Golang).If your language has generics, does it implement them with type erasure, monomorphization, or something else?Erlang having a preemptive scheduler, and how iolists + how string concatenation works under the hood mean you can render the template of doom.Surface is what people usually think about when comparing languages: the features! Source code! It's whether it has your favorite looping construct (or doesn't, per the "only need a for loop"). Syntax, FFI, which regexes it supports, the semantics of its specific object system. Other examples are:Less/Sass and CoffeeScript were pure "surface" plays: not about the core capabilities, but seemingly expanding them with pure "fixes" to suboptimal surfaces."Ruby is so much better than Java! Look at how you open a file in Java (shows you 30 lines) vs. Ruby! (2 lines)"Much of the appeal of MERN or MEAN stacks is that "it's all JavaScript/JSON," meaning you can reduce the amount of "surface" to learn.Strong reactions on both sides of CSS-in-JS and Tailwind feel "surface"-ey, though they can have "soil"-ey impacts.Finally atmosphere: these are things that aren't the language or its code, but the broader community. Hiring, Stack Overflow answers, number of stars on its popular GitHub projects, number of packages in their repositories. I'll go a little further and include downstream effects of that community, e.g. "does the language have a VSCode plugin and language server" seems to be more a function of atmosphere than the others:Most "you can hire React developers easily" is completely divorced from any technical discussion of React as a framework. Ditto Java, Python, Ruby, JS…Most of a language's culture: Elm and Clojure both have something like "if Evan/Rich didn't think you should have that thing you wanted, have you considered that maybe you're wrong? 🙂". Golang telling you you're dumb and wrong for wanting generics for a decade before shipping them. Scala having all that silly drama.
+
+#### Low-Code SQL on dbt Core with Raj Bains from Prophecy - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2023/05/26/low-code-sql-on-dbt-core/>
