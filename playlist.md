@@ -1044,3 +1044,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### Low-Code SQL on dbt Core with Raj Bains from Prophecy - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2023/05/26/low-code-sql-on-dbt-core/>
+
+#### Highlander Principle
+* <https://wiki.c2.com/?HighlanderPrinciple>
+* From a doc at work, finding a few references, but wiki.c2.com is a legend.
+> From the movie HighLander. The HighlanderPrinciple is:There can be only one!Applies to many issues in SoftwareEngineering, where supporting n things (for n > 1) is difficult/impossible whereas supporting only 1 such thing is trivial. There's even a DesignPattern for this--the SingletonPattern.
+
+#### Zjistěte, jak správně provést vyúčtování služeb nájemníkům [aktualizováno 2023] 
+* <https://stalynajem.cz/blog/jak-spravne-provest-vyuctovani-sluzeb-najemnikum>
+* Personal, learning what to do if a landlord does not provide energy bills on time
+> 
