@@ -1054,3 +1054,20 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stalynajem.cz/blog/jak-spravne-provest-vyuctovani-sluzeb-najemnikum>
 * Personal, learning what to do if a landlord does not provide energy bills on time
 > 
+
+#### dumkydewilde/snowplow-serverless: A cheap, serverless version of Snowplow deployed with Terraform that runs on dumky.net
+* <https://github.com/dumkydewilde/snowplow-serverless>
+* Another todo - testing Snowplow for a little site for 0.02$ a day with GCP credits this should be great
+> A serverless Snowplow pipeline on Google Cloud Platform (GCP) for ~€0.02/day.This repository is a Terraform template to run a fully serverless snowplow pipeline based on Google Cloud Run and BigQuery. This allows you to run Snowplow at a minimal cost, especially for smaller sites and blogs.
+
+#### One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. 
+* <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
+
+#### One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. It is tasteless to prolong life artificially, he told his assistant Helen Dukas. I have done my share, it is time to go. I will do it elegantly.  He was taken to the Princeton hospital, where one of his final requests was for some notepaper and pencils so he could continue to work on his elusive unified field theory. He died shortly after one a.m. on April 18, 1955. By his bed were twelve pages of tightly written equations, littered with cross-outs and corrections. To the very end, he struggled to read the mind of the creator of the cosmos. And the final thing he wrote, before he went to sleep for the last time, was one more line of symbols and numbers that he hoped might get him, and the rest of us, just a little step closer to the spirit manifest in the laws of the universe.
+* <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
+* Last days of Einstein. 
+
+#### Einstein's Final Quest
+* <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
+* Last days of Einstein. 
+> One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. It is tasteless to prolong life artificially, he told his assistant Helen Dukas. I have done my share, it is time to go. I will do it elegantly.He was taken to the Princeton hospital, where one of his final requests was for some notepaper and pencils so he could continue to work on his elusive unified field theory. He died shortly after one a.m. on April 18, 1955. By his bed were twelve pages of tightly written equations, littered with cross-outs and corrections. To the very end, he struggled to read the mind of the creator of the cosmos. And the final thing he wrote, before he went to sleep for the last time, was one more line of symbols and numbers that he hoped might get him, and the rest of us, just a little step closer to the spirit manifest in the laws of the universe.
