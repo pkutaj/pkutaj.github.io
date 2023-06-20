@@ -1071,3 +1071,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
 * Last days of Einstein. 
 > One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. It is tasteless to prolong life artificially, he told his assistant Helen Dukas. I have done my share, it is time to go. I will do it elegantly.He was taken to the Princeton hospital, where one of his final requests was for some notepaper and pencils so he could continue to work on his elusive unified field theory. He died shortly after one a.m. on April 18, 1955. By his bed were twelve pages of tightly written equations, littered with cross-outs and corrections. To the very end, he struggled to read the mind of the creator of the cosmos. And the final thing he wrote, before he went to sleep for the last time, was one more line of symbols and numbers that he hoped might get him, and the rest of us, just a little step closer to the spirit manifest in the laws of the universe.
+
+#### On the Slow Productivity of John Wick - Cal Newport
+* <https://calnewport.com/on-the-slow-productivity-of-john-wick/>
+* I am experimenting with 0-notifications setup and this is confirming my hunch that the direction is a proper one. 
+> What struck me as I watched this behind-the-scenes feature is how differently creatives who work in the arts think about productivity as compared to creatives who work in office jobs. For Keanu Reeves, it was obvious that the most productive path was to focus all of his attention on a single goal: becoming really good at Stahelski’s innovative brand of gun fu. Doing this, and basically only this, month after month, materialized hundreds of millions of dollar of profit out of the entertainment ether.In office jobs, by contrast, productivity remains rooted in notions of busyness and multi-faceted activity. The most productive knowledge workers are those who stay on top of their inboxes and somehow juggle the dozens of obligations, from the small tasks to major projects, hurled in their direction every week. Movie-making is of course different than, say, being a marketing executive, or professor, or project manager, but creating things that are too good to be ignored, regardless of the setting, is an activity that almost without exception requires undivided attention. Are we so sure that the definition of “productive” that defines knowledge work really is the most profitable use of our talents?
+
+#### Dear Google Analytics 4 
+* <https://www.simoahava.com/analytics/dear-google-analytics-4/>
+* A breakup letter. 
+> 
+
+#### Camels and Rubber Duckies – Joel on Software
+* <https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/>
+* don't have a software pricing discussion until you've read this
+> 
