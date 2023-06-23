@@ -1086,3 +1086,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/>
 * don't have a software pricing discussion until you've read this
 > 
+
+#### Buy DataGrip: Pricing and Licensing, Discounts - JetBrains Toolbox Subscription
+* <https://www.jetbrains.com/datagrip/buy/#personal>
+* Meeting the new DB IDE from Jetbrains for Professional SQL Developers
+> 
