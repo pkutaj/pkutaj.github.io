@@ -70,99 +70,143 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [2.37. Krickelkrackel](#237-krickelkrackel)
     - [2.38. Why we are teaching this class · Missing Semester](#238-why-we-are-teaching-this-class-·-missing-semester)
     - [2.39. An open-source LLM based research assistant](#239-an-open-source-llm-based-research-assistant)
-    - [2.41. What Is Nix](#241-what-is-nix)
-    - [2.42. The typical course on programming teaches a](#242-the-typical-course-on-programming-teaches-a)
-    - [2.43. How to Design Programs > Preface](#243-how-to-design-programs--preface)
-    - [Quotient - Wikipedia](#quotient---wikipedia)
-    - [50 conversations in Bangalore and Chennai](#50-conversations-in-bangalore-and-chennai)
-- [MAR 2013](#mar-2013)
-    - [A Devastating Moment of Clarity in Ukraine - Tablet Magazine](#a-devastating-moment-of-clarity-in-ukraine---tablet-magazine)
-    - [The Future of the Modern Data Stack in 2023](#the-future-of-the-modern-data-stack-in-2023)
-    - [Thinking about Tracking Design, Part 1: What is tracking anyways?](#thinking-about-tracking-design-part-1-what-is-tracking-anyways)
-    - [Louis CK- Back to the Garden](#louis-ck--back-to-the-garden)
-    - [: We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.](#-we-havent-ramped-up-industrial-production-at-all-at-peak-the-ukrainians-were-firingexpendingupward-of-ninety-thousand-artillery-shells-a-month-us-monthly-production-of-artillery-shells-is-fifteen-thousand-with-all-our-allies-thrown-in-everybody-in-the-mix-who-supports-ukraine-you-get-another-fifteen-thousand-at-the-highest-estimates-so-you-can-do-thirty-thousand-in-the-production-of-artillery-shells-while-expending-ninety-thousand-a-month-we-havent-ramped-up-were-just-drawing-down-the-stocks-and-you-know-what-were-running-out)
-    - [How the War in Ukraine Ends](#how-the-war-in-ukraine-ends)
-    - [The Great Feminization of the American University](#the-great-feminization-of-the-american-university)
-    - [Who are the people I most admire? - Marginal REVOLUTION](#who-are-the-people-i-most-admire---marginal-revolution)
-    - [Manhole cover - Wikipedia](#manhole-cover---wikipedia)
-    - [PEP 435 – Adding an Enum type to the Python standard library](#pep-435--adding-an-enum-type-to-the-python-standard-library)
-    - [enum — Support for enumerations — Python 3.11.2 documentation](#enum--support-for-enumerations--python-3112-documentation)
-    - [Python list of lists from enum - Stack Overflow](#python-list-of-lists-from-enum---stack-overflow)
-    - [We’re Missing a Key Driver of Teen Anxiety - The Atlantic](#were-missing-a-key-driver-of-teen-anxiety---the-atlantic)
-    - [High Quality Server Hosting at a Value for Everyone](#high-quality-server-hosting-at-a-value-for-everyone)
-    - [How-To Find the Process ID Holding Open Ports](#how-to-find-the-process-id-holding-open-ports)
-    - [Is there a way to have a default value inside a dictionary in Python? - Stack Overflow](#is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python---stack-overflow)
-    - [Simple techniques for complex projects](#simple-techniques-for-complex-projects)
-    - [The False Promise of ChatGPT](#the-false-promise-of-chatgpt)
-    - [Snowclone - Wikipedia](#snowclone---wikipedia)
-    - [The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic](#the-strongest-evidence-yet-that-an-animal-started-the-pandemic---the-atlantic)
-    - [Mass converting .doc to .docx - Microsoft Community Hub](#mass-converting-doc-to-docx---microsoft-community-hub)
-    - [Awakening from the Meaning Crisis - YouTube](#awakening-from-the-meaning-crisis---youtube)
-    - [Awakening from the Meaning Crisis](#awakening-from-the-meaning-crisis)
-    - [Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation](#mocking-monkey-patching-and-faking-functionality--python-401-21-documentation)
-    - [A Year after the Invasion, the Russian Economy Is Self-Immolating](#a-year-after-the-invasion-the-russian-economy-is-self-immolating)
-    - [*Colonialism: A Moral Reckoning* - Marginal REVOLUTION](#colonialism-a-moral-reckoning---marginal-revolution)
-    - [Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman](#dmytro-kuleba-russian-victory-will-ruin-everything-the-west-stands-for---new-statesman)
-    - [Ezra Klein: This Changes Everything](#ezra-klein-this-changes-everything)
-    - [Pynecone: The easiest way to build web apps.](#pynecone-the-easiest-way-to-build-web-apps)
-    - [The Impact of AI on Productivity - Marginal REVOLUTION](#the-impact-of-ai-on-productivity---marginal-revolution)
-    - [Full interview with Clifford Geertz - part one - YouTube](#full-interview-with-clifford-geertz---part-one---youtube)
-    - [Khan Academy integrates GPT-4 as every student’s customized tutor](#khan-academy-integrates-gpt-4-as-every-students-customized-tutor)
-- [APR 2013](#apr-2013)
-    - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
-    - [Baggage On Georgia](#baggage-on-georgia)
-    - [How will AI transform childhood? - Marginal REVOLUTION](#how-will-ai-transform-childhood---marginal-revolution)
-    - [E.W.Dijkstra Archive: The Humble Programmer (EWD 340)](#ewdijkstra-archive-the-humble-programmer-ewd-340)
-    - [The Microsoft Copilot future of work demo is incredible](#the-microsoft-copilot-future-of-work-demo-is-incredible)
-    - [How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN](#how-to-learn-and-teach-economics-with-large-language-models-including-gpt-by-tyler-cowen-alexander-t-tabarrok--ssrn)
-    - [Pinker on Alignment and Intelligence as a Magical Potion](#pinker-on-alignment-and-intelligence-as-a-magical-potion)
-    - [Anki-fy Your Life - by Moses Liew - About to Learn](#anki-fy-your-life---by-moses-liew---about-to-learn)
-    - [State diagram - Wikipedia](#state-diagram---wikipedia)
-    - [The philosopher: A conversation with Grady Booch](#the-philosopher-a-conversation-with-grady-booch)
-    - [Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...](#geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating)
-    - [Thinking about Tracking Design, Part 2: Why track in the first place?](#thinking-about-tracking-design-part-2-why-track-in-the-first-place)
-    - [Waiting for the Betterness Explosion](#waiting-for-the-betterness-explosion)
-    - [https://andrew-quinn.me/fzf/](#httpsandrew-quinnmefzf)
-    - [Adobe Firefly: AI Art Generator](#adobe-firefly-ai-art-generator)
-    - [Define Wokeness! Or how you shall know a word by the company it keeps](#define-wokeness-or-how-you-shall-know-a-word-by-the-company-it-keeps)
-    - [The cloud backlash has begun: Why big data is pulling compute back on premises](#the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises)
-    - [[YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl](#youtube-unable-to-extract-uploader-id-·-issue-31530-·-ytdl-orgyoutube-dl)
-    - [What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium](#what-is-conscious-consumerism-who-is-a-conscious-consumer-medium)
-    - [Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen](#book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen)
-    - [1984 Kundera The Tragedy of Central Europe](#1984-kundera-the-tragedy-of-central-europe)
-    - [‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution-1)
-    - [On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot](#on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot)
-    - [Steampipe: select * from cloud;](#steampipe-select--from-cloud)
-    - [Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174)](#tom-holland-on-history-christianity-and-the-value-of-the-countryside-ep-174)
-    - [Dana Gioia on Becoming an Information Billionaire (Ep. 119)](#dana-gioia-on-becoming-an-information-billionaire-ep 119)
-    - [Existential risk, AI, and the inevitable turn in human history - Marginal REVOLUTION](#existential-risk-ai-and-the-inevitable-turn-in-human-history---marginal-revolution)
-    - [Augmenting Long-term Memory](#augmenting-long-term-memory)
-    - [The age of average — Alex Murrell](#the-age-of-average--alex-murrell)
-    - [become a 1000x engineer or die tryin'](#become-a-1000x-engineer-or-die-tryin)
-    - [The natural size](#the-natural-size)
-    - [War Diary by Jean Malaquais](#war-diary-by-jean-malaquais)
-    - [Pelagius - Wikipedia](#pelagius---wikipedia)
-    - [scheme - What is the definition of natural recursion? - Stack Overflow](#scheme---what-is-the-definition-of-natural-recursion---stack-overflow)
-    - [Pairing with GPT-4 · Fly](#pairing-with-gpt-4-·-fly)
-    - [Tom Peters](#tom-peters)
-    - [coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)](#coursera-dledx-dl-a-simple-tool-to-download-video-lectures-from-edxorg-and-other-openedx-sites)
-    - [Effective Python Testing With Pytest – Real Python](#effective-python-testing-with-pytest--real-python)
-    - [The Importance of Being Earnest - The 'Handbag' scene - YouTube](#the-importance-of-being-earnest---the-handbag-scene---youtube)
-    - [the rest is history - Podgraph Search](#the-rest-is-history---podgraph-search)
-    - [48. The French Revolution](#48-the-french-revolution)
-    - [AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson](#ai-nil-and-zero-trust-authenticity--stratechery-by-ben-thompson)
-    - [Everything Is A Practice - by Scott Gilbertson](#everything-is-a-practice---by-scott-gilbertson)
-    - [Age of Invention: The Bourgeois Supremacy](#age-of-invention-the-bourgeois-supremacy)
-    - [amazon web services - Downloading an entire S3 bucket? - Stack Overflow](#amazon-web-services---downloading-an-entire-s3-bucket---stack-overflow)
-    - [paypal/data-contract-template: Template for a data contract used in a data mesh.](#paypaldata-contract-template-template-for-a-data-contract-used-in-a-data-mesh)
-    - [The Emergence of the Composable Customer Data Platform - The Databricks Blog](#the-emergence-of-the-composable-customer-data-platform---the-databricks-blog)
-- [MAY 2023](#may-2023)
-    - [AI isn't the app, it's the UI - Stack Overflow Blog](#ai-isnt-the-app-its-the-ui---stack-overflow-blog)
-    - [How to Design Programs 2nd Edition](#how-to-design-programs-2nd-edition)
-    - [To Supercharge Learning, Look to Play - Nautilus](#to-supercharge-learning-look-to-play---nautilus)
-    - [EA, AI, and the rationality community - Marginal REVOLUTION](#ea-ai-and-the-rationality-community---marginal-revolution)
+    - [2.40. What Is Nix](#240-what-is-nix)
+    - [2.41. The typical course on programming teaches a](#241-the-typical-course-on-programming-teaches-a)
+    - [2.42. How to Design Programs > Preface](#242-how-to-design-programs--preface)
+    - [2.43. Quotient - Wikipedia](#243-quotient---wikipedia)
+    - [2.44. conversations in Bangalore and Chennai](#244-conversations-in-bangalore-and-chennai)
+- [3. MAR 2013](#3-mar-2013)
+    - [3.1. A Devastating Moment of Clarity in Ukraine - Tablet Magazine](#31-a-devastating-moment-of-clarity-in-ukraine---tablet-magazine)
+    - [3.2. The Future of the Modern Data Stack in 2023](#32-the-future-of-the-modern-data-stack-in-2023)
+    - [3.3. Thinking about Tracking Design, Part 1: What is tracking anyways?](#33-thinking-about-tracking-design-part-1-what-is-tracking-anyways)
+    - [3.4. Louis CK- Back to the Garden](#34-louis-ck--back-to-the-garden)
+    - [3.5. : We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.](#35--we-havent-ramped-up-industrial-production-at-all-at-peak-the-ukrainians-were-firingexpendingupward-of-ninety-thousand-artillery-shells-a-month-us-monthly-production-of-artillery-shells-is-fifteen-thousand-with-all-our-allies-thrown-in-everybody-in-the-mix-who-supports-ukraine-you-get-another-fifteen-thousand-at-the-highest-estimates-so-you-can-do-thirty-thousand-in-the-production-of-artillery-shells-while-expending-ninety-thousand-a-month-we-havent-ramped-up-were-just-drawing-down-the-stocks-and-you-know-what-were-running-out)
+    - [3.6. How the War in Ukraine Ends](#36-how-the-war-in-ukraine-ends)
+    - [3.7. The Great Feminization of the American University](#37-the-great-feminization-of-the-american-university)
+    - [3.8. Who are the people I most admire? - Marginal REVOLUTION](#38-who-are-the-people-i-most-admire---marginal-revolution)
+    - [3.9. Manhole cover - Wikipedia](#39-manhole-cover---wikipedia)
+    - [3.10. PEP 435 – Adding an Enum type to the Python standard library](#310-pep-435--adding-an-enum-type-to-the-python-standard-library)
+    - [3.11. enum — Support for enumerations — Python 3.11.2 documentation](#311-enum--support-for-enumerations--python-3112-documentation)
+    - [3.12. Python list of lists from enum - Stack Overflow](#312-python-list-of-lists-from-enum---stack-overflow)
+    - [3.13. We’re Missing a Key Driver of Teen Anxiety - The Atlantic](#313-were-missing-a-key-driver-of-teen-anxiety---the-atlantic)
+    - [3.14. High Quality Server Hosting at a Value for Everyone](#314-high-quality-server-hosting-at-a-value-for-everyone)
+    - [3.15. How-To Find the Process ID Holding Open Ports](#315-how-to-find-the-process-id-holding-open-ports)
+    - [3.16. Is there a way to have a default value inside a dictionary in Python? - Stack Overflow](#316-is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python---stack-overflow)
+    - [3.17. Simple techniques for complex projects](#317-simple-techniques-for-complex-projects)
+    - [3.18. The False Promise of ChatGPT](#318-the-false-promise-of-chatgpt)
+    - [3.19. Snowclone - Wikipedia](#319-snowclone---wikipedia)
+    - [3.20. The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic](#320-the-strongest-evidence-yet-that-an-animal-started-the-pandemic---the-atlantic)
+    - [3.21. Mass converting .doc to .docx - Microsoft Community Hub](#321-mass-converting-doc-to-docx---microsoft-community-hub)
+    - [3.22. Awakening from the Meaning Crisis - YouTube](#322-awakening-from-the-meaning-crisis---youtube)
+    - [3.23. Awakening from the Meaning Crisis](#323-awakening-from-the-meaning-crisis)
+    - [3.24. Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation](#324-mocking-monkey-patching-and-faking-functionality--python-401-21-documentation)
+    - [3.25. A Year after the Invasion, the Russian Economy Is Self-Immolating](#325-a-year-after-the-invasion-the-russian-economy-is-self-immolating)
+    - [3.26. *Colonialism: A Moral Reckoning* - Marginal REVOLUTION](#326-colonialism-a-moral-reckoning---marginal-revolution)
+    - [3.27. Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman](#327-dmytro-kuleba-russian-victory-will-ruin-everything-the-west-stands-for---new-statesman)
+    - [3.28. Ezra Klein: This Changes Everything](#328-ezra-klein-this-changes-everything)
+    - [3.29. Pynecone: The easiest way to build web apps.](#329-pynecone-the-easiest-way-to-build-web-apps)
+    - [3.30. The Impact of AI on Productivity - Marginal REVOLUTION](#330-the-impact-of-ai-on-productivity---marginal-revolution)
+    - [3.31. Full interview with Clifford Geertz - part one - YouTube](#331-full-interview-with-clifford-geertz---part-one---youtube)
+    - [3.32. Khan Academy integrates GPT-4 as every student’s customized tutor](#332-khan-academy-integrates-gpt-4-as-every-students-customized-tutor)
+- [4. APR 2013](#4-apr-2013)
+    - [4.1. ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#41-on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
+    - [4.2. Baggage On Georgia](#42-baggage-on-georgia)
+    - [4.3. How will AI transform childhood? - Marginal REVOLUTION](#43-how-will-ai-transform-childhood---marginal-revolution)
+    - [4.4. E.W.Dijkstra Archive: The Humble Programmer (EWD 340)](#44-ewdijkstra-archive-the-humble-programmer-ewd-340)
+    - [4.5. The Microsoft Copilot future of work demo is incredible](#45-the-microsoft-copilot-future-of-work-demo-is-incredible)
+    - [4.6. How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN](#46-how-to-learn-and-teach-economics-with-large-language-models-including-gpt-by-tyler-cowen-alexander-t-tabarrok--ssrn)
+    - [4.7. Pinker on Alignment and Intelligence as a Magical Potion](#47-pinker-on-alignment-and-intelligence-as-a-magical-potion)
+    - [4.8. Anki-fy Your Life - by Moses Liew - About to Learn](#48-anki-fy-your-life---by-moses-liew---about-to-learn)
+    - [4.9. State diagram - Wikipedia](#49-state-diagram---wikipedia)
+    - [4.10. The philosopher: A conversation with Grady Booch](#410-the-philosopher-a-conversation-with-grady-booch)
+    - [4.11. Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...](#411-geoffrey-litt-on-twitter-what-if----despite-all-the-hype----we-are-in-fact-underestimating)
+    - [4.12. Thinking about Tracking Design, Part 2: Why track in the first place?](#412-thinking-about-tracking-design-part-2-why-track-in-the-first-place)
+    - [4.13. Waiting for the Betterness Explosion](#413-waiting-for-the-betterness-explosion)
+    - [4.14. https://andrew-quinn.me/fzf/](#414-httpsandrew-quinnmefzf)
+    - [4.15. Adobe Firefly: AI Art Generator](#415-adobe-firefly-ai-art-generator)
+    - [4.16. Define Wokeness! Or how you shall know a word by the company it keeps](#416-define-wokeness-or-how-you-shall-know-a-word-by-the-company-it-keeps)
+    - [4.17. The cloud backlash has begun: Why big data is pulling compute back on premises](#417-the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises)
+    - [4.18. [YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl](#418-youtube-unable-to-extract-uploader-id-·-issue-31530-·-ytdl-orgyoutube-dl)
+    - [4.19. What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium](#419-what-is-conscious-consumerism-who-is-a-conscious-consumer-medium)
+    - [4.20. Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen](#420-book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen)
+    - [4.21. Kundera The Tragedy of Central Europe](#421-kundera-the-tragedy-of-central-europe)
+    - [4.22. ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution](#422-on-with-kara-swisher-sam-altman-on-the-gpt-4-revolution)
+    - [4.23. On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot](#423-on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot)
+    - [4.24. Steampipe: select * from cloud;](#424-steampipe-select--from-cloud)
+    - [4.25. Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174)](#425-tom-holland-on-history-christianity-and-the-value-of-the-countryside-ep-174)
+    - [4.26. Dana Gioia on Becoming an Information Billionaire (Ep. 119)](#426-dana-gioia-on-becoming-an-information-billionaire-ep 119)
+    - [4.27. Existential risk, AI, and the inevitable turn in human history - Marginal REVOLUTION](#427-existential-risk-ai-and-the-inevitable-turn-in-human-history---marginal-revolution)
+    - [4.28. Augmenting Long-term Memory](#428-augmenting-long-term-memory)
+    - [4.29. The age of average — Alex Murrell](#429-the-age-of-average--alex-murrell)
+    - [4.30. become a 1000x engineer or die tryin'](#430-become-a-1000x-engineer-or-die-tryin)
+    - [4.31. The natural size](#431-the-natural-size)
+    - [4.32. War Diary by Jean Malaquais](#432-war-diary-by-jean-malaquais)
+    - [4.33. Pelagius - Wikipedia](#433-pelagius---wikipedia)
+    - [4.34. scheme - What is the definition of natural recursion? - Stack Overflow](#434-scheme---what-is-the-definition-of-natural-recursion---stack-overflow)
+    - [4.35. Pairing with GPT-4 · Fly](#435-pairing-with-gpt-4-·-fly)
+    - [4.36. Tom Peters](#436-tom-peters)
+    - [4.37. coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)](#437-coursera-dledx-dl-a-simple-tool-to-download-video-lectures-from-edxorg-and-other-openedx-sites)
+    - [4.38. Effective Python Testing With Pytest – Real Python](#438-effective-python-testing-with-pytest--real-python)
+    - [4.39. The Importance of Being Earnest - The 'Handbag' scene - YouTube](#439-the-importance-of-being-earnest---the-handbag-scene---youtube)
+    - [4.40. the rest is history - Podgraph Search](#440-the-rest-is-history---podgraph-search)
+    - [4.41. The French Revolution](#441-the-french-revolution)
+    - [4.42. AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson](#442-ai-nil-and-zero-trust-authenticity--stratechery-by-ben-thompson)
+    - [4.43. Everything Is A Practice - by Scott Gilbertson](#443-everything-is-a-practice---by-scott-gilbertson)
+    - [4.44. Age of Invention: The Bourgeois Supremacy](#444-age-of-invention-the-bourgeois-supremacy)
+    - [4.45. amazon web services - Downloading an entire S3 bucket? - Stack Overflow](#445-amazon-web-services---downloading-an-entire-s3-bucket---stack-overflow)
+    - [4.46. paypal/data-contract-template: Template for a data contract used in a data mesh.](#446-paypaldata-contract-template-template-for-a-data-contract-used-in-a-data-mesh)
+    - [4.47. The Emergence of the Composable Customer Data Platform - The Databricks Blog](#447-the-emergence-of-the-composable-customer-data-platform---the-databricks-blog)
+- [5. MAY 2023](#5-may-2023)
+    - [5.1. AI isn't the app, it's the UI - Stack Overflow Blog](#51-ai-isnt-the-app-its-the-ui---stack-overflow-blog)
+    - [5.2. How to Design Programs 2nd Edition](#52-how-to-design-programs-2nd-edition)
+    - [5.3. To Supercharge Learning, Look to Play - Nautilus](#53-to-supercharge-learning-look-to-play---nautilus)
+    - [5.4. EA, AI, and the rationality community - Marginal REVOLUTION](#54-ea-ai-and-the-rationality-community---marginal-revolution)
+    - [5.5. Rudolf II and His World: A Study in Intellectual History, 1576-1612 by R.J.W. Evans](#55-rudolf-ii-and-his-world-a-study-in-intellectual-history-1576-1612-by-rjw-evans)
+    - [5.6. ChatPDF - Chat with any PDF!](#56-chatpdf---chat-with-any-pdf)
+    - [5.7. Most of My Skills Are Now Worth  - by Kent Beck](#57-most-of-my-skills-are-now-worth----by-kent-beck)
+    - [5.8. Home - Coalesce](#58-home---coalesce)
+    - [5.9. Mitchell's New Role at HashiCorp](#59-mitchells-new-role-at-hashicorp)
+    - [5.10. Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto](#510-prompt-engineering-vs-blind-prompting--mitchell-hashimoto)
+    - [5.11. Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation](#511-tilly-goes-to-church-the-religious-and-medieval-roots-of-european-state-fragmentation)
+    - [5.12. ‘I Cry Quietly’: A Soldier Describes the Toll of Russia’s War - YouTube](#512-i-cry-quietly-a-soldier-describes-the-toll-of-russias-war---youtube)
+    - [5.13. A Programmer's Introduction to Mathematics](#513-a-programmers-introduction-to-mathematics)
+    - [5.14. Rules of Thumb for Software Development Estimations](#514-rules-of-thumb-for-software-development-estimations)
+    - [5.15. Lessons from The Years of Lyndon Johnson by Robert Caro](#515-lessons-from-the-years-of-lyndon-johnson-by-robert-caro)
+    - [5.16. madhadron - The seven programming ur-languages](#516-madhadron---the-seven-programming-ur-languages)
+    - [5.17. Larry Masinter - Wikipedia](#517-larry-masinter---wikipedia)
+    - [5.18. Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation](#518-beautiful-soup-documentation--beautiful-soup-4120-documentation)
+    - [5.19. Stephen C. Johnson - Wikipedia](#519-stephen-c-johnson---wikipedia)
+    - [5.20. Do the weirdest thing that feels right. - by Charlie Becker](#520-do-the-weirdest-thing-that-feels-right---by-charlie-becker)
+    - [5.21. Modular Docs - Why Mojo](#521-modular-docs---why-mojo)
+    - [5.22. Livebook's big launch week featuring José Valim (Changelog Interviews #538)](#522-livebooks-big-launch-week-featuring-josé-valim-changelog-interviews-538)
+    - [5.23. The Middle Kingdoms: A New History of Central Europe: Rady, Martyn: 9781541619784: Amazon.com: Books](#523-the-middle-kingdoms-a-new-history-of-central-europe-rady-martyn-9781541619784-amazoncom-books)
+    - [5.24. Friction >> Debt](#524-friction--debt)
+    - [5.25. Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney](#525-things-every-programmer-should-know-collective-wisdom-from-the-experts-by-kevlin-henney)
+    - [5.26. The Republic of Britain: Life under Cromwell - The Rest Is History](#526-the-republic-of-britain-life-under-cromwell---the-rest-is-history)
+    - [5.27. Trafalgar: Countdown to Annihilation on Podgraph.io](#527-trafalgar-countdown-to-annihilation-on-podgraphio)
+    - [5.28. Writing Python like it’s Rust](#528-writing-python-like-its-rust)
+    - [5.29. Dabeaz Courses](#529-dabeaz-courses)
+    - [5.30. Antonio Gramsci is the Marxist thinker for our times](#530-antonio-gramsci-is-the-marxist-thinker-for-our-times)
+    - [5.31. Fold 'N Fly » Paper Airplane Folding Instructions](#531-fold-n-fly-»-paper-airplane-folding-instructions)
+    - [5.32. Windows and the AI Platform Shift – Stratechery by Ben Thompson](#532-windows-and-the-ai-platform-shift--stratechery-by-ben-thompson)
+    - [5.33. Rotten-Scripts/Python at master · HarshCasper/Rotten-Scripts · GitHub](#533-rotten-scriptspython-at-master-·-harshcasperrotten-scripts-·-github)
+    - [5.34. Learn C • Build Your Own Lisp](#534-learn-c-•-build-your-own-lisp)
+    - [5.35. Works of Lucian, Vol. I: Dialogues of the Dead: XVIII](#535-works-of-lucian-vol-i-dialogues-of-the-dead-xviii)
+- [6. JUNE2023](#6-june2023)
+    - [6.1. Where have all the hackers gone? + a way to discuss programming languages](#61-where-have-all-the-hackers-gone--a-way-to-discuss-programming-languages)
+    - [6.2. Low-Code SQL on dbt Core with Raj Bains from Prophecy - Software Engineering Daily](#62-low-code-sql-on-dbt-core-with-raj-bains-from-prophecy---software-engineering-daily)
+    - [6.3. Highlander Principle](#63-highlander-principle)
+    - [6.4. Zjistěte, jak správně provést vyúčtování služeb nájemníkům [aktualizováno 2023]](#64-zjistěte-jak-správně-provést-vyúčtování-služeb-nájemníkům-aktualizováno-2023)
+    - [6.5. dumkydewilde/snowplow-serverless: A cheap, serverless version of Snowplow deployed with Terraform that runs on dumky.net](#65-dumkydewildesnowplow-serverless-a-cheap-serverless-version-of-snowplow-deployed-with-terraform-that-runs-on-dumkynet)
+    - [6.6. Einstein's Final Quest](#66-einsteins-final-quest)
+    - [6.7. On the Slow Productivity of John Wick - Cal Newport](#67-on-the-slow-productivity-of-john-wick---cal-newport)
+    - [6.8. Dear Google Analytics 4](#68-dear-google-analytics-4)
+    - [6.9. Camels and Rubber Duckies – Joel on Software](#69-camels-and-rubber-duckies--joel-on-software)
+    - [6.10. Buy DataGrip: Pricing and Licensing, Discounts - JetBrains Toolbox Subscription](#610-buy-datagrip-pricing-and-licensing-discounts---jetbrains-toolbox-subscription)
+    - [6.11. What Ukraine knew about the Wagner mutiny - New Statesman](#611-what-ukraine-knew-about-the-wagner-mutiny---new-statesman)
 
 <!-- /TOC -->
+
 ### 1. JAN 2023
 
 #### 1.1. GitHub Copilot preliminary experience report
@@ -464,635 +508,631 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://twitter.com/mukul0x/status/1625673579399446529>
 
 
-#### 2.41. What Is Nix
+#### 2.40. What Is Nix
 * <https://shopify.engineering/what-is-nix>
 * 
 > The most basic, fundamental idea behind Nix is this:Everything on your computer implicitly depends on a whole bunch of other things on your computer.All software exists in a graph of dependencies.Most of the time, this graph is implicit.Nix makes this graph explicit
 
-#### 2.42. The typical course on programming teaches a 
+#### 2.41. The typical course on programming teaches a 
 * <https://htdp.org/2018-01-06/Book/part_preface.html>
 
-#### 2.43. How to Design Programs > Preface
+#### 2.42. How to Design Programs > Preface
 * <https://htdp.org/2018-01-06/Book/part_preface.html>
 * n/a
 > The typical course on programming teaches a “tinker until it works” approach. When it works, students exclaim “It works!” and move on. Sadly, this phrase is also the shortest lie in computing, and it has cost many people many hours of their lives. In contrast, this book focuses on habits of good programming, addressing both professional and vocational programmers.By “good programming,” we mean an approach to the creation of software that relies on systematic thought, planning, and understanding from the very beginning, at every stage, and for every step. To emphasize the point, we speak of systematic program design and systematically designed programs. Critically, the latter articulates the rationale of the desired functionality. Good programming also satisfies an aesthetic sense of accomplishment; the elegance of a good program is comparable to time-tested poems or the black-and-white photographs of a bygone era. In short, programming differs from good programming like crayon sketches in a diner from oil paintings in a museum.
 
-#### Quotient - Wikipedia
+#### 2.43. Quotient - Wikipedia
 * <https://en.wikipedia.org/wiki/Quotient>
 * Learning Math Terminology with Dr Racket - in Python I'll just call this floored quotient or floor divide. Also https://docs.python.org/3/library/stdtypes.html?highlight=operators#numeric-types-int-float-complex. 
 > In arithmetic, a quotient (from Latin: quotiens 'how many times', pronounced /ˈkwoʊʃənt/) is a quantity produced by the division of two numbers.[1] The quotient has widespread use throughout mathematics, and is commonly referred to as the integer part of a division (in the case of Euclidean division),[2] or as a fraction or a ratio (in the case of proper division). For example, when dividing 20 (the dividend) by 3 (the divisor), the quotient is "6 with a remainder of 2" in the Euclidean division sense, and 623
 
-#### 50 conversations in Bangalore and Chennai 
+#### 2.44. conversations in Bangalore and Chennai 
 * <https://sive.rs/meet-chbg>
 * Always interesting !
 > I went to Chennai and Bengaluru, India. My sole purpose was to meet new friends. I’m an “Overseas Citizen of India” and my son is half-Indian (Tamil). I will always have ties to India. I wanted to deepen those ties and make new connections.So I scheduled fifty one-hour conversations with fifty interesting people over seven days. Back-to-back meetings from 9am to 10pm every day. It was one of the most intense and fascinating (and heart-warming and educational) things I’ve ever done in my life. I recorded almost every conversation into a little voice recorder, then had it transcribed. When I got home to New Zealand I spent 30 hours reading through the transcriptions to help me remember what we talked about, then made a tiny summary, below....And WhatApp is practically the sole mode of communication.
 
-### MAR 2013
+### 3. MAR 2013
 
-#### A Devastating Moment of Clarity in Ukraine - Tablet Magazine
+#### 3.1. A Devastating Moment of Clarity in Ukraine - Tablet Magazine
 * <https://www.tabletmag.com/sections/news/articles/devastating-moment-clarity-ukraine>
 
-#### The Future of the Modern Data Stack in 2023 
+#### 3.2. The Future of the Modern Data Stack in 2023 
 * <https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2023-b08c2aed04e2>
 
-#### Thinking about Tracking Design, Part 1: What is tracking anyways?
+#### 3.3. Thinking about Tracking Design, Part 1: What is tracking anyways?
 * <https://randallhelms.substack.com/p/thinking-about-tracking-design-part?utm_source=post-email-title&publication_id=1240188&post_id=105545888&isFreemail=true&utm_medium=email>
 * The pop-culture metaphor works greatly and it is a sign of good writing then these analogies (tracking as secret police spying on YOU, as in the movie 'The Lives of Others')
 > 1I think it’s fair to say that behavioral tracking is not well understood outside the data world; the term ‘tracking’ itself sounds scary, like stalking! It makes people think about something very personal, a process where a website comes to know your deepest secrets, as with the Stasi agents in the German field Das Leben der Anderen (The Lives of Others).The reality is more prosaic, however, so with this first post I would like to demystify this process and explain what is actually going on
 
-#### Louis CK- Back to the Garden
+#### 3.4. Louis CK- Back to the Garden
 * <https://www.bitchute.com/video/ImMGnr6VfMGr/>
 * His first standup I did not pay for (sorrry Louis), the provocations are great, I can't help, however, but to think if some deeper mechanism responsible also for his art is not too affected by his enemies. Jordan Peterson's appearance on Lex Friedman's show left a weird taste in my mouth and I am attributing his pro-russian stance as being in a wrong battle against woke for way too long.
 
-#### : We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
+#### 3.5. : We haven’t ramped up industrial production at all. At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
 * <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends>
 
-#### How the War in Ukraine Ends 
+#### 3.6. How the War in Ukraine Ends 
 * <https://www.newyorker.com/news/the-new-yorker-interview/how-the-war-in-ukraine-ends> 
 > At peak, the Ukrainians were firing—expending—upward of ninety thousand artillery shells a month. U.S. monthly production of artillery shells is fifteen thousand. With all our allies thrown in, everybody in the mix who supports Ukraine, you get another fifteen thousand, at the highest estimates. So you can do thirty thousand in the production of artillery shells while expending ninety thousand a month. We haven’t ramped up. We’re just drawing down the stocks. And you know what? We’re running out.
 
-#### The Great Feminization of the American University 
+#### 3.7. The Great Feminization of the American University 
 * <https://www.city-journal.org/the-great-feminization-of-the-american-university>
 * I worked for NYU, so this interesting mostly on a personal level. Else, I have a more of a "hardcode history" view where the feminization is probably the part of civilization that would and will erode in terms of acute crisis, collapse and war. I may be mistaken, of course.
 > Sometimes a single incident efficiently summarizes a larger trend. So it is with New York University’s selection of its new president, Linda Mills, a licensed clinical social worker and an NYU social work professor. She researches trauma and bias, as well as race and gender in the legal academy. She is a documentary filmmaker and teaches advocacy filmmaking. She serves as an NYU vice chancellor and as a senior vice provost for Global Programs and University Life. In all these roles, Mills is the very embodiment of the contemporary academy. The most significant part of her identity, however, and the one that ties the rest of her curriculum vitae together, is that she is female, and thus overdetermined as NYU’s next president.
 
-#### Who are the people I most admire? - Marginal REVOLUTION
+#### 3.8. Who are the people I most admire? - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2015/02/who-are-the-people-i-most-admire.html>
 * I have the similar look like Tyler, where the people of my admiration not just sacrificied but were able to 1)risk 2)display courage 3)value love and in my case 4)love books. So Vaclav Havel (inprisoned by communists) and Vaclav Cerny (imprisoned by nazis) are on the top of the list, being a great artist and a great scholar, respectivelly. 
 > Overall I was surprised how few of you approached the question the way I have, rather as a group you picked too many nerdy white guys.  Now I don’t like to play “the PC card,” and if a process generates a lot of nerdy white guys, I don’t then assume that process is necessarily biased or requiring correction.  Still, the fact that my list creates so much room for women (and non-whites) suggests it reflects the universality of human experience more than what most of you came up with.
 
-#### Manhole cover - Wikipedia
+#### 3.9. Manhole cover - Wikipedia
 * <https://en.wikipedia.org/wiki/Manhole_cover#Shape>
 
-#### PEP 435 – Adding an Enum type to the Python standard library 
+#### 3.10. PEP 435 – Adding an Enum type to the Python standard library 
 * <https://peps.python.org/pep-0435/>
 * Python has an ENUM type which was not known to me until studying <https://www.edx.org/course/how-to-code-simple-data>
 > The properties of an enumeration are useful for defining an immutable, related set of constant values that may or may not have a semantic meaning. Classic examples are days of the week (Sunday through Saturday) and school assessment grades (‘A’ through ‘D’, and ‘F’). Other examples include error status values and states within a defined process.It is possible to simply define a sequence of values of some other basic type, such as int or str, to represent discrete arbitrary values. However, an enumeration ensures that such values are distinct from any others including, importantly, values within other enumerations, and that operations without meaning (“Wednesday times two”) are not defined for these values. It also provides a convenient printable representation of enum values without requiring tedious repetition while defining them (i.e. no GREEN = 'green').
 
-#### enum — Support for enumerations — Python 3.11.2 documentation
+#### 3.11. enum — Support for enumerations — Python 3.11.2 documentation
 * <https://docs.python.org/3/library/enum.html#creating-an-enum>
 
-#### Python list of lists from enum - Stack Overflow
+#### 3.12. Python list of lists from enum - Stack Overflow
 * <https://stackoverflow.com/questions/42912518/python-list-of-lists-from-enum>
 
-#### We’re Missing a Key Driver of Teen Anxiety - The Atlantic
+#### 3.13. We’re Missing a Key Driver of Teen Anxiety - The Atlantic
 * <https://www.theatlantic.com/newsletters/archive/2023/03/teen-anxiety-elite-schools-sat-act-paradox-wealthy-nations/673307/>
 * It must be possible to grow-up both smart and wise in a better way than exemplified here. But from Central European perspective, it's still "probably the phones"
 > Last week, columbia university became the latest school to announce that it would no longer require SAT or ACT scores for undergraduate admissions. The school’s decision was “rooted in the belief that students are dynamic, multi-faceted individuals who cannot be defined by any single factor,” the college said in a defense of its policy change.The SAT has faced heavy scrutiny for privileging rich families, which can pay for test-prep classes for their kids. Some believe that dropping the test is an ethical move toward equality in selective college admissions. Others argue that Columbia is replacing one metric skewed toward rich students with a bundle of metrics that are even more stratified by socioeconomic status, such as high GPAs, internships in Nicaragua, and expensive traveling soccer teams.
 
-#### High Quality Server Hosting at a Value for Everyone 
+#### 3.14. High Quality Server Hosting at a Value for Everyone 
 * <https://contabo.com/en/about-us/>
 * Getting to known another server hosting provider.
 > While everyone brags about their prices, we actually deliver on this promise. For example whenever choosing hardware we not only look at the raw performance, but also on the purchase price in relation to performance and power consumption. Read more about how we keep our prices low. In Contabo we believe that every customer deservers a Premium Support Experience no matter they spend thousands or just €5.99 a month. That's why we've set rigorous quality standards for our support team making sure that your experience is as good as possible. The great reviews we get only makes us work harder.
 
-#### How-To Find the Process ID Holding Open Ports 
+#### 3.15. How-To Find the Process ID Holding Open Ports 
 * <https://www.squintz.org/posts/how-t0-find-process-id-holding-ports-open/>
 * Great style, great care. 
 
-#### Is there a way to have a default value inside a dictionary in Python? - Stack Overflow
+#### 3.16. Is there a way to have a default value inside a dictionary in Python? - Stack Overflow
 * <https://stackoverflow.com/questions/71003828/is-there-a-way-to-have-a-default-value-inside-a-dictionary-in-python>
 
-#### Simple techniques for complex projects 
+#### 3.17. Simple techniques for complex projects 
 * <https://seths.blog/2023/03/simple-techniques-for-complex-projects/>
 * Seth needs to repeat and repeat and repeat the good old insights, as we all are defaulting to crappy practices. Refreshments required.
 > Invest in slack buffers for any critical dependent components.Heroism is more fun but less reliable than good planning.Invest in slack buffers for any critical dependent components....and more
 
-#### The False Promise of ChatGPT 
+#### 3.18. The False Promise of ChatGPT 
 * <https://news.ycombinator.com/item?id=35067619>
 * It would be interesting to have a longitudinal study on the arrival of AI, done in real-time, to have researcher's reflextion as well
 > ChatGPT is a bullshit artist with no real understanding of what it's writing about, but so are an awful lot of white-collar workers. It reliably emulates the shibboleths that indicate membership of the professional middle class. It isn't particularly creative or interesting, but it wasn't trained to do that - it was trained to produce maximally safe, inoffensive output. If people don't see ChatGPT as being massively disruptive, then I think they have failed to recognise the sheer proportion of working hours that are spent writing quite mundane letters and reports. Anyone who spends most of their working day in Outlook and Word should be extremely nervous about the medium-term implications of LLM
 
-#### Snowclone - Wikipedia
+#### 3.19. Snowclone - Wikipedia
 * <https://en.wikipedia.org/wiki/Snowclone>
 * Love at the time of Cholera, Agency at the time of Anthropocene, etc.
 
-#### The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic
+#### 3.20. The Strongest Evidence Yet That an Animal Started the Pandemic - The Atlantic
 * <https://www.theatlantic.com/science/archive/2023/03/covid-origins-research-raccoon-dogs-wuhan-market-lab-leak/673390/>
 * Example when reading Latour
 
-#### Mass converting .doc to .docx - Microsoft Community Hub
+#### 3.21. Mass converting .doc to .docx - Microsoft Community Hub
 * <https://techcommunity.microsoft.com/t5/microsoft-365/mass-converting-doc-to-docx/m-p/194462>
 * Thinking about the creation of a new zettelkasten for humanities
 
-#### Awakening from the Meaning Crisis - YouTube
+#### 3.22. Awakening from the Meaning Crisis - YouTube
 * <https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ>
 * interesting, perhaps?
 
-#### Awakening from the Meaning Crisis
+#### 3.23. Awakening from the Meaning Crisis
 * <https://www.youtube.com/watch?v=SNcJ79qPIg8>
 * Brilliant!
 
-#### Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation
+#### 3.24. Mocking, Monkey Patching, and Faking Functionality — Python 401 2.1 documentation
 * <https://codefellows.github.io/sea-python-401d7/lectures/mock.html>
 * Learning the differences between mocking, monkeypatching, fixtures and alike. 
 > Sometimes while testing you need some fake data. is a part of the  library that allows you to intercept what a function would normally do, substituting its full execution with a return value of your own specification. Note that **monkey patching a function call does not count as actually testing that function call!** **You ARE NOT actually using the function that you’ve monkey patched; you are rejecting its default behavior and subsituting it with new behavior.**
 
-#### A Year after the Invasion, the Russian Economy Is Self-Immolating 
+#### 3.25. A Year after the Invasion, the Russian Economy Is Self-Immolating 
 * <https://insights.som.yale.edu/insights/year-after-the-invasion-the-russian-economy-is-self-immolating>
 * This is working in slower time then headlines, but it seems to be working. Ezra Klein has a great podcast on this, too.
 > Russia’s permanent loss of 1,000+ global multinational businesses coupled with escalating economic sanctionsPlummeting energy revenues thanks to the G7 oil price cap and Putin’s punctured natural gas gambitTalent and capital flightRussia will only become increasingly irrelevant as supply chains continue to adaptThe Russian economy is being propped up by the KremlinMore can be done.....
 
-#### *Colonialism: A Moral Reckoning* - Marginal REVOLUTION
+#### 3.26. *Colonialism: A Moral Reckoning* - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/03/colonialism-a-moral-reckoning.html>
 * The good old "If you want attention, start a fight" seems to suit here, I am afraid. Tyler's takes on books are just amazing. 
 > That is the new book by Nigel Biggar, and it has already created a storm of controversy because of his claims that the British empire is, in my words, “underrated.”Let me first say that I am in no way upset at this thesis being put explicitly on the table.  And the book has many valuable discussions, covering issues such as how hard (at some point) the British worked to ban slavery, what were their motives for empire, what kinds of pressures for assimilation were asserted, and much more.My disappointment is how little space is devoted to the topic of sustainable economic growth.  In which parts of the empire did British rule boost sustainable economic growth, relative to a counterfactual of peaceful interaction but no conquest?  Singapore and Hong Kong seem obviously much richer and better off due to earlier British rule.  Malaysia likely as well, though the magnitude of the gain there is smaller.  But Sierra Leone not?  The country is miserably poor and has had numerous years of civil war, with a legacy of slavery as well.  Who could object to trying another run of history there, removing the British imperial role?  It is hard to see that it could get very much worse.  But then where does one put Kenya?
 
 
-#### Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman
+#### 3.27. Dmytro Kuleba: Russian victory will ruin everything the West stands for - New Statesman
 * <https://www.newstatesman.com/the-weekend-interview/2023/03/ukraine-foreign-minister-dmytro-kuleba-interview>
 * Really impressed by the age/responsibility ratio here. 
 > Only 41, he is Ukraine’s youngest foreign minister and a career diplomat, as well as the son of a career diplomat. But when I spoke to him by video link on 9 March he was blunt and direct with his answers, though he never strayed too far from his role. When I asked him if the war would end with a military victory or diplomacy, his first instinct was to reply, “Russian defeat”, but he quickly reverted back to diplomat in chief.
 
-#### Ezra Klein: This Changes Everything 
+#### 3.28. Ezra Klein: This Changes Everything 
 * <https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html>
 * The argument in this essay nudged me significantly to apply for a phD in Sociology. Let's see...
 
-#### Pynecone: The easiest way to build web apps.
+#### 3.29. Pynecone: The easiest way to build web apps.
 * <https://pynecone.io/>
 * I've been automating workflows using CLI tools and it's working great for me. However terminal is scary for non-programmers; this could be a way to migrate python scripts to web apps rather quickly. 
 
-#### The Impact of AI on Productivity - Marginal REVOLUTION
+#### 3.30. The Impact of AI on Productivity - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/03/the-impact-of-ai-on-productivity.html>
 * Quantitative Expression of the Programmer's Acceleration via GitHub Copilot. I just wonder that since it SO facilitates programming by co-incidence, I wonder if also AI will do all of the maintenance work where it is essential to reason on the level of model in order to implement the change efficiently (as opposed to jumping straight into the code)
 > Conditioning on completing the task, the average completion time from the treated group is 71.17 minutes and 160.89 minutes for the control group. This represents a 55.8% reduction in completion time. The p-value for the t-test is 0.0017, and a 95% confidence interval for the improvement is between [21%, 89%]. There are four outliers with time to completion above 300 min. All outliers are in the control group, however our results remain robust if these outliers are dropped. This result suggests that Copilot increases average productivity significantly in our experiment population. We also find that the treated group’s success rate is 7 percentage points higher than the control group, but the estimate is not statistically significant, with a 95% confidence interval of [-0.11, 0.25].
 
-#### Full interview with Clifford Geertz - part one - YouTube
+#### 3.31. Full interview with Clifford Geertz - part one - YouTube
 * <https://www.youtube.com/watch?v=3dQDx3axrDs>
 * Clifford Geertz in person, scientist, poet, adventurer.
 
-#### Khan Academy integrates GPT-4 as every student’s customized tutor 
+#### 3.32. Khan Academy integrates GPT-4 as every student’s customized tutor 
 * <https://news.ycombinator.com/item?id=35155684>
 * Education (personal AI assistant) usecase has been mentioned repeatedly as one of the imaginable benefits (see Sam Altman talking with Kara Swisher in the second half of March 2023), but I am not convinced, I am not convinced. I can imagine it helping me interacting over a long complicated difficult text, for example what Mortimer Adler called "synoptic reading" (comparing to texts I don't know about). Curious.  
 
 
-### APR 2013
-#### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
+### 4. APR 2013
+#### 4.1. ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
 * <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
 * Podcast with the head of OpenAI, but the most memorable is Kara's view on risk and a generational take. Altman is another young optimist, similar to what we have seen with the coming of the internet in the 90s, and there were many downsides (weaponization) that they were not treating properly. Not that Altman does not say - we wanted this to be a government project and it failed or that he is not 'building in public' to make everyone every (and others join) or that he is pro-regulatory. His view of humanity as one big technical revolution should be mitigated by reading some of Timothy Snyder's books. 
 > 
 
-#### Baggage On Georgia
+#### 4.2. Baggage On Georgia
 * <https://www.economist.com/podcasts/2023/03/11/3-baggage>
 * Great podcast about Georgia and it's bleak future with the surreal visit of the musem of Stalin. 
 > n one sense, the war did not really begin in 2022. It did not even begin in Ukraine. It started the first time Vladimir Putin invaded one of Russia’s neighbours and got away with it. That was 15 years ago, in Georgia. And in the same place Joseph Stalin, author of the Soviet empire’s darkest chapter, was born.
 
-#### How will AI transform childhood? - Marginal REVOLUTION
+#### 4.3. How will AI transform childhood? - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/03/how-will-ai-transform-childhood.html>
 * There is a general idea that digital technogy gets us information and makes us stupid, or at least intellectually weaker. I am a strong believer of a modular approach; the "devices" should be first and foremost "removables" before they become anything else and we should be able to peacefully walk and contemplate life without any need to get satisfaction via "digital assistant". Of course, also this idea has stupid at the edge (how autonomy do want, there are people living a happy life absolutely disconnected, but does that scale?). In any case, sure, AI for kids, but not if that makes him a stupid addict. 
 > Many parents may be reluctant to let their kids become attached to an AI. But I predict that most families will welcome it. For one, parents will be able to turn off the connection whenever they wish. Simply clicking a button is easier than yanking an iPad out of a kid’s grasp.Most of all, letting your kid have an AI companion will bring big advantages. Your child will learn to read and write much faster and better, and will do better in school. Or maybe you want your kid to master Spanish or Chinese, but you can’t afford an expensive tutor who comes only twice a week. Do you want your child to learn how to read music? The AI services will be as limited or as expansive as you want them to be.It is an open question how quickly schools will embrace these new methods of learning. At some point, however, they will become part of the curriculum. Competitive pressures will make parents reluctant to withhold AI from their kids. Even if the AIs are not present in the classroom, some kids will use them to help do their homework, gaining a big advantage, and the practice will likely spread.Of course children will use these AIs for purposes far beyond what their parents intend. They will become playthings, companions, entertainers and much more. When I was a kid, with no internet and mediocre TV, I created imaginary worlds in the dirt, or with simple household items, and my parents often had no clue. The AI services will become part of this model of spontaneous play, even if parents try to make them purely educational.What about teenagers? Well, many parents may allow their kids to speak with AI therapists. It might be better than nothing, and perhaps better than many human therapists.
 
-#### E.W.Dijkstra Archive: The Humble Programmer (EWD 340)
+#### 4.4. E.W.Dijkstra Archive: The Humble Programmer (EWD 340)
 * <https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html>
 * I always looked at this with admiration of both style and insight
 > Now for the fifth argument. It has to do with the influence of the tool we are trying to use upon our own thinking habits. I observe a cultural tradition, which in all probability has its roots in the Renaissance, to ignore this influence, to regard the human mind as the supreme and autonomous master of its artefacts. But if I start to analyse the thinking habits of myself and of my fellow human beings, I come, whether I like it or not, to a completely different conclusion, viz. that the tools we are trying to use and the language or notation we are using to express or record our thoughts, are the major factors determining what we can think or express at all! The analysis of the influence that programming languages have on the thinking habits of its users, and the recognition that, by now, brainpower is by far our scarcest resource, they together give us a new collection of yardsticks for comparing the relative merits of various programming languages. The competent programmer is fully aware of the strictly
 
-#### The Microsoft Copilot future of work demo is incredible
+#### 4.5. The Microsoft Copilot future of work demo is incredible
 * <https://twitter.com/hamandcheese/status/1636576542351302657>
 * The surveillance mode of AI is to be analyzed as well, it is a big sociological theme at least since Foucault has focused on it with passion. 
 > The Microsoft Copilot "future of work" demo is incredible. Your boss will soon be able to ask their Copilot to create a summary of who does the least work on average and have their termination letter already drafted in Outlook.This isn't necessarily a bad thing. Managers often have to make subjective evaluations of workers with imperfect information. Soon, you can instead just ask Co-pilot to analyze the meeting transcripts in the knowledge graph and rank who make the most insightful contributions.From the reply: ust the world we wanted. Sounds great.The tech industry and USA libertarian intellectual class has failed us by their lack of humanity. From the reply: ust the world we wanted. Sounds great.
 
-#### How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN
+#### 4.6. How to Learn and Teach Economics with Large Language Models, Including GPT by Tyler Cowen, Alexander T. Tabarrok :: SSRN
 * <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391863>
 * Even though teachers are not going to be "replaced" easily, next to science is pedagogy/training one of the main advertised usecases, 
 
-#### Pinker on Alignment and Intelligence as a Magical Potion
+#### 4.7. Pinker on Alignment and Intelligence as a Magical Potion
 * <https://richardhanania.substack.com/p/pinker-on-alignment-and-intelligence>
 * A quite interesting, including a noteworth constructivist/sociological take on the concept of IQ
 > While I defend the existence and utility of IQ and its principal component, general intelligence or g,  in the study of individual differences, I think it’s completely irrelevant to AI, AI scaling, and [existential risk from AI]. It’s a measure of differences among humans within the restricted range they occupy, developed more than a century ago. It’s a statistical construct with no theoretical foundation, and it has tenuous connections to any mechanistic understanding of cognition other than as an omnibus measure of processing efficiency (speed of neural transmission, amount of neural tissue, and so on). It exists as a coherent variable only because performance scores on subtests like vocabulary, digit string memorization, and factual knowledge intercorrelate, yielding a statistical principal component, probably a global measure of neural fitness.In that regard, it’s like a Consumer Reports global rating of cars, or overall score in the pentathlon. It would not be surprising that a car with a more powerful engine also had a better suspension and sound system, or that better swimmers are also, on average, better fencers and shooters. But this tells us precisely nothing about how engines or human bodies work. And imagining an extrapolation to a supervehicle or a superathlete is an exercise in fantasy but not a means to develop new technologies.
 
-#### Anki-fy Your Life - by Moses Liew - About to Learn
+#### 4.8. Anki-fy Your Life - by Moses Liew - About to Learn
 * <https://abouttolearn.substack.com/p/anki-fy-your-life>
 * My bet is that with the arrival of AI is amplifying the divide of those who remember and those who don't. 
 > If you store this content in your long-term memory, it also allows your brain to subconsciously make connections and solve problems with the knowledge.There’s also a great argument for using Anki to understand hard concepts, especially in research papers. That’s a slightly different process, involving multiple re-reads and building up a knowledge from very basic questions about the concepts.
 
-#### State diagram - Wikipedia
+#### 4.9. State diagram - Wikipedia
 * <https://en.wikipedia.org/wiki/State_diagram>
 * Learning about Circles and Arrows as Shannon's way to think visualizing computation already in 1949; learning about state machines and state diagrams. 
 > State diagrams can be used to graphically represent finite-state machines (also called finite automata). This was introduced by Claude Shannon and Warren Weaver in their 1949 book The Mathematical Theory of Communication. Another source is Taylor Booth in his 1967 book Sequential Machines and Automata Theory. Another possible representation is the state-transition table.
 
-#### The philosopher: A conversation with Grady Booch 
+#### 4.10. The philosopher: A conversation with Grady Booch 
 * <https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html>
 * Saving this conversation only because it's done by the creator of UML, which was a big deal in the 1990s and Uncle Bob talks with him a great deal and I've seen Grady conducting oral history museum for Computing History Museum. 
 
 
-#### Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...
+#### 4.11. Geoffrey Litt on Twitter: What if -- despite all the hype -- we are in fact underestimating...
 * <https://twitter.com/geoffreylitt/status/1637592619269214209>
 * A great analogy of AI-based software with Spreadsheeds. Not convinced, surely impressed. 
 > ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 " ou, skeptic: "nooo but the LLM-generated software will be lower-quality than handcoded software by pro teams: filled with bugs, uglier, bad... 😡 "
 
 
-#### Thinking about Tracking Design, Part 2: Why track in the first place?
+#### 4.12. Thinking about Tracking Design, Part 2: Why track in the first place?
 * <https://randallhelms.substack.com/p/thinking-about-tracking-design-part-2-why-track?utm_source=post-email-title&publication_id=1240188&post_id=104644747&isFreemail=true&utm_medium=email>
 * I really enjoyed the first part when the popular image of tracking was framed as a scene from the movie Das Leben den Anderen. This did not contain such a gem, but boiling down the purpose of tracking to the discovery of 1) origins 2) intentions works elegantly and is supplied with clear illustrations. 
 > Here’s a practical example to help you understand how this traffic information is essential: let’s say you run an ecommerce store for sneakers and suddenly you have an unexpected burst of sales on a particular item; you normally sell 10 pairs a week, and suddenly you get orders for 100 in a day! What happened? You turn to your traffic data, and you find that most of the new orders came from people who had gone directly to the page via a link on a blog for sneaker collectors. With this information you can reach out to the blog owner and discuss potential business opportunities, for example some kind of affiliate deal or a collaboration.Without the detailed traffic data, all you would have known was that you had a big spike in orders, and … that’s it! There would be no way to really capitalize on it.
 
-#### Waiting for the Betterness Explosion 
+#### 4.13. Waiting for the Betterness Explosion 
 * <https://www.cspicenter.com/p/waiting-for-the-betterness-explosion#details>
 * It's great so see intellectualls live, I believe. 
 > What’s the heart of the problem with the idea that there’s going to be something that’s so smart, it makes us feel like ants, and that basically it can do whatever it wants and we can’t help to control it and foresee it, and we’re all going to be at its mercy and potentially die. What’s the argument against this?Robin: I think you’re right that there’s this very common phenomenon whereby most people have some sort of default views about the world and history and the future, and then some smaller groups come to a contrary view, that is a view that on the face of it would seem unlikely from some broad considerations. And then they develop a lot of detailed discussion of that, and then they try to engage that with the larger world, and then what they get usually is a big imbalance of attention, in the sense that they...Think of 9/11 truthers or something, right? They’re going to talk about this building and this piece of evidence and this time and this testimony or something, and people on the outside are just going to be talking mainly about the very idea of this thing, and is this at all plausible? And the insiders are going to be upset that they don’t engage all their specific things, and they introduce terminology and concepts and things like that, and they have meetings or they invite each other to talk a lot. And the outsiders are just at a different level of, does this really make much sense at all?And then, when the insiders are trying to get more attention and the outsiders, some of them will engage. There’ll be a difference between some very high profile people who just give very dismissive comments, versus lower status people who might look at their stuff in more detail, and they’re just going to be much more interested in engaging that first group than the second because the fact that somebody high profile even discussed them is something worthy of note. And then, the fact that this person was very dismissive and doesn’t really know much of their details, in their mind supports their view that they’re right and the other people are just neglecting them.So here, the key thing to notice is just, on the face of it, they’re postulating something that seems a priori pretty unlikely relative to a background of the past and other sorts of things. That would be the crux of the main response, is to say, look, what are you proposing here, and how would that look if we had seen it in the past? How unusual would that be?
 
 
-#### https://andrew-quinn.me/fzf/
+#### 4.14. https://andrew-quinn.me/fzf/
 * <https://andrew-quinn.me/fzf/>
 * AI demonstrated the power of plain text to everyone, something that programmers settled in terminals know itimatelly and this is a great empowerement even for terminal dwellers. 
 
-#### Adobe Firefly: AI Art Generator 
+#### 4.15. Adobe Firefly: AI Art Generator 
 * <https://news.ycombinator.com/item?id=35246139>
 * I believe Ben Thomson's thesis about 'The end of beginning' (of computing history via stabilization of the number of major players) is correct and this seems like a good illustration. Also with a poignant HN comment.
 > What this reinforces is that unlike with previous big innovations (cloud, iphone, etc), incumbents will not sit on their laurels with the AI wave. They are aggressively integrating it into their products which (1) provides a relatively cheap step function upgrade and (2) keeps the barrier high for startups to use AI as their wedge.I attribute the speed at which incumbents are integrating AI into their products to a couple things:* Whereas AI was a hand-wavey marketing term in the past, it's now the real deal and provides actual value to the end user.* The technology and DX with integrating w/products from OpenAPI, SD, is good.* AI and LLMs are capturing a lot of attention right now (as seen easily by how often they pop up on HN these days). It's in the zeigeist so you get a marketing boost for free.
 
-#### Define Wokeness! Or how you shall know a word by the company it keeps
+#### 4.16. Define Wokeness! Or how you shall know a word by the company it keeps
 * <https://davidrozado.substack.com/p/wo>
 * Linguistics visualized and data employed in very elegant manner. 
 
 
-#### The cloud backlash has begun: Why big data is pulling compute back on premises 
+#### 4.17. The cloud backlash has begun: Why big data is pulling compute back on premises 
 * <https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/?guccounter=1>
 * Combine with https://medium.com/@laurengreerbalik/customer-empathy-is-dead-10f412782b5e
 
 
-#### [YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl
+#### 4.18. [YouTube] Unable to extract uploader id · Issue #31530 · ytdl-org/youtube-dl
 * <https://github.com/ytdl-org/youtube-dl/issues/31530#issuecomment-1435477247>
 * How to Install Youtube DL with a Single command? 
 > pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
 
-#### What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium
+#### 4.19. What is ‘Conscious Consumerism’? Who is a ‘Conscious Consumer’? Medium
 * <https://welearnwegrow.medium.com/lets-define-conscious-living-for-the-21st-century-336fcba332dc>
 * Looking for concepts like cultural mainstreaming, cultural appropriation and the rise of reuse economy. 
 
 
-#### Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen 
+#### 4.20. Book Review: The Imperial Mode of Living: Everyday Life and the Ecological Crisis of Capitalism by Ulrich Brand and Markus Wissen 
 * <https://blogs.lse.ac.uk/lsereviewofbooks/2021/07/13/book-review-the-imperial-mode-of-living-everyday-life-and-the-ecological-crisis-of-capitalism-by-ulrich-brand-and-markus-wissen/>
 * Anothe catch-phrase of critical sociology and the critique of conscious consumerism as consciousness hygiene. 
 
 
-#### 1984 Kundera The Tragedy of Central Europe
+#### 4.21. Kundera The Tragedy of Central Europe
 * <http://www.kx.hu/kepek/ises/anyagok/Kundera_tragedy_of_Central_Europe.pdf>
 * I regard this as a bit pompous, and a bit nostalgic, and truly elegant as Kundera usually is.
 > The last direct personal experience of the West that Central European countries remember isthe period from 1918 to 1938. Their picture of the West, then, is of the West in the past, of aWest in which culture had not yet entirely bowed out.With this in mind, I want to stress a significant circumstance: the Central European revoltswere not nourished by the newspapers, radio, or television—that is, by the "media." Theywere prepared, shaped, realized by novels, poetry, theater, cinema, historiography, literaryreviews, popular comedy and cabaret, philosophical discussions—that is, by culture.[15] Themass media—which, for the French and Americans, are indistinguishable from whatever theWest today is meant to be—played no part in these revolts (since the press and televisionwere completely under state control). While still shaken by this triply tragic event which the invasion of Prague represented, Iarrived in France and tried to explain to French friends the massacre of culture that had takenplace after the invasion: "Try to imagine! All of the literary and cultural reviews wereliquidated! Every one, without exception! That never happened before in Czech history, noteven under the Nazi occupation during the war." Then my friends would look at me indulgently with an embarrassment that I understood onlylater. When all the reviews in Czechoslovakia were liquidated, the entire nation knew it, andwas in a state of anguish because of the immense impact of the event.[17] If all the reviews inFrance or England disappeared, no one would notice it, not even their editors. In Paris, evenin a completely cultivated milieu, during dinner parties people discuss television programs,not reviews. For culture has already bowed out. Its disappearance, which we experienced inPrague as a catastrophe, a shock, a tragedy, is perceived in Paris as something banal andinsignificant, scarcely visible, a non-event.
 
-#### ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
+#### 4.22. ‘On With Kara Swisher’: Sam Altman on the GPT-4 Revolution
 * <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-sam-altman-on-the-ai-revolution.html>
 * Sam Altman tells a story of the OpenAI in - for me - a new way, making me think of it as a "New Netscape"
 > Now, the reason we’re doing this work is because we want to minimize those downsides while still letting society get the big upsides, and we think it’s very possible to do that. But it requires, in our belief, this continual deployment in the world, where you let people gradually get used to this technology, where you give institutions, regulators, policy-makers time to react to it, where you let people feel it, find the exploits, the creative energy the world will come up with — use cases we and all the red teamers we could hire would never imagine.And so we want to see all of the good and the bad, and figure out how to continually minimize the bad and improve the benefits. You can’t do that in the lab. This idea that we have, that we have an obligation and society will be better off for us to build in public, even if it means making some mistakes along the way — I think that’s really important.
 
-#### On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot
+#### 4.23. On With Kara Swisher: Reid Hoffman on Why AI Is Our Co-pilot
 * <https://nymag.com/intelligencer/2023/03/on-with-kara-swisher-reid-hoffman-on-why-ai-is-our-co-pilot.html>
 * An Optimist take, making me think about possibilities to help many hypochonders today. As you know, the google image search for a symptom does not help of course. Having an assistance running an initial analytics of a picture of a rash or something "suspicious" on your body? Or the sound of the cought of your child? LGTM!
 > Hoffman: But it isn’t that I deny that there aren’t challenges with currently deployed technology or being-developed technology, but I think that shaping the technology is the solution and that the solution can be so much better. So, for example, let’s talk about AI. If you say, well, I have a line of sight right now to every smart phone having an AI tutor and an AI doctor, that could be for everybody. Everybody in the entire world who has a smart phone. Delaying that is a huge cost in human suffering. Like, that’s a hugely valuable —
 
-#### Steampipe: select * from cloud; 
+#### 4.24. Steampipe: select * from cloud; 
 * <https://steampipe.io/blog/introducing-steampipe>
 * Yet another embrace of SQL. Thistime +CLI to remove context switching for technical teams. 
 
 
-#### Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174) 
+#### 4.25. Tom Holland on History, Christianity, and the Value of the Countryside (Ep. 174) 
 * <https://conversationswithtyler.com/episodes/tom-holland/>
 * He says many wonderful things and this episode introduced me to (since then) my favorite 'The Rest is History' podcast, but the celebration of curiosity on the side of Herodotus is possibly the most memorable one. 
 > What I learned about modernity from Herodotus is that I think the quality about Herodotus that I have always loved — he’s always been my favorite writer, not just my favorite ancient writer but my favorite writer. He was the first classic writer I read. I’ve re-read him, I’ve reinterpreted him, I’ve translated him.I realized, as I was writing it, what I loved was the infinite curiosity that he has about everything. His writings are called Historia, which in Greek basically means researches, inquiries. It doesn’t mean history in the sense that we have. He is writing about the past. He says that this is his aim, but he’s not exclusively writing about the past.He’s writing about wild animals, he’s writing about rivers, he’s writing about wonders in different lands. He’s writing about how Egyptian men squat to go to the toilet and Egyptian women stand up, and how Scythians get stoned on bongs, and all kinds of extraordinary, mad, weird, fascinating stuff. He was called, in antiquity, the father of lies because there were lots of people who felt that he was just making it all up. I think that’s incredibly harsh. Often, many of the things that he was doubted for, he’s been vindicated.I was translating Herodotus, and I was able to use the internet as I was doing it. If there was a subject’s name or something, I wouldn’t have to go to a book to look it up. I could look it up online. I realized — it brought home to me how arrogant it is for us to sit in judgment on him when he was the first person to be doing this. He was the first person to be pursuing the infinite curiosity he felt about the vast expanse of everything to its absolute limits and so, of course, he got things wrong. We would. He didn’t have the internet. He didn’t have an example of Herodotus. Herodotus didn’t exist. There was no Herodotus before Herodotus. He’s doing it for the first time.I think that the sense of curiosity that the modern world is all about — we have access to more knowledge than is beyond the wildest dreams of previous generations, and we can follow it wherever we want.Herodotus, for me, stands at the head of that tradition, the head of that fascination with the vastness, the infinitude of the world and the universe that we inhabit. I look at modernity, and Herodotus sharpens for me a sense of how extraordinary and wonderful it is that we can know everything that we do, and that we have access to all the sources of information that we have. It’s a wonderful, wonderful thing, an incredible privilege of being alive in 2023.
 
-#### Dana Gioia on Becoming an Information Billionaire (Ep. 119) 
+#### 4.26. Dana Gioia on Becoming an Information Billionaire (Ep. 119) 
 * <https://conversationswithtyler.com/episodes/dana-gioia/>
 * the fusion of pragmaticism and romanticism is what makes some of the insights extremely attractice
 > COWEN: Did your poetry converge or diverge with your work at General Foods and this military organization?GIOIA: Well, my poetry was transformed by working in business. It probably could’ve happened at other companies too, but if you think about this, most poets in the United States have been in school since they were 6. At 65, they’re still in school, their whole vision of the world is of a schoolroom, of a university. I was basically working with very intelligent, nonliterary people for 15 years. In the same way in Washington DC, I was working with highly intelligent, highly competitive, but nonliterary people. It changes your sense of language, it changes your sense of the audience. I think I would’ve been a worse poet had I not gone into business in a business school.Another reason why I was probably good is that I suffered in a way because I was working ten, twelve hours a day doing this other thing, then I was squeezing my writing into late nights and weekends. I do believe, as the jazz musicians say, you got to pay your dues. If your art isn’t so good that you’re willing to suffer for it, willing to sacrifice for it, you’re not getting deeply enough down inside you.
 
-#### Existential risk, AI, and the inevitable turn in human history - Marginal REVOLUTION
+#### 4.27. Existential risk, AI, and the inevitable turn in human history - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/03/existential-risk-and-the-turn-in-human-history.html>
 * The weird thing to me is the bet that AI is a more radical change then all computing altogether. Can't identify with this bet at this point (2023-04-17).
 > In several of my books and many of my talks, I take great care to spell out just how special recent times have been, for most Americans at least.  For my entire life, and a bit more, there have been two essential features of the basic landscape:1. American hegemony over much of the world, and relative physical safety for Americans.2. An absence of truly radical technological change.Hardly anyone you know, including yourself, is prepared to live in actual “moving” history.  It will panic many of us, disorient the rest of us, and cause great upheavals in our fortunes, both good and bad.  In my view the good will considerably outweigh the bad (at least from losing #2, not #1), but I do understand that the absolute quantity of the bad disruptions will be high.I am reminded of the advent of the printing press, after Gutenberg.  Of course the press brought an immense amount of good, enabling the scientific and industrial revolutions, among many other benefits.  But it also created writings by Lenin, Hitler, and Mao’s Red Book.  It is a moot point whether you can “blame” those on the printing press, nonetheless the press brought (in combination with some other innovations) a remarkable amount of true, moving history.  How about the Wars of Religion and the bloody 17th century to boot?  Still, if you were redoing world history you would take the printing press in a heartbeat.  Who needs poverty, squalor, and recurrences of Ghenghis Khan-like figures?
 
-#### Augmenting Long-term Memory
+#### 4.28. Augmenting Long-term Memory
 * <http://augmentingcognition.com/ltm.html>
 * A foundational paper that the recent popularit of ANKI stands. 
 > Given how central memory is to our thinking, it's natural to ask whether computers can be used as tools to help improve our memory. This question turns out to be highly generative of good ideas, and pursuing it has led to many of the most important vision documents in the history of computing. One early example was Vannevar Bush's 1945 proposal** Vannevar Bush, As We May Think, The Atlantic (1945). for a mechanical memory extender, the memex. Bush wrote:A memex is a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.The memex vision inspired many later computer pioneers, including Douglas Engelbart's ideas about the augmentation of human intelligence, Ted Nelson's ideas about hypertext, and, indirectly, Tim Berners-Lee's conception of the world wide web** See, for example: Douglas Engelbart, Augmenting Human Intellect (1962); Ted Nelson, Complex information processing: a file structure for the complex, the changing and the indeterminate (1965); and Tim Berners-Lee, Information Management: a Proposal (1989).. In his proposal for the web, Berners-Lee describes the need for his employer (the particle physics organization CERN) to develop a collective institutional memory,a pool of information to develop which could grow and evolve with the organization and the projects it describes.These are just a few of the many attempts to use computers to augment human memory. From the memex to the web to wikis to org-mode to Project Xanadu to attempts to make a map of every thought a person thinks: the augmentation of memory has been an extremely generative vision for computing.In this essay we investigate personal memory systems, that is, systems designed to improve the long-term memory of a single person. In the first part of the essay I describe my personal experience using such a system, named Anki...
 
-#### The age of average — Alex Murrell
+#### 4.29. The age of average — Alex Murrell
 * <https://www.alexmurrell.co.uk/articles/the-age-of-average>
 * Globalization == Total Nivelization? Surely a class-thing, but it means something that I'm reading this as well, it may be the suggestion about my own place in the society at large. 
 > Introduction:Interiors all look the sameArchitecture all looks the sameCars all looks the samePeople all look the sameMedia all looks the sameBrands all look the sameConclusion
 
-#### become a 1000x engineer or die tryin'
+#### 4.30. become a 1000x engineer or die tryin'
 * <https://kadekillary.work/posts/1000x-eng/>
 * Definitelly not partaking on the age of average, the content's just clickbait but still fun!
 > For millennia, programmers have searched far and wide for the vaunted 10X Engineer. Unfortunately, due to inflation — real and imagined, 10X just won’t cut it anymore. We need bigger gains, bigger wins, more code, more PRs, more lines, less linting, etc….Therefore, in this article I’ll cover how to catapult your productivity to the heavens via a series of command line wrapper functions around the OpenAI API.
 
-#### The natural size 
+#### 4.31. The natural size 
 * <https://seths.blog/2023/04/the-natural-size/>
 * As if written by a Renaissance thinker
 > No matter how many people come over for dinner, you’re only going to be able to engage with a few.And no matter how big the crowd in the arena, the musicians can only see the faces of a few hundred.An investor can only be engaged and smart about a very small number of companies.And it doesn’t matter how many students are in the class, the teacher is only going to be able to get in sync with a few.Microphones, network connections and other forms of scale are a miracle, but sooner or later, our brains get in the way.
 
-#### War Diary by Jean Malaquais 
+#### 4.32. War Diary by Jean Malaquais 
 * <https://www.goodreads.com/book/show/24261955-war-diary>
 * Great read, in Czech - only? - about the sudden disconnect from daily existence in Paris and being thrown into the mass of ordinary soldiers marching to the quick French defeat in 1939. Poetic, disturbing. Mailer was Malaquis to be French Orwell.
 > 
 
 
-#### Pelagius - Wikipedia
+#### 4.33. Pelagius - Wikipedia
 * <https://en.wikipedia.org/wiki/Pelagius>
 * Tom Holland talks about him Extensivelly in the podcast about, paradoxically, Communism (the rest is history). 
 > Pelagius (/pəˈleɪdʒiəs/; c. 354–418) was a Romano-British theologian known for promoting a system of doctrines (termed Pelagianism by his opponents) which emphasized human choice in salvation and denied original sin.[1] Pelagius was accused of heresy at the synod of Jerusalem in 415 and his doctrines were harshly criticized by Augustine of Hippo, especially the Pelagian views about humankind's good nature and individual responsibility for choosing ascetism.[2] Pelagius especially stressed the freedom of human will.[3] Very little is known about the personal life and career of Pelagius.[4]
 
-#### scheme - What is the definition of natural recursion? - Stack Overflow
+#### 4.34. scheme - What is the definition of natural recursion? - Stack Overflow
 * <https://stackoverflow.com/questions/32260444/what-is-the-definition-of-natural-recursion>
 * Result of my search for the typization and etymology of the word 'natural' as part of 'How to Code: Simple data' Course.
 > "Natural" (or just "Structural") recursion is the best way to start teaching students about recursion. This is because it has the wonderful guarantee that Joshua Taylor points out: it's guaranteed to terminate[*]. Students have a hard enough time wrapping their heads around this kind of program that making this a "rule" can save them a huge amount of head-against-wall-banging.When you choose to leave the realm of structural recursion, you (the programmer) have taken on an additional responsibility, which is to ensure that your program halts on all inputs; it's one more thing to think about & prove.
 
-#### Pairing with GPT-4 · Fly
+#### 4.35. Pairing with GPT-4 · Fly
 * <https://fly.io/ruby-dispatch/pairing-with-gpt-4/>
 * A great report from writing code with an AI assistant. 
 > This type of prompt is something that feels more like an experienced developer talking to a developer who might just be starting out. It gives us back some more reasonable code.You Still Need to Know What You're DoingIt's Great at Jumping ContextsIt Makes Up Seemingly Plausible Answers That Could Be Wrong.It Gets Stuck When the "contexts" Get Too Large, You Still Need to Know What You're DoingIt's Great at Jumping ContextsIt Makes Up Seemingly Plausible Answers That Could Be Wrong.It Gets Stuck When the "contexts" Get Too Large,
 
-#### Tom Peters 
+#### 4.36. Tom Peters 
 * <https://seths.blog/2023/03/tom-peters/>
 * I remember listening Peter's on a podcast with Kara Swisher
 > I’d have to characterize it with a quick review of the story. “In Search of Excellence” was published in 1982. The research began in 1978 or so. The Americans, of course, came out of World War II kings of the hill with nobody even in second place, and then the Japanese had the audacity to do these things like build cars that work, and they got us in ship building and they got us in steel, but who the hell cares about that? The car is intimate to the American life fantasy. We were second in a way.There were a couple of guys at Harvard, Bob Hayes and Bill Abernathy, and they wrote a single article in the Harvard Business Review that was called “Managing Our Way to Economic Decline,” and they said too much marketing, too much finance, not enough product quality. We dittoed that in a way, but there was another part of the story that was interesting as well.I was at McKinsey at the time, and McKinsey was getting beaten up for the first time in its history by the Boston Consulting Group, and our managing director said, “We’ve got to have something to talk about.” He had all these famous projects on operations and strategy, and then he called me in. I was a junior person, which was bizarre. I just got my PhD from Stanford in organization effectiveness. I think that was the reason. He said, “Look,” he said, “We’re the smartest people in the world and we design the smartest strategies in the world and then our clients get out-implemented. Whose problem is it? What the hell is going on?”Our fundamental hypothesis was, yeah, the Americans are getting the crap beaten out of us, but there’s got to be some places that work. We went to some obvious places like IBM that at that point was so far No. 1 it wasn’t funny. We went to places — and this is weird to say in 2018 — I went to St. Paul on a cold day and talked to 3M. Nothing had been written about 3M. Also at the time, we went to a middle-sized company or a large middle-sized company. I myself as co-author. Bob Waterman at McKinsey office in San Francisco where the weirdos in theory were, according to McKinsey. We went 30 miles down the road and talked to this funny little company that nobody had ever heard of, and it’s reasonably well-known today, and it’s called Hewlett-Packard.The lid comes off the whole thing. There are a million ways to describe that, but at any rate, so we wrote this book called “In Search of Excellence.”
 
-#### coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)
+#### 4.37. coursera-dl/edx-dl: A simple tool to download video lectures from edx.org (and other openedx sites)
 * <https://github.com/coursera-dl/edx-dl>
 * A great project for OSSU. Wondefing if it's still working. 
 > edx-dl is a simple tool to download videos and lecture materials from Open edX-based sites. It requires a Python interpreter (>= 2.7) and very few other dependencies. It is platform independent, and should work fine under Unix (Linux, BSDs etc.), Windows or Mac OS X.
 
-#### Effective Python Testing With Pytest – Real Python
+#### 4.38. Effective Python Testing With Pytest – Real Python
 * <https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies>
 * TBD, need to learn how to test for side effects with fixtures.
 
-#### The Importance of Being Earnest - The 'Handbag' scene - YouTube
+#### 4.39. The Importance of Being Earnest - The 'Handbag' scene - YouTube
 * <https://www.youtube.com/watch?v=F5bPnllVq2Y&t=434s>
 *  I confess I feel somewhat bewildered by what you have just told me. To be born, or at any rate bred, in a hand-bag, whether it had handles or not, seems to me to display a contempt for the ordinary decencies of family life that reminds one of the worst excesses of the French Revolution. And I presume you know what that unfortunate movement led to? As for the particular locality in which the hand-bag was found, a cloak-room at a railway station might serve to conceal a social indiscretion – has probably, indeed, been used for that purpose before now – but it could hardly be regarded as an assured basis for a recognized position in good society.
 
 
-#### the rest is history - Podgraph Search
+#### 4.40. the rest is history - Podgraph Search
 * <https://search.podgraph.io/search?q=the%20rest%20is%20history>
 * finally transcripts for my new favorite podcast!
 > 
 
-#### 48. The French Revolution 
+#### 4.41. The French Revolution 
 * <https://play.acast.com/s/the-rest-is-history-podcast/48.thefrenchrevolution>
 * Great take, from England, with humour, full of opinionated, moderate ideas and details. 
 > Now, the French Revolution is not one event. It's a process. And it's not something that anybody plans. It's not a protest about inequality, which people often think. And nor is it an uprising of the poor against the rich. It's none of those things. Where it comes from, I guess, is that France has got three interlinked problems. One is there's a general kind of economic depression. There are economic discontent. Its population has massively exploded by far the most popular nation in Europe. But it's got huge unemployment. There's not enough jobs for everybody. Food prices have gone through the roof. There's not enough food being produced. So in other words, you've got a lot of people, let's say in Paris, you've got a third of the population of Paris. These are kind of young people. So they're in their 20s and 30s. They don't have a job. And they don't have any food. And they cross about it. And sort of discontent is rising. So that's the first thing. Second thing is that France is heavily indebted. Because of all these wars it's been fighting. Now, it's not the only country in Europe with debts. But it finds it's very hard to service its debts. It can't. Its tax raising system and its sort of political system is incredibly antiquated and complicated. And the king, Louis XVI, can't get enough money to pay his debts. So France is basically on the verge of bankruptcy. And the third thing that sort of compounds all that is just bad luck. They have a series of terrible harvests. There's a really, really bad weather. Terrible winter in 1788, 89. So people are starving on the streets.
 
-#### AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson
+#### 4.42. AI, NIL, and Zero Trust Authenticity – Stratechery by Ben Thompson
 * <https://stratechery.com/2023/ai-nil-and-zero-trust-authenticity/>
 * A great summary of the advent of multi-factor authentication and IAM authentication methods called 'zero trust authenticity' that succeeded the traditional Intranet | Firewall | Internet structure we know from corporations (where it still applies, I believe) in the course of 2010s due to the arrival of smartphones + cloud + SaaS. 
 > n this model trust is at the level of the verified individual: access (usually) depends on multi-factor authentication (such as a password and a trusted device, or temporary code), and even once authenticated an individual only has access to granularly-defined resources or applications. This model solves all of the issues inherent to a castle-and-moat approach:If there is no internal network, there is no longer the concept of an outside intruder, or remote workerIndividual-based authentication scales on the user side across devices and on the application side across on-premises resources, SaaS applications, or the public cloud (particularly when implemented with single-sign on services like Okta or Azure Active Directory).In short, zero trust computing starts with Internet assumptions: everyone and everything is connected, both good and bad, and leverages the power of zero transaction costs to make continuous access decisions at a far more distributed and granular level than would ever be possible when it comes to physical security, rendering the fundamental contradiction at the core of castle-and-moat security moot.
 
-#### Everything Is A Practice - by Scott Gilbertson
+#### 4.43. Everything Is A Practice - by Scott Gilbertson
 * <https://luxagraf.net/essay/everything-is-a-practice>
 * The read of the year. Beautiful, backed by existence and suggesting the only personal spirituality that has ever appealed to my weird soul. 
 > Everything is a Practice.A practice is the disciplined repetition of what you know with enough experimentation in that repetition to unlock those things you don’t yet know. It is ever-accumulating, and never-ending. It is sometimes painful, but that is the way.Individual projects may come to an end, but the practices that made them possible do not. You may finish writing a book, or reach the end of a run, or understand how to fix an engine, but there is no point where you’ve written enough, you’ve worked out enough, you’ve learned enough. The practices never end, which means you get to keep improving.The practice leaves a path behind you to show you how far you have come and carves out a path ahead of you to show you where you can go.The practices of your life are your life. They form the path you follow, they are how you become what you want to become, they make you who you are and who the world wants you to be. You are not solely in charge of your practices or the path they form. The world gets a vote too. In the end that’s part of the practice too — adjusting to feedback from the world, your body, your life, your family, your friends. All of these things are part of the practice, all of them inform it.
 
-#### Age of Invention: The Bourgeois Supremacy
+#### 4.44. Age of Invention: The Bourgeois Supremacy
 * <https://antonhowes.substack.com/p/age-of-invention-the-bourgeois-supremacy>
 * The Economist started, iirc, as part of the initiative against the corn laws, i.e. as one of the initial liberal initiatives. 
 > ut when did England start seeing itself as a primarily commercial nation? When did the interests of its merchants and manufacturers begin to hold sway against the interests of its landed aristocracy? The early nineteenth century certainly saw major battles between these competing camps. When European trade resumed in 1815 after the Napoleonic Wars, an influx of cheap grain threatened the interests of the farmers and the landowners to whom they paid rent. Britain’s parliament responded by severely restricting grain imports, propping up the price of grain in order to keep rents high. These restrictions came to be known as the Corn Laws (grain was then generally referred to as “corn”, nothing to do with maize). The Corn Laws were to become one of the most important dividing lines in British politics for decades, as the opposing interests of the cities — workers and their employers alike, united under the banner of Free Trade — first won greater political representation in the 1830s and then repeal of the Corn
 
-#### amazon web services - Downloading an entire S3 bucket? - Stack Overflow
+#### 4.45. amazon web services - Downloading an entire S3 bucket? - Stack Overflow
 * <https://stackoverflow.com/questions/8659382/downloading-an-entire-s3-bucket>
 * Basic stuff, part of ticket handling, very popular answer. 
 > aws s3 sync s3://<source_bucket> <local_destination>
 
-#### paypal/data-contract-template: Template for a data contract used in a data mesh.
+#### 4.46. paypal/data-contract-template: Template for a data contract used in a data mesh.
 * <https://github.com/paypal/data-contract-template/tree/main>
 * paypal embracing data contracting
 > 
 
-#### The Emergence of the Composable Customer Data Platform - The Databricks Blog
+#### 4.47. The Emergence of the Composable Customer Data Platform - The Databricks Blog
 * <https://www.databricks.com/blog/2022/06/24/the-emergence-of-the-composable-customer-data-platform.html>
 * On Composable VS Packaged CDPs
 > The term CDP was first introduced by David Rabb, a marketing technology consultant and industry analyst in April 2013. The piece titled "I've Discovered a New Class of System: the Customer Data Platform. Causata Is An Example," introduced the term CDP to the market for the first time.Tag management platforms were amongst the first to adopt this early definition of CDPs. In 2012, Google launched Google Tag Manager, a free tool allowing brands to manage their client-side web tracking. With a behemoth like Google releasing a free tool, household names in the tag management space no longer held the same value. They had to pivot their technology, focusing on data collection, a consolidated customer profile and activation through their integrations.CDPs were at the time seen as a solution to help brands build towards a single view of their customer and activate the data either through integrations with other tools or natively within their own tool's platform.So why aren't off-the-shelf CDPs the solution for every business?
 
-### MAY 2023
+### 5. MAY 2023
 
-#### AI isn't the app, it's the UI - Stack Overflow Blog
+#### 5.1. AI isn't the app, it's the UI - Stack Overflow Blog
 * <https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/>
 * And exactly the UI i've always wanted. The next thing it could do is to create mindmaps!
 > We shouldn’t be surprised by this. All technologies have tradeoffs.The typical response to criticisms of AI is “but what about a few years from now?” There’s a widespread assumption that AI’s current flaws, like software bugs, are mere programming slip-ups that can be solved by a software update. But its biggest limitations are intrinsic. AI’s strength is also its weakness. Its constraints are few and its capabilities are many—for better and for worse.The startups that come out on top of the AI hype wave will be those that understand generative AI’s place in the world: not just catnip for venture capitalists and early adopters, not a cheap full-service replacement for human writers and artists, and certainly not a shortcut to mission-critical code, but something even more interesting: an adaptive interface between chaotic real-world problems and secure, well-architected technical solutions. AI may not truly understand us, but it can deliver our intentions to an API with reasonable accuracy and describe the results in a way we understand.It’s a new kind of UI.There are pros and cons to this UI, as with any other. Some applications will always be better off with buttons and forms, for which daily users can develop muscle memory and interact at high speeds. But for early-stage startups, occasional-use apps, and highly complex business tools, AI can enable us to ship sooner, iterate faster, and handle more varied customer needs.We can’t ever fully trust AI—a lesson we’ll learn again and again in the years ahead—but we can certainly put it to good use. More and more often, we’ll find it playing middleman between the rigidity of a computer system and the anarchy of an organic one. If that means we can welcome computers further into our lives without giving up the things that make us human, so much the better.
 
-#### How to Design Programs 2nd Edition 
+#### 5.2. How to Design Programs 2nd Edition 
 * <https://news.ycombinator.com/item?id=35478871>
 * Interesting to read comments on the course I'm currently taking, mainly this one
 > Personally, I didn't find HtDP to be a buzzkiller, but rather the textbook that helped me understand that programming could potentially be a joyful activity rather than drudgery. As a former music teacher, I loved its insistence on practice and process. But I was also a beginner who had tried and failed to learn to code a few times over the 15 years before I read HtDP/2e. A more experienced programmer surely might not have the same experience.
 
-#### To Supercharge Learning, Look to Play - Nautilus
+#### 5.3. To Supercharge Learning, Look to Play - Nautilus
 * <https://nautil.us/to-supercharge-learning-look-to-play-292946/>
 * On the importance of play
 > David Zhang of Guangzhou University recently led a group high into the Tibetan Tableau of Southwestern China, an area known as “the roof of the world” for its elevation 4,000 meters above sea level. There, they found a piece of limestone that had fossilized a playful composition of hand and foot impressions. The pattern was “deliberate” and “creative,” according to a paper that Zhang and fellow researchers published in the journal Science Bulletin in 2021, and the piece “highlights the central role” that artistic exploration and play has held for our species. Uranium series dating determined that this artwork could be 226,000 years old. With our hands and our feet as our first artistic tools, we’ve been leaving behind our imaginative impressions since Earth’s last ice age.
 
-#### EA, AI, and the rationality community - Marginal REVOLUTION
+#### 5.4. EA, AI, and the rationality community - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/04/ea-ai-and-the-rationality-community.html>
 * Another great post on AI, filled with interesting ideas on how West Coast Movements (rationality community? EA?) are running the major AGI labs; how their teachings and worldviews (naive, perhaps) are driving them and how doomsters (they are not rationality/EA folks, I suppose) are pushing AI, hopefully, into the right hands (national security apparatus?)
 > To this day, the Doomsters are de facto the greatest accelerationists.  Have you noticed how the Democrats (or Republicans) “own” certain political issues?  For instance, voters trust the Democrats more with Social Security, and the mere mention of the topic helps them, even if a Republican has a good point to make.  Well, the national security establishment “owns” the ideas of existential risk and risk from foreign powers.  The more you talk about doomsday issues, the more AI risk gets slotted into their purview, for better or worse
 
-#### Rudolf II and His World: A Study in Intellectual History, 1576-1612 by R.J.W. Evans 
+#### 5.5. Rudolf II and His World: A Study in Intellectual History, 1576-1612 by R.J.W. Evans 
 * <https://www.goodreads.com/en/book/show/4401507>
 * An interesting, topical non-chronological take on one of the weirdest kings Europe has seen. The last flower of Renaissance in central Europe. Patron of artists and alchymists, inhabiting Prague, single, mysterious. 
 > ...the conflict which played itself out in the Hapsburg lands during these years was a political manifestation of the intellectual confrontation between the old guard and and their preoccupation with the mystical, spiritual and hermetic sciences, and the rise of a more rational and empirical view of the world. Rudolf, as the embodiment of the old philosophy, failed to grasp this profound shift in the prevailing climate and Professor Evans argues that it was this failure which led to his eventual tragic downfall.
 
-#### ChatPDF - Chat with any PDF!
+#### 5.6. ChatPDF - Chat with any PDF!
 * <https://www.chatpdf.com/>
 * I was using this to help with the elementary and structural reading of sociological papers, but I can't say I'm impressed. The UI that I am impressed with is Bing Search, where I do a long conversation and copy out the summary with code examples and markdown tables. 
 > 
 
-#### 90% of My Skills Are Now Worth  - by Kent Beck
+#### 5.7. Most of My Skills Are Now Worth  - by Kent Beck
 * <https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0>
 * I am partially suprised by this take from Kent. Code is deterministic. AI is stochastic/probabilistic/non-deterministic (as a feature); there are tools to get to determinism (wolfram plugin) which I have not tested, but you have to intensify the critical thought when you work with the tool. And I hope it stays the same. Edge cases eat most of the time. Simply not convinced yet
 > Fourth, to everyone say, “Yeah, but ChatGPT isn’t very good,” I would remind you that technological revolutions aren’t about absolute values but rather growth rates. If I’m big & you’re small & you’re growing faster, then it’s a matter of time before you surpass me.
 
-#### Home - Coalesce
+#### 5.8. Home - Coalesce
 * <https://coalesce.io/>
 * DBT competitor for to create and run datamodeling jobs on top of Snowflake, with both code and no-code, just like BEx Query Designer for SAP BW in my old days. 
 > 
 
-#### Mitchell's New Role at HashiCorp
+#### 5.9. Mitchell's New Role at HashiCorp
 * <https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp>
 * A reason why, if buying stock, HaschiCorp would be the first one
 > 
 
-#### Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto
+#### 5.10. Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto
 * <https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting>
 * Personally a first look into methodical engineering practice behind prompting. 
 > "Prompt Engineering" emerged from the growth of language models to describe the process of applying prompting to effectively extract information from language models, typically for use in real-world applications.A lot of people who claim to be doing prompt engineering today are actually just blind prompting.1 "Blind Prompting" is a term I am using to describe the method of creating prompts with a crude trial-and-error approach paired with minimal or no testing and a very surface level knowedge of prompting. Blind prompting is not prompt engineering.There is also a lot of skepticism about whether prompt engineering can truly be described as "engineering" or if it's just "witchcraft" spouted by hype-chasers. I think in most cases the skepticism is rooted in the fact that a lot of tweets and blog posts I've seen claiming to be on prompt engineering are really at best a thin layer above blind prompting.
 
-#### Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation 
+#### 5.11. Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation 
 * <https://www.cambridge.org/core/journals/american-political-science-review/article/tilly-goes-to-church-the-religious-and-medieval-roots-of-european-state-fragmentation/4EEE3598EF17E46DF0050C375C9FDD45#>
 * Fascinating thesis and yet another reason why religion study is wonderful
 > The starting point for many analyses of European state development is the historical fragmentation of territorial authority. The dominant bellicist explanation for state formation argues that this fragmentation was an unintended consequence of imperial collapse, and that warfare in the early modern era overcame fragmentation by winnowing out small polities and consolidating strong states. Using new data on papal conflict and religious institutions, I show instead that political fragmentation was the outcome of deliberate choices, that it is closely associated with papal conflict, and that political fragmentation persisted for longer than the bellicist explanations would predict. The medieval Catholic Church deliberately and effectively splintered political power in Europe by forming temporal alliances, funding proxy wars, launching crusades, and advancing ideology to ensure its autonomy and power. The roots of European state formation are thus more religious, older, and intentional than often assumed.
 
-#### ‘I Cry Quietly’: A Soldier Describes the Toll of Russia’s War - YouTube
+#### 5.12. ‘I Cry Quietly’: A Soldier Describes the Toll of Russia’s War - YouTube
 * <https://www.youtube.com/watch?v=GeelZuwRxhY&t=5s>
 * The horrors of the world war we, peaceful people, used to learn from fiction (Remarque) or histories (Dan Carlin) showed in this short video report. 
 > 
 
-#### A Programmer's Introduction to Mathematics
+#### 5.13. A Programmer's Introduction to Mathematics
 * <https://pimbook.org/>
 * Unavoidable future :)
 > 
 
-#### Rules of Thumb for Software Development Estimations
+#### 5.14. Rules of Thumb for Software Development Estimations
 * <https://vadimkravcenko.com/shorts/project-estimates/>
 * Going against Uncle Bob's three scenarios (optimal, standard, worst)
 > Initially, you might think of capturing a best-case and worst-case scenario, but I don’t find that too useful. Instead, I prefer to capture expected-case and worst-case. Coming in early is never a problem, and in my experience, the best-case rarely happens. But it is important to capture how long something could take if things go poorly. Therefore, my uncertainty system starts with the expected time (captured above), and then applies an “if-things-go-wrong” multiplier
 
-#### Lessons from The Years of Lyndon Johnson by Robert Caro
+#### 5.15. Lessons from The Years of Lyndon Johnson by Robert Caro
 * <https://www.dwarkeshpatel.com/p/lyndon-johnson>
 * Seems like a must-have for every student of power.
 > Robert Caro’s The Years of Lyndon Johnson are not only the best biographies I have ever read - and not only the best histories I have ever read. They're perhaps the best books I've ever read. Below are the main lessons I got from these four volumes about power and powerful personalities....
 
-#### madhadron - The seven programming ur-languages
+#### 5.16. madhadron - The seven programming ur-languages
 * <https://madhadron.com/programming/seven_ur_languages.html#fn1>
 * An assertion that most of modern languages are progeny of a single one - ALGOL, but that there are 6 more siblings in the family tree that have contemporary implementations that is worth looking at. Basically, an alternative to the three programming paradigms. 
 > Every programmer needs to know a language in the ALGOL family well. Once you do, then it’s worth branching out. Learning a new language that traces to an unfamiliar ur-language each year will pay dividends. The languages I would suggest today in each of these families, and maybe in this order, are:Lisp: PLT RacketML: HaskellSelf: SelfProlog: PrologForth: gForth1APL: K (via ok)If you do a lot of numerical work, learn K earlier. If you do lots of embedded programming, learn gForth earlier. But the order is not important, nor is the exact language. You could learn Standard ML or OCaml instead of Haskell, Common Lisp instead of PLT Racket, and Factor instead of gForth with absolute impunity.
 
-#### Larry Masinter - Wikipedia
+#### 5.17. Larry Masinter - Wikipedia
 * <https://en.wikipedia.org/wiki/Larry_Masinter>
 * The first author including the extraction of repeated values into a constant name in the mid-80s in Interlisp-D
 > Masinter went to work for Xerox PARC in 1976. In 1981, Warren Teitelman and Masinter published a paper on Interlisp in IEEE Computer.[7]Masinter documented the failed attempt in 1982 to port Interlisp to the Berkeley Software Distribution (BSD) Unix on the VAX.[8] This led to the initial Interlisp IDEs, for which Masinter was initially known.Masinter later helped develop the URL standard, along with Mark McCahill and Tim Berners-Lee.[8]
 
-#### Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation
+#### 5.18. Beautiful Soup Documentation — Beautiful Soup 4.12.0 documentation
 * <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
 * A great module for getting what you want from a URL - quickly in python (links, texts, etc.)
 > 
 
-#### Stephen C. Johnson - Wikipedia
+#### 5.19. Stephen C. Johnson - Wikipedia
 * <https://en.wikipedia.org/wiki/Stephen_C._Johnson>
 * Meeting the creator of the first linter for the C programming language. 
 > Stephen Curtis Johnson (b. 1944; known as Steve Johnson)[1] is a computer scientist who worked at Bell Labs and AT&T for nearly 20 years. He is best known for Yacc, Lint, spell, and the Portable C Compiler, which contributed to the spread of Unix and C.[2] He has also contributed to fields as diverse as computer music, psychometrics and VLSI design.[3]
 
-#### Do the weirdest thing that feels right. - by Charlie Becker
+#### 5.20. Do the weirdest thing that feels right. - by Charlie Becker
 * <https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels>
 * A hint that it makes sense to LISTEN to conscience (feeling right) and what to listen for (weirdness)
 > 1While agonizing over what to write last week, I tried to reverse engineer my writing wins. In the process, I discovered that the decision which separated my good writing from my bad writing expanded to my whole life, and was the dividing line between my triumphs and my regrets. “Do the weirdest thing that feels right.”
 
-#### Modular Docs - Why Mojo🔥
+#### 5.21. Modular Docs - Why Mojo
 * <https://docs.modular.com/mojo/why-mojo.html>
 * Introducing a new member of Python family
 > The just-announced Mojo is a Python superset aimed at fixing Python’s performance and deployment problems. It has a great pedigree (Chris Lattner whom you may know from LLVM, Clang & Swift) and Fast.ai’s Jeremy Howard, who is also an advisor to Modular, Mojo’s creators, is very excited about it. Jeremy says: “I remember the first time I used the v1.0 of Visual Basic. Back then, it was a program for DOS. Before it, writing programs was extremely complex and I’d never managed to make much progress beyond the most basic toy applications. But with VB, I drew a button on the screen, typed in a single line of code that I wanted to run when that button was clicked, and I had a complete application I could now run. It was such an amazing experience that I’ll never forget that feeling. It felt like coding would never be the same again. Writing code in Mojo is the second time in my life I’ve had that feeling”
 
-#### Livebook's big launch week featuring José Valim (Changelog Interviews #538) 
+#### 5.22. Livebook's big launch week featuring José Valim (Changelog Interviews #538) 
 * <https://changelog.com/podcast/538>
 * On the new product - an interactive code notebook mixing runtime with docs - with its creator, and the creator of elixir language Jose Valim
 > Let’s focus in then on Livebook. You’ve recently had your very first Livebook launch week, which I thought might be inspired by our friends at Supabase, and then I actually saw you reference them in one of your posts explicitly; like, their idea, you liked it. I think it’s a really cool idea, especially for people who want to come on podcasts and talk, because it gives us a bunch of stuff to talk about. Like, let’s launch one thing a day for five days, and then we can come on to The Changelog and talk about that, which is a lot easier than having one amorphous thing. So launch week - do you want to talk more about the idea and the inspiration, how it went for you? because it was just a week or so back, and now you’re in the wake of launch week.
 
-#### The Middle Kingdoms: A New History of Central Europe: Rady, Martyn: 9781541619784: Amazon.com: Books
+#### 5.23. The Middle Kingdoms: A New History of Central Europe: Rady, Martyn: 9781541619784: Amazon.com: Books
 * <https://www.amazon.com/Middle-Kingdoms-History-Central-Europe/dp/1541619781/ref=sr_1_1?crid=2CF9PX19FU68L&keywords=the+middle+kingdoms+martyn+rady&qid=1683819691&sprefix=martyn+rady%2Caps%2C146&sr=8-1>
 * Looking forward to delving into this, checking public libraries already.
 > Central Europe has always been more than merely the fault line between West and East. Even as Central European powers warred with their neighbors, the region developed its own cohesive identity and produced tremendous accomplishments in politics, society, and culture. Central Europeans launched the Reformation and Romanticism, developed the philosophy of the Renaissance and the Enlightenment, and advanced some of the twentieth century’s most important artistic movements.
 
-#### Friction >> Debt
+#### 5.24. Friction >> Debt
 * <https://www.mechanical-orchard.com/post/friction-over-debt>
 * An attempt to re-frame the concept of technical debt as its original meaning of 'borrowing' at the time of high need so that you pay back later with interest has been lost to the business. Friction has much better face value. 
 > By Kent BeckWard Cunningham told me about “technical debt” soon after he invented the phrase. He was working with fixed income traders who understood the financial uses of debt and wanted to explain to them why sometimes development went faster and sometimes it went slower.Since then “technical debt” has gone on to be the preferred explanation for development activities not directly resulting in features. “We need to pay down our technical debt.” [ed: auto complete suggested “technical debt”, which must be the modern definition of widespread usage]“That’s just an excuse for programmers to mess around.”
 
-#### 97 Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney 
+#### 5.25. Things Every Programmer Should Know: Collective Wisdom from the Experts by Kevlin Henney 
 * <https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know>
 * Super easy read that may bring some inspiration, for example I've started reading more code. 
 > 
 
-#### 333. The Republic of Britain: Life under Cromwell - The Rest Is History 
+#### 5.26. The Republic of Britain: Life under Cromwell - The Rest Is History 
 * <https://shows.acast.com/the-rest-is-history-podcast/episodes/333-the-republic-of-britain-life-under-cromwell>
 * 1648, end of 30 years war in Europe, while in the UK the beginning of an experiment that will sharpen British sensibilities until today. 
 > The reality is that most people aren't great sort of ideological standard bearers. They're trying to get on, trying to buy their neighbors' field, the whatever it is. And, you know, most people didn't fight for either side in civil war. Most people kept their heads down. And a lot of people like Marksman Needham, we're looking around them, thinking, well, maybe there's an opportunity for me here to, you know, make a better money
 
-#### 244. Trafalgar: Countdown to Annihilation on Podgraph.io
+#### 5.27. Trafalgar: Countdown to Annihilation on Podgraph.io
 * <https://www.podgraph.io/episodes/TheRestIsHistory/244TrafalgarCountdowntoAnnihil.html>
 * On Nelson as a leader, performer and the symbol of courage.
 > Well, actually, the management techniques of Horatio Nelson would be a reasonable because he's a brilliant manager of his of his staff of his underlings, isn't he? Because he gets on fantastically well with the cast. Well, I think I think that's basically to work with Nelson was to adore him. That's what essentially everybody says. There are his peers who find him insufferable. You think he's he's bumpest. So a bit like a Churchill, a bit like with the young Churchill, but they think he's a metal hunter. They think he's fame hungry. They think he's annoying and windy and difficult and all those things. But the people who work for him worship him, don't they? Completely. Because his charisma, his courage, but also the way that he obviously loves his captains and loves his men. So Adam Nicholson, who wrote a brilliant book, Men of Honor, about Trafalgar, says that the people Nelson loved, a part of course, where ever Hamilton, his mistress, were his captains. And I think that that sense of a band of brothers
 
-#### Writing Python like it’s Rust 
+#### 5.28. Writing Python like it’s Rust 
 * <https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html>
 * Wonderful longread for something I don't see much - comparative (software) linguistics! 5* piece.
 > I started programming in Rust several years ago, and it has gradually changed the way I design programs in other programming languages, most notably in Python. Before I started using Rust, I was usually writing Python code in a very dynamic and type-loose way, without type hints, passing and returning dictionaries everywhere, and occasionally falling back to “stringly-typed” interfaces. However, after experiencing the strictness of the Rust type system, and noticing all the problems that it prevents “by construction”, I suddenly became quite anxious whenever I got back to Python and wasn’t provided with the same guarantees.
 
-#### Dabeaz Courses
+#### 5.29. Dabeaz Courses
 * <https://www.dabeaz.com/courses.html>
 * Just inspiring 
 
-#### Antonio Gramsci is the Marxist thinker for our times
+#### 5.30. Antonio Gramsci is the Marxist thinker for our times
 * <https://www.newstatesman.com/culture/2018/02/antonio-gramsci-marxist-thinker>
 * An theorist of war against cultural hegemony, helping to understand why Cleopatra is black, spiderman is black and 4th musketeer is black in 2023. 
 > The defining Gramscian concept is that of hegemony. This denotes a level of political domination that extends beyond control of a state or a parliament into the realm of culture and ideas. Gramsci was preoccupied by the question of why the 1917 Russian revolution had not been followed by others in western Europe. He located the answer in the persistence of capitalist ideas among civil society institutions (political parties, trade unions, churches, the media). As he wrote: “The state was only an outer ditch, behind which there stood a powerful system of fortresses.”
 
-#### Fold 'N Fly » Paper Airplane Folding Instructions
+#### 5.31. Fold 'N Fly » Paper Airplane Folding Instructions
 * <https://www.foldnfly.com>
 * A nostalgia in beautiful implementation.
 > 
 
-#### Windows and the AI Platform Shift – Stratechery by Ben Thompson
+#### 5.32. Windows and the AI Platform Shift – Stratechery by Ben Thompson
 * <https://stratechery.com/2023/windows-and-the-ai-platform-shift/>
 * The argument that AI is, after OS (Windows) a legitimate reason to move to Microsoft in 2023 is one that I have already fulfilled as I am using Bing as Mentor/UI multiple times a day and keep it open constantly. 
 > It’s important to note that Windows persisted as the linchpin of Microsoft’s strategy for over three decades for a very good reason: it made everything the company did possible. Windows had the ecosystem and the lock-in, and provided the foundation for Office and Windows Server, both of which were built with the assumption of Windows at the center....Still, the very fact that Windows is suddenly interesting again, while a new Apple product faces a major software question, is evidence for Nadella’s argument that AI is a platform shift, and for the first time in a long time it is Microsoft that actually has a clear path to not just leveraging its base but actually expanding it.Apple, meanwhile, still dominates the platforms where AI will be used for the foreseeable future — ChatGPT released their app on iPhone first, after all — but then again, Windows was still the dominant platform for the first decade-and-a-half of the Internet. Ultimately, though, the Internet eroded Windows’ dominance and set the stage for the smartphone; surely Apple knows it ought not risk a similar erosion of differentiation at the hand of AI, particularly as they courageously build products beyond the iPhones.
 
-#### Rotten-Scripts/Python at master · HarshCasper/Rotten-Scripts · GitHub
+#### 5.33. Rotten-Scripts/Python at master · HarshCasper/Rotten-Scripts · GitHub
 * <https://github.com/HarshCasper/Rotten-Scripts/tree/master/Python>
 * Transcribing some of the scripts as a matter of practice
 > 
 
-#### Learn C • Build Your Own Lisp
+#### 5.34. Learn C • Build Your Own Lisp
 * <https://buildyourownlisp.com/>
 * Even if you look only at the front cover of this project it is infused with beauty that engineering should aim at.
 > 
 
-#### Works of Lucian, Vol. I: Dialogues of the Dead: XVIII
+#### 5.35. Works of Lucian, Vol. I: Dialogues of the Dead: XVIII
 * <https://www.sacred-texts.com/cla/luc/wl1/wl163.htm>
 * From the introduction of The Night with Hamlet by Vladimir Holan, which reminds me of Wasteland. 
 > DIALOGUES OF THE DEADXVIIIMenippus. HermesMe. Where are all the beauties, Hermes? Show me round; I am a new-comer.Her. I am busy, Menippus. But look over there to your right, and you will see Hyacinth, Narcissus, Nireus, Achilles, Tyro, Helen, Leda,--all the beauties of old.Me. I can only see bones, and bare skulls; most of them are exactly alike.Her. Those bones, of which you seem to think so lightly, have been the theme of admiring poets.Me. Well, but show me Helen; I shall never be able to make her out by myself.Her. This skull is Helen.Me. And for this a thousand ships carried warriors from everyp. 138part of Greece; Greeks and barbarians were slain, and cities made desolate.Her. Ah, Menippus, you never saw the living Helen; or you would have said with Homer,Well might they suffer grievous years of toilWho strove for such a prize.[paragraph continues]We look at withered flowers, whose dye is gone from them, and what can we call them but unlovely things? Yet in the hour of their bloom these unlovely things were things of beauty.Me. Strange, that the Greeks could not realize what it was for which they laboured; how short-lived, how soon to fade.Her. I have no time for moralizing. Choose your spot, where you will, and lie down. I must go to fetch new dead.
 
-#### Where have all the hackers gone? + a way to discuss programming languages
+### 6. JUNE2023
+
+#### 6.1. Where have all the hackers gone? + a way to discuss programming languages
 * <https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html>
 * On discussing programming languages and many more. 
 > Soil is the properties of running code in that language. Most of it is when the code is actually running (basic performance characteristics, "is it a binary or interpreted by a VM," scheduler and/or relationship to multicore/parallelism, garbage collector) but a more broad generalization is "everything that isn't code editing that doesn't directly involve "community,"" so I'll involve things like build times and some properties of its tooling. So the stuff I brought up in the Golang discussion are "soil," but so is:That Python code is often hundreds or thousands of times slower than other languages.Languages with long compile times (Scala, Kotlin) vs. short ones (Golang).If your language has generics, does it implement them with type erasure, monomorphization, or something else?Erlang having a preemptive scheduler, and how iolists + how string concatenation works under the hood mean you can render the template of doom.Surface is what people usually think about when comparing languages: the features! Source code! It's whether it has your favorite looping construct (or doesn't, per the "only need a for loop"). Syntax, FFI, which regexes it supports, the semantics of its specific object system. Other examples are:Less/Sass and CoffeeScript were pure "surface" plays: not about the core capabilities, but seemingly expanding them with pure "fixes" to suboptimal surfaces."Ruby is so much better than Java! Look at how you open a file in Java (shows you 30 lines) vs. Ruby! (2 lines)"Much of the appeal of MERN or MEAN stacks is that "it's all JavaScript/JSON," meaning you can reduce the amount of "surface" to learn.Strong reactions on both sides of CSS-in-JS and Tailwind feel "surface"-ey, though they can have "soil"-ey impacts.Finally atmosphere: these are things that aren't the language or its code, but the broader community. Hiring, Stack Overflow answers, number of stars on its popular GitHub projects, number of packages in their repositories. I'll go a little further and include downstream effects of that community, e.g. "does the language have a VSCode plugin and language server" seems to be more a function of atmosphere than the others:Most "you can hire React developers easily" is completely divorced from any technical discussion of React as a framework. Ditto Java, Python, Ruby, JS…Most of a language's culture: Elm and Clojure both have something like "if Evan/Rich didn't think you should have that thing you wanted, have you considered that maybe you're wrong? 🙂". Golang telling you you're dumb and wrong for wanting generics for a decade before shipping them. Scala having all that silly drama.
 
-#### Low-Code SQL on dbt Core with Raj Bains from Prophecy - Software Engineering Daily
+#### 6.2. Low-Code SQL on dbt Core with Raj Bains from Prophecy - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2023/05/26/low-code-sql-on-dbt-core/>
 
-#### Highlander Principle
+#### 6.3. Highlander Principle
 * <https://wiki.c2.com/?HighlanderPrinciple>
 * From a doc at work, finding a few references, but wiki.c2.com is a legend.
 > From the movie HighLander. The HighlanderPrinciple is:There can be only one!Applies to many issues in SoftwareEngineering, where supporting n things (for n > 1) is difficult/impossible whereas supporting only 1 such thing is trivial. There's even a DesignPattern for this--the SingletonPattern.
 
-#### Zjistěte, jak správně provést vyúčtování služeb nájemníkům [aktualizováno 2023] 
+#### 6.4. Zjistěte, jak správně provést vyúčtování služeb nájemníkům [aktualizováno 2023] 
 * <https://stalynajem.cz/blog/jak-spravne-provest-vyuctovani-sluzeb-najemnikum>
 * Personal, learning what to do if a landlord does not provide energy bills on time
 > 
 
-#### dumkydewilde/snowplow-serverless: A cheap, serverless version of Snowplow deployed with Terraform that runs on dumky.net
+#### 6.5. dumkydewilde/snowplow-serverless: A cheap, serverless version of Snowplow deployed with Terraform that runs on dumky.net
 * <https://github.com/dumkydewilde/snowplow-serverless>
 * Another todo - testing Snowplow for a little site for 0.02$ a day with GCP credits this should be great
 > A serverless Snowplow pipeline on Google Cloud Platform (GCP) for ~€0.02/day.This repository is a Terraform template to run a fully serverless snowplow pipeline based on Google Cloud Run and BigQuery. This allows you to run Snowplow at a minimal cost, especially for smaller sites and blogs.
 
-#### One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. 
-* <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
 
-#### One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. It is tasteless to prolong life artificially, he told his assistant Helen Dukas. I have done my share, it is time to go. I will do it elegantly.  He was taken to the Princeton hospital, where one of his final requests was for some notepaper and pencils so he could continue to work on his elusive unified field theory. He died shortly after one a.m. on April 18, 1955. By his bed were twelve pages of tightly written equations, littered with cross-outs and corrections. To the very end, he struggled to read the mind of the creator of the cosmos. And the final thing he wrote, before he went to sleep for the last time, was one more line of symbols and numbers that he hoped might get him, and the rest of us, just a little step closer to the spirit manifest in the laws of the universe.
-* <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
-* Last days of Einstein. 
-
-#### Einstein's Final Quest
+#### 6.6. Einstein's Final Quest
 * <https://www.catholiceducation.org/en/faith-and-character/faith-and-character/einstein-s-final-quest.html>
 * Last days of Einstein. 
 > One day in April 1955, when he was working at his office on yet another set of unified field equations, Einstein began to feel a great pain in his stomach. He had long been plagued by an aneurism in his abdominal aorta, and it had started to rupture. A group of doctors convened at his home the next day, and they recommended a surgeon who might be able, though it was thought unlikely, to repair the aorta. Einstein refused. It is tasteless to prolong life artificially, he told his assistant Helen Dukas. I have done my share, it is time to go. I will do it elegantly.He was taken to the Princeton hospital, where one of his final requests was for some notepaper and pencils so he could continue to work on his elusive unified field theory. He died shortly after one a.m. on April 18, 1955. By his bed were twelve pages of tightly written equations, littered with cross-outs and corrections. To the very end, he struggled to read the mind of the creator of the cosmos. And the final thing he wrote, before he went to sleep for the last time, was one more line of symbols and numbers that he hoped might get him, and the rest of us, just a little step closer to the spirit manifest in the laws of the universe.
 
-#### On the Slow Productivity of John Wick - Cal Newport
+#### 6.7. On the Slow Productivity of John Wick - Cal Newport
 * <https://calnewport.com/on-the-slow-productivity-of-john-wick/>
 * I am experimenting with 0-notifications setup and this is confirming my hunch that the direction is a proper one. 
 > What struck me as I watched this behind-the-scenes feature is how differently creatives who work in the arts think about productivity as compared to creatives who work in office jobs. For Keanu Reeves, it was obvious that the most productive path was to focus all of his attention on a single goal: becoming really good at Stahelski’s innovative brand of gun fu. Doing this, and basically only this, month after month, materialized hundreds of millions of dollar of profit out of the entertainment ether.In office jobs, by contrast, productivity remains rooted in notions of busyness and multi-faceted activity. The most productive knowledge workers are those who stay on top of their inboxes and somehow juggle the dozens of obligations, from the small tasks to major projects, hurled in their direction every week. Movie-making is of course different than, say, being a marketing executive, or professor, or project manager, but creating things that are too good to be ignored, regardless of the setting, is an activity that almost without exception requires undivided attention. Are we so sure that the definition of “productive” that defines knowledge work really is the most profitable use of our talents?
 
-#### Dear Google Analytics 4 
+#### 6.8. Dear Google Analytics 4 
 * <https://www.simoahava.com/analytics/dear-google-analytics-4/>
 * A breakup letter. 
 > 
 
-#### Camels and Rubber Duckies – Joel on Software
+#### 6.9. Camels and Rubber Duckies – Joel on Software
 * <https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/>
 * don't have a software pricing discussion until you've read this
 > 
 
-#### Buy DataGrip: Pricing and Licensing, Discounts - JetBrains Toolbox Subscription
+#### 6.10. Buy DataGrip: Pricing and Licensing, Discounts - JetBrains Toolbox Subscription
 * <https://www.jetbrains.com/datagrip/buy/#personal>
 * Meeting the new DB IDE from Jetbrains for Professional SQL Developers
 > 
 
-#### What Ukraine knew about the Wagner mutiny - New Statesman
+#### 6.11. What Ukraine knew about the Wagner mutiny - New Statesman
 * <https://www.newstatesman.com/world/europe/ukraine/2023/06/ukraine-knew-wagner-mutiny>
 * He's witty and bold and, like in this essay, says eloquently what I've been wondering about formlessly, for some time already. 
 > Imagine that an armed group in Texas or Yunnan launched a march on Washington or Beijing, announcing everything in advance on social media in messages laced with prison slang and threats to destroy everything in their way. Imagine further that the group quickly advances to the environs of the capital, while the central army authorities scramble to destroy motorways as a last resort to stop the marauders. On its way, the group shoots down a few helicopters and aeroplanes. Finally, as it approaches the seat of power, Washington or Beijing are forced to sign an armistice. As a Russian user joked on Twitter, “today we found out that, God forbid, if Nato attacks us, the most we will be able to do is to dig out the asphalt”. The former Belarusian presidential candidate Valery Tsepkalo commented: “Only unfamiliar and unknown individuals emerged to address the people, and everyone laughed at them wholeheartedly. It seemed as [if] nobody was governing the country.”The truth is out: there is no Russian state. There is a theatrical production called the Russian state, but for how long the production will run remains to be seen. As the Wagner tanks occupied the main roads in Rostov, a street sweeper was asked by a video blogger what he made of the situation. “Everything is going according to plan,” he said, sweeping some cigarette butts into the dustpan. It summarised the state of Russia in hilarious fashion.

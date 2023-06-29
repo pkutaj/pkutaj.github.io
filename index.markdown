@@ -19,6 +19,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * writing up a [read-list of 2023](https://pavol.kutaj.com/playlist.html)
 * sharing some of [my side projects](#2-side-projects) on GitHub
 
+
 ### EXPERIENCE
 #### Infrastructure Support Engineer; KB owner
 * Snowplow Analytics
