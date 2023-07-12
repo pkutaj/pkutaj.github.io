@@ -1141,3 +1141,52 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://en.wikipedia.org/wiki/Viktor_Ullmann>
 * Just listened to one of his pieces - It's difficult to lose the beauty - on the radio and his last years deserve deep admiration.
 > On 8 September 1942 he was deported to the Theresienstadt concentration camp. Up to his deportation his list of works had reached 41 opus numbers and contained an additional three piano sonatas, song cycles on texts by various poets, operas, and the piano concerto Op. 25, which he finished in December 1939, nine months after the entry of German troops into Prague. Most of these works are missing. The manuscripts presumably disappeared during the occupation. Thirteen printed items, which Ullmann published privately and entrusted to a friend for safekeeping, have survived.The particular nature of the camp at Theresienstadt enabled Ullmann to remain active musically: he was a piano accompanist, organized concerts ("Collegium musicum", "Studio for New Music"), wrote critiques of musical events, and composed,[4] as part of a cultural circle including Karel Ančerl, Rafael Schachter, Gideon Klein, Hans Krása, and other prominent musicians imprisoned there. He wrote: "By no means did we sit weeping on the banks of the waters of Babylon. Our endeavor with respect to arts was commensurate with our will to live."[3]Overall, Ullmann "probably made the most significant contribution of any single individual to the musical life of Terezin", composing 20 works in the camp.[5]On 16 October 1944 he was deported to the camp at Auschwitz-Birkenau, where on 18 October 1944 he was killed in the gas chambers.
+
+#### Gping – ping, but with a graph 
+* <https://news.ycombinator.com/item?id=36548676>
+* A graph in CLI, wow. 
+> Comes with the following super-powers:Graph the ping time for multiple hostsGraph the execution time for commands via the --cmd flagCustom coloursWindows, Mac and Linux support
+
+#### Orange-OpenSource/hurl: Hurl, run and test HTTP requests with plain text.
+* <https://github.com/Orange-OpenSource/hurl>
+* 
+> Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
+
+#### Irezumi (1966) - IMDb
+* <https://www.imdb.com/title/tt0200740/>
+* Yasuzo Masamura's invention of female revenge genre
+> 
+
+#### Rogendorfu 
+* <https://cs.wikipedia.org/wiki/Kostel_Panny_Marie_Bolestn%C3%A9_(Sloup)>
+* From summer trip, baroque beauty of Moravia.
+> 
+
+#### How to Do Great Work
+* <http://paulgraham.com/greatwork.html>
+* A great take on ambition
+> Consciously cultivate your taste in the work done in your field. Until you know which is the best and what makes it so, you don't know what you're aiming for.And that is what you're aiming for, because if you don't try to be the best, you won't even be good. This observation has been made by so many people in so many different fields that it might be worth thinking about why it's true. It could be because ambition is a phenomenon where almost all the error is in one direction — where almost all the shells that miss the target miss by falling short. Or it could be because ambition to be the best is a qualitatively different thing from ambition to be good. Or maybe being good is simply too vague a standard. Probably all three are true.
+
+#### Wiz 
+* <https://www.wiz.io/>
+* Another important cloud security tool one of a client is using
+> Led by an experienced and visionary team, we are on a mission to help organizations create secure cloud environments that accelerate their businesses. By creating a normalizing layer between cloud environments, our platform enables organizations to rapidly identify and remove critical risks.
+
+#### Software and its Discontents, January 2023, Part 1 
+* <https://laughingmeme.org//2023/01/16/software-and-its-discontents-part-1.html>
+* Sounds like whining?
+
+#### Software and its Discontents, January 2023, Part 1 
+* <https://laughingmeme.org//2023/01/16/software-and-its-discontents-part-1.html>
+* The analysis of whining?
+> Over the last few months I’ve been intrigued by a question: where is the frustration and disillusionment, so prevalent currently in the software industry, coming from? And, as an engineering leader, what can I learn from this discontent and how should it shape my practices?
+
+#### Being rockstars: when software was a talents/creatives industry
+* <https://morepablo.com/2023/06/creatives-industries.html>
+* Instead of rockstars, the reference should be to that of surgeons. 
+> What was behind the flames of Where have all the hackers gone?? The biggest one I'm conscious of is Kellan's Software and its Discontents series. It's an excellent set of articles that try to provide answers to the question "why is everyone so miserable about software these days?"I really loved it, but I felt it didn't articulate the overarching narrative I observed behind all the glum feelings: application software is no longer a game of "creatives" and "talents," it's now a "commodified sludge" version with a playbook on how to produce it. This playbook describes a game that's a) not fun or motivating for most of the people involved, b) based on risk management (fear) rather than outcome maximization (hope), and c)… still doesn't seem to work, actually? But everyone yells at you and calls you immature or Not Serious if you deviate?The labor/hiring market was very slow to catch up to this, so for a while, remuneration and narrative were about creatives/hackers, but the work and outcomes were conservative and managerial. Software was Taylor Swift-priced but "uncredited studio musician"-outcomed.
+
+#### Someday, You Won’t Want To Code For A Living – Letters To A New Developer
+* <https://letterstoanewdeveloper.com/2019/07/01/someday-you-wont-want-to-code-for-a-living/>
+* another nonsense...
+> ut the honest truth is that when I am coding, I have the leverage of one person. As I grow older, I grow more impatient to effect change in the world. The best way to effect change is to have more leverage. Some options for higher leverage:writingproject managementproduct managementspeakingmentoringleading a teammanagingteachingarchitectingconsulting
