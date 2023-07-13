@@ -10,15 +10,19 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q2/2023)
-* optimizing Snowplow deployment processes (Python/bash/HashiCorp stack)
-* optimizing configuration drift mechanisms and alerting (HashiCorp/Atlassian stacks)
-* building dashboards for SLA/SLO breach analysis (SQL/Redash)
+### NOW (Q3/2023)
+* deep diving into
+    - Mermaid diagramming with [great book](https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques/)
+    - GitHub Copilot best practices
+    - TDD with Pytest
+* optimizing 
+    - Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
+    - Snowplow rollout processes
+    - configuration of Terraform drift mechanisms and alerting (OpsGenie)
+* building dashboards for SLA/SLO breach analysis (SQL/Redash/Preset is coming...) 
 * writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
-* doing a first course of [Open Source Society University - How to Code](https://github.com/ossu/computer-science#core-cs)
+* doing a ~~first~~ second course of [Open Source Society University - How to Code](https://github.com/ossu/computer-science#core-cs)
 * writing up a [read-list of 2023](https://pavol.kutaj.com/playlist.html)
-* sharing some of [my side projects](#2-side-projects) on GitHub
-
 
 ### EXPERIENCE
 #### Infrastructure Support Engineer; KB owner
@@ -73,6 +77,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 #### Programming languagues sorted by usage
 * Python
 * Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
+* Mermaid
 * Powershell; Bash
 * Regex 
 * MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
