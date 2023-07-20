@@ -1190,3 +1190,27 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://letterstoanewdeveloper.com/2019/07/01/someday-you-wont-want-to-code-for-a-living/>
 * another nonsense...
 > ut the honest truth is that when I am coding, I have the leverage of one person. As I grow older, I grow more impatient to effect change in the world. The best way to effect change is to have more leverage. Some options for higher leverage:writingproject managementproduct managementspeakingmentoringleading a teammanagingteachingarchitectingconsulting
+
+#### Jeremy Mikkola - What makes developers productive?
+* <https://jeremymikkola.com/posts/developer_productivity.html>
+* The minimalism is great, the lack of formal structure is worse. Apart from the expected notions, the stress on fluent and fast tools is one I identify with the most. 
+> Tooling that reacts quickly. Developers are constantly using tools: their editor highlights code and autocompletes method names, git commits the code, a build system runs tests. Every additional second of time these tools take has a high cost when multiplied by how often they run. Besides the raw cost in minutes and hours, slow tools also break a developer’s focus. Having your work stopped in its tracks by a slow tool is also frustrating, especially to someone who is stressed about timelines.
+
+#### Fresh Work 80/15/5 - by Kent Beck
+* <https://tidyfirst.substack.com/p/fresh-work-80155>
+* 
+
+#### Fresh Work 80/15/5 - by Kent Beck
+* <https://tidyfirst.substack.com/p/fresh-work-80155>
+* 
+> 80% of your time goes to low-risk/reasonable-reward work15% of your time goes to related high-risk/high-reward work5% of your time goes to satisfying your own curiosity with no thought of reward
+
+#### SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio
+* <https://www.se-radio.net/2023/06/se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise/>
+* The opening of the conversation summing up the background of SRE with a bit of history and its arrival to Siemens is interesting. Starts getting weaker as it progresses. 
+> 
+
+#### SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio
+* <https://www.se-radio.net/2023/05/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering/>
+* Essential conversation for me literraly forcing me to start learning and using Mermaid on a daily basis. Thanks!
+> 
