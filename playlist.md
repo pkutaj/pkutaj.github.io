@@ -1214,3 +1214,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.se-radio.net/2023/05/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering/>
 * Essential conversation for me literraly forcing me to start learning and using Mermaid on a daily basis. Thanks!
 > 
+
+#### dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)
+* <https://github.com/dabeaz-course/python-mastery>
+* wow!
+> An exercise-driven course on Advanced Python Programming that was battle-tested several hundred times on the corporate-training circuit for more than a decade. Written by David Beazley, author of the Python Cookbook
