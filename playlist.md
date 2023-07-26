@@ -1219,3 +1219,27 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://github.com/dabeaz-course/python-mastery>
 * wow!
 > An exercise-driven course on Advanced Python Programming that was battle-tested several hundred times on the corporate-training circuit for more than a decade. Written by David Beazley, author of the Python Cookbook
+
+#### Kubit vs. Amplitude: real warehouse-native Product Analytics
+* <https://kubit.ai/blog/all-warehouse-native-product-analytics-platforms-are-not-created-equal>
+* Progress through controversy
+> Amplitude says its Product Analytics are now "warehouse-native"–but is that true? We fact-check what turns out to be just a marketing campaign, not reality.
+
+#### Digital Analytics (Watch) 
+* <https://snowplow.io/events/digital-analytics-a-shifting-landscape-how-to-prepare-watch/>
+* 1. compliance 2. 1st party takeover 3. warehouse-first 4. realtime-latency
+> 
+
+#### Opinion 
+* <https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/>
+* Nothing new under the sun, but the embrace of Jordan Peterson came as a pleasant surprise. 
+> 
+
+#### Emotions: A Code Book - by Kent Beck
+* <https://tidyfirst.substack.com/p/emotions-a-code-book>
+* Putting the codebook into my Google Keep to refer to that in harder times. I may even learn this by heart, seems really useful.
+
+#### Emotions: A Code Book - by Kent Beck
+* <https://tidyfirst.substack.com/p/emotions-a-code-book>
+* Putting the codebook into my Google Keep to refer to that in harder times. I may even learn this by heart, seems really useful.
+> The Language of Emotions by Karla McLaren introduced me to this framing of emotions as envelopes containing important messages. I have often introduced coaching students to this model when they describe “negative” emotions at work.Fear—a call to focus. I need to increase a priority & let go of other things.Anger—a call to establish & enforce my boundaries.Anxiety—a call to pay attention to something I am ignoring....
