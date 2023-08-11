@@ -1243,3 +1243,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://tidyfirst.substack.com/p/emotions-a-code-book>
 * Putting the codebook into my Google Keep to refer to that in harder times. I may even learn this by heart, seems really useful.
 > The Language of Emotions by Karla McLaren introduced me to this framing of emotions as envelopes containing important messages. I have often introduced coaching students to this model when they describe “negative” emotions at work.Fear—a call to focus. I need to increase a priority & let go of other things.Anger—a call to establish & enforce my boundaries.Anxiety—a call to pay attention to something I am ignoring....
+
+#### Simplifying Documentation with Sébastien Lorber - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2023/08/03/simplifying-documentation/>
+* We're using Docusaurus in Snowplow - I did now know its origins and trends it has formed. 
+> 
