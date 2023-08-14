@@ -1248,3 +1248,36 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://softwareengineeringdaily.com/2023/08/03/simplifying-documentation/>
 * We're using Docusaurus in Snowplow - I did now know its origins and trends it has formed. 
 > 
+
+#### What are Segment alternatives - and which ones are no alternative at all? - YouTube
+* <https://www.youtube.com/watch?v=q8HASYpcBbk>
+* Great vlog!
+> 
+
+#### 353. Paris 1968: The Students' Revolt on Podgraph.io
+* <https://www.podgraph.io/episodes/TheRestIsHistory/353Paris1968TheStudentsRevolt.html>
+* Shortly before listening to this, I had a friend mentioning Prague 1968, Paris 1968 and, hold onto your seats, Budapest 1956 in one sentence as eample you youth enthusiasm. I did not now anything about events in Paris an this was highly illuminating: Mainly how it shaped Foucault, how the memory of it became foundational and how De Gaulle put himself together and managed to restore the order. The finale was splendid. 
+> 
+
+#### SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio
+* <https://www.se-radio.net/2023/07/se-radio-574-chad-michel-on-software-as-an-engineering-discipline/>
+* Importance of not diving into the code immediatelly and the fact that if you do so, it is impossible to reverse the trajectory. About the difference between development and engineering and the robustness of engineering practices that people like Bjaern Stroustrup love talking about. 
+> hey begin by discussing the need for engineering rigor in the software industry. Chad points out that many developers lack awareness of good engineering practice and are often unaware of resources such as the Software Engineering Body of Knowledge (SWEBOK). Among the many topics explored in this episode are design methodologies such as volatility-based decomposition and the work of David Parnas,,,
+
+#### Conversations with Tyler: Paul Graham on Ambition, Art, and Evaluating Talent
+* <https://cowenconvos.libsyn.com/paul-graham-on-ambition-art-and-evaluating-talent>
+
+#### Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler
+* <https://conversationswithtyler.com/episodes/paul-graham/>
+* On ambition! 
+> COWEN: [laughs] You’re clearly good at boosting ambition, so you’re pulling on some lever, right? What is it you do?GRAHAM: Oh, okay. How do I do it? People are, for various reasons — for multiple reasons — they’re afraid to think really big. There are multiple reasons. One, it seems overreaching. Two, it seems like it would be an awful lot of work. [laughs]As an outside person, I’m like an instructor in some fitness class. I can tell someone who’s already working as hard as they can, “All right, push harder.”[laughter]It doesn’t cost me any effort. Surprisingly often, as in the fitness class, they are capable of pushing harder. A lot of my secret is just being the person who doesn’t have to actually do the work that I’m suggesting they do.COWEN: How much of what you do is reshuffling their networks? There are people with potential. They’re in semi-average networks —GRAHAM: Wait. That was such an interesting question. We should talk about that some more because that really is an interesting question. Imagine how amazing it would be if all the ambitious people can be more ambitious. That really is an interesting question. There’s got to be more to it than just the fact that I don’t have to do the work.COWEN: I think a lot of it is reshuffling networks. You need someone who can identify who should be in a better network. You boost the total size of all networking that goes on, and you make sure those people with potential —
+
+#### hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.
+* <https://github.com/hackclub/putting-the-you-in-cpu>
+* When a 17-year-old puts content like this together, it's like watching a brilliant athlete on the olympics. 
+> 
+
+#### KVIFF 
+* <https://www.kviff.com/en/programme/film/63/40237-the-spider-tattoo>
+* The prehistory of female revenge genre
+> Long before the modern female revenge genre came into existence, there was The Spider Tattoo, Masumura’s mysterious, ferocious Edo-era fable. Ayako Wakao is Otsuya, the daughter of a wealthy merchant who gets kidnapped and forced into prostitution. A demented tattoo artist engraves a large, black, human-faced spider on her back that turns her into a murderess, hell-bent on annihilating the men who abused her. A star-studded collaboration adapted from renowned author Jun’ichirō Tanizaki's novel by writer-director Kaneto Shindô (The Naked Island, Onibaba) and photographed by the legendary Kazuo Miyagawa (Rashomon, Ugetsu) in entrancing, sumptuous Eastmancolor, The Spider Tattoo is Masumura’s most visually striking film.
