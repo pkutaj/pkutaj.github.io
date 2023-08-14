@@ -1281,3 +1281,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.kviff.com/en/programme/film/63/40237-the-spider-tattoo>
 * The prehistory of female revenge genre
 > Long before the modern female revenge genre came into existence, there was The Spider Tattoo, Masumura’s mysterious, ferocious Edo-era fable. Ayako Wakao is Otsuya, the daughter of a wealthy merchant who gets kidnapped and forced into prostitution. A demented tattoo artist engraves a large, black, human-faced spider on her back that turns her into a murderess, hell-bent on annihilating the men who abused her. A star-studded collaboration adapted from renowned author Jun’ichirō Tanizaki's novel by writer-director Kaneto Shindô (The Naked Island, Onibaba) and photographed by the legendary Kazuo Miyagawa (Rashomon, Ugetsu) in entrancing, sumptuous Eastmancolor, The Spider Tattoo is Masumura’s most visually striking film.
+
+#### /bin/bash based SSL/TLS tester: testssl.sh
+* <https://testssl.sh/>
+* Always in for the example of a beautiful CLI tool
+> testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
