@@ -1286,3 +1286,23 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://testssl.sh/>
 * Always in for the example of a beautiful CLI tool
 > testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
+
+#### Publish Everything (Pretty Much) - by Kent Beck
+* <https://tidyfirst.substack.com/p/publish-everything-pretty-much>
+* I have two rules. Never publish shit. Publish everything. It's a jing and jang of ideals. Think of quality. You never know what's going to work. 
+> Publish pretty much everything you write because you can’t predict what is going to be popular. There is a lower bar for quality, but barring dishonesty and literally unreadable prose, everything else should go out somewhere. Incompleteness is no excuse.
+
+#### talk about facts stories are great ask technical questions fix mistakes ask for examples/experiences, not opinions start with a little context avoid causing boring conversations preempt common suggestions set some boundaries don’t argue analyze negative comments that’s all!
+* <https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/>
+* 01. talk about facts
+> 02. stories are great03. ask technical questions04. fix mistakes05. ask for examples/experiences, not opinions06. start with a little context07. avoid causing boring conversations08. preempt common suggestions09. set some boundaries10. don’t argue11. analyze negative comments12. that’s all!
+
+#### Some tactics for writing in public
+* <https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/>
+* Some great insights, mostly reminding of what I know, but making the specific color of shared knowledge base, which is my writing, is cool!
+> 01. talk about facts02. stories are great03. ask technical questions04. fix mistakes05. ask for examples/experiences, not opinions06. start with a little context07. avoid causing boring conversations08. preempt common suggestions09. set some boundaries10. don’t argue11. analyze negative comments12. that’s all!
+
+#### Cultivating a state of mind where new ideas are born
+* <https://www.henrikkarlsson.xyz/p/good-ideas>
+* Saving this just because of the great title! 
+> 
