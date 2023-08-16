@@ -1311,3 +1311,6 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.lennysnewsletter.com/p/the-ultimate-guide-to-martech-austin?utm_source=podcast-email%2Csubstack&publication_id=10845&post_id=135838380&utm_medium=email#details>
 *  Snowplow Mention in a very prestigious place: “The way to think of it is if you build your own data warehouse, your schema is unlimited. You can do whatever you want. You can design product schema, you can design user schema and event schema, but most third party B2C tools don’t allow you to control the schema. There’s only one CDP I know that does that, that’s Snowplow. The rest are there’s a user object and an event object.”
 > 
+
+#### Code is not literature
+* <https://gigamonkeys.com/code-reading/>
