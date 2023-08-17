@@ -1137,6 +1137,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * He's witty and bold and, like in this essay, says eloquently what I've been wondering about formlessly, for some time already. 
 > Imagine that an armed group in Texas or Yunnan launched a march on Washington or Beijing, announcing everything in advance on social media in messages laced with prison slang and threats to destroy everything in their way. Imagine further that the group quickly advances to the environs of the capital, while the central army authorities scramble to destroy motorways as a last resort to stop the marauders. On its way, the group shoots down a few helicopters and aeroplanes. Finally, as it approaches the seat of power, Washington or Beijing are forced to sign an armistice. As a Russian user joked on Twitter, “today we found out that, God forbid, if Nato attacks us, the most we will be able to do is to dig out the asphalt”. The former Belarusian presidential candidate Valery Tsepkalo commented: “Only unfamiliar and unknown individuals emerged to address the people, and everyone laughed at them wholeheartedly. It seemed as [if] nobody was governing the country.”The truth is out: there is no Russian state. There is a theatrical production called the Russian state, but for how long the production will run remains to be seen. As the Wagner tanks occupied the main roads in Rostov, a street sweeper was asked by a video blogger what he made of the situation. “Everything is going according to plan,” he said, sweeping some cigarette butts into the dustpan. It summarised the state of Russia in hilarious fashion.
 
+### JULY2023
 #### Viktor Ullmann - Wikipedia
 * <https://en.wikipedia.org/wiki/Viktor_Ullmann>
 * Just listened to one of his pieces - It's difficult to lose the beauty - on the radio and his last years deserve deep admiration.
@@ -1147,20 +1148,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * A graph in CLI, wow. 
 > Comes with the following super-powers:Graph the ping time for multiple hostsGraph the execution time for commands via the --cmd flagCustom coloursWindows, Mac and Linux support
 
-#### Orange-OpenSource/hurl: Hurl, run and test HTTP requests with plain text.
+#### Hurl, run and test HTTP requests with plain text.
 * <https://github.com/Orange-OpenSource/hurl>
-* 
 > Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
 
-#### Irezumi (1966) - IMDb
+#### Irezumi (1966) Spider Tattoo
 * <https://www.imdb.com/title/tt0200740/>
-* Yasuzo Masamura's invention of female revenge genre
-> 
-
-#### Rogendorfu 
-* <https://cs.wikipedia.org/wiki/Kostel_Panny_Marie_Bolestn%C3%A9_(Sloup)>
-* From summer trip, baroque beauty of Moravia.
-> 
+* Yasuzo Masamura predading invention of female revenge genre
 
 #### How to Do Great Work
 * <http://paulgraham.com/greatwork.html>
@@ -1174,21 +1168,17 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### Software and its Discontents, January 2023, Part 1 
 * <https://laughingmeme.org//2023/01/16/software-and-its-discontents-part-1.html>
-* Sounds like whining?
-
-#### Software and its Discontents, January 2023, Part 1 
-* <https://laughingmeme.org//2023/01/16/software-and-its-discontents-part-1.html>
 * The analysis of whining?
 > Over the last few months I’ve been intrigued by a question: where is the frustration and disillusionment, so prevalent currently in the software industry, coming from? And, as an engineering leader, what can I learn from this discontent and how should it shape my practices?
 
 #### Being rockstars: when software was a talents/creatives industry
 * <https://morepablo.com/2023/06/creatives-industries.html>
-* Instead of rockstars, the reference should be to that of surgeons. 
+* Instead of rockstars, the reference should be to that of surgeons
 > What was behind the flames of Where have all the hackers gone?? The biggest one I'm conscious of is Kellan's Software and its Discontents series. It's an excellent set of articles that try to provide answers to the question "why is everyone so miserable about software these days?"I really loved it, but I felt it didn't articulate the overarching narrative I observed behind all the glum feelings: application software is no longer a game of "creatives" and "talents," it's now a "commodified sludge" version with a playbook on how to produce it. This playbook describes a game that's a) not fun or motivating for most of the people involved, b) based on risk management (fear) rather than outcome maximization (hope), and c)… still doesn't seem to work, actually? But everyone yells at you and calls you immature or Not Serious if you deviate?The labor/hiring market was very slow to catch up to this, so for a while, remuneration and narrative were about creatives/hackers, but the work and outcomes were conservative and managerial. Software was Taylor Swift-priced but "uncredited studio musician"-outcomed.
 
 #### Someday, You Won’t Want To Code For A Living – Letters To A New Developer
 * <https://letterstoanewdeveloper.com/2019/07/01/someday-you-wont-want-to-code-for-a-living/>
-* another nonsense...
+* perhaps, yet Mitchell Hashimoto [went back from CEO to being an IC](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/)
 > ut the honest truth is that when I am coding, I have the leverage of one person. As I grow older, I grow more impatient to effect change in the world. The best way to effect change is to have more leverage. Some options for higher leverage:writingproject managementproduct managementspeakingmentoringleading a teammanagingteachingarchitectingconsulting
 
 #### Jeremy Mikkola - What makes developers productive?
@@ -1198,26 +1188,19 @@ List of texts / podcast that caught my attention this year (2023 edition).
 
 #### Fresh Work 80/15/5 - by Kent Beck
 * <https://tidyfirst.substack.com/p/fresh-work-80155>
-* 
-
-#### Fresh Work 80/15/5 - by Kent Beck
-* <https://tidyfirst.substack.com/p/fresh-work-80155>
-* 
 > 80% of your time goes to low-risk/reasonable-reward work15% of your time goes to related high-risk/high-reward work5% of your time goes to satisfying your own curiosity with no thought of reward
 
 #### SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio
 * <https://www.se-radio.net/2023/06/se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise/>
 * The opening of the conversation summing up the background of SRE with a bit of history and its arrival to Siemens is interesting. Starts getting weaker as it progresses. 
-> 
 
 #### SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio
 * <https://www.se-radio.net/2023/05/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering/>
-* Essential conversation for me literraly forcing me to start learning and using Mermaid on a daily basis. Thanks!
-> 
+* Essential conversation for me literraly forcing me to start learning and using Mermaid on a daily basis. Thanks! 
 
 #### dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)
 * <https://github.com/dabeaz-course/python-mastery>
-* wow!
+* wow! bookmarking!
 > An exercise-driven course on Advanced Python Programming that was battle-tested several hundred times on the corporate-training circuit for more than a decade. Written by David Beazley, author of the Python Cookbook
 
 #### Kubit vs. Amplitude: real warehouse-native Product Analytics
@@ -1225,19 +1208,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Progress through controversy
 > Amplitude says its Product Analytics are now "warehouse-native"–but is that true? We fact-check what turns out to be just a marketing campaign, not reality.
 
-#### Digital Analytics (Watch) 
+#### On Digital Analytics Landscape today - Snowplow Webinar
 * <https://snowplow.io/events/digital-analytics-a-shifting-landscape-how-to-prepare-watch/>
 * 1. compliance 2. 1st party takeover 3. warehouse-first 4. realtime-latency
-> 
 
-#### Opinion 
+#### Opinion: Men are lost. Here’s a map out of the wilderness. 
 * <https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/>
 * Nothing new under the sun, but the embrace of Jordan Peterson came as a pleasant surprise. 
-> 
-
-#### Emotions: A Code Book - by Kent Beck
-* <https://tidyfirst.substack.com/p/emotions-a-code-book>
-* Putting the codebook into my Google Keep to refer to that in harder times. I may even learn this by heart, seems really useful.
 
 #### Emotions: A Code Book - by Kent Beck
 * <https://tidyfirst.substack.com/p/emotions-a-code-book>
@@ -1247,7 +1224,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### Simplifying Documentation with Sébastien Lorber - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2023/08/03/simplifying-documentation/>
 * We're using Docusaurus in Snowplow - I did now know its origins and trends it has formed. 
-> 
+ 
 
 #### What are Segment alternatives - and which ones are no alternative at all? - YouTube
 * <https://www.youtube.com/watch?v=q8HASYpcBbk>
@@ -1257,15 +1234,12 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### 353. Paris 1968: The Students' Revolt on Podgraph.io
 * <https://www.podgraph.io/episodes/TheRestIsHistory/353Paris1968TheStudentsRevolt.html>
 * Shortly before listening to this, I had a friend mentioning Prague 1968, Paris 1968 and, hold onto your seats, Budapest 1956 in one sentence as eample you youth enthusiasm. I did not now anything about events in Paris an this was highly illuminating: Mainly how it shaped Foucault, how the memory of it became foundational and how De Gaulle put himself together and managed to restore the order. The finale was splendid. 
-> 
+ 
 
 #### SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio
 * <https://www.se-radio.net/2023/07/se-radio-574-chad-michel-on-software-as-an-engineering-discipline/>
 * Importance of not diving into the code immediatelly and the fact that if you do so, it is impossible to reverse the trajectory. About the difference between development and engineering and the robustness of engineering practices that people like Bjaern Stroustrup love talking about. 
 > hey begin by discussing the need for engineering rigor in the software industry. Chad points out that many developers lack awareness of good engineering practice and are often unaware of resources such as the Software Engineering Body of Knowledge (SWEBOK). Among the many topics explored in this episode are design methodologies such as volatility-based decomposition and the work of David Parnas,,,
-
-#### Conversations with Tyler: Paul Graham on Ambition, Art, and Evaluating Talent
-* <https://cowenconvos.libsyn.com/paul-graham-on-ambition-art-and-evaluating-talent>
 
 #### Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler
 * <https://conversationswithtyler.com/episodes/paul-graham/>
@@ -1275,9 +1249,9 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.
 * <https://github.com/hackclub/putting-the-you-in-cpu>
 * When a 17-year-old puts content like this together, it's like watching a brilliant athlete on the olympics. 
-> 
+ 
 
-#### KVIFF 
+#### KVIFF on Irezumi
 * <https://www.kviff.com/en/programme/film/63/40237-the-spider-tattoo>
 * The prehistory of female revenge genre
 > Long before the modern female revenge genre came into existence, there was The Spider Tattoo, Masumura’s mysterious, ferocious Edo-era fable. Ayako Wakao is Otsuya, the daughter of a wealthy merchant who gets kidnapped and forced into prostitution. A demented tattoo artist engraves a large, black, human-faced spider on her back that turns her into a murderess, hell-bent on annihilating the men who abused her. A star-studded collaboration adapted from renowned author Jun’ichirō Tanizaki's novel by writer-director Kaneto Shindô (The Naked Island, Onibaba) and photographed by the legendary Kazuo Miyagawa (Rashomon, Ugetsu) in entrancing, sumptuous Eastmancolor, The Spider Tattoo is Masumura’s most visually striking film.
@@ -1292,25 +1266,22 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * I have two rules. Never publish shit. Publish everything. It's a jing and jang of ideals. Think of quality. You never know what's going to work. 
 > Publish pretty much everything you write because you can’t predict what is going to be popular. There is a lower bar for quality, but barring dishonesty and literally unreadable prose, everything else should go out somewhere. Incompleteness is no excuse.
 
-#### talk about facts stories are great ask technical questions fix mistakes ask for examples/experiences, not opinions start with a little context avoid causing boring conversations preempt common suggestions set some boundaries don’t argue analyze negative comments that’s all!
-* <https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/>
-* 01. talk about facts
-> 02. stories are great03. ask technical questions04. fix mistakes05. ask for examples/experiences, not opinions06. start with a little context07. avoid causing boring conversations08. preempt common suggestions09. set some boundaries10. don’t argue11. analyze negative comments12. that’s all!
 
 #### Some tactics for writing in public
 * <https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/>
 * Some great insights, mostly reminding of what I know, but making the specific color of shared knowledge base, which is my writing, is cool!
-> 01. talk about facts02. stories are great03. ask technical questions04. fix mistakes05. ask for examples/experiences, not opinions06. start with a little context07. avoid causing boring conversations08. preempt common suggestions09. set some boundaries10. don’t argue11. analyze negative comments12. that’s all!
+> 01. talk about facts 02. stories are great 03. ask technical questions 04. fix mistakes 05. ask for examples/experiences, not opinions 06. start with a little context 07. avoid causing boring conversations 08. preempt common suggestions 09. set some boundaries 10. don’t argue 11. analyze negative comments 
 
 #### Cultivating a state of mind where new ideas are born
 * <https://www.henrikkarlsson.xyz/p/good-ideas>
 * Saving this just because of the great title! 
-> 
 
 #### The ultimate guide to Martech 
 * <https://www.lennysnewsletter.com/p/the-ultimate-guide-to-martech-austin?utm_source=podcast-email%2Csubstack&publication_id=10845&post_id=135838380&utm_medium=email#details>
 *  Snowplow Mention in a very prestigious place: “The way to think of it is if you build your own data warehouse, your schema is unlimited. You can do whatever you want. You can design product schema, you can design user schema and event schema, but most third party B2C tools don’t allow you to control the schema. There’s only one CDP I know that does that, that’s Snowplow. The rest are there’s a user object and an event object.”
-> 
 
 #### Code is not literature
 * <https://gigamonkeys.com/code-reading/>
+* Exactly, [yet you can read it like a book!](https://pavolkutaj.medium.com/how-to-read-code-like-a-book-4332475de2d6)
+
+### AUGUST 2023
