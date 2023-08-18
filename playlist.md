@@ -1285,3 +1285,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Exactly, [yet you can read it like a book!](https://pavolkutaj.medium.com/how-to-read-code-like-a-book-4332475de2d6)
 
 ### AUGUST 2023
+
+#### 226. The Lord of the Rings
+* <http://rssr.link/1JXv0>
+* The pathos of Tolkien is something I can't understand someone would be laughing at in 2023, so inspiring!
+> 
