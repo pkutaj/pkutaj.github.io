@@ -1290,3 +1290,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <http://rssr.link/1JXv0>
 * The pathos of Tolkien is something I can't understand someone would be laughing at in 2023, so inspiring!
 > 
+
+#### Doja Cat – Paint The Town Red Lyrics 
+* <https://genius.com/29068201?>
+* Finally something really really funny
+> 
