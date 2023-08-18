@@ -238,7 +238,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [Code is not literature](#code-is-not-literature)
 - [AUGUST 2023](#august-2023)
     - [226. The Lord of the Rings](#226-the-lord-of-the-rings)
-    - [Doja Cat – Paint The Town Red Lyrics](#doja cat--paint-the-town-red-lyrics)
+    - [Doja Cat](#doja-cat--paint-the-town-red-lyrics)
 
 <!-- /TOC -->
 
@@ -1172,161 +1172,161 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * He's witty and bold and, like in this essay, says eloquently what I've been wondering about formlessly, for some time already. 
 > Imagine that an armed group in Texas or Yunnan launched a march on Washington or Beijing, announcing everything in advance on social media in messages laced with prison slang and threats to destroy everything in their way. Imagine further that the group quickly advances to the environs of the capital, while the central army authorities scramble to destroy motorways as a last resort to stop the marauders. On its way, the group shoots down a few helicopters and aeroplanes. Finally, as it approaches the seat of power, Washington or Beijing are forced to sign an armistice. As a Russian user joked on Twitter, “today we found out that, God forbid, if Nato attacks us, the most we will be able to do is to dig out the asphalt”. The former Belarusian presidential candidate Valery Tsepkalo commented: “Only unfamiliar and unknown individuals emerged to address the people, and everyone laughed at them wholeheartedly. It seemed as [if] nobody was governing the country.”The truth is out: there is no Russian state. There is a theatrical production called the Russian state, but for how long the production will run remains to be seen. As the Wagner tanks occupied the main roads in Rostov, a street sweeper was asked by a video blogger what he made of the situation. “Everything is going according to plan,” he said, sweeping some cigarette butts into the dustpan. It summarised the state of Russia in hilarious fashion.
 
-### JULY2023
-#### Viktor Ullmann - Wikipedia
+### 7. JULY2023
+#### 7.1. Viktor Ullmann - Wikipedia
 * <https://en.wikipedia.org/wiki/Viktor_Ullmann>
 * Just listened to one of his pieces - It's difficult to lose the beauty - on the radio and his last years deserve deep admiration.
 > On 8 September 1942 he was deported to the Theresienstadt concentration camp. Up to his deportation his list of works had reached 41 opus numbers and contained an additional three piano sonatas, song cycles on texts by various poets, operas, and the piano concerto Op. 25, which he finished in December 1939, nine months after the entry of German troops into Prague. Most of these works are missing. The manuscripts presumably disappeared during the occupation. Thirteen printed items, which Ullmann published privately and entrusted to a friend for safekeeping, have survived.The particular nature of the camp at Theresienstadt enabled Ullmann to remain active musically: he was a piano accompanist, organized concerts ("Collegium musicum", "Studio for New Music"), wrote critiques of musical events, and composed,[4] as part of a cultural circle including Karel Ančerl, Rafael Schachter, Gideon Klein, Hans Krása, and other prominent musicians imprisoned there. He wrote: "By no means did we sit weeping on the banks of the waters of Babylon. Our endeavor with respect to arts was commensurate with our will to live."[3]Overall, Ullmann "probably made the most significant contribution of any single individual to the musical life of Terezin", composing 20 works in the camp.[5]On 16 October 1944 he was deported to the camp at Auschwitz-Birkenau, where on 18 October 1944 he was killed in the gas chambers.
 
-#### Gping – ping, but with a graph 
+#### 7.2. Gping – ping, but with a graph 
 * <https://news.ycombinator.com/item?id=36548676>
 * A graph in CLI, wow. 
 > Comes with the following super-powers:Graph the ping time for multiple hostsGraph the execution time for commands via the --cmd flagCustom coloursWindows, Mac and Linux support
 
-#### Hurl, run and test HTTP requests with plain text.
+#### 7.3. Hurl, run and test HTTP requests with plain text.
 * <https://github.com/Orange-OpenSource/hurl>
 > Hurl is a command line tool that runs HTTP requests defined in a simple plain text format.
 
-#### Irezumi (1966) Spider Tattoo
+#### 7.4. Irezumi (1966) Spider Tattoo
 * <https://www.imdb.com/title/tt0200740/>
 * Yasuzo Masamura predading invention of female revenge genre
 
-#### How to Do Great Work
+#### 7.5. How to Do Great Work
 * <http://paulgraham.com/greatwork.html>
 * A great take on ambition
 > Consciously cultivate your taste in the work done in your field. Until you know which is the best and what makes it so, you don't know what you're aiming for.And that is what you're aiming for, because if you don't try to be the best, you won't even be good. This observation has been made by so many people in so many different fields that it might be worth thinking about why it's true. It could be because ambition is a phenomenon where almost all the error is in one direction — where almost all the shells that miss the target miss by falling short. Or it could be because ambition to be the best is a qualitatively different thing from ambition to be good. Or maybe being good is simply too vague a standard. Probably all three are true.
 
-#### Wiz 
+#### 7.6. Wiz 
 * <https://www.wiz.io/>
 * Another important cloud security tool one of a client is using
 > Led by an experienced and visionary team, we are on a mission to help organizations create secure cloud environments that accelerate their businesses. By creating a normalizing layer between cloud environments, our platform enables organizations to rapidly identify and remove critical risks.
 
-#### Software and its Discontents, January 2023, Part 1 
+#### 7.7. Software and its Discontents, January 2023, Part 1 
 * <https://laughingmeme.org//2023/01/16/software-and-its-discontents-part-1.html>
 * The analysis of whining?
 > Over the last few months I’ve been intrigued by a question: where is the frustration and disillusionment, so prevalent currently in the software industry, coming from? And, as an engineering leader, what can I learn from this discontent and how should it shape my practices?
 
-#### Being rockstars: when software was a talents/creatives industry
+#### 7.8. Being rockstars: when software was a talents/creatives industry
 * <https://morepablo.com/2023/06/creatives-industries.html>
 * Instead of rockstars, the reference should be to that of surgeons
 > What was behind the flames of Where have all the hackers gone?? The biggest one I'm conscious of is Kellan's Software and its Discontents series. It's an excellent set of articles that try to provide answers to the question "why is everyone so miserable about software these days?"I really loved it, but I felt it didn't articulate the overarching narrative I observed behind all the glum feelings: application software is no longer a game of "creatives" and "talents," it's now a "commodified sludge" version with a playbook on how to produce it. This playbook describes a game that's a) not fun or motivating for most of the people involved, b) based on risk management (fear) rather than outcome maximization (hope), and c)… still doesn't seem to work, actually? But everyone yells at you and calls you immature or Not Serious if you deviate?The labor/hiring market was very slow to catch up to this, so for a while, remuneration and narrative were about creatives/hackers, but the work and outcomes were conservative and managerial. Software was Taylor Swift-priced but "uncredited studio musician"-outcomed.
 
-#### Someday, You Won’t Want To Code For A Living – Letters To A New Developer
+#### 7.9. Someday, You Won’t Want To Code For A Living – Letters To A New Developer
 * <https://letterstoanewdeveloper.com/2019/07/01/someday-you-wont-want-to-code-for-a-living/>
 * perhaps, yet Mitchell Hashimoto [went back from CEO to being an IC](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/)
 > ut the honest truth is that when I am coding, I have the leverage of one person. As I grow older, I grow more impatient to effect change in the world. The best way to effect change is to have more leverage. Some options for higher leverage:writingproject managementproduct managementspeakingmentoringleading a teammanagingteachingarchitectingconsulting
 
-#### Jeremy Mikkola - What makes developers productive?
+#### 7.10. Jeremy Mikkola - What makes developers productive?
 * <https://jeremymikkola.com/posts/developer_productivity.html>
 * The minimalism is great, the lack of formal structure is worse. Apart from the expected notions, the stress on fluent and fast tools is one I identify with the most. 
 > Tooling that reacts quickly. Developers are constantly using tools: their editor highlights code and autocompletes method names, git commits the code, a build system runs tests. Every additional second of time these tools take has a high cost when multiplied by how often they run. Besides the raw cost in minutes and hours, slow tools also break a developer’s focus. Having your work stopped in its tracks by a slow tool is also frustrating, especially to someone who is stressed about timelines.
 
-#### Fresh Work 80/15/5 - by Kent Beck
+#### 7.11. Fresh Work 80/15/5 - by Kent Beck
 * <https://tidyfirst.substack.com/p/fresh-work-80155>
 > 80% of your time goes to low-risk/reasonable-reward work15% of your time goes to related high-risk/high-reward work5% of your time goes to satisfying your own curiosity with no thought of reward
 
-#### SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio
+#### 7.12. SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio
 * <https://www.se-radio.net/2023/06/se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise/>
 * The opening of the conversation summing up the background of SRE with a bit of history and its arrival to Siemens is interesting. Starts getting weaker as it progresses. 
 
-#### SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio
+#### 7.13. SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio
 * <https://www.se-radio.net/2023/05/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering/>
 * Essential conversation for me literraly forcing me to start learning and using Mermaid on a daily basis. Thanks! 
 
-#### dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)
+#### 7.14. dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)
 * <https://github.com/dabeaz-course/python-mastery>
 * wow! bookmarking!
 > An exercise-driven course on Advanced Python Programming that was battle-tested several hundred times on the corporate-training circuit for more than a decade. Written by David Beazley, author of the Python Cookbook
 
-#### Kubit vs. Amplitude: real warehouse-native Product Analytics
+#### 7.15. Kubit vs. Amplitude: real warehouse-native Product Analytics
 * <https://kubit.ai/blog/all-warehouse-native-product-analytics-platforms-are-not-created-equal>
 * Progress through controversy
 > Amplitude says its Product Analytics are now "warehouse-native"–but is that true? We fact-check what turns out to be just a marketing campaign, not reality.
 
-#### On Digital Analytics Landscape today - Snowplow Webinar
+#### 7.16. On Digital Analytics Landscape today - Snowplow Webinar
 * <https://snowplow.io/events/digital-analytics-a-shifting-landscape-how-to-prepare-watch/>
 * 1. compliance 2. 1st party takeover 3. warehouse-first 4. realtime-latency
 
-#### Opinion: Men are lost. Here’s a map out of the wilderness. 
+#### 7.17. Opinion: Men are lost. Here’s a map out of the wilderness. 
 * <https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/>
 * Nothing new under the sun, but the embrace of Jordan Peterson came as a pleasant surprise. 
 
-#### Emotions: A Code Book - by Kent Beck
+#### 7.18. Emotions: A Code Book - by Kent Beck
 * <https://tidyfirst.substack.com/p/emotions-a-code-book>
 * Putting the codebook into my Google Keep to refer to that in harder times. I may even learn this by heart, seems really useful.
 > The Language of Emotions by Karla McLaren introduced me to this framing of emotions as envelopes containing important messages. I have often introduced coaching students to this model when they describe “negative” emotions at work.Fear—a call to focus. I need to increase a priority & let go of other things.Anger—a call to establish & enforce my boundaries.Anxiety—a call to pay attention to something I am ignoring....
 
-#### Simplifying Documentation with Sébastien Lorber - Software Engineering Daily
+#### 7.19. Simplifying Documentation with Sébastien Lorber - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2023/08/03/simplifying-documentation/>
 * We're using Docusaurus in Snowplow - I did now know its origins and trends it has formed. 
  
 
-#### What are Segment alternatives - and which ones are no alternative at all? - YouTube
+#### 7.20. What are Segment alternatives - and which ones are no alternative at all? - YouTube
 * <https://www.youtube.com/watch?v=q8HASYpcBbk>
 * Great vlog!
 > 
 
-#### 353. Paris 1968: The Students' Revolt on Podgraph.io
+#### 7.21. Paris 1968: The Students' Revolt on Podgraph.io
 * <https://www.podgraph.io/episodes/TheRestIsHistory/353Paris1968TheStudentsRevolt.html>
 * Shortly before listening to this, I had a friend mentioning Prague 1968, Paris 1968 and, hold onto your seats, Budapest 1956 in one sentence as eample you youth enthusiasm. I did not now anything about events in Paris an this was highly illuminating: Mainly how it shaped Foucault, how the memory of it became foundational and how De Gaulle put himself together and managed to restore the order. The finale was splendid. 
  
 
-#### SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio
+#### 7.22. SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio
 * <https://www.se-radio.net/2023/07/se-radio-574-chad-michel-on-software-as-an-engineering-discipline/>
 * Importance of not diving into the code immediatelly and the fact that if you do so, it is impossible to reverse the trajectory. About the difference between development and engineering and the robustness of engineering practices that people like Bjaern Stroustrup love talking about. 
 > hey begin by discussing the need for engineering rigor in the software industry. Chad points out that many developers lack awareness of good engineering practice and are often unaware of resources such as the Software Engineering Body of Knowledge (SWEBOK). Among the many topics explored in this episode are design methodologies such as volatility-based decomposition and the work of David Parnas,,,
 
-#### Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler
+#### 7.23. Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler
 * <https://conversationswithtyler.com/episodes/paul-graham/>
 * On ambition! 
 > COWEN: [laughs] You’re clearly good at boosting ambition, so you’re pulling on some lever, right? What is it you do?GRAHAM: Oh, okay. How do I do it? People are, for various reasons — for multiple reasons — they’re afraid to think really big. There are multiple reasons. One, it seems overreaching. Two, it seems like it would be an awful lot of work. [laughs]As an outside person, I’m like an instructor in some fitness class. I can tell someone who’s already working as hard as they can, “All right, push harder.”[laughter]It doesn’t cost me any effort. Surprisingly often, as in the fitness class, they are capable of pushing harder. A lot of my secret is just being the person who doesn’t have to actually do the work that I’m suggesting they do.COWEN: How much of what you do is reshuffling their networks? There are people with potential. They’re in semi-average networks —GRAHAM: Wait. That was such an interesting question. We should talk about that some more because that really is an interesting question. Imagine how amazing it would be if all the ambitious people can be more ambitious. That really is an interesting question. There’s got to be more to it than just the fact that I don’t have to do the work.COWEN: I think a lot of it is reshuffling networks. You need someone who can identify who should be in a better network. You boost the total size of all networking that goes on, and you make sure those people with potential —
 
-#### hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.
+#### 7.24. hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.
 * <https://github.com/hackclub/putting-the-you-in-cpu>
 * When a 17-year-old puts content like this together, it's like watching a brilliant athlete on the olympics. 
  
 
-#### KVIFF on Irezumi
+#### 7.25. KVIFF on Irezumi
 * <https://www.kviff.com/en/programme/film/63/40237-the-spider-tattoo>
 * The prehistory of female revenge genre
 > Long before the modern female revenge genre came into existence, there was The Spider Tattoo, Masumura’s mysterious, ferocious Edo-era fable. Ayako Wakao is Otsuya, the daughter of a wealthy merchant who gets kidnapped and forced into prostitution. A demented tattoo artist engraves a large, black, human-faced spider on her back that turns her into a murderess, hell-bent on annihilating the men who abused her. A star-studded collaboration adapted from renowned author Jun’ichirō Tanizaki's novel by writer-director Kaneto Shindô (The Naked Island, Onibaba) and photographed by the legendary Kazuo Miyagawa (Rashomon, Ugetsu) in entrancing, sumptuous Eastmancolor, The Spider Tattoo is Masumura’s most visually striking film.
 
-#### /bin/bash based SSL/TLS tester: testssl.sh
+#### 7.26. /bin/bash based SSL/TLS tester: testssl.sh
 * <https://testssl.sh/>
 * Always in for the example of a beautiful CLI tool
 > testssl.sh is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
 
-#### Publish Everything (Pretty Much) - by Kent Beck
+#### 7.27. Publish Everything (Pretty Much) - by Kent Beck
 * <https://tidyfirst.substack.com/p/publish-everything-pretty-much>
 * I have two rules. Never publish shit. Publish everything. It's a jing and jang of ideals. Think of quality. You never know what's going to work. 
 > Publish pretty much everything you write because you can’t predict what is going to be popular. There is a lower bar for quality, but barring dishonesty and literally unreadable prose, everything else should go out somewhere. Incompleteness is no excuse.
 
 
-#### Some tactics for writing in public
+#### 7.28. Some tactics for writing in public
 * <https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/>
 * Some great insights, mostly reminding of what I know, but making the specific color of shared knowledge base, which is my writing, is cool!
 > 01. talk about facts 02. stories are great 03. ask technical questions 04. fix mistakes 05. ask for examples/experiences, not opinions 06. start with a little context 07. avoid causing boring conversations 08. preempt common suggestions 09. set some boundaries 10. don’t argue 11. analyze negative comments 
 
-#### Cultivating a state of mind where new ideas are born
+#### 7.29. Cultivating a state of mind where new ideas are born
 * <https://www.henrikkarlsson.xyz/p/good-ideas>
 * Saving this just because of the great title! 
 
-#### The ultimate guide to Martech 
+#### 7.30. The ultimate guide to Martech 
 * <https://www.lennysnewsletter.com/p/the-ultimate-guide-to-martech-austin?utm_source=podcast-email%2Csubstack&publication_id=10845&post_id=135838380&utm_medium=email#details>
 *  Snowplow Mention in a very prestigious place: “The way to think of it is if you build your own data warehouse, your schema is unlimited. You can do whatever you want. You can design product schema, you can design user schema and event schema, but most third party B2C tools don’t allow you to control the schema. There’s only one CDP I know that does that, that’s Snowplow. The rest are there’s a user object and an event object.”
 
-#### Code is not literature
+#### 7.31. Code is not literature
 * <https://gigamonkeys.com/code-reading/>
 * Exactly, [yet you can read it like a book!](https://pavolkutaj.medium.com/how-to-read-code-like-a-book-4332475de2d6)
 
-### AUGUST 2023
+### 8. AUGUST 2023
 
-#### 226. The Lord of the Rings
+#### 8.1. The Lord of the Rings
 * <http://rssr.link/1JXv0>
 * The pathos of Tolkien is something I can't understand someone would be laughing at in 2023, so inspiring!
 > 
 
-#### Doja Cat – Paint The Town Red Lyrics 
+#### 8.2. Doja Cat Paint The Town Red Lyrics 
 * <https://genius.com/29068201?>
 * Finally something really really funny
 > 
