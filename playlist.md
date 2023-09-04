@@ -1335,3 +1335,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://jeanhsu.substack.com/p/ask-vs-guess-culture>
 * Interesting as I am noting this also in the culture of Central Europe.
 > Have you had someone ask you for a favor that seemed unreasonable — a referral you didn’t want to make, a long-term stay at your place, a sizable cash loan? But because they asked, you felt obliged to seriously consider it, to try to meet their request, even if it put you in a space of discomfort? Maybe you carry out the favor, but it sours your relationship, and when it all comes out, that person says, “Well why’d you agree to it? You could have just said no!”But you feel resentful that that person even put you in a position to have to say, “Sorry we’re a bit busy that week so don’t have space for you to stay with us,” or “I can’t loan you that money at the moment”?Congratulations, you’ve just encountered a clash between ask culture and guess culture.
+
+#### The Worst Programmer I Know - Dan North & Associates Ltd
+* <https://dannorth.net/2023/09/02/the-worst-programmer/>
+* How to fool around with metrics and why pair programming matters!
+> 
