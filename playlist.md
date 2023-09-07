@@ -1319,7 +1319,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://gigamonkeys.com/code-reading/>
 * Exactly, [yet you can read it like a book!](https://pavolkutaj.medium.com/how-to-read-code-like-a-book-4332475de2d6)
 
-### 8. AUGUST 2023
+### 8. AUGUST2023
 
 #### 8.1. The Lord of the Rings
 * <http://rssr.link/1JXv0>
@@ -1340,3 +1340,30 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://dannorth.net/2023/09/02/the-worst-programmer/>
 * How to fool around with metrics and why pair programming matters!
 > 
+
+#### How To Be Successful - Sam Altman
+* <https://blog.samaltman.com/how-to-be-successful>
+* The opening is about the scaling nature of ambition which is a bit anxiety-inducing. The rest headers - rather obvious?
+> 1. Compound yourself2. Have almost too much self-belief3. Learn to think independently4. Get good at “sales”5. Make it easy to take risks6. Focus7. Work hard8. Be bold9. Be willful10. Be hard to compete with11. Build a network12. You get rich by owning things13. Be internally driven
+
+#### SE Radio 577: Casey Muratori on Clean Code, Horrible Performance? : Software Engineering Radio
+* <https://www.se-radio.net/2023/08/se-radio-577-casey-muratori-on-clean-code-horrible-performance/>
+* If you want an audience, start a fight (with Uncle Bob, this time)
+> 
+
+#### 361. The Lost Library of Alexandria – The Rest Is History – Podcast – Podtail
+* <https://podtail.com/en/podcast/the-rest-is-history/361-the-lost-library-of-alexandria/>
+* Many unknowns opened to me. On Ptolemies, on the fact that it was purely Greek, on the story of Septuaginta and on the fact that we don't really can't pinpoint the event of the library demise. 
+> 
+
+#### These 38 Reading Rules Changed My Life - RyanHoliday.net
+* <https://ryanholiday.net/these-38-reading-rules-changed-my-life/>
+* it's good to have rules, but 38 or them ? :)
+> Do it all the time. Bring a book with you everywhere. I’ve read at the Grammy’s and in the moments before going under for a surgery. I’ve read on planes and beaches, in cars and in cars while I waited for a tow truck. You take the pockets of time you can get.
+
+### 9. SEPTEMBER023
+
+#### #GTMTips: Tips For Logging In Server-side Tagging 
+* <https://www.simoahava.com/analytics/tips-for-logging-server-side-tagging/#tip-3-find-console-logs-from-your-production-traffic>
+* I keep getting asked question - how to validate that data is coming into GTM SS container in production mode. This is the answer!
+> When in Preview mode, you can easily find the log output from the templates in your container by looking at the Console tab.But where can you view logs for hits that are not available in preview mode?
