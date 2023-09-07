@@ -1367,3 +1367,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.simoahava.com/analytics/tips-for-logging-server-side-tagging/#tip-3-find-console-logs-from-your-production-traffic>
 * I keep getting asked question - how to validate that data is coming into GTM SS container in production mode. This is the answer!
 > When in Preview mode, you can easily find the log output from the templates in your container by looking at the Console tab.But where can you view logs for hits that are not available in preview mode?
+
+#### How architecture diagrams enable better conversations - Unravelled Development
+* <https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/>
+* Learning mermaid and the visual language it provides - the three standard usecases are a nice addition to that journey. 
+> Onboarding new team membersPlanning upcoming workCommunicating changes to other teams
+
+#### Managing Infrastructure as Code (IaC) With Terraform
+* <https://spacelift.io/blog/terraform-infrastructure-as-code>
+* A bit of an overkill OR what a wonderful longread? Probably somewhere in the middle. Like the description of ClickOps. Been there, done that...
+> ClickOps is the term used to describe the manual management of IT infrastructure from the UI, by clicking into the portal to achieve a desired behavior (create/edit/delete resources). One may argue this process is enough for a small architecture that needs to be deployed, but there actually are some big issues with starting like this: you cannot easily scale and replicate your configuration. Imagine you are creating an EC2 Instance inside AWS. By using ClickOps, you are going to create it way faster than you would normally do it through Infrastructure as Code. But what happens if you need to create 10 EC2 instances? What about 100 EC2 instances? Let’s suppose it takes an engineer approximately two minutes to create an EC2 through the portal. For 100 instances, this will take a little over three hours, and maybe some can be ok with that. These 100 instances will also need to reside in a network, they will require security groups, maybe some EBS storage, and other things that will again take a lot of time to configure. Doing this manually is very error-prone, as our attention span cannot keep up with the large number of things that we have to do. By using Terraform, you can easily define all of these components as code, validate the code, plan to see what is going to happen, and in the end, deploy all resources in one go. Apart from that, you can easily scale and replicate your configuration without spending too much time.
