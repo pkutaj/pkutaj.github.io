@@ -1377,3 +1377,31 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://spacelift.io/blog/terraform-infrastructure-as-code>
 * A bit of an overkill OR what a wonderful longread? Probably somewhere in the middle. Like the description of ClickOps. Been there, done that...
 > ClickOps is the term used to describe the manual management of IT infrastructure from the UI, by clicking into the portal to achieve a desired behavior (create/edit/delete resources). One may argue this process is enough for a small architecture that needs to be deployed, but there actually are some big issues with starting like this: you cannot easily scale and replicate your configuration. Imagine you are creating an EC2 Instance inside AWS. By using ClickOps, you are going to create it way faster than you would normally do it through Infrastructure as Code. But what happens if you need to create 10 EC2 instances? What about 100 EC2 instances? Let’s suppose it takes an engineer approximately two minutes to create an EC2 through the portal. For 100 instances, this will take a little over three hours, and maybe some can be ok with that. These 100 instances will also need to reside in a network, they will require security groups, maybe some EBS storage, and other things that will again take a lot of time to configure. Doing this manually is very error-prone, as our attention span cannot keep up with the large number of things that we have to do. By using Terraform, you can easily define all of these components as code, validate the code, plan to see what is going to happen, and in the end, deploy all resources in one go. Apart from that, you can easily scale and replicate your configuration without spending too much time.
+
+#### Writing Wednesdays: Seth Godin’s 
+* <https://stevenpressfield.com/2020/11/seth-godins-the-practice/>
+
+#### Writing Wednesdays: Seth Godin’s The Practice
+* <https://stevenpressfield.com/2020/11/seth-godins-the-practice/>
+* yes
+> The practice is lifelong. The practice transcends aspiration for success. The practice endures when everything else fades. The practice is personal. It is ours alone. It is sacred.Observe any artist you admire—living or dead, male or female, wild-and-crazy or conventional and sane. Every one will have a practice, and if you ask them their secret, they’ll tell you, “I do it every day and nothing gets in the way of that.”
+
+#### Jerusalem Demsas on The Dispossessed, Gulliver's Travels, and Of Boys and Men (Ep. 189) 
+* <https://conversationswithtyler.com/episodes/jerusalem-demsas/>
+* Tylers views on men would be a bit provocative in places where men are active defenders I think
+> The notion that men do well in societies in relative terms when there’s a lot of war, and it’s better to get rid of war, but when you get rid of war, a lot of men won’t do that well because they’re not well-suited to that kind of society. That’s the alternative reading. That to me is more on the table than arguing about the small, “Do we start the men a year later?” which I’m not opposed to. I don’t know, but maybe we’re just better off shifting into a society where a lot more men do worse and suck it up and take the net gain of less war.
+
+#### Is Bach the greatest achiever of all time? - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html>
+* Technocrats disagree, but incentives matters here.
+> addition to the daily demands on him to teach Latin and theology and supervise teenage boys and so on, there was the thousand small practical challenges of life in the eighteenth century. No electric lighting. Crappy parchment and quills. The cold, the disease, the lack of plumbing, the restricted access to information, talented players, and the manual nature of every little thing.And, perhaps most of all, to continue such a volume of high-quality output when the world seemed not to care. Yes, he had a local reputation among those in the know, but there were never any packed concert halls or grand tours to validate his efforts. He seems to have been entirely internally driven by his genius and his commitment to the eternal and divine.
+
+#### Guy de Maupassant - Wikipedia
+* <https://en.wikipedia.org/wiki/Guy_de_Maupassant>
+* Another of the great artistic "achievers" - but, on his epitaph, it says "I have coveted everything and taken pleasure in nothing." which I don't thik would even cross Bach's mind. +1 for Bach.
+> In 1880 he published what is considered his first masterpiece, "Boule de Suif", which met with instant and tremendous success. Flaubert characterized it as "a masterpiece that will endure". This, Maupassant's first piece of short fiction set during the Franco-Prussian War of 1870–71, was followed by short stories such as "Deux Amis", "Mother Savage", and "Mademoiselle Fifi".
+
+#### Annie Ernaux - Wikipedia
+* <https://en.wikipedia.org/wiki/Annie_Ernaux>
+* I have tipped my fingers into "Years" that was translated also into Czech, something I believe only an old, experienced author could create, the mixture of autobiography and history referring to youself in the third person. 
+> 
