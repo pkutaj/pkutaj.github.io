@@ -1405,3 +1405,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://en.wikipedia.org/wiki/Annie_Ernaux>
 * I have tipped my fingers into "Years" that was translated also into Czech, something I believe only an old, experienced author could create, the mixture of autobiography and history referring to youself in the third person. 
 > 
+
+#### Tackling Data's Biggest Culture Problem - by Chad Sanderson
+* <https://dataproducts.substack.com/p/tackling-datas-biggest-culture-problem?utm_campaign=email-post&r=nnvdf&utm_source=substack&utm_medium=email>
+* 
+> 
