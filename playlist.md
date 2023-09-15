@@ -204,41 +204,59 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [6.9. Camels and Rubber Duckies – Joel on Software](#69-camels-and-rubber-duckies--joel-on-software)
     - [6.10. Buy DataGrip: Pricing and Licensing, Discounts - JetBrains Toolbox Subscription](#610-buy-datagrip-pricing-and-licensing-discounts---jetbrains-toolbox-subscription)
     - [6.11. What Ukraine knew about the Wagner mutiny - New Statesman](#611-what-ukraine-knew-about-the-wagner-mutiny---new-statesman)
-- [JULY2023](#july2023)
-    - [Viktor Ullmann - Wikipedia](#viktor-ullmann---wikipedia)
-    - [Gping – ping, but with a graph](#gping--ping-but-with-a-graph)
-    - [Hurl, run and test HTTP requests with plain text.](#hurl-run-and-test-http-requests-with-plain-text)
-    - [Irezumi (1966) Spider Tattoo](#irezumi-1966-spider-tattoo)
-    - [How to Do Great Work](#how-to-do-great-work)
-    - [Wiz](#wiz)
-    - [Software and its Discontents, January 2023, Part 1](#software-and-its-discontents-january-2023-part-1)
-    - [Being rockstars: when software was a talents/creatives industry](#being-rockstars-when-software-was-a-talentscreatives-industry)
-    - [Someday, You Won’t Want To Code For A Living – Letters To A New Developer](#someday-you-wont-want-to-code-for-a-living--letters-to-a-new-developer)
-    - [Jeremy Mikkola - What makes developers productive?](#jeremy-mikkola---what-makes-developers-productive)
-    - [Fresh Work 80/15/5 - by Kent Beck](#fresh-work-80155---by-kent-beck)
-    - [SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio](#se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise--software-engineering-radio)
-    - [SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio](#se-radio-566-ashley-peacock-on-diagramming-in-software-engineering--software-engineering-radio)
-    - [dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)](#dabeaz-coursepython-mastery-advanced-python-mastery-course-by-dabeaz)
-    - [Kubit vs. Amplitude: real warehouse-native Product Analytics](#kubit-vs-amplitude-real-warehouse-native-product-analytics)
-    - [On Digital Analytics Landscape today - Snowplow Webinar](#on-digital-analytics-landscape-today---snowplow-webinar)
-    - [Opinion: Men are lost. Here’s a map out of the wilderness.](#opinion-men-are-lost-heres-a-map-out-of-the-wilderness)
-    - [Emotions: A Code Book - by Kent Beck](#emotions-a-code-book---by-kent-beck)
-    - [Simplifying Documentation with Sébastien Lorber - Software Engineering Daily](#simplifying-documentation-with-sébastien-lorber---software-engineering-daily)
-    - [What are Segment alternatives - and which ones are no alternative at all? - YouTube](#what-are-segment-alternatives---and-which-ones-are-no-alternative-at-all---youtube)
-    - [353. Paris 1968: The Students' Revolt on Podgraph.io](#353-paris-1968-the-students-revolt-on-podgraphio)
-    - [SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio](#se-radio-574-chad-michel-on-software-as-an-engineering-discipline--software-engineering-radio)
-    - [Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler](#paul-graham-on-ambition-art-and-evaluating-talent---conversations-with-tyler)
-    - [hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.](#hackclubputting-the-you-in-cpu-a-technical-explainer-by-kognise-of-how-your-computer-runs-programs-from-start-to-finish)
-    - [KVIFF on Irezumi](#kviff-on-irezumi)
-    - [/bin/bash based SSL/TLS tester: testssl.sh](#binbash-based-ssltls-tester-testsslsh)
-    - [Publish Everything (Pretty Much) - by Kent Beck](#publish-everything-pretty-much---by-kent-beck)
-    - [Some tactics for writing in public](#some-tactics-for-writing-in-public)
-    - [Cultivating a state of mind where new ideas are born](#cultivating-a-state-of-mind-where-new-ideas-are-born)
-    - [The ultimate guide to Martech](#the-ultimate-guide-to-martech)
-    - [Code is not literature](#code-is-not-literature)
-- [AUGUST 2023](#august-2023)
-    - [226. The Lord of the Rings](#226-the-lord-of-the-rings)
-    - [Doja Cat](#doja-cat--paint-the-town-red-lyrics)
+- [7. JULY2023](#7-july2023)
+    - [7.1. Viktor Ullmann - Wikipedia](#71-viktor-ullmann---wikipedia)
+    - [7.2. Gping – ping, but with a graph](#72-gping--ping-but-with-a-graph)
+    - [7.3. Hurl, run and test HTTP requests with plain text.](#73-hurl-run-and-test-http-requests-with-plain-text)
+    - [7.4. Irezumi (1966) Spider Tattoo](#74-irezumi-1966-spider-tattoo)
+    - [7.5. How to Do Great Work](#75-how-to-do-great-work)
+    - [7.6. Wiz](#76-wiz)
+    - [7.7. Software and its Discontents, January 2023, Part 1](#77-software-and-its-discontents-january-2023-part-1)
+    - [7.8. Being rockstars: when software was a talents/creatives industry](#78-being-rockstars-when-software-was-a-talentscreatives-industry)
+    - [7.9. Someday, You Won’t Want To Code For A Living – Letters To A New Developer](#79-someday-you-wont-want-to-code-for-a-living--letters-to-a-new-developer)
+    - [7.10. Jeremy Mikkola - What makes developers productive?](#710-jeremy-mikkola---what-makes-developers-productive)
+    - [7.11. Fresh Work 80/15/5 - by Kent Beck](#711-fresh-work-80155---by-kent-beck)
+    - [7.12. SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise : Software Engineering Radio](#712-se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise--software-engineering-radio)
+    - [7.13. SE Radio 566: Ashley Peacock on Diagramming in Software Engineering : Software Engineering Radio](#713-se-radio-566-ashley-peacock-on-diagramming-in-software-engineering--software-engineering-radio)
+    - [7.14. dabeaz-course/python-mastery: Advanced Python Mastery (course by @dabeaz)](#714-dabeaz-coursepython-mastery-advanced-python-mastery-course-by-dabeaz)
+    - [7.15. Kubit vs. Amplitude: real warehouse-native Product Analytics](#715-kubit-vs-amplitude-real-warehouse-native-product-analytics)
+    - [7.16. On Digital Analytics Landscape today - Snowplow Webinar](#716-on-digital-analytics-landscape-today---snowplow-webinar)
+    - [7.17. Opinion: Men are lost. Here’s a map out of the wilderness.](#717-opinion-men-are-lost-heres-a-map-out-of-the-wilderness)
+    - [7.18. Emotions: A Code Book - by Kent Beck](#718-emotions-a-code-book---by-kent-beck)
+    - [7.19. Simplifying Documentation with Sébastien Lorber - Software Engineering Daily](#719-simplifying-documentation-with-sébastien-lorber---software-engineering-daily)
+    - [7.20. What are Segment alternatives - and which ones are no alternative at all? - YouTube](#720-what-are-segment-alternatives---and-which-ones-are-no-alternative-at-all---youtube)
+    - [7.21. Paris 1968: The Students' Revolt on Podgraph.io](#721-paris-1968-the-students-revolt-on-podgraphio)
+    - [7.22. SE Radio 574: Chad Michel on Software as an Engineering Discipline : Software Engineering Radio](#722-se-radio-574-chad-michel-on-software-as-an-engineering-discipline--software-engineering-radio)
+    - [7.23. Paul Graham on Ambition, Art, and Evaluating Talent - Conversations with Tyler](#723-paul-graham-on-ambition-art-and-evaluating-talent---conversations-with-tyler)
+    - [7.24. hackclub/putting-the-you-in-cpu: A technical explainer by @kognise of how your computer runs programs, from start to finish.](#724-hackclubputting-the-you-in-cpu-a-technical-explainer-by-kognise-of-how-your-computer-runs-programs-from-start-to-finish)
+    - [7.25. KVIFF on Irezumi](#725-kviff-on-irezumi)
+    - [7.26. /bin/bash based SSL/TLS tester: testssl.sh](#726-binbash-based-ssltls-tester-testsslsh)
+    - [7.27. Publish Everything (Pretty Much) - by Kent Beck](#727-publish-everything-pretty-much---by-kent-beck)
+    - [7.28. Some tactics for writing in public](#728-some-tactics-for-writing-in-public)
+    - [7.29. Cultivating a state of mind where new ideas are born](#729-cultivating-a-state-of-mind-where-new-ideas-are-born)
+    - [7.30. The ultimate guide to Martech](#730-the-ultimate-guide-to-martech)
+    - [7.31. Code is not literature](#731-code-is-not-literature)
+- [8. AUGUST2023](#8-august2023)
+    - [8.1. The Lord of the Rings](#81-the-lord-of-the-rings)
+    - [8.2. Doja Cat Paint The Town Red Lyrics](#82-doja cat-paint-the-town-red-lyrics)
+    - [8.3. Ask vs guess culture - by Jean Hsu - Tech and Tea](#83-ask-vs-guess-culture---by-jean-hsu---tech-and-tea)
+    - [8.4. The Worst Programmer I Know - Dan North & Associates Ltd](#84-the-worst-programmer-i-know---dan-north--associates-ltd)
+    - [8.5. How To Be Successful - Sam Altman](#85-how-to-be-successful---sam-altman)
+    - [8.6. SE Radio 577: Casey Muratori on Clean Code, Horrible Performance? : Software Engineering Radio](#86-se-radio-577-casey-muratori-on-clean-code-horrible-performance--software-engineering-radio)
+    - [8.7. The Lost Library of Alexandria – The Rest Is History – Podcast – Podtail](#87-the-lost-library-of-alexandria--the-rest-is-history--podcast--podtail)
+    - [8.8. These 38 Reading Rules Changed My Life - RyanHoliday.net](#88-these-38-reading-rules-changed-my-life---ryanholidaynet)
+- [9. SEPTEMBER023](#9-september023)
+    - [9.1. #GTMTips: Tips For Logging In Server-side Tagging](#91-gtmtips-tips-for-logging-in-server-side-tagging)
+    - [9.2. How architecture diagrams enable better conversations - Unravelled Development](#92-how-architecture-diagrams-enable-better-conversations---unravelled-development)
+    - [9.3. Managing Infrastructure as Code (IaC) With Terraform](#93-managing-infrastructure-as-code-iac-with-terraform)
+    - [9.4. Writing Wednesdays: Seth Godin’s](#94-writing-wednesdays-seth-godins)
+    - [9.5. Writing Wednesdays: Seth Godin’s The Practice](#95-writing-wednesdays-seth-godins-the-practice)
+    - [9.6. Jerusalem Demsas on The Dispossessed, Gulliver's Travels, and Of Boys and Men (Ep. 189)](#96-jerusalem-demsas-on-the-dispossessed-gullivers-travels-and-of-boys-and-men-ep-189)
+    - [9.7. Is Bach the greatest achiever of all time? - Marginal REVOLUTION](#97-is-bach-the-greatest-achiever-of-all-time---marginal-revolution)
+    - [9.8. Guy de Maupassant - Wikipedia](#98-guy-de-maupassant---wikipedia)
+    - [9.9. Annie Ernaux - Wikipedia](#99-annie-ernaux---wikipedia)
+    - [9.10. Tackling Data's Biggest Culture Problem - by Chad Sanderson](#910-tackling-datas-biggest-culture-problem---by-chad-sanderson)
+    - [9.11. (1) #SPWK 2023: Vendor Wars - Digital Analytics Vendors Panel Discussion (JAN 31) - YouTube](#911-1-spwk-2023-vendor-wars---digital-analytics-vendors-panel-discussion-jan-31---youtube)
 
 <!-- /TOC -->
 
@@ -1331,82 +1349,87 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Finally something really really funny
 > 
 
-#### Ask vs guess culture - by Jean Hsu - Tech and Tea
+#### 8.3. Ask vs guess culture - by Jean Hsu - Tech and Tea
 * <https://jeanhsu.substack.com/p/ask-vs-guess-culture>
 * Interesting as I am noting this also in the culture of Central Europe.
 > Have you had someone ask you for a favor that seemed unreasonable — a referral you didn’t want to make, a long-term stay at your place, a sizable cash loan? But because they asked, you felt obliged to seriously consider it, to try to meet their request, even if it put you in a space of discomfort? Maybe you carry out the favor, but it sours your relationship, and when it all comes out, that person says, “Well why’d you agree to it? You could have just said no!”But you feel resentful that that person even put you in a position to have to say, “Sorry we’re a bit busy that week so don’t have space for you to stay with us,” or “I can’t loan you that money at the moment”?Congratulations, you’ve just encountered a clash between ask culture and guess culture.
 
-#### The Worst Programmer I Know - Dan North & Associates Ltd
+#### 8.4. The Worst Programmer I Know - Dan North & Associates Ltd
 * <https://dannorth.net/2023/09/02/the-worst-programmer/>
 * How to fool around with metrics and why pair programming matters!
 > 
 
-#### How To Be Successful - Sam Altman
+#### 8.5. How To Be Successful - Sam Altman
 * <https://blog.samaltman.com/how-to-be-successful>
 * The opening is about the scaling nature of ambition which is a bit anxiety-inducing. The rest headers - rather obvious?
 > 1. Compound yourself2. Have almost too much self-belief3. Learn to think independently4. Get good at “sales”5. Make it easy to take risks6. Focus7. Work hard8. Be bold9. Be willful10. Be hard to compete with11. Build a network12. You get rich by owning things13. Be internally driven
 
-#### SE Radio 577: Casey Muratori on Clean Code, Horrible Performance? : Software Engineering Radio
+#### 8.6. SE Radio 577: Casey Muratori on Clean Code, Horrible Performance? : Software Engineering Radio
 * <https://www.se-radio.net/2023/08/se-radio-577-casey-muratori-on-clean-code-horrible-performance/>
 * If you want an audience, start a fight (with Uncle Bob, this time)
 > 
 
-#### 361. The Lost Library of Alexandria – The Rest Is History – Podcast – Podtail
+#### 8.7. The Lost Library of Alexandria – The Rest Is History – Podcast – Podtail
 * <https://podtail.com/en/podcast/the-rest-is-history/361-the-lost-library-of-alexandria/>
 * Many unknowns opened to me. On Ptolemies, on the fact that it was purely Greek, on the story of Septuaginta and on the fact that we don't really can't pinpoint the event of the library demise. 
 > 
 
-#### These 38 Reading Rules Changed My Life - RyanHoliday.net
+#### 8.8. These 38 Reading Rules Changed My Life - RyanHoliday.net
 * <https://ryanholiday.net/these-38-reading-rules-changed-my-life/>
 * it's good to have rules, but 38 or them ? :)
 > Do it all the time. Bring a book with you everywhere. I’ve read at the Grammy’s and in the moments before going under for a surgery. I’ve read on planes and beaches, in cars and in cars while I waited for a tow truck. You take the pockets of time you can get.
 
 ### 9. SEPTEMBER023
 
-#### #GTMTips: Tips For Logging In Server-side Tagging 
+#### 9.1. #GTMTips: Tips For Logging In Server-side Tagging 
 * <https://www.simoahava.com/analytics/tips-for-logging-server-side-tagging/#tip-3-find-console-logs-from-your-production-traffic>
 * I keep getting asked question - how to validate that data is coming into GTM SS container in production mode. This is the answer!
 > When in Preview mode, you can easily find the log output from the templates in your container by looking at the Console tab.But where can you view logs for hits that are not available in preview mode?
 
-#### How architecture diagrams enable better conversations - Unravelled Development
+#### 9.2. How architecture diagrams enable better conversations - Unravelled Development
 * <https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/>
 * Learning mermaid and the visual language it provides - the three standard usecases are a nice addition to that journey. 
 > Onboarding new team membersPlanning upcoming workCommunicating changes to other teams
 
-#### Managing Infrastructure as Code (IaC) With Terraform
+#### 9.3. Managing Infrastructure as Code (IaC) With Terraform
 * <https://spacelift.io/blog/terraform-infrastructure-as-code>
 * A bit of an overkill OR what a wonderful longread? Probably somewhere in the middle. Like the description of ClickOps. Been there, done that...
 > ClickOps is the term used to describe the manual management of IT infrastructure from the UI, by clicking into the portal to achieve a desired behavior (create/edit/delete resources). One may argue this process is enough for a small architecture that needs to be deployed, but there actually are some big issues with starting like this: you cannot easily scale and replicate your configuration. Imagine you are creating an EC2 Instance inside AWS. By using ClickOps, you are going to create it way faster than you would normally do it through Infrastructure as Code. But what happens if you need to create 10 EC2 instances? What about 100 EC2 instances? Let’s suppose it takes an engineer approximately two minutes to create an EC2 through the portal. For 100 instances, this will take a little over three hours, and maybe some can be ok with that. These 100 instances will also need to reside in a network, they will require security groups, maybe some EBS storage, and other things that will again take a lot of time to configure. Doing this manually is very error-prone, as our attention span cannot keep up with the large number of things that we have to do. By using Terraform, you can easily define all of these components as code, validate the code, plan to see what is going to happen, and in the end, deploy all resources in one go. Apart from that, you can easily scale and replicate your configuration without spending too much time.
 
-#### Writing Wednesdays: Seth Godin’s 
+#### 9.4. Writing Wednesdays: Seth Godin’s 
 * <https://stevenpressfield.com/2020/11/seth-godins-the-practice/>
 
-#### Writing Wednesdays: Seth Godin’s The Practice
+#### 9.5. Writing Wednesdays: Seth Godin’s The Practice
 * <https://stevenpressfield.com/2020/11/seth-godins-the-practice/>
 * yes
 > The practice is lifelong. The practice transcends aspiration for success. The practice endures when everything else fades. The practice is personal. It is ours alone. It is sacred.Observe any artist you admire—living or dead, male or female, wild-and-crazy or conventional and sane. Every one will have a practice, and if you ask them their secret, they’ll tell you, “I do it every day and nothing gets in the way of that.”
 
-#### Jerusalem Demsas on The Dispossessed, Gulliver's Travels, and Of Boys and Men (Ep. 189) 
+#### 9.6. Jerusalem Demsas on The Dispossessed, Gulliver's Travels, and Of Boys and Men (Ep. 189) 
 * <https://conversationswithtyler.com/episodes/jerusalem-demsas/>
 * Tylers views on men would be a bit provocative in places where men are active defenders I think
 > The notion that men do well in societies in relative terms when there’s a lot of war, and it’s better to get rid of war, but when you get rid of war, a lot of men won’t do that well because they’re not well-suited to that kind of society. That’s the alternative reading. That to me is more on the table than arguing about the small, “Do we start the men a year later?” which I’m not opposed to. I don’t know, but maybe we’re just better off shifting into a society where a lot more men do worse and suck it up and take the net gain of less war.
 
-#### Is Bach the greatest achiever of all time? - Marginal REVOLUTION
+#### 9.7. Is Bach the greatest achiever of all time? - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html>
 * Technocrats disagree, but incentives matters here.
 > addition to the daily demands on him to teach Latin and theology and supervise teenage boys and so on, there was the thousand small practical challenges of life in the eighteenth century. No electric lighting. Crappy parchment and quills. The cold, the disease, the lack of plumbing, the restricted access to information, talented players, and the manual nature of every little thing.And, perhaps most of all, to continue such a volume of high-quality output when the world seemed not to care. Yes, he had a local reputation among those in the know, but there were never any packed concert halls or grand tours to validate his efforts. He seems to have been entirely internally driven by his genius and his commitment to the eternal and divine.
 
-#### Guy de Maupassant - Wikipedia
+#### 9.8. Guy de Maupassant - Wikipedia
 * <https://en.wikipedia.org/wiki/Guy_de_Maupassant>
 * Another of the great artistic "achievers" - but, on his epitaph, it says "I have coveted everything and taken pleasure in nothing." which I don't thik would even cross Bach's mind. +1 for Bach.
 > In 1880 he published what is considered his first masterpiece, "Boule de Suif", which met with instant and tremendous success. Flaubert characterized it as "a masterpiece that will endure". This, Maupassant's first piece of short fiction set during the Franco-Prussian War of 1870–71, was followed by short stories such as "Deux Amis", "Mother Savage", and "Mademoiselle Fifi".
 
-#### Annie Ernaux - Wikipedia
+#### 9.9. Annie Ernaux - Wikipedia
 * <https://en.wikipedia.org/wiki/Annie_Ernaux>
 * I have tipped my fingers into "Years" that was translated also into Czech, something I believe only an old, experienced author could create, the mixture of autobiography and history referring to youself in the third person. 
 > 
 
-#### Tackling Data's Biggest Culture Problem - by Chad Sanderson
+#### 9.10. Tackling Data's Biggest Culture Problem - by Chad Sanderson
 * <https://dataproducts.substack.com/p/tackling-datas-biggest-culture-problem?utm_campaign=email-post&r=nnvdf&utm_source=substack&utm_medium=email>
 * 
+> 
+
+#### 9.11. (1) #SPWK 2023: Vendor Wars - Digital Analytics Vendors Panel Discussion (JAN 31) - YouTube
+* <https://www.youtube.com/watch?v=UDDpC0LkbFw>
+* Toastmasters-like Debate about various vendors for analytics
 > 
