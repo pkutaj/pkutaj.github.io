@@ -1433,3 +1433,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.youtube.com/watch?v=UDDpC0LkbFw>
 * Toastmasters-like Debate about various vendors for analytics
 > 
+
+#### post
+* <https://softwareengineeringdaily.com/2023/09/14/blameless-with-ken-gavranovic/>
+* 
+> 
