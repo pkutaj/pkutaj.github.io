@@ -1438,3 +1438,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://softwareengineeringdaily.com/2023/09/14/blameless-with-ken-gavranovic/>
 * 
 > 
+
+#### You are a morale-driven machine - Alexey Guzey
+* <https://guzey.com/morale/>
+* One of the greatest this year, there is something about the raw format and the wisdom of the approach that makes me coming back to this. 
+> To have high morale is to believe that you are able to do the things you want to do; to have low morale is to believe the opposite.Either state is stable, and your brain will act to reinforce it, so that reality matches its expectation.Everything - everything - either increases or decreases morale.Morale is your motive force, and you live or die by its maintenance.
