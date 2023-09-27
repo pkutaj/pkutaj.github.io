@@ -1448,3 +1448,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://podcasts.apple.com/us/podcast/the-jewish-revolt/id1537788786?i=1000558209443>
 * On the role of Jewish Revolt in the succession of Nero, the fact that Vespasian the emperor was in charge, the fact that the siege of Jerusalem was similar to the siege of Carthage and many hitherto unknown fascinating facts. 
 > 
+
+#### The Rest Is History: Nero on Apple Podcasts
+* <https://podcasts.apple.com/gb/podcast/nero/id1537788786?i=1000522860140>
+* Nero, great fire of Rome, space for his city planning, later used by Flavians to build Colloseum. 
+> 
+
+#### Karl Ove Knausgaard on 'The Wolves of Eternity,' Fiction, Family, and Fame
+* <https://www.esquire.com/entertainment/books/a45157203/karl-ove-knausgaard-the-wolves-of-eternity-interview/>
+* On influence, a bit. Knausgaard writing on writing is essential reading.
+> Knausgaard has been compared to Marcel Proust for the way he moves capaciously through time; the careful, acute attention he pays to the life that lives inside of the mundane. He has a masterful sense of the elasticity and utility of movement within a fictional space. When I asked him about this, he said his three key texts (his answer to almost every question involves another text, a work of art, a film) are Proust, James Joyce’s Ulysses (“though I’m not sure if I like it, really,” he says), and Virginia Woolf’s To The Lighthouse. “That’s why I called the My Struggle books fiction,” he said, “because they deal with time the way only fiction can.”
+
+#### You Must Be Able To Do This
+* <https://dailystoic.com/you-must-be-able-to-do-this/>
+* Should or Should you not raise voice re: Kids ? Damn.
+> hey slow time down. “The best military decision-makers,” he writes, “have an ability to swiftly synthesize sensor data from radars, sonars, and communications nets; mentally check it against intelligence received…correlate the threat; discern the intentions of the enemy; and act decisively…”Ok, but how do they do it? How did Marcus Aurelius manage to do it, despite the swirling and very understandable emotions brought up by betrayal and danger and uncertainty? Stavridis recommends what is essentially basic Stoicism. “You do that,” he writes, “by being reasonably rested; clearing your mind of all the excess white noise (including your personal thoughts); breathing deeply and steadily; lowering your voice, never raising it; and constantly moving your field of view across the sensors and members of the firing team arrayed in front of you.”
