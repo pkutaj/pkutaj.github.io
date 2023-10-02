@@ -1463,3 +1463,13 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://dailystoic.com/you-must-be-able-to-do-this/>
 * Should or Should you not raise voice re: Kids ? Damn.
 > hey slow time down. “The best military decision-makers,” he writes, “have an ability to swiftly synthesize sensor data from radars, sonars, and communications nets; mentally check it against intelligence received…correlate the threat; discern the intentions of the enemy; and act decisively…”Ok, but how do they do it? How did Marcus Aurelius manage to do it, despite the swirling and very understandable emotions brought up by betrayal and danger and uncertainty? Stavridis recommends what is essentially basic Stoicism. “You do that,” he writes, “by being reasonably rested; clearing your mind of all the excess white noise (including your personal thoughts); breathing deeply and steadily; lowering your voice, never raising it; and constantly moving your field of view across the sensors and members of the firing team arrayed in front of you.”
+
+#### DevOps is terrible 2023
+* <https://abidmoon.hashnode.dev/2023-devops-is-terrible>
+* Describing my job - kind of! Wondering why would not the SRE book not be of help here. 
+> What is DevOps?The shift1. DevOps/Cloud teams are overbooked2. Silos are (never really) broken, infrastructure is!3. Create, configure, repeat4. Software Engineering boundariesThe solutionPlatform EngineeringExplaining Platform EngineeringKey features of an IDP
+
+#### Rethinking infrastructure as code from scratch 
+* <https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/>
+* Rethinking declarative languages around IAC with the inspiration - surprise surprise - from HTML/CSS!
+> What’s wrong with the infrastructure as code that we have?Cloud will not get simplerInfrastructure as code will not get simplerLearning from another declarative languageRethinking infrastructure as code declarationsWhat if we had CSS for infrastructure as code?Summary of benefits of this approachTry it out for yourselfKnown limitations and the futureConclusionPSWant to discuss
