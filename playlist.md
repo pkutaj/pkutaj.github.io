@@ -1379,7 +1379,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * it's good to have rules, but 38 or them ? :)
 > Do it all the time. Bring a book with you everywhere. I’ve read at the Grammy’s and in the moments before going under for a surgery. I’ve read on planes and beaches, in cars and in cars while I waited for a tow truck. You take the pockets of time you can get.
 
-### 9. SEPTEMBER023
+### 9. SEPTEMBER2023
 
 #### 9.1. #GTMTips: Tips For Logging In Server-side Tagging 
 * <https://www.simoahava.com/analytics/tips-for-logging-server-side-tagging/#tip-3-find-console-logs-from-your-production-traffic>
@@ -1434,42 +1434,41 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Toastmasters-like Debate about various vendors for analytics
 > 
 
-#### post
-* <https://softwareengineeringdaily.com/2023/09/14/blameless-with-ken-gavranovic/>
-* 
-> 
-
-#### You are a morale-driven machine - Alexey Guzey
+#### 9.12. You are a morale-driven machine - Alexey Guzey
 * <https://guzey.com/morale/>
 * One of the greatest this year, there is something about the raw format and the wisdom of the approach that makes me coming back to this. 
 > To have high morale is to believe that you are able to do the things you want to do; to have low morale is to believe the opposite.Either state is stable, and your brain will act to reinforce it, so that reality matches its expectation.Everything - everything - either increases or decreases morale.Morale is your motive force, and you live or die by its maintenance.
 
-#### The Rest Is History: The Jewish Revolt on Apple Podcasts
+#### 9.13. The Rest Is History: The Jewish Revolt on Apple Podcasts
 * <https://podcasts.apple.com/us/podcast/the-jewish-revolt/id1537788786?i=1000558209443>
 * On the role of Jewish Revolt in the succession of Nero, the fact that Vespasian the emperor was in charge, the fact that the siege of Jerusalem was similar to the siege of Carthage and many hitherto unknown fascinating facts. 
 > 
 
-#### The Rest Is History: Nero on Apple Podcasts
+#### 9.14. The Rest Is History: Nero on Apple Podcasts
 * <https://podcasts.apple.com/gb/podcast/nero/id1537788786?i=1000522860140>
 * Nero, great fire of Rome, space for his city planning, later used by Flavians to build Colloseum. 
 > 
 
-#### Karl Ove Knausgaard on 'The Wolves of Eternity,' Fiction, Family, and Fame
+#### 9.15. Karl Ove Knausgaard on 'The Wolves of Eternity,' Fiction, Family, and Fame
 * <https://www.esquire.com/entertainment/books/a45157203/karl-ove-knausgaard-the-wolves-of-eternity-interview/>
 * On influence, a bit. Knausgaard writing on writing is essential reading.
 > Knausgaard has been compared to Marcel Proust for the way he moves capaciously through time; the careful, acute attention he pays to the life that lives inside of the mundane. He has a masterful sense of the elasticity and utility of movement within a fictional space. When I asked him about this, he said his three key texts (his answer to almost every question involves another text, a work of art, a film) are Proust, James Joyce’s Ulysses (“though I’m not sure if I like it, really,” he says), and Virginia Woolf’s To The Lighthouse. “That’s why I called the My Struggle books fiction,” he said, “because they deal with time the way only fiction can.”
 
-#### You Must Be Able To Do This
+#### 9.16. You Must Be Able To Do This
 * <https://dailystoic.com/you-must-be-able-to-do-this/>
 * Should or Should you not raise voice re: Kids ? Damn.
 > hey slow time down. “The best military decision-makers,” he writes, “have an ability to swiftly synthesize sensor data from radars, sonars, and communications nets; mentally check it against intelligence received…correlate the threat; discern the intentions of the enemy; and act decisively…”Ok, but how do they do it? How did Marcus Aurelius manage to do it, despite the swirling and very understandable emotions brought up by betrayal and danger and uncertainty? Stavridis recommends what is essentially basic Stoicism. “You do that,” he writes, “by being reasonably rested; clearing your mind of all the excess white noise (including your personal thoughts); breathing deeply and steadily; lowering your voice, never raising it; and constantly moving your field of view across the sensors and members of the firing team arrayed in front of you.”
 
-#### DevOps is terrible 2023
+#### 9.17. DevOps is terrible 2023
 * <https://abidmoon.hashnode.dev/2023-devops-is-terrible>
 * Describing my job - kind of! Wondering why would not the SRE book not be of help here. 
 > What is DevOps?The shift1. DevOps/Cloud teams are overbooked2. Silos are (never really) broken, infrastructure is!3. Create, configure, repeat4. Software Engineering boundariesThe solutionPlatform EngineeringExplaining Platform EngineeringKey features of an IDP
 
-#### Rethinking infrastructure as code from scratch 
+#### 9.18. Rethinking infrastructure as code from scratch 
 * <https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/>
 * Rethinking declarative languages around IAC with the inspiration - surprise surprise - from HTML/CSS!
 > What’s wrong with the infrastructure as code that we have?Cloud will not get simplerInfrastructure as code will not get simplerLearning from another declarative languageRethinking infrastructure as code declarationsWhat if we had CSS for infrastructure as code?Summary of benefits of this approachTry it out for yourselfKnown limitations and the futureConclusionPSWant to discuss
+
+#### 9.19. viralinstruction.com/posts/hardware/
+* <https://viralinstruction.com/posts/hardware/>
+* low level beauty
