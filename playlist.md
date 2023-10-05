@@ -1472,3 +1472,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### 9.19. viralinstruction.com/posts/hardware/
 * <https://viralinstruction.com/posts/hardware/>
 * low level beauty
+
+#### Agatha Christie's Poirot S12E03 - Murder on the Orient Express [FULL EPISODE] - YouTube
+* <https://www.youtube.com/watch?v=HDtZNg2gIaQ>
+* Thoroughly enjoyed this performance, properly sinister, with clear moral compass, one place where I can understand some nostalgia. There is good and  evil in Christie, which may be childish and outdated but somehow, personally, also sound - surely for children. Where is the threshold when this stops being true then?
+> 
