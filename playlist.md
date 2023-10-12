@@ -1477,3 +1477,28 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.youtube.com/watch?v=HDtZNg2gIaQ>
 * Thoroughly enjoyed this performance, properly sinister, with clear moral compass, one place where I can understand some nostalgia. There is good and  evil in Christie, which may be childish and outdated but somehow, personally, also sound - surely for children. Where is the threshold when this stops being true then?
 > 
+
+#### 375. Hitler and the Mitford Sisters Transcript - The Rest Is History
+* <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/375-hitler-and-the-mitford-sisters-01hbyepsc0dnnznf4pd9s9vgdw>
+* On Unity Mitford, the dark side of upper classes whose flirtations with Hitler lead her to her death. Really sinister one. 
+> she stays committed to Hitler even as it becomes increasingly evident that Britain is going to be going to war with Germany.So 1939 she goes to be the festival there with Diana.And Hitler basically says to them, look, you should get out of Germany because we are going to be going to war and Diana Julie goes back home, but Unity stays there and maybe one of the reasons why Unity stays there and a very physical evidence, both of Hitler's favor and of her desire to become German is that Hitler has given her a flat.So he had given her a choice of four flats in Munich. She'd gone round. She'd chosen the one that she wanted, went around the house and these curtains won't do at all. We must get rid of this awful sofa. Meanwhile, the two people who are being dispossessed, both of whom are Jewish are sitting in the hallway sobbing and she pays them no attention at all.
+
+#### SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio
+* <https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/>
+* Thinking about utilization of AI in the education of programmers. 
+> 
+
+#### A Clutter-Free Life: Going Paperless with Paperless-ngx
+* <https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/>
+* Fascinating due to the AI assisted vizuals and editing powers. I have a similar system simply by using Google Drive/Docs with file system. Surely not efficient as taggind, but with Johnny.Decimal the effects are I believe similar with zero barriers to entry (i.e. self-hosting). 
+> 
+
+#### SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio
+* <https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/>
+* Thanks to this I have started using Chat directly in VS Code and what a bombastic change - even for writing blogs / markdown editing. 
+> 
+
+#### Advice for authors 
+* <https://seths.blog/2006/08/advice_for_auth/>
+* Succint and provocative.
+> The best time to start promoting your book is three years before it comes out. Three years to build a reputation, build a permission asset, build a blog, build a following, build credibility and build the connections you’ll need later.
