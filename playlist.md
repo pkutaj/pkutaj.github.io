@@ -1502,3 +1502,46 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://seths.blog/2006/08/advice_for_auth/>
 * Succint and provocative.
 > The best time to start promoting your book is three years before it comes out. Three years to build a reputation, build a permission asset, build a blog, build a following, build credibility and build the connections you’ll need later.
+
+#### 
+* <undefined>
+
+#### Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield
+* <https://jesseduffield.com/Can%27t-Be-Fcked/>
+* Could a surgeon or a lawier write this?
+> So, if you find that you CBF, don’t be dismayed; it happens to everyone (except those very special people we all aspire to). If in the moment you don’t have the strength to overcome it, at least be honest. And if you’ve been going 100% for too long, maybe it’s time to take that holiday.
+
+#### Kaaba - Wikipedia
+* <https://en.wikipedia.org/wiki/Kaaba>
+* 
+> 
+
+#### Pangaea - Changing Channels · Album Review ⟋ RA
+* <https://ra.co/reviews/35736>
+* Dj of the week, with BBC Essential Mix celebrating the release of a new album. 
+> Even with its many left turns, Changing Channels sticks to a formula: each track presents an idea and then adds an often surprising counterweight. It happens at the midpoint of the title track, where it diverts to a sedate deep house-flavoured daydream that takes a prolonged effort to snap out of.
+
+#### 265: Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History
+* <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/265-saudi-arabia-the-mystery-of-the-kaaba-01h10fjcc8aey29kg8pqd2v05x>
+* Interesting how initially Jerusalem, it seems, to be more important than the Mekka and only repeated destruction of Kaaba and the mysteries surrounding it made it the centerpoint of the Muslim existence.
+> 
+
+#### Examining the silicon dies of the Intel 386 processor
+* <https://www.righto.com/2023/10/intel-386-die-versions.html?m=1>
+* 386 DX 40 with 80MB of HDD was my first computer. Intel won over IBM, with Compaq - which I did not know was so big back then already.
+> The 80386 was a major advancement over the 286: it implemented a 32-bit architecture, added more instructions, and supported 4-gigabyte segments.
+
+#### What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox
+* <https://www.vox.com/politics/2023/10/10/23911661/hamas-israel-war-gaza-palestine-explainer>
+* As stressed in https://rssr.link/1Uner Hamas is a unique mixture of nationalism and islam
+> 
+
+#### Observability with Eduardo Silva - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2023/10/12/observability-with-eduardo-silva/>
+* Enjoyed the metaphor of data warehouse as ocean to and data pipelines are rivers
+> 
+
+#### Bernard Lewis - Wikipedia
+* <https://en.wikipedia.org/wiki/Bernard_Lewis>
+* Tried to read his summary or Middle Eastern History, yet not found it as interesting as reading the wikipedia article on his debate with Edward Said
+> Rejecting the view that Western scholarship was biased against the Middle East, Lewis responded that Orientalism developed as a facet of European humanism, independently of the past European imperial expansion.[14] He noted the French and English pursued the study of Islam in the 16th and 17th centuries, yet not in an organized way, but long before they had any control or hope of control in the Middle East; and that much of Orientalist study did nothing to advance the cause of imperialism. In his 1993 book Islam and the West, Lewis wrote "What imperial purpose was served by deciphering the ancient Egyptian language, for example, and then restoring to the Egyptians knowledge of and pride in their forgotten, ancient past?"
