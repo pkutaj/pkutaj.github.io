@@ -1560,3 +1560,33 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://sourceoftruth.substack.com/p/your-primary-tag-needs-to-be-switzerland>
 * My boss writes about the dilemmas typical for event trackers, a proud justification of Snowplow Analytics as an autonomous category in the behaviour data collection space convincing everyone that you should not mix these with multitude of trackers joined only later by a tag manager such as GTM. 
 > Event tracking is a riddle of a technology. It defies attempts to turn it into a feature (more on this later), but unlike ETL, it often isn't treated as its own category. It's an "I work in a café" technology - "oh that's cool, what else do you do?". (Nobody embodies this parental disappointment better than Segment: they went from an open-source tag manager to a ‘Customer Data Infrastructure’ to a fully-paid-up CDP.)
+
+#### Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts
+* <https://podcasts.apple.com/gb/podcast/97-what-lies-behind-the-conflict-in-gaza/id1617276298?i=1000631676058>
+* 
+> 
+
+#### On a Lack of Ambition - by Maxi Gorynski
+* <https://heirtothethought.substack.com/p/on-a-lack-of-ambition>
+* I love how Tyler Cowen's podcast questions inspire others to think and write and develop the answers. The take on Foucault and, mainly, Augustine, I find, honestly a bit hysterical. Not quite sure he has ever read the classics themselves. 
+> We have since at least the middle of the 20th century, prompted by the ideological desolation following World War II, been sliding into historical despair. This has been consolidated in the early 21st century by the increasing popularity of unfalsifiable identitarian doctrines stemming from the work of Foucault and his acolytes. Much of Foucault’s most popular work revolves around suggestions that all social connections are zero-sum power relations, and that ‘truth’ is a purely subjective concept. This has led to a sentimentalisation of history among the most highly-educated and, subsequently, a revulsion towards it. Even where a belief that history is where bad people live does not take hold in the individual, it forms a kind of miasma swirling around the resistant individual which that individual must then expend great energy to fight against — and it is a draining and emotionally taxing fight, for they who know that history is more than something to get upset about also know that all our hopes for the future lay in its archives.
+
+#### 379. Baghdad: The Arabian Nights Transcript - The Rest Is History
+* <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/379-baghdad-the-arabian-nights-01hd2hehgj6hj53k026hcfy4vy>
+* 
+> And it seems that the moment Baghdad is founded, scholars from across the near east are kind of zooming in on Baghdad now, why are they going there essentially because they know that they're going to get sponsorship, which in turn begs the question. Well, why are they sure of that part of it?I think is that we talked about how Al Mansour has this ambition to make Baghdad a universal city in terms of time as well as space that he wants to fold in the learning and achievements of previously non-Islamic civilizations into Baghdad so that they can serve the greater glory of Islam. And that means that he is interested in all ancient civilizations. So not just the Greeks, but the Persian as well.And again, I think if there's been a theme throughout these episodes, it's the importance of Persian culture on the making of Baghdad. So a lot of the first Greek texts to be translated are actually written in Persian and House Of Wisdom, Beit Al Hikma was actually the Persian Sasanian word for a library. So that's, that's what itis.So the House Of Wisdom is probably founded by Al Mansur in Baghdad in, you know, very, very self conscious emulation of the Persian example. That's what he's trying to do. And it exists specifically to house books that have been translated, not from Greek but fromPersian, right? So these are translations of Persian translations of Greek.So the House Of Wisdom is not a center for the translation of writings from Greek. It's not a research center, it's not a kind of conference center where scholars meet up. It is basically a library as the Library OfAlexandria was. But with the establishment of that, you have other Caliphs who come in and they all have their own motives.So Al Madi, the pigeon racer, he's a very devout Muslim. He's very concerned to purify and clarify Muslims understanding of their faith. So he has a lot of debates with the Christian patriarchTimothy who has invited to set up shop in Baghdad. And in the course of these debates, it's evident, I think that Al Madi realizes how much Christian theology has benefited from its immersion in Greek philosophy.So in Plato, but also particularly Aristotle, he's the first Tiff to commission translations of Aristotle directly from Greek. I think he is doing that kind of rather in the spirit that the Chinesetoday might, you know, steal intellectual property from Stanford University or something like that.
+
+#### Barry Can't Swim · Biography
+* <https://ra.co/dj/barrycantswim/biography>
+* A taste of new essential mix for streching during pomodoro breaks
+> 
+
+#### Barry Can't Swim
+* <https://www.bbc.co.uk/sounds/play/m001r708>
+* A taste of new essential mix for streching during pomodoro breaks
+> 
+
+#### The Secret History of Microsoft Windows: Dave Cutler - YouTube
+* <https://www.youtube.com/watch?v=xi1Lq79mLeE>
+* 
+> 
