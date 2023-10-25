@@ -1590,3 +1590,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.youtube.com/watch?v=xi1Lq79mLeE>
 * 
 > 
+
+#### Base64 Encoding, Explained
+* <https://www.akshaykhot.com/base64-encoding-explained/>
+* I am using b64 on a daily basis so it's great to see the algorithm explained with such detail. Many thanks
+> 
