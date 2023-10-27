@@ -1595,3 +1595,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.akshaykhot.com/base64-encoding-explained/>
 * I am using b64 on a daily basis so it's great to see the algorithm explained with such detail. Many thanks
 > 
+
+#### SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio
+* <https://www.se-radio.net/2023/10/se-radio-586-nikhil-shetty-on-virtual-private-cloud/>
+* Great, somewhat introductory, but lots of people juggle with the concepts like VPC, VPN or CIDR but don't know much about it. Also, good use of acronym analysis. 
+> 
