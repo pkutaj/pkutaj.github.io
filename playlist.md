@@ -1600,3 +1600,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.se-radio.net/2023/10/se-radio-586-nikhil-shetty-on-virtual-private-cloud/>
 * Great, somewhat introductory, but lots of people juggle with the concepts like VPC, VPN or CIDR but don't know much about it. Also, good use of acronym analysis. 
 > 
+
+#### What happens when you update your DNS?
+* <https://jvns.ca/blog/how-updating-dns-works/>
+* a great and famous treatment of DNS TTL (time to live) attribute
+> 60 is a pretty short TTL, and in theory if everybody’s DNS implementation followed the DNS standard it means that if Github decided to change the IP address for github.com, everyone should get the new IP address within 60 seconds.
