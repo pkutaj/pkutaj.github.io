@@ -245,7 +245,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [8.6. SE Radio 577: Casey Muratori on Clean Code, Horrible Performance? : Software Engineering Radio](#86-se-radio-577-casey-muratori-on-clean-code-horrible-performance--software-engineering-radio)
     - [8.7. The Lost Library of Alexandria – The Rest Is History – Podcast – Podtail](#87-the-lost-library-of-alexandria--the-rest-is-history--podcast--podtail)
     - [8.8. These 38 Reading Rules Changed My Life - RyanHoliday.net](#88-these-38-reading-rules-changed-my-life---ryanholidaynet)
-- [9. SEPTEMBER023](#9-september023)
+- [9. SEPTEMBER2023](#9-september2023)
     - [9.1. #GTMTips: Tips For Logging In Server-side Tagging](#91-gtmtips-tips-for-logging-in-server-side-tagging)
     - [9.2. How architecture diagrams enable better conversations - Unravelled Development](#92-how-architecture-diagrams-enable-better-conversations---unravelled-development)
     - [9.3. Managing Infrastructure as Code (IaC) With Terraform](#93-managing-infrastructure-as-code-iac-with-terraform)
@@ -257,6 +257,41 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [9.9. Annie Ernaux - Wikipedia](#99-annie-ernaux---wikipedia)
     - [9.10. Tackling Data's Biggest Culture Problem - by Chad Sanderson](#910-tackling-datas-biggest-culture-problem---by-chad-sanderson)
     - [9.11. (1) #SPWK 2023: Vendor Wars - Digital Analytics Vendors Panel Discussion (JAN 31) - YouTube](#911-1-spwk-2023-vendor-wars---digital-analytics-vendors-panel-discussion-jan-31---youtube)
+    - [9.12. You are a morale-driven machine - Alexey Guzey](#912-you-are-a-morale-driven-machine---alexey-guzey)
+    - [9.13. The Rest Is History: The Jewish Revolt on Apple Podcasts](#913-the-rest-is-history-the-jewish-revolt-on-apple-podcasts)
+    - [9.14. The Rest Is History: Nero on Apple Podcasts](#914-the-rest-is-history-nero-on-apple-podcasts)
+    - [9.15. Karl Ove Knausgaard on 'The Wolves of Eternity,' Fiction, Family, and Fame](#915-karl-ove-knausgaard-on-the-wolves-of-eternity-fiction-family-and-fame)
+    - [9.16. You Must Be Able To Do This](#916-you-must-be-able-to-do-this)
+    - [9.17. DevOps is terrible 2023](#917-devops-is-terrible-2023)
+    - [9.18. Rethinking infrastructure as code from scratch](#918-rethinking-infrastructure-as-code-from-scratch)
+    - [9.19. viralinstruction.com/posts/hardware/](#919-viralinstructioncompostshardware)
+- [10. OCTOBER2023](#10-october2023)
+    - [10.1. Agatha Christie Poirot S12E03 - Murder on the Orient Express](#101-agatha-christie-poirot-s12e03---murder-on-the-orient-express)
+    - [10.2. Hitler and the Mitford Sisters Transcript - The Rest Is History](#102-hitler-and-the-mitford-sisters-transcript---the-rest-is-history)
+    - [10.3. SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio](#103-se-radio-582-leo-porter-and-daniel-zingaro-on-learning-to-program-with-llms--software-engineering-radio)
+    - [10.4. A Clutter-Free Life: Going Paperless with Paperless-ngx](#104-a-clutter-free-life-going-paperless-with-paperless-ngx)
+    - [10.6. Advice for authors](#106-advice-for-authors)
+    - [10.8. Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield](#108-cant-be-fcked-underrated-cause-of-tech-debt--pursuit-of-laziness--a-blog-by-jesse-duffield)
+    - [10.11. : Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History](#1011--saudi-arabia-the-mystery-of-the-kaaba-transcript---the-rest-is-history)
+    - [10.12. Examining the silicon dies of the Intel 386 processor](#1012-examining-the-silicon-dies-of-the-intel-386-processor)
+    - [10.13. What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox](#1013-what-is-hamas-heres-what-to-know-about-the-militant-group-that-controls-the-gaza-strip---vox)
+    - [10.14. Observability with Eduardo Silva - Software Engineering Daily](#1014-observability-with-eduardo-silva---software-engineering-daily)
+    - [10.15. Bernard Lewis - Wikipedia](#1015-bernard-lewis---wikipedia)
+    - [10.16. Jacob Mikanowski on Eastern Europe (Ep. 192)](#1016-jacob-mikanowski-on-eastern-europe-ep-192)
+    - [10.17. Wanderings: Chaim Potok's History of the Jews - Wikipedia](#1017-wanderings-chaim-potoks-history-of-the-jews---wikipedia)
+    - [10.18. Your primary tag needs to be Switzerland - by Alex Dean](#1018-your-primary-tag-needs-to-be-switzerland---by-alex-dean)
+    - [10.19. Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts](#1019-battleground-ukraine-97-what-lies-behind-the-conflict-in-gaza-on-apple-podcasts)
+    - [10.20. On a Lack of Ambition - by Maxi Gorynski](#1020-on-a-lack-of-ambition---by-maxi-gorynski)
+    - [10.21. Baghdad: The Arabian Nights Transcript - The Rest Is History](#1021-baghdad-the-arabian-nights-transcript---the-rest-is-history)
+    - [10.22. Barry Can't Swim · Biography](#1022-barry-cant-swim-·-biography)
+    - [10.25. Base64 Encoding, Explained](#1025-base64-encoding-explained)
+    - [10.26. SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio](#1026-se-radio-586-nikhil-shetty-on-virtual-private-cloud--software-engineering-radio)
+    - [10.27. What happens when you update your DNS?](#1027-what-happens-when-you-update-your-dns)
+    - [10.28. Conversations with Tyler: Ada Palmer on Viking Metaphysics, Contingent Moments, and Censorship](#1028-conversations-with-tyler-ada-palmer-on-viking-metaphysics-contingent-moments-and-censorship)
+    - [10.29. Platform Engineering with Cory O’Daniel](#1029-platform-engineering-with-cory-odaniel)
+    - [10.30. The Mind Behind Windows: Dave Cutler - YouTube](#1030-the-mind-behind-windows-dave-cutler---youtube)
+    - [10.31. Watch This Guy Work, and You’ll Finally Understand the TikTok Era](#1031-watch-this-guy-work-and-youll-finally-understand-the-tiktok-era)
+    - [10.32. Volodymyr Zelensky’s Struggle to Keep Ukraine in the Fight](#1032-volodymyr-zelenskys-struggle-to-keep-ukraine-in-the-fight)
 
 <!-- /TOC -->
 
@@ -1473,135 +1508,118 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://viralinstruction.com/posts/hardware/>
 * low level beauty
 
-#### Agatha Christie's Poirot S12E03 - Murder on the Orient Express [FULL EPISODE] - YouTube
+### 10. OCTOBER2023
+#### 10.1. Agatha Christie Poirot S12E03 - Murder on the Orient Express
 * <https://www.youtube.com/watch?v=HDtZNg2gIaQ>
 * Thoroughly enjoyed this performance, properly sinister, with clear moral compass, one place where I can understand some nostalgia. There is good and  evil in Christie, which may be childish and outdated but somehow, personally, also sound - surely for children. Where is the threshold when this stops being true then?
-> 
 
-#### 375. Hitler and the Mitford Sisters Transcript - The Rest Is History
+#### 10.2. Hitler and the Mitford Sisters Transcript - The Rest Is History
 * <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/375-hitler-and-the-mitford-sisters-01hbyepsc0dnnznf4pd9s9vgdw>
 * On Unity Mitford, the dark side of upper classes whose flirtations with Hitler lead her to her death. Really sinister one. 
 > she stays committed to Hitler even as it becomes increasingly evident that Britain is going to be going to war with Germany.So 1939 she goes to be the festival there with Diana.And Hitler basically says to them, look, you should get out of Germany because we are going to be going to war and Diana Julie goes back home, but Unity stays there and maybe one of the reasons why Unity stays there and a very physical evidence, both of Hitler's favor and of her desire to become German is that Hitler has given her a flat.So he had given her a choice of four flats in Munich. She'd gone round. She'd chosen the one that she wanted, went around the house and these curtains won't do at all. We must get rid of this awful sofa. Meanwhile, the two people who are being dispossessed, both of whom are Jewish are sitting in the hallway sobbing and she pays them no attention at all.
 
-#### SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio
+#### 10.3. SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio
 * <https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/>
-* Thinking about utilization of AI in the education of programmers. 
-> 
+* Thinking about utilization of AI in the education of programmers.  
 
-#### A Clutter-Free Life: Going Paperless with Paperless-ngx
+#### 10.4. A Clutter-Free Life: Going Paperless with Paperless-ngx
 * <https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/>
 * Fascinating due to the AI assisted vizuals and editing powers. I have a similar system simply by using Google Drive/Docs with file system. Surely not efficient as taggind, but with Johnny.Decimal the effects are I believe similar with zero barriers to entry (i.e. self-hosting). 
-> 
 
-#### SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio
-* <https://www.se-radio.net/2023/09/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom/>
-* Thanks to this I have started using Chat directly in VS Code and what a bombastic change - even for writing blogs / markdown editing. 
-> 
-
-#### Advice for authors 
+#### 10.6. Advice for authors 
 * <https://seths.blog/2006/08/advice_for_auth/>
 * Succint and provocative.
 > The best time to start promoting your book is three years before it comes out. Three years to build a reputation, build a permission asset, build a blog, build a following, build credibility and build the connections you’ll need later.
 
-#### 
-* <undefined>
-
-#### Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield
+#### 10.8. Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield
 * <https://jesseduffield.com/Can%27t-Be-Fcked/>
 * Could a surgeon or a lawier write this?
 > So, if you find that you CBF, don’t be dismayed; it happens to everyone (except those very special people we all aspire to). If in the moment you don’t have the strength to overcome it, at least be honest. And if you’ve been going 100% for too long, maybe it’s time to take that holiday.
 
-#### Kaaba - Wikipedia
-* <https://en.wikipedia.org/wiki/Kaaba>
-* 
-> 
-
-#### Pangaea - Changing Channels · Album Review ⟋ RA
-* <https://ra.co/reviews/35736>
-* Dj of the week, with BBC Essential Mix celebrating the release of a new album. 
-> Even with its many left turns, Changing Channels sticks to a formula: each track presents an idea and then adds an often surprising counterweight. It happens at the midpoint of the title track, where it diverts to a sedate deep house-flavoured daydream that takes a prolonged effort to snap out of.
-
-#### 265: Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History
+#### 10.11. : Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History
 * <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/265-saudi-arabia-the-mystery-of-the-kaaba-01h10fjcc8aey29kg8pqd2v05x>
 * Interesting how initially Jerusalem, it seems, to be more important than the Mekka and only repeated destruction of Kaaba and the mysteries surrounding it made it the centerpoint of the Muslim existence.
-> 
+ 
 
-#### Examining the silicon dies of the Intel 386 processor
+#### 10.12. Examining the silicon dies of the Intel 386 processor
 * <https://www.righto.com/2023/10/intel-386-die-versions.html?m=1>
 * 386 DX 40 with 80MB of HDD was my first computer. Intel won over IBM, with Compaq - which I did not know was so big back then already.
 > The 80386 was a major advancement over the 286: it implemented a 32-bit architecture, added more instructions, and supported 4-gigabyte segments.
 
-#### What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox
+#### 10.13. What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox
 * <https://www.vox.com/politics/2023/10/10/23911661/hamas-israel-war-gaza-palestine-explainer>
 * As stressed in https://rssr.link/1Uner Hamas is a unique mixture of nationalism and islam
-> 
-
-#### Observability with Eduardo Silva - Software Engineering Daily
+ 
+#### 10.14. Observability with Eduardo Silva - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2023/10/12/observability-with-eduardo-silva/>
 * Enjoyed the metaphor of data warehouse as ocean to and data pipelines are rivers
-> 
+>
 
-#### Bernard Lewis - Wikipedia
+#### 10.15. Bernard Lewis - Wikipedia
 * <https://en.wikipedia.org/wiki/Bernard_Lewis>
 * Tried to read his summary or Middle Eastern History, yet not found it as interesting as reading the wikipedia article on his debate with Edward Said
 > Rejecting the view that Western scholarship was biased against the Middle East, Lewis responded that Orientalism developed as a facet of European humanism, independently of the past European imperial expansion.[14] He noted the French and English pursued the study of Islam in the 16th and 17th centuries, yet not in an organized way, but long before they had any control or hope of control in the Middle East; and that much of Orientalist study did nothing to advance the cause of imperialism. In his 1993 book Islam and the West, Lewis wrote "What imperial purpose was served by deciphering the ancient Egyptian language, for example, and then restoring to the Egyptians knowledge of and pride in their forgotten, ancient past?"
 
-#### Jacob Mikanowski on Eastern Europe (Ep. 192) 
-* <https://conversationswithtyler.com/episodes/jacob-mikanowski/>
-* 
+#### 10.16. Jacob Mikanowski on Eastern Europe (Ep. 192) 
+* <https://conversationswithtyler.com/episodes/jacob-mikanowski/> 
 > In Poland, there’s a name for — there are two schools of thought on what Poland is and should be. They come from the two dynasties that ruled Poland, the first two dynasties: there’s Piast Poland and Jagiellonian Poland. Piast is that more narrow, one-culture, one-religion — that’s what’s been assigned to it. That’s the dominant view. The Jagiellonians are this bigger, “We’re a confederation of peoples. We’re a bigger country. We have a big-tent version of Polishness.” I come from that.I think there’s more to it than most Americans know and also, in a way, than some Poles know.COWEN: This polycultural background: How much do you feel it has strong, deep roots? Is it your view that “Well, now it’s mostly gone; it really will not come back”? Or the fact that what we now call Poland was so strongly polycultural, say, 100 years ago, 150 years ago — that this will, in some sense, reemerge, and it will reemerge because it had been part of the past for so long?MIKANOWSKI: Really interesting, because it really was deeply rooted. Deep in the Middle Ages. Definitely in early modernity. And that old, supposedly mostly Polish Poland actually was hard to recover. It was the western part of Poland: it had tons of Germans (which people forget). It was also, in a different way, different balance, multiethnic.The 20th century did so much to change Poland’s geography, Poland’s borders, Poland’s ethnic and religious makeup, that if you had asked me that 15 years ago, 10 years ago, I’d say no. Poland is what it is. Poland is the white eagle, the pope, the Catholic Church. It’s a pretty set thing.It’s amazing how much I think the war in Ukraine has changed things. That we’re going towards — and the influx of Ukrainians, and actually Belarusians too. There are also Chechens in a smaller number; people from the former Soviet Union. Because of that war, the perceptions of difference have really shifted in Poland. From a very closed society, I think it’s opened up a little bit in a very meaningful way. It’s recovering some of that polyethnicity that it had lost. We’ll see how lasting that is, but I think it’s something that has really shifted the last few years.
 
-#### Wanderings: Chaim Potok's History of the Jews - Wikipedia
+#### 10.17. Wanderings: Chaim Potok's History of the Jews - Wikipedia
 * <https://en.wikipedia.org/wiki/Wanderings:_Chaim_Potok%27s_History_of_the_Jews>
 * The parts about Arabia and geograhic determinism of Islam are just beautifully written. 
-> 
 
-#### Your primary tag needs to be Switzerland - by Alex Dean
+#### 10.18. Your primary tag needs to be Switzerland - by Alex Dean
 * <https://sourceoftruth.substack.com/p/your-primary-tag-needs-to-be-switzerland>
 * My boss writes about the dilemmas typical for event trackers, a proud justification of Snowplow Analytics as an autonomous category in the behaviour data collection space convincing everyone that you should not mix these with multitude of trackers joined only later by a tag manager such as GTM. 
 > Event tracking is a riddle of a technology. It defies attempts to turn it into a feature (more on this later), but unlike ETL, it often isn't treated as its own category. It's an "I work in a café" technology - "oh that's cool, what else do you do?". (Nobody embodies this parental disappointment better than Segment: they went from an open-source tag manager to a ‘Customer Data Infrastructure’ to a fully-paid-up CDP.)
 
-#### Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts
+#### 10.19. Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts
 * <https://podcasts.apple.com/gb/podcast/97-what-lies-behind-the-conflict-in-gaza/id1617276298?i=1000631676058>
-* 
-> 
+* Some neccessary historical contexts
 
-#### On a Lack of Ambition - by Maxi Gorynski
+#### 10.20. On a Lack of Ambition - by Maxi Gorynski
 * <https://heirtothethought.substack.com/p/on-a-lack-of-ambition>
 * I love how Tyler Cowen's podcast questions inspire others to think and write and develop the answers. The take on Foucault and, mainly, Augustine, I find, honestly a bit hysterical. Not quite sure he has ever read the classics themselves. 
 > We have since at least the middle of the 20th century, prompted by the ideological desolation following World War II, been sliding into historical despair. This has been consolidated in the early 21st century by the increasing popularity of unfalsifiable identitarian doctrines stemming from the work of Foucault and his acolytes. Much of Foucault’s most popular work revolves around suggestions that all social connections are zero-sum power relations, and that ‘truth’ is a purely subjective concept. This has led to a sentimentalisation of history among the most highly-educated and, subsequently, a revulsion towards it. Even where a belief that history is where bad people live does not take hold in the individual, it forms a kind of miasma swirling around the resistant individual which that individual must then expend great energy to fight against — and it is a draining and emotionally taxing fight, for they who know that history is more than something to get upset about also know that all our hopes for the future lay in its archives.
 
-#### 379. Baghdad: The Arabian Nights Transcript - The Rest Is History
+#### 10.21. Baghdad: The Arabian Nights Transcript - The Rest Is History
 * <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/379-baghdad-the-arabian-nights-01hd2hehgj6hj53k026hcfy4vy>
-* 
 > And it seems that the moment Baghdad is founded, scholars from across the near east are kind of zooming in on Baghdad now, why are they going there essentially because they know that they're going to get sponsorship, which in turn begs the question. Well, why are they sure of that part of it?I think is that we talked about how Al Mansour has this ambition to make Baghdad a universal city in terms of time as well as space that he wants to fold in the learning and achievements of previously non-Islamic civilizations into Baghdad so that they can serve the greater glory of Islam. And that means that he is interested in all ancient civilizations. So not just the Greeks, but the Persian as well.And again, I think if there's been a theme throughout these episodes, it's the importance of Persian culture on the making of Baghdad. So a lot of the first Greek texts to be translated are actually written in Persian and House Of Wisdom, Beit Al Hikma was actually the Persian Sasanian word for a library. So that's, that's what itis.So the House Of Wisdom is probably founded by Al Mansur in Baghdad in, you know, very, very self conscious emulation of the Persian example. That's what he's trying to do. And it exists specifically to house books that have been translated, not from Greek but fromPersian, right? So these are translations of Persian translations of Greek.So the House Of Wisdom is not a center for the translation of writings from Greek. It's not a research center, it's not a kind of conference center where scholars meet up. It is basically a library as the Library OfAlexandria was. But with the establishment of that, you have other Caliphs who come in and they all have their own motives.So Al Madi, the pigeon racer, he's a very devout Muslim. He's very concerned to purify and clarify Muslims understanding of their faith. So he has a lot of debates with the Christian patriarchTimothy who has invited to set up shop in Baghdad. And in the course of these debates, it's evident, I think that Al Madi realizes how much Christian theology has benefited from its immersion in Greek philosophy.So in Plato, but also particularly Aristotle, he's the first Tiff to commission translations of Aristotle directly from Greek. I think he is doing that kind of rather in the spirit that the Chinesetoday might, you know, steal intellectual property from Stanford University or something like that.
 
-#### Barry Can't Swim · Biography
+#### 10.22. Barry Can't Swim · Biography
 * <https://ra.co/dj/barrycantswim/biography>
 * A taste of new essential mix for streching during pomodoro breaks
-> 
 
-#### Barry Can't Swim
-* <https://www.bbc.co.uk/sounds/play/m001r708>
-* A taste of new essential mix for streching during pomodoro breaks
-> 
-
-#### The Secret History of Microsoft Windows: Dave Cutler - YouTube
-* <https://www.youtube.com/watch?v=xi1Lq79mLeE>
-* 
-> 
-
-#### Base64 Encoding, Explained
+#### 10.25. Base64 Encoding, Explained
 * <https://www.akshaykhot.com/base64-encoding-explained/>
 * I am using b64 on a daily basis so it's great to see the algorithm explained with such detail. Many thanks
-> 
-
-#### SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio
+ 
+#### 10.26. SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio
 * <https://www.se-radio.net/2023/10/se-radio-586-nikhil-shetty-on-virtual-private-cloud/>
-* Great, somewhat introductory, but lots of people juggle with the concepts like VPC, VPN or CIDR but don't know much about it. Also, good use of acronym analysis. 
-> 
+* Great, somewhat introductory, but lots of people juggle with the concepts like VPC, VPN or CIDR but don't know much about it. Also, good use of acronym analysis.  
 
-#### What happens when you update your DNS?
+#### 10.27. What happens when you update your DNS?
 * <https://jvns.ca/blog/how-updating-dns-works/>
 * a great and famous treatment of DNS TTL (time to live) attribute
 > 60 is a pretty short TTL, and in theory if everybody’s DNS implementation followed the DNS standard it means that if Github decided to change the IP address for github.com, everyone should get the new IP address within 60 seconds.
+
+#### 10.28. Conversations with Tyler: Ada Palmer on Viking Metaphysics, Contingent Moments, and Censorship
+* <https://cowenconvos.libsyn.com/ada-palmer-on-viking-metaphysics-contingent-moments-and-censorship>
+* On cultural capital, contingency, moral progress and quite an interesting feminist take on the practice of historical science. 
+
+#### 10.29. Platform Engineering with Cory O’Daniel
+* <https://softwareengineeringdaily.com/2023/10/19/platform-engineering-2/?utm_source=rss&utm_medium=rss&utm_campaign=platform-engineering-2>
+* An interesting narrative on the history of the cloud which initially decreased complexity from on-prem hosting but grew so much so fast that nowadays we have roles like IAM engineer which focus solely on authorizations. The principle of least priviledge is notoriously hard to keep, from my experience as well. 
+
+#### 10.30. The Mind Behind Windows: Dave Cutler - YouTube
+* <https://www.youtube.com/watch?v=xi1Lq79mLeE>
+* The brain and muscle behind Windows, so active at the age of 81. Fascinating how he went back from managerial to being an individual contribution. 
+
+#### 10.31. Watch This Guy Work, and You’ll Finally Understand the TikTok Era 
+* <https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/>
+* So interesting how the interaction with the machine is crucial
+> YoungX777 had been discovered by 25/7 in late October 2022, after Luzi and his two full-time music scouts had glimpsed promise in the data for his song “Toxic.” A sludgy sonic wallop about suicidal ideation, the song hadn’t racked up many streams. But its five-second intro, a post-toke cough followed by a throaty scream, had popped up in a few TikToks of MMA fighters pummeling each other and weightlifters grunting beneath squat bars. Experience had taught 25/7 Media that when brief “recreates” of these kinds of songs burble up in those particular TikTok communities, virality can soon follow.When the number of recreates climbs into the tens or hundreds of thousands, Magana told me, two of 25/7’s core tenets become germane. The first: Once a social media user hears an audio snippet nine times, it gets stuck in their head to some degree. The second, which Magana has dubbed the Ten Percent Rule, is that 10 percent of those earwormed users will end up tracking down the snippet’s original source
+
+#### 10.32. Volodymyr Zelensky’s Struggle to Keep Ukraine in the Fight 
+* <https://time.com/6329188/ukraine-volodymyr-zelensky-interview/>
+* An ode to endurance in quite pessimistic tones
