@@ -1623,3 +1623,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### 10.32. Volodymyr Zelensky’s Struggle to Keep Ukraine in the Fight 
 * <https://time.com/6329188/ukraine-volodymyr-zelensky-interview/>
 * An ode to endurance in quite pessimistic tones
+
+#### Cody AI - Visual Studio Marketplace
+* <https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai#:~:text=Cody%20for%20VS%20Code%20is,not%20just%20your%20open%20files>
+* A possible replacement of copilot
+> 
+
+#### Sourcegraph with Quinn Slack - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2023/11/01/sourcegraph-with-quinn-slack/?utm_source=rss&utm_medium=rss&utm_campaign=sourcegraph-with-quinn-slack>
+* Quinn Slack is convinced the AI is the new primitive, and another abstraction layer, similar to the invention of say compliler, or of assembler, or of programming languages starting with fortran, or of Lisp, or of Python. Each of the layers abstracted away some toil, leaving engineers with more productivity, possibly. Also, the belief is that the progress is going to me regulated and incremental referring to autonomous vehicles as analogy for the development. 
+> 
+
+#### 27 Things I’ve Learned From 150 Million Podcast Downloads - RyanHoliday.net
+* <https://ryanholiday.net/27-things-ive-learned-from-150-million-podcast-downloads/>
+* Seems to me like Ryan's strategy is to monetize Zettelkastens and if that's true, I admire that greatly. 
+> Something I’ve started implementing from Adam Grant: in addition to coaches and mentors, you need to have judges. Adam was a competitive springboard diver growing up, “and I found it enormously helpful to get a 0 to 10 score every time I came out of the water.” When he transitioned from sports to the work world, he found it hard to get useful feedback. “So I started asking people—I would give them drafts—and I’d ask, ‘can you rate this 0 to 10?’” After a presentation—what would you score that 0 to 10? After giving a talk, after leading a meeting, after publishing a newsletter, whatever—ask, can you score this 0 to 10?
