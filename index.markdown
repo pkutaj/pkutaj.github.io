@@ -2,30 +2,31 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Infrastructure Support Engineer with a Passion for Python & Docs_
-----------------|-------------------------------------------------------------------
+**PAVOL KUTAJ** | _Cloud Infrastructure Support Engineer_
+----------------|------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q3/2023)
-* deep diving into
+### NOW (Q4/2023)
+* Deep diving into
+    - Terraform
+    - AWS/GCP services
     - Mermaid diagramming with [great book](https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques/)
     - GitHub Copilot best practices
-    - TDD with Pytest
-* optimizing 
+    - More complex Python with unit tests in pytest
+* Optimizing 
     - Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
     - Snowplow rollout processes
-    - configuration of Terraform drift mechanisms and alerting (OpsGenie)
-* building dashboards for SLA/SLO breach analysis (SQL/Redash/Preset is coming...) 
-* writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
-* doing a ~~first~~ second course of [Open Source Society University - How to Code](https://github.com/ossu/computer-science#core-cs)
-* writing up a [read-list of 2023](https://pavol.kutaj.com/playlist.html)
+    - Configuration of Terraform drift mechanisms and alerting (OpsGenie)
+* Building dashboards for SLA/SLO breach analysis (SQL/Redash/Preset is coming...) 
+* Writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
+* Writing up a [read-list of 2023](https://pavol.kutaj.com/playlist.html)
 
 ### EXPERIENCE
-#### Infrastructure Support Engineer; KB owner
+#### AWS/GCP Cloud Infrastructure Support Engineer
 * Snowplow Analytics
 * 2020-ongoing
 
