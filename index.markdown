@@ -13,7 +13,8 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 ### NOW (Q4/2023)
 * Deep diving into
     - Terraform
-    - AWS/GCP services
+    - AWS/GCP services, mainly Cloudwatch and Kubernetes Engine/Workload resource management
+    - Docker image creation for internal automation toolage
     - Mermaid diagramming with [great book](https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques/)
     - GitHub Copilot best practices
     - More complex Python with unit tests in pytest
