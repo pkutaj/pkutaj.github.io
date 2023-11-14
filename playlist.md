@@ -1644,3 +1644,38 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://stratechery.com/2023/attenuating-innovation-ai/>
 * Apart from the philosophy of innovation which I don't care about as much, there is a wonderful exceptionalism of tech industry as the western cauldron of progress. Looking at the arrival of AI from the perspective of a person intimately involved with both operations and programming, I cannot be more excited. AI is like the arrival of keyboards or monitors or the departure of punchcards, if you will. 
 > More broadly, tech sure seems like the only area where innovation and building is happening anywhere in the West. This isn’t to deny that the big tech companies aren’t sometimes bad actors, and that platforms in particular do, at least in theory, need regulation. But given the sclerosis present everywhere but tech it sure seems like it would be prudent to be exceptionally skeptical about the prospect of new regulation; I definitely wouldn’t be celebrating it as if it were some sort of overdue accomplishment.
+
+#### Like Any Other? : Annie Ernaux’s A Woman Story 
+* <https://frenchlitforall.medium.com/like-any-other-annie-ernauxs-a-woman-story-5d5559e6728a>
+* Reading Ernaux with my wife as part of her studies. 
+> There is something bittersweet about the fact that Annie Ernaux’s most popular book remains A Man’s Place (Fr: La place). On one hand, La place is a brief, austere but still rich account of the life of a man whose life would not be seen as worthy of literary writing. On the other, however, Ernaux has other books that deserve attention for venturing beyond her typical powerful explorations of social class in France, such as La honte (discussing the delicate issue of domestic violence), L’événement (touching on the sensitive experience of the author with abortion) and Une Femme (about her mother’s ordinary life until she developed Alzheimer’s). In Une Femme (A Woman’s Place in the translation by Tanya Leslie), Ernaux insists that even though her mom was a rather ordinary person, she still learned a lot from her. Moreover, it is interesting to see Ernaux try to negotiate her emotions with her knowledge: her mom’s demeanor, often crass and mean, was not just her essence but rather a result of the environment she grew up in. Understanding human beings as a result of sociological phenomena around them, however, does not get rid of painful words exchanged by mother and daughter. In spite of that, Une Femme works as Ernaux’s way to celebrate her mother for what she was: a working-class woman devoted to her family, one somehow like any other and unlike any other in France.
+
+#### Conquistadors - Episode 1 - The Fall of the Aztecs - YouTube
+* <https://www.youtube.com/watch?v=UXVw29MRgHg>
+* Referre to by Dominic Sandbrook in one of the latest episodes of The Rest is History
+> 
+
+#### Opinion 
+* <https://www.nytimes.com/2023/11/10/opinion/ezra-klein-podcast-yossi-klein-halevi.html>
+* 
+> 
+
+#### How Much Of This Do You Give Them? - The Daily Dad
+* <https://dailydad.com/how-much-of-this-do-you-give-them/>
+* Found Dr.Becky's Work based on Ryan's recommendation and it's really changing me/my wife talk to the kids on daily basis, say with her "most generous interpretation" so much reminiscent of Summerhill. 
+> How much phone-free time do you give them? Dr. Becky calls this PNP–Play No Phone–Time in her book Good Inside. You know, when you’re not texting, scrolling the news, answering the occasional call when on the floor building LEGOs with your kids. When you’re really engaged with them, so much so that when you get up, you’re checking your pockets and looking around for your phone because you actually lost track of it.
+
+#### Napoleon: A Life - Paul Johnson - Google Books
+* <https://books.google.de/books?id=7o9PEAAAQBAJ&newbks=1&newbks_redir=0&hl=en&redir_esc=y>
+* Focusing on early Napoleon before Ridley Scott's movie arrives. Corsica, artilery, nationalism, vendetta, Genova, violence. 
+> 
+
+#### Ridley Scott’s Napoleon Complex 
+* <https://www.newyorker.com/magazine/2023/11/13/ridley-scott-director-profile>
+* The big movie is coming! 
+> On Waterloo: He was already making mistakes. Underestimating his enemies’ capabilities and overestimating his own, he assumed that the woods behind the British would block their retreat, but Wellington had strategically used the forest to hide more soldiers. An overnight downpour had left the fields soggy, and Napoleon, instead of striking at nine, as he had planned, held off until midday, giving the Prussians crucial time to reach Wellington as backup. Napoleon was tired. He was ill. He was strangely apathetic, declining to survey parts of the battlefield himself. Michael Broers, a Napoleon scholar at Oxford, told me, “The real question isn’t so much Why did he lose? but How on earth did he ever think he could win?”
+
+#### Preserving first-party identity in an ITP 2.0 world
+* <https://sourceoftruth.substack.com/p/first-party-identity-and-itp-20?utm_source=post-email-title&publication_id=1314849&post_id=138761656&utm_campaign=email-post-title&isFreemail=true&r=25tz5&utm_medium=email>
+* What's happening to Cookies
+> It was always about first-party dataThere is a third way between the Madtech Millenarians and the Head-in-Sanders, although not every actor in this market is commercially, technologically or culturally ready for it.It involves understanding - and respecting - the needs of all stakeholders:Consumers - the right to privacy; the expectation of receiving a high-quality digital servicePublishers - the ability to monetize their audiencesBrands - the ability to acquire and retain their customersPlatforms - preserving or growing market share; monetizing activity on the platform (e.g. advertising, app purchases)Regulators - protecting consumer privacy; preventing anti-competitive behaviorThis looks complicated but really these competing priorities boil down to two: the right for consumers to a material degree of online privacy, and the commercial imperative for businesses to make money.The only way to square these two competing forces is through first-party data.
