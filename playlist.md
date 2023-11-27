@@ -1679,3 +1679,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://sourceoftruth.substack.com/p/first-party-identity-and-itp-20?utm_source=post-email-title&publication_id=1314849&post_id=138761656&utm_campaign=email-post-title&isFreemail=true&r=25tz5&utm_medium=email>
 * What's happening to Cookies
 > It was always about first-party dataThere is a third way between the Madtech Millenarians and the Head-in-Sanders, although not every actor in this market is commercially, technologically or culturally ready for it.It involves understanding - and respecting - the needs of all stakeholders:Consumers - the right to privacy; the expectation of receiving a high-quality digital servicePublishers - the ability to monetize their audiencesBrands - the ability to acquire and retain their customersPlatforms - preserving or growing market share; monetizing activity on the platform (e.g. advertising, app purchases)Regulators - protecting consumer privacy; preventing anti-competitive behaviorThis looks complicated but really these competing priorities boil down to two: the right for consumers to a material degree of online privacy, and the commercial imperative for businesses to make money.The only way to square these two competing forces is through first-party data.
+
+#### SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability : Software Engineering Radio
+* <https://www.se-radio.net/2023/11/se-radio-591-yechezkel-rabinovich-on-kubernetes-observability/>
+* A great coverage of observability + eBFS + Kubernetes, carefully defined basic concepts with K8S defined, originally, as cloud-native Operating system. Thrilling.
+> 
