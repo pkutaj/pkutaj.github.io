@@ -270,28 +270,42 @@ List of texts / podcast that caught my attention this year (2023 edition).
     - [10.2. Hitler and the Mitford Sisters Transcript - The Rest Is History](#102-hitler-and-the-mitford-sisters-transcript---the-rest-is-history)
     - [10.3. SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs : Software Engineering Radio](#103-se-radio-582-leo-porter-and-daniel-zingaro-on-learning-to-program-with-llms--software-engineering-radio)
     - [10.4. A Clutter-Free Life: Going Paperless with Paperless-ngx](#104-a-clutter-free-life-going-paperless-with-paperless-ngx)
-    - [10.6. Advice for authors](#106-advice-for-authors)
-    - [10.8. Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield](#108-cant-be-fcked-underrated-cause-of-tech-debt--pursuit-of-laziness--a-blog-by-jesse-duffield)
-    - [10.11. : Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History](#1011--saudi-arabia-the-mystery-of-the-kaaba-transcript---the-rest-is-history)
-    - [10.12. Examining the silicon dies of the Intel 386 processor](#1012-examining-the-silicon-dies-of-the-intel-386-processor)
-    - [10.13. What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox](#1013-what-is-hamas-heres-what-to-know-about-the-militant-group-that-controls-the-gaza-strip---vox)
-    - [10.14. Observability with Eduardo Silva - Software Engineering Daily](#1014-observability-with-eduardo-silva---software-engineering-daily)
-    - [10.15. Bernard Lewis - Wikipedia](#1015-bernard-lewis---wikipedia)
-    - [10.16. Jacob Mikanowski on Eastern Europe (Ep. 192)](#1016-jacob-mikanowski-on-eastern-europe-ep-192)
-    - [10.17. Wanderings: Chaim Potok's History of the Jews - Wikipedia](#1017-wanderings-chaim-potoks-history-of-the-jews---wikipedia)
-    - [10.18. Your primary tag needs to be Switzerland - by Alex Dean](#1018-your-primary-tag-needs-to-be-switzerland---by-alex-dean)
-    - [10.19. Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts](#1019-battleground-ukraine-97-what-lies-behind-the-conflict-in-gaza-on-apple-podcasts)
-    - [10.20. On a Lack of Ambition - by Maxi Gorynski](#1020-on-a-lack-of-ambition---by-maxi-gorynski)
-    - [10.21. Baghdad: The Arabian Nights Transcript - The Rest Is History](#1021-baghdad-the-arabian-nights-transcript---the-rest-is-history)
-    - [10.22. Barry Can't Swim · Biography](#1022-barry-cant-swim-·-biography)
-    - [10.25. Base64 Encoding, Explained](#1025-base64-encoding-explained)
-    - [10.26. SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio](#1026-se-radio-586-nikhil-shetty-on-virtual-private-cloud--software-engineering-radio)
-    - [10.27. What happens when you update your DNS?](#1027-what-happens-when-you-update-your-dns)
-    - [10.28. Conversations with Tyler: Ada Palmer on Viking Metaphysics, Contingent Moments, and Censorship](#1028-conversations-with-tyler-ada-palmer-on-viking-metaphysics-contingent-moments-and-censorship)
-    - [10.29. Platform Engineering with Cory O’Daniel](#1029-platform-engineering-with-cory-odaniel)
-    - [10.30. The Mind Behind Windows: Dave Cutler - YouTube](#1030-the-mind-behind-windows-dave-cutler---youtube)
-    - [10.31. Watch This Guy Work, and You’ll Finally Understand the TikTok Era](#1031-watch-this-guy-work-and-youll-finally-understand-the-tiktok-era)
-    - [10.32. Volodymyr Zelensky’s Struggle to Keep Ukraine in the Fight](#1032-volodymyr-zelenskys-struggle-to-keep-ukraine-in-the-fight)
+    - [10.5. Advice for authors](#105-advice-for-authors)
+    - [10.6. Can't Be F*cked: Underrated Cause of Tech Debt – Pursuit Of Laziness – A blog by Jesse Duffield](#106-cant-be-fcked-underrated-cause-of-tech-debt--pursuit-of-laziness--a-blog-by-jesse-duffield)
+    - [10.7. : Saudi Arabia: The Mystery of the Kaaba Transcript - The Rest Is History](#107--saudi-arabia-the-mystery-of-the-kaaba-transcript---the-rest-is-history)
+    - [10.8. Examining the silicon dies of the Intel 386 processor](#108-examining-the-silicon-dies-of-the-intel-386-processor)
+    - [10.9. What is Hamas? Here’s what to know about the militant group that controls the Gaza Strip. - Vox](#109-what-is-hamas-heres-what-to-know-about-the-militant-group-that-controls-the-gaza-strip---vox)
+    - [10.10. Observability with Eduardo Silva - Software Engineering Daily](#1010-observability-with-eduardo-silva---software-engineering-daily)
+    - [10.11. Bernard Lewis - Wikipedia](#1011-bernard-lewis---wikipedia)
+    - [10.12. Jacob Mikanowski on Eastern Europe (Ep. 192)](#1012-jacob-mikanowski-on-eastern-europe-ep-192)
+    - [10.13. Wanderings: Chaim Potok's History of the Jews - Wikipedia](#1013-wanderings-chaim-potoks-history-of-the-jews---wikipedia)
+    - [10.14. Your primary tag needs to be Switzerland - by Alex Dean](#1014-your-primary-tag-needs-to-be-switzerland---by-alex-dean)
+    - [10.15. Battleground: Ukraine: 97. What lies behind the conflict in Gaza on Apple Podcasts](#1015-battleground-ukraine-97-what-lies-behind-the-conflict-in-gaza-on-apple-podcasts)
+    - [10.16. On a Lack of Ambition - by Maxi Gorynski](#1016-on-a-lack-of-ambition---by-maxi-gorynski)
+    - [10.17. Baghdad: The Arabian Nights Transcript - The Rest Is History](#1017-baghdad-the-arabian-nights-transcript---the-rest-is-history)
+    - [10.18. Barry Can't Swim · Biography](#1018-barry-cant-swim-·-biography)
+    - [10.19. Base64 Encoding, Explained](#1019-base64-encoding-explained)
+    - [10.20. SE Radio 586: Nikhil Shetty on Virtual Private Cloud : Software Engineering Radio](#1020-se-radio-586-nikhil-shetty-on-virtual-private-cloud--software-engineering-radio)
+    - [10.21. What happens when you update your DNS?](#1021-what-happens-when-you-update-your-dns)
+    - [10.22. Conversations with Tyler: Ada Palmer on Viking Metaphysics, Contingent Moments, and Censorship](#1022-conversations-with-tyler-ada-palmer-on-viking-metaphysics-contingent-moments-and-censorship)
+    - [10.23. Platform Engineering with Cory O’Daniel](#1023-platform-engineering-with-cory-odaniel)
+    - [10.24. The Mind Behind Windows: Dave Cutler - YouTube](#1024-the-mind-behind-windows-dave-cutler---youtube)
+    - [10.25. Watch This Guy Work, and You’ll Finally Understand the TikTok Era](#1025-watch-this-guy-work-and-youll-finally-understand-the-tiktok-era)
+    - [10.26. Volodymyr Zelensky’s Struggle to Keep Ukraine in the Fight](#1026-volodymyr-zelenskys-struggle-to-keep-ukraine-in-the-fight)
+- [11. NOVEMBER2023](#11-november2023)
+    - [11.1. Cody AI - Visual Studio Marketplace](#111-cody-ai---visual-studio-marketplace)
+    - [11.2. Sourcegraph with Quinn Slack - Software Engineering Daily](#112-sourcegraph-with-quinn-slack---software-engineering-daily)
+    - [11.3. Things I’ve Learned From 150 Million Podcast Downloads - RyanHoliday.net](#113-things-ive-learned-from-150-million-podcast-downloads---ryanholidaynet)
+    - [11.4. Attenuating Innovation (AI) – Stratechery by Ben Thompson](#114-attenuating-innovation-ai--stratechery-by-ben-thompson)
+    - [11.5. Like Any Other? : Annie Ernaux’s A Woman Story](#115-like-any-other--annie-ernauxs-a-woman-story)
+    - [11.6. Conquistadors - Episode 1 - The Fall of the Aztecs - YouTube](#116-conquistadors---episode-1---the-fall-of-the-aztecs---youtube)
+    - [11.7. Opinion](#117-opinion)
+    - [11.8. How Much Of This Do You Give Them? - The Daily Dad](#118-how-much-of-this-do-you-give-them---the-daily-dad)
+    - [11.9. Napoleon: A Life - Paul Johnson - Google Books](#119-napoleon-a-life---paul-johnson---google-books)
+    - [11.10. Ridley Scott’s Napoleon Complex](#1110-ridley-scotts-napoleon-complex)
+    - [11.11. Preserving first-party identity in an ITP 2.0 world](#1111-preserving-first-party-identity-in-an-itp-20-world)
+    - [11.12. SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability : Software Engineering Radio](#1112-se-radio-591-yechezkel-rabinovich-on-kubernetes-observability--software-engineering-radio)
+    - [11.13. Terraform Associate Exam – Free Actual Q&As, Page 1](#1113-terraform-associate-exam--free-actual-qas-page-1)
 
 <!-- /TOC -->
 
@@ -1640,47 +1654,52 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * Seems to me like Ryan's strategy is to monetize Zettelkastens and if that's true, I admire that greatly. 
 > Something I’ve started implementing from Adam Grant: in addition to coaches and mentors, you need to have judges. Adam was a competitive springboard diver growing up, “and I found it enormously helpful to get a 0 to 10 score every time I came out of the water.” When he transitioned from sports to the work world, he found it hard to get useful feedback. “So I started asking people—I would give them drafts—and I’d ask, ‘can you rate this 0 to 10?’” After a presentation—what would you score that 0 to 10? After giving a talk, after leading a meeting, after publishing a newsletter, whatever—ask, can you score this 0 to 10?
 
-#### Attenuating Innovation (AI) – Stratechery by Ben Thompson
+#### 11.4. Attenuating Innovation (AI) – Stratechery by Ben Thompson
 * <https://stratechery.com/2023/attenuating-innovation-ai/>
 * Apart from the philosophy of innovation which I don't care about as much, there is a wonderful exceptionalism of tech industry as the western cauldron of progress. Looking at the arrival of AI from the perspective of a person intimately involved with both operations and programming, I cannot be more excited. AI is like the arrival of keyboards or monitors or the departure of punchcards, if you will. 
 > More broadly, tech sure seems like the only area where innovation and building is happening anywhere in the West. This isn’t to deny that the big tech companies aren’t sometimes bad actors, and that platforms in particular do, at least in theory, need regulation. But given the sclerosis present everywhere but tech it sure seems like it would be prudent to be exceptionally skeptical about the prospect of new regulation; I definitely wouldn’t be celebrating it as if it were some sort of overdue accomplishment.
 
-#### Like Any Other? : Annie Ernaux’s A Woman Story 
+#### 11.5. Like Any Other? : Annie Ernaux’s A Woman Story 
 * <https://frenchlitforall.medium.com/like-any-other-annie-ernauxs-a-woman-story-5d5559e6728a>
 * Reading Ernaux with my wife as part of her studies. 
 > There is something bittersweet about the fact that Annie Ernaux’s most popular book remains A Man’s Place (Fr: La place). On one hand, La place is a brief, austere but still rich account of the life of a man whose life would not be seen as worthy of literary writing. On the other, however, Ernaux has other books that deserve attention for venturing beyond her typical powerful explorations of social class in France, such as La honte (discussing the delicate issue of domestic violence), L’événement (touching on the sensitive experience of the author with abortion) and Une Femme (about her mother’s ordinary life until she developed Alzheimer’s). In Une Femme (A Woman’s Place in the translation by Tanya Leslie), Ernaux insists that even though her mom was a rather ordinary person, she still learned a lot from her. Moreover, it is interesting to see Ernaux try to negotiate her emotions with her knowledge: her mom’s demeanor, often crass and mean, was not just her essence but rather a result of the environment she grew up in. Understanding human beings as a result of sociological phenomena around them, however, does not get rid of painful words exchanged by mother and daughter. In spite of that, Une Femme works as Ernaux’s way to celebrate her mother for what she was: a working-class woman devoted to her family, one somehow like any other and unlike any other in France.
 
-#### Conquistadors - Episode 1 - The Fall of the Aztecs - YouTube
+#### 11.6. Conquistadors - Episode 1 - The Fall of the Aztecs - YouTube
 * <https://www.youtube.com/watch?v=UXVw29MRgHg>
 * Referre to by Dominic Sandbrook in one of the latest episodes of The Rest is History
 > 
 
-#### Opinion 
+#### 11.7. Opinion 
 * <https://www.nytimes.com/2023/11/10/opinion/ezra-klein-podcast-yossi-klein-halevi.html>
 * 
 > 
 
-#### How Much Of This Do You Give Them? - The Daily Dad
+#### 11.8. How Much Of This Do You Give Them? - The Daily Dad
 * <https://dailydad.com/how-much-of-this-do-you-give-them/>
 * Found Dr.Becky's Work based on Ryan's recommendation and it's really changing me/my wife talk to the kids on daily basis, say with her "most generous interpretation" so much reminiscent of Summerhill. 
 > How much phone-free time do you give them? Dr. Becky calls this PNP–Play No Phone–Time in her book Good Inside. You know, when you’re not texting, scrolling the news, answering the occasional call when on the floor building LEGOs with your kids. When you’re really engaged with them, so much so that when you get up, you’re checking your pockets and looking around for your phone because you actually lost track of it.
 
-#### Napoleon: A Life - Paul Johnson - Google Books
+#### 11.9. Napoleon: A Life - Paul Johnson - Google Books
 * <https://books.google.de/books?id=7o9PEAAAQBAJ&newbks=1&newbks_redir=0&hl=en&redir_esc=y>
 * Focusing on early Napoleon before Ridley Scott's movie arrives. Corsica, artilery, nationalism, vendetta, Genova, violence. 
 > 
 
-#### Ridley Scott’s Napoleon Complex 
+#### 11.10. Ridley Scott’s Napoleon Complex 
 * <https://www.newyorker.com/magazine/2023/11/13/ridley-scott-director-profile>
 * The big movie is coming! 
 > On Waterloo: He was already making mistakes. Underestimating his enemies’ capabilities and overestimating his own, he assumed that the woods behind the British would block their retreat, but Wellington had strategically used the forest to hide more soldiers. An overnight downpour had left the fields soggy, and Napoleon, instead of striking at nine, as he had planned, held off until midday, giving the Prussians crucial time to reach Wellington as backup. Napoleon was tired. He was ill. He was strangely apathetic, declining to survey parts of the battlefield himself. Michael Broers, a Napoleon scholar at Oxford, told me, “The real question isn’t so much Why did he lose? but How on earth did he ever think he could win?”
 
-#### Preserving first-party identity in an ITP 2.0 world
+#### 11.11. Preserving first-party identity in an ITP 2.0 world
 * <https://sourceoftruth.substack.com/p/first-party-identity-and-itp-20?utm_source=post-email-title&publication_id=1314849&post_id=138761656&utm_campaign=email-post-title&isFreemail=true&r=25tz5&utm_medium=email>
 * What's happening to Cookies
 > It was always about first-party dataThere is a third way between the Madtech Millenarians and the Head-in-Sanders, although not every actor in this market is commercially, technologically or culturally ready for it.It involves understanding - and respecting - the needs of all stakeholders:Consumers - the right to privacy; the expectation of receiving a high-quality digital servicePublishers - the ability to monetize their audiencesBrands - the ability to acquire and retain their customersPlatforms - preserving or growing market share; monetizing activity on the platform (e.g. advertising, app purchases)Regulators - protecting consumer privacy; preventing anti-competitive behaviorThis looks complicated but really these competing priorities boil down to two: the right for consumers to a material degree of online privacy, and the commercial imperative for businesses to make money.The only way to square these two competing forces is through first-party data.
 
-#### SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability : Software Engineering Radio
+#### 11.12. SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability : Software Engineering Radio
 * <https://www.se-radio.net/2023/11/se-radio-591-yechezkel-rabinovich-on-kubernetes-observability/>
 * A great coverage of observability + eBFS + Kubernetes, carefully defined basic concepts with K8S defined, originally, as cloud-native Operating system. Thrilling.
+> 
+
+#### 11.13. Terraform Associate Exam – Free Actual Q&As, Page 1 
+* <https://www.examtopics.com/exams/hashicorp/terraform-associate/view/>
+* Preparing for Terraform Cert Exam this seems quite legit
 > 
