@@ -1703,3 +1703,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://www.examtopics.com/exams/hashicorp/terraform-associate/view/>
 * Preparing for Terraform Cert Exam this seems quite legit
 > 
+
+#### phaazon.net
+* <https://phaazon.net/blog/more-hindsight-vim-helix-kakoune>
+* The final argument for my complete conversion to helix editor.
+> The major difference, even before the reversed motion/verb thing, is the fact that Helix doesn’t really have a cursor. It has the concept of selections. A selection is made of two entities:An anchor.A cursor.The cursor is the part of the selection that moves when you extend the selection. The anchor, as the name implies, is the other part that stays where it is: it’s anchored. By default, you have only one selection and the anchor is located at the same place as the cursor. It looks similar to any other editor. Things start to change when you begin typing normal commands. Typing l, for instance, will move both the anchor and cursor to the right, making them a single visual entity. However, if you type w, the cursor will move to the end of the word while the anchor will move to its beginning, visually selecting the word. If you type W, the anchor won’t move and only the cursor will move, extending the selection. If you press B, it will move the cursor back one word, shrinking the selection. You can press <a-;> to flip the anchor and the selection, which is useful when you want to extend on the left or on the right.This concept of selection is really powerful because everything else is based on it.
