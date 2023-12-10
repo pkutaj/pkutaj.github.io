@@ -1702,9 +1702,18 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### 11.13. Terraform Associate Exam – Free Actual Q&As, Page 1 
 * <https://www.examtopics.com/exams/hashicorp/terraform-associate/view/>
 * Preparing for Terraform Cert Exam this seems quite legit
-> 
 
-#### phaazon.net
+#### 11.14. phaazon.net
 * <https://phaazon.net/blog/more-hindsight-vim-helix-kakoune>
 * The final argument for my complete conversion to helix editor.
 > The major difference, even before the reversed motion/verb thing, is the fact that Helix doesn’t really have a cursor. It has the concept of selections. A selection is made of two entities:An anchor.A cursor.The cursor is the part of the selection that moves when you extend the selection. The anchor, as the name implies, is the other part that stays where it is: it’s anchored. By default, you have only one selection and the anchor is located at the same place as the cursor. It looks similar to any other editor. Things start to change when you begin typing normal commands. Typing l, for instance, will move both the anchor and cursor to the right, making them a single visual entity. However, if you type w, the cursor will move to the end of the word while the anchor will move to its beginning, visually selecting the word. If you type W, the anchor won’t move and only the cursor will move, extending the selection. If you press B, it will move the cursor back one word, shrinking the selection. You can press <a-;> to flip the anchor and the selection, which is useful when you want to extend on the left or on the right.This concept of selection is really powerful because everything else is based on it.
+
+#### ViATc 
+* <https://magicstep.github.io/viatc/>
+* vim mode for totalcommander, why not?
+> 
+
+#### 397. JFK: A Conspiracy Unmasked (Part 6) Transcript - The Rest Is History
+* <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/397-jfk-a-conspiracy-unmasked-part-6-01hh0vew09wxd3648vq83v05tj>
+* In the JFK Assasination series shows wonderfully  the paranoid style of American politics and the conspirative nature of Americal culture in general. Something that is not immediatelly visible from Europe, something important to know and fascinating to think about. 
+> So it might be Catholics, it might be the Freemasons, it might be Jews, it might be the east coast elite. They run through American political history as they do in various degrees, of course, in lots of other countries as well. But I think Americais founded on a kind of conspiracy theory, don't you think Tom?
