@@ -1717,3 +1717,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://podcasts.musixmatch.com/podcast/the-rest-is-history-01gtgefvr0avgejrkdemyqkfyh/episode/397-jfk-a-conspiracy-unmasked-part-6-01hh0vew09wxd3648vq83v05tj>
 * In the JFK Assasination series shows wonderfully  the paranoid style of American politics and the conspirative nature of Americal culture in general. Something that is not immediatelly visible from Europe, something important to know and fascinating to think about. 
 > So it might be Catholics, it might be the Freemasons, it might be Jews, it might be the east coast elite. They run through American political history as they do in various degrees, of course, in lots of other countries as well. But I think Americais founded on a kind of conspiracy theory, don't you think Tom?
+
+#### Surrounding Things With Vim Surround 
+* <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/surrounding-things-with-vim-surround/>
+* Essential for Markdown Editting
+> 
