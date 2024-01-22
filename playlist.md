@@ -1737,3 +1737,9 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db>
 * Someone elses problems to learn from!
 > This may sound like a very stupid mistake you will never make (or even can’t make - in bigger companies). It might be true. The problem is not the wrong SQL command. A small human mistake is never the true problem. Me running that command, is just the end of a whole chain of failures.Working on production during the weekend - why? In this case, it was not even that urgent. Nobody asked me to fix it immediately. I could have easily waited for Monday.Who the hell runs something on a prod DB without running it on QA first?Why did I manually edit the DB and not use an API call?And if there was no API - why didn’t I call a teammate and have ‘4-eyes’ on such a sensitive action?And the worst part - why didn’t I use transactions? It’s as easy as writing ‘Begin’, and then using Rollback in case of a mistake.
+
+#### https://www.nytimes.com/2024/01/19/opinion/ezra-klein-podcast-tom-friedman.html
+* <Opinion | ‘I Have No Idea How This Ends. I’ve Never Seen It So Broken.’ - The New York Times>
+* 
+> 
+> 
