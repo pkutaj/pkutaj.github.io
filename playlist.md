@@ -1743,3 +1743,8 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * 
 > 
 > 
+
+#### https://en.wikipedia.org/wiki/David_Holmes_(musician)
+* <David Holmes (musician) - Wikipedia>
+* 
+> 
