@@ -1748,3 +1748,10 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <David Holmes (musician) - Wikipedia>
 * 
 > 
+
+#### https://www.paulgraham.com/addiction.html
+* <The Acceleration of Addictiveness>
+* 
+> as the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart. One sense of "normal" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.
+> 
+> These two senses are already quite far apart. Already someone trying to live well would seem eccentrically abstemious in most of the US. That phenomenon is only going to become more pronounced. You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.
