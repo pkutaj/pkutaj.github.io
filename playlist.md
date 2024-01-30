@@ -1760,3 +1760,22 @@ List of texts / podcast that caught my attention this year (2023 edition).
 * <Vim: help.txt>
 * 
 > 
+
+#### https://podcasts.musixmatch.com/podcast/the-ezra-klein-show-01gv2bv14079rhv1ch6dvacmbc/episode/tired-distracted-burned-out-listen-to-this-01hkch25n8a6rasvdyxs789dqq
+* <Tired? Distracted? Burned-Out? Listen to This. Transcript - The Ezra Klein Show>
+* 
+> Maya Angelou
+> , talked about her big mind and her little mind. And her big mind was what she used for her deep thought and her 
+> creativity
+> .
+> And so that’s what I would call focused 
+> attention
+> , where you’re really being focused and challenged. But she also talked about being able to step away and use what she called her little mind. She did crossword puzzles, or she did small tasks, which kind of allowed her attentional resources to fill back up in the tank.
+> Some people do play simple mindless games. One person I talked to said in his office he has a screen, and he just likes to throw that ball on the screen. And it just kind of allows him to kind of reset and relax. So the great poet and writer, 
+> Maya Angelou
+> , talked about her big mind and her little mind. And her big mind was what she used for her deep thought and her 
+> creativity
+> .
+> And so that’s what I would call focused 
+> attention
+> , where you’re really being focused and challenged. But she also talked about being able to step away and use what she called her little mind. She did crossword puzzles, or she did small tasks, which kind of allowed her attentional resources to fill back up in the tank.
