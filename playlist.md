@@ -1764,13 +1764,7 @@ List of texts / podcast that caught my attention this year (2023 edition).
 #### https://podcasts.musixmatch.com/podcast/the-ezra-klein-show-01gv2bv14079rhv1ch6dvacmbc/episode/tired-distracted-burned-out-listen-to-this-01hkch25n8a6rasvdyxs789dqq
 * <Tired? Distracted? Burned-Out? Listen to This. Transcript - The Ezra Klein Show>
 * 
-> Maya Angelou
-> , talked about her big mind and her little mind. And her big mind was what she used for her deep thought and her 
-> creativity
-> .
-> And so that’s what I would call focused 
-> attention
-> , where you’re really being focused and challenged. But she also talked about being able to step away and use what she called her little mind. She did crossword puzzles, or she did small tasks, which kind of allowed her attentional resources to fill back up in the tank.
+
 > Some people do play simple mindless games. One person I talked to said in his office he has a screen, and he just likes to throw that ball on the screen. And it just kind of allows him to kind of reset and relax. So the great poet and writer, 
 > Maya Angelou
 > , talked about her big mind and her little mind. And her big mind was what she used for her deep thought and her 
@@ -1779,3 +1773,12 @@ List of texts / podcast that caught my attention this year (2023 edition).
 > And so that’s what I would call focused 
 > attention
 > , where you’re really being focused and challenged. But she also talked about being able to step away and use what she called her little mind. She did crossword puzzles, or she did small tasks, which kind of allowed her attentional resources to fill back up in the tank.
+
+#### Mastering Programming - by Kent Beck
+* <https://tidyfirst.substack.com/p/mastering-programming>
+* 
+> Slicing. Take a big project, cut it into thin slices, and rearrange the slices to suit your context. I can always slice projects finer and I can always find new permutations of the slices that meet different needs.
+> 
+> One thing at a time. We’re so focused on efficiency that we reduce the number of feedback cycles in an attempt to reduce overhead. This leads to difficult debugging situations whose expected cost is greater than the cycle overhead we avoided.
+> 
+> 
