@@ -14,7 +14,10 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Why you should never retire
 * <https://www.economist.com/business/2024/01/25/why-you-should-never-retire>
 * exactly right; the only problem is that you may develop a disability and one should think about that option. Surely no way I would ever enter the state social system to be taken care of. The horror stories make me cry.
->
-In an episode of “The Sopranos”, a popular television series which started airing in the 1990s, a gangster tells Tony, from the titular family, that he wants to retire. “What are you, a hockey player?” Tony snaps back. Non-fictional non-criminals who are considering an end to their working lives need not worry about broken fingers or other bodily harm. But they must still contend with other potentially painful losses: of income, purpose or, most poignantly, relevance.
+> In an episode of “The Sopranos”, a popular television series which started airing in the 1990s, a gangster tells Tony, from the titular family, that he wants to retire. “What are you, a hockey player?” Tony snaps back. Non-fictional non-criminals who are considering an end to their working lives need not worry about broken fingers or other bodily harm. But they must still contend with other potentially painful losses: of income, purpose or, most poignantly, relevance. Some simply won’t quit. Giorgio Armani refuses to relinquish his role as chief executive of his fashion house at the age of 89. Being Italy’s second-richest man has not dampened his work ethic. Charlie Munger, Warren Buffett’s sidekick at Berkshire Hathaway, worked for the investment powerhouse until he died late last year at the age of 99. Mr Buffett himself is going strong at 93.
 
-Some simply won’t quit. Giorgio Armani refuses to relinquish his role as chief executive of his fashion house at the age of 89. Being Italy’s second-richest man has not dampened his work ethic. Charlie Munger, Warren Buffett’s sidekick at Berkshire Hathaway, worked for the investment powerhouse until he died late last year at the age of 99. Mr Buffett himself is going strong at 93.
+#### Where are Europe’s most expensive cities for renters?
+* <https://www.economist.com/graphic-detail/2024/02/20/where-are-europes-most-expensive-cities-for-renters>
+* 
+>
+
