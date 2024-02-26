@@ -18,6 +18,9 @@ List of texts / podcast that caught my attention this year (2024 edition).
 
 #### Where are Europe’s most expensive cities for renters?
 * <https://www.economist.com/graphic-detail/2024/02/20/where-are-europes-most-expensive-cities-for-renters>
-* 
->
 
+#### After 14 years in the industry, I still find programming difficult 
+* <https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/>
+* The note on creation and the reference to the Pragmatic Programmer's big picture/cathedral view of the world is important.
+>
+While there are many benefits to "creating", and programmers have plenty of opportunities to engage in it, many often lack the awareness of being a "creator." This is similar to the widely told story about a philosopher who asked bricklayers what they were doing. Some were clearly aware they were building a cathedral, while others thought they were merely laying bricks. Many programmers are like the latter, seeing only the bricks, not the cathedral.
