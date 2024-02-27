@@ -32,6 +32,11 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Gemini and Google’s Culture – Stratechery by Ben Thompson
 * <https://stratechery.com/2024/gemini-and-googles-culture/>
 * Critical suggestion that Google must learn from Microsoft and undergo culture change which usually means leadership change.
->
-hose of us who don’t want to tell everyone else what to think, do, paradoxically, need to say so.
+> Those of us who don’t want to tell everyone else what to think, do, paradoxically, need to say so.
+
+#### Change statusline color to show insert or normal mode 
+* <https://vim.fandom.com/wiki/Change_statusline_color_to_show_insert_or_normal_mode>
+* Great tip! No need to move your eyes to check what mode you are in ANYMORE
+
+
 
