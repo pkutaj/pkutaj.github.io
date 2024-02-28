@@ -40,3 +40,12 @@ List of texts / podcast that caught my attention this year (2024 edition).
 
 
 
+
+#### The Science of Learning to Code Debunking Myths and Exploring the Science - CoRecursive Podcast
+* <https://corecursive.com/the-science-of-learning-to-code/>
+* The science behind tutoring and mentoring helps me understand my son's (under)perforamce in some extra-curricular classes he's been taking and I am moving to 121 instructions. Also, "Camel has 2 humps" is rather an interesting story. 
+Adam: So there’s this guy, Benjamin Bloom. He’s a famous educational psychologist, not a computer programmer at all, but he did an experiment that shocked the world. Shocked the world of education that is. I’m not sure how much anyone else cared. But it became known as the Two Sigma problem.
+
+So picture it, it’s Chicago in the 1980s, and Bloom and his team of grad students have set up an experiment with students at different Chicago public schools. They took a group of average students randomly selected, and they had them learn a curriculum through conventional teaching methods, which is like lecturing, testing, some group work, et cetera. Standard classroom stuff.
+
+Another randomly selected group from the same pool of students learned the exact same curriculum, but with one-on-one tutoring. Each student worked through problems on their own, but with a tutor who gave them immediate feedback and then advanced them to the next problem set when they had demonstrated that they had mastered that concept. The results, the students with tutoring vastly outperformed the others by two standard deviations, hence Two Sigma.
