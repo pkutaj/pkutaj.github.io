@@ -38,9 +38,6 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * <https://vim.fandom.com/wiki/Change_statusline_color_to_show_insert_or_normal_mode>
 * Great tip! No need to move your eyes to check what mode you are in ANYMORE
 
-
-
-
 #### The Science of Learning to Code Debunking Myths and Exploring the Science - CoRecursive Podcast
 * <https://corecursive.com/the-science-of-learning-to-code/>
 * The science behind tutoring and mentoring helps me understand my son's (under)perforamce in some extra-curricular classes he's been taking and I am moving to 121 instructions. Also, "Camel has 2 humps" is rather an interesting story. 
