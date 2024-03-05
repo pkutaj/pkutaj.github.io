@@ -46,3 +46,9 @@ Adam: So there’s this guy, Benjamin Bloom. He’s a famous educational psychol
 So picture it, it’s Chicago in the 1980s, and Bloom and his team of grad students have set up an experiment with students at different Chicago public schools. They took a group of average students randomly selected, and they had them learn a curriculum through conventional teaching methods, which is like lecturing, testing, some group work, et cetera. Standard classroom stuff.
 
 Another randomly selected group from the same pool of students learned the exact same curriculum, but with one-on-one tutoring. Each student worked through problems on their own, but with a tutor who gave them immediate feedback and then advanced them to the next problem set when they had demonstrated that they had mastered that concept. The results, the students with tutoring vastly outperformed the others by two standard deviations, hence Two Sigma.
+
+#### A Small Matter of Programming by Bonnie Nardi - Future of Coding - Omny.fm
+* <https://omny.fm/shows/future-of-coding/a-small-matter-of-programming-by-bonnie-nardi>
+* Watching my son having a same relationship to computers as I have to electricity, i.e. reified taken for granted stuff, I am skeptical about end user programming  . It's fight-club hacker's club where this goes. Besides, part of the job description.
+https://en.wikipedia.org/wiki/Small_matter_of_programming
+https://mitpress.mit.edu/9780262140539/
