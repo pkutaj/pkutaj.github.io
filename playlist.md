@@ -52,3 +52,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * https://mitpress.mit.edu/9780262140539/
 
 ### MAR 2024
+
+#### The Perils of Audience Capture - by Gurwinder - The Prism
+* <https://www.gurwinder.blog/p/the-perils-of-audience-capture>
+* Cal Newport talked about audience capture in his interview with Tim Ferris in regards to the leftization of NYT as they switched to subscription-based model. This essay the first place that introduced me to the concept.
+
