@@ -57,3 +57,9 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * <https://www.gurwinder.blog/p/the-perils-of-audience-capture>
 * Cal Newport talked about audience capture in his interview with Tim Ferris in regards to the leftization of NYT as they switched to subscription-based model. This essay the first place that introduced me to the concept.
 
+#### What Monks Know about Focus - by Joel J Miller
+* <https://www.millersbookreview.com/p/jamie-kreiner-how-to-focus>
+* Adventure described is more interesting than proposed methods.
+In his twenties, he and his friend Germanus joined a monastery in Bethlehem. The two became fast friends, “inseparable bunkmates,” of such shared intensity and interest “everyone remarked on the equality of our companionship and our sense of purpose. They said that we were one mind and soul in two bodies.”
+
+The pair wanted to know all the ins and outs of their discipline and decided to travel beyond their local confines to hear from reputed monastic masters. So, for the next decade and a half they traveled the Nile Delta, interviewing the men known as the Desert Fathers, those in monasteries as well as hermits living on their own.
