@@ -70,8 +70,11 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### The subprocess Module: Wrapping Programs With Python – Real Python
 * <https://realpython.com/python-subprocess/>
 
-
 #### Vim Checkbox Toggle - VimTricks
 * <https://vimtricks.com/p/vim-checkbox-toggle/>
 * Optimizing workflows with checklists
+
+#### How to replace a character by a newline in Vim - Stack Overflow
+* <https://stackoverflow.com/questions/71323/how-to-replace-a-character-by-a-newline-in-vim>
+* 
 
