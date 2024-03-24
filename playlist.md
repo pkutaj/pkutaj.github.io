@@ -76,5 +76,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 
 #### How to replace a character by a newline in Vim - Stack Overflow
 * <https://stackoverflow.com/questions/71323/how-to-replace-a-character-by-a-newline-in-vim>
-* 
+
+#### Why we 💚 Vim (Changelog Interviews #450)
+* <https://changelog.com/podcast/450>
+* Much better than 2011 episode, you see how the podcast progressed. Preparaed. Dramarturgy working. Even bad sides of vim mentioned.
 
