@@ -84,3 +84,7 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Vim round table discussion with Drew Neil, Tim Pope, and Yehuda Katz (Changelog Interviews #56)
 * <https://changelog.com/podcast/56>
 * As mentioned above, the worse of the two Changelog episodes. However Drew Neil is still great and Tim Pope makes a mysterious short apppearane.
+
+#### How to Make 'Vim Editor' as Bash-IDE in Linux
+* <https://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/>
+* 
