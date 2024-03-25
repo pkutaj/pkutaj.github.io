@@ -88,3 +88,7 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### How to Make 'Vim Editor' as Bash-IDE in Linux
 * <https://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/>
 * 
+
+#### Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud
+* <https://www.bitsand.cloud/posts/slashing-data-transfer-costs/>
+* 
