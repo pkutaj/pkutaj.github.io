@@ -87,12 +87,15 @@ List of texts / podcast that caught my attention this year (2024 edition).
 
 #### How to Make 'Vim Editor' as Bash-IDE in Linux
 * <https://www.tecmint.com/use-vim-as-bash-ide-using-bash-support-in-linux/>
-* 
 
 #### Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud
 * <https://www.bitsand.cloud/posts/slashing-data-transfer-costs/>
-* 
 
 #### Summarizing ‘The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations’ 
 * <https://kevinczarzasty.medium.com/summarizing-the-devops-handbook-how-to-create-world-class-agility-reliability-and-security-in-86d8357d9995>
 * Accompanying podcast about the technical aspects of flow principle of devops.
+
+#### BashFAQ/031 - Greg's Wiki
+* <http://mywiki.wooledge.org/BashFAQ/031>
+* 
+
