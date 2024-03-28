@@ -97,5 +97,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 
 #### BashFAQ/031 - Greg's Wiki
 * <http://mywiki.wooledge.org/BashFAQ/031>
-* 
+
+#### Cut and Download Youtube Videos
+* <https://ytcutter.cc/>
+* Great. Sometimes I make a short clip and send to my lovely wife via imessage.
 
