@@ -102,3 +102,6 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * <https://ytcutter.cc/>
 * Great. Sometimes I make a short clip and send to my lovely wife via imessage.
 
+#### Advent of Computing: Episode 96 - What Exactly IS A Database? Part I
+* <https://adventofcomputing.libsyn.com/episode-96-what-exactly-is-a-database-part-i>
+* Interesting comparisons of early DB with Lisp. Thoughts on storage, files, and problems that it brings.
