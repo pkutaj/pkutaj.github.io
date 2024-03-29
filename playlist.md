@@ -105,3 +105,7 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Advent of Computing: Episode 96 - What Exactly IS A Database? Part I
 * <https://adventofcomputing.libsyn.com/episode-96-what-exactly-is-a-database-part-i>
 * Interesting comparisons of early DB with Lisp. Thoughts on storage, files, and problems that it brings.
+
+#### Martin Luther: The Man Who Changed The World - YouTube
+* <https://www.youtube.com/watch?v=tCAsmzkaErg&t=345s>
+* What a great into to Reformation
