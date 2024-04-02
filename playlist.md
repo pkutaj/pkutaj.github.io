@@ -1,4 +1,3 @@
----
 layout: page
 title: read_list
 ---
@@ -109,3 +108,7 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Martin Luther: The Man Who Changed The World - YouTube
 * <https://www.youtube.com/watch?v=tCAsmzkaErg&t=345s>
 * What a great into to Reformation
+
+#### Martin Luther: The Man Who Changed The World - YouTube
+* <https://www.youtube.com/watch?v=tCAsmzkaErg&list=PLEbAHi3fZpuEyBOPtr158TY-FW7P1l4Fg&index=214>
+* The link of Protestantism to Progressivism is fascinating.
