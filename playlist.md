@@ -112,3 +112,7 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Martin Luther: The Man Who Changed The World - YouTube
 * <https://www.youtube.com/watch?v=tCAsmzkaErg&list=PLEbAHi3fZpuEyBOPtr158TY-FW7P1l4Fg&index=214>
 * The link of Protestantism to Progressivism is fascinating.
+
+#### The rise of the remote husband
+* <https://www.economist.com/united-states/2024/04/04/the-rise-of-the-remote-husband>
+* Exactly my case. Well spotted.
