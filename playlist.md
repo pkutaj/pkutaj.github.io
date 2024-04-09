@@ -109,10 +109,6 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * <https://www.youtube.com/watch?v=tCAsmzkaErg&t=345s>
 * What a great into to Reformation
 
-#### Martin Luther: The Man Who Changed The World - YouTube
-* <https://www.youtube.com/watch?v=tCAsmzkaErg&list=PLEbAHi3fZpuEyBOPtr158TY-FW7P1l4Fg&index=214>
-* The link of Protestantism to Progressivism is fascinating.
-
 #### The rise of the remote husband
 * <https://www.economist.com/united-states/2024/04/04/the-rise-of-the-remote-husband>
 * Exactly my case. Well spotted.
@@ -120,6 +116,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Never Wish For Less Time - The Daily Dad
 * <https://dailydad.com/never-wish-for-less-time/>
 * Same insigt during meditative practice and reading a bit of Heidegger. Interesting.
-I have a new rule in my life,” ​John Mayer said during a recent show​, “and the rule is: Never wish for less time. Waiting for things to be over is just wishing for less time. Waiting for this to be over to get to the next thing—that’s just wishing for less time.”
+> I have a new rule in my life,” ​John Mayer said during a recent show​, “and the rule is: Never wish for less time. Waiting for things to be over is just wishing for less time. Waiting for this to be over to get to the next thing—that’s just wishing for less time.” Wishing for less time with our kids, that’s what we’re doing. Wishing for their childhood to be over, that’s what we’re doing. “I’ve realized,” he adds, “Everything you love and hate leaves at the same speed: Done. Done. Done. The thing you hate that you have to do tomorrow will be over before you know it, and the thing you’re looking forward to tomorrow will be over before you know it…So wherever you go, just make a home right there and do that thing…Wherever you are, go, ‘this is where it’s all at right now.’ I’ve been having the time of my life because I figured that out.”
 
-Wishing for less time with our kids, that’s what we’re doing. Wishing for their childhood to be over, that’s what we’re doing. “I’ve realized,” he adds, “Everything you love and hate leaves at the same speed: Done. Done. Done. The thing you hate that you have to do tomorrow will be over before you know it, and the thing you’re looking forward to tomorrow will be over before you know it…So wherever you go, just make a home right there and do that thing…Wherever you are, go, ‘this is where it’s all at right now.’ I’ve been having the time of my life because I figured that out.”
+#### John Mayer New Rule in Life Never
+* <https://www.youtube.com/watch?v=sQDaYoREoGs&ab_channel=itsmemiaq>
+* Well said, once again.
