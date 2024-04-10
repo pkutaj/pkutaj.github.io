@@ -128,8 +128,9 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Fareed Zakaria on the Age of Revolutions, the Power of Ideas, and the Rewards of Intellectual Curiosity (Ep. 208) 
 * <https://conversationswithtyler.com/episodes/fareed-zakaria/>
 * On priorities and asset building. Professionalism.
-Sam Huntington was quite an extraordinary character, probably the most important social scientist in the second half of the 20th century. Huge contributions to several fields of political science. He lived next to me. Me, obviously in a tiny graduate student apartment, but he in a townhouse on Beacon Hill. I would sometimes talk to him. We’d have coffee in the mornings.
+> Sam Huntington was quite an extraordinary character, probably the most important social scientist in the second half of the 20th century. Huge contributions to several fields of political science. He lived next to me. Me, obviously in a tiny graduate student apartment, but he in a townhouse on Beacon Hill. I would sometimes talk to him. We’d have coffee in the mornings. He had a routine, which is, he’d get up about 6:00 a.m. He’d go down to the basement of his townhouse, and at 6:30, he would start writing or working on whatever his next big research project was. He’d do that, uninterrupted, for three hours at least, sometimes four. Then, at about 9:30, 10:00, he would take the subway to Harvard. His point was, you got to start the day by doing the important work of academia, which is producing knowledge. All the rest of it — teaching, committee meetings, all that — you can do later. He was so disciplined about that, that every five years or so, he put out another major piece of work, another major book.
 
-He had a routine, which is, he’d get up about 6:00 a.m. He’d go down to the basement of his townhouse, and at 6:30, he would start writing or working on whatever his next big research project was. He’d do that, uninterrupted, for three hours at least, sometimes four. Then, at about 9:30, 10:00, he would take the subway to Harvard.
+#### sockets - What does connection
+* <https://stackoverflow.com/questions/1434451/what-does-connection-reset-by-peer-mean>
+* 
 
-His point was, you got to start the day by doing the important work of academia, which is producing knowledge. All the rest of it — teaching, committee meetings, all that — you can do later. He was so disciplined about that, that every five years or so, he put out another major piece of work, another major book.
