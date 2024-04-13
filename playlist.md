@@ -152,3 +152,8 @@ Human children play a lot. All mammal children do. They have to play to wire up 
 The problem with screens is that they’re so attractive. They came in, the whole virtual world opened up just as we were freaking out about child abduction in the ’80s and ’90s. The main argument in the book is that we have taken the healthy, normal, play-based childhood that all mammals need, and we swapped it out and gave them a phone-based childhood, once we gave them an iPhone.
 
 The issue isn’t like, “Oh, you have a screen. Let’s have AI get rid of the screen.” No. The issue is, you are on this thing, which we can call an experience blocker. A phone is an experience blocker. That means you spend a lot less time talking to other people, in the presence of other people. You’re not with your friends. You are sleeping less. You’re out in nature less. You have less of almost everything. You don’t read books. You have no time for anything else.
+
+#### Gemini 1.5 and Google’s Nature – Stratechery by Ben Thompson
+* <https://stratechery.com/2024/gemini-1-5-and-googles-nature/>
+* Lots of attention on GCP also at my work. Ben argues that AI will push Google away from search as it cloud has a different business model. Let's see said the zen master.
+
