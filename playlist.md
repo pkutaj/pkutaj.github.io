@@ -143,3 +143,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * <https://www.nature.com/articles/s41598-024-57916-z>
 * A bit ezoteric, but perhaps a cool life hack.
 > Anger suppression is important in our daily life, as its failure can sometimes lead to the breaking down of relationships in families. Thus, effective strategies to suppress or neutralise anger have been examined. This study shows that physical disposal of a piece of paper containing one’s written thoughts on the cause of a provocative event neutralises anger, while holding the paper did not.
+
+#### SE Radio 609: Hyrum Wright on Software Engineering at Google – Software Engineering Radio
+* <https://se-radio.net/2024/03/se-radio-609-hyrum-wright-on-software-engineering-at-google/>
+* I am a hider, good to call me out directly. Thanks.
+A lot of engineers, myself included, a lot of early career engineers specifically can struggle with getting concrete and sometimes critical feedback on their code or their designs. It’s not that you’re a bad person, it’s that how can we help you improve your system? And the reaction to that is oftentimes we tend to hide things; we tend to keep it hidden until we think that we have the best product. But over time, that actually takes longer to get to the best outcome, and it doesn’t always lead to the best outcome because you can’t fix things farther down the road.
