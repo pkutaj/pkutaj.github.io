@@ -138,3 +138,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 #### Opinion 
 * <https://www.nytimes.com/2024/03/29/opinion/ezra-klein-podcast-john-ganz.html>
 * Not sure. I am in Slovakia. Feel the middle-finger politics is very active here, too. But from the left.
+
+#### Anger is eliminated with the disposal of a paper written because of provocation 
+* <https://www.nature.com/articles/s41598-024-57916-z>
+* A bit ezoteric, but perhaps a cool life hack.
+Anger suppression is important in our daily life, as its failure can sometimes lead to the breaking down of relationships in families. Thus, effective strategies to suppress or neutralise anger have been examined. This study shows that physical disposal of a piece of paper containing one’s written thoughts on the cause of a provocative event neutralises anger, while holding the paper did not.
