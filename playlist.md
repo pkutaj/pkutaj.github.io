@@ -130,7 +130,10 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * On priorities and asset building. Professionalism.
 > Sam Huntington was quite an extraordinary character, probably the most important social scientist in the second half of the 20th century. Huge contributions to several fields of political science. He lived next to me. Me, obviously in a tiny graduate student apartment, but he in a townhouse on Beacon Hill. I would sometimes talk to him. We’d have coffee in the mornings. He had a routine, which is, he’d get up about 6:00 a.m. He’d go down to the basement of his townhouse, and at 6:30, he would start writing or working on whatever his next big research project was. He’d do that, uninterrupted, for three hours at least, sometimes four. Then, at about 9:30, 10:00, he would take the subway to Harvard. His point was, you got to start the day by doing the important work of academia, which is producing knowledge. All the rest of it — teaching, committee meetings, all that — you can do later. He was so disciplined about that, that every five years or so, he put out another major piece of work, another major book.
 
-#### sockets - What does connection
+#### What does connection reset by peer mean
 * <https://stackoverflow.com/questions/1434451/what-does-connection-reset-by-peer-mean>
-* 
+> "Connection reset by peer" is the TCP/IP equivalent of slamming the phone back on the hook. It's more polite than merely not replying, leaving one hanging. But it's not the FIN-ACK expected of the truly polite TCP/IP converseur.
 
+#### Opinion 
+* <https://www.nytimes.com/2024/03/29/opinion/ezra-klein-podcast-john-ganz.html>
+* Not sure. I am in Slovakia. Feel the middle-finger politics is very active here, too. But from the left.
