@@ -144,7 +144,11 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * A bit ezoteric, but perhaps a cool life hack.
 > Anger suppression is important in our daily life, as its failure can sometimes lead to the breaking down of relationships in families. Thus, effective strategies to suppress or neutralise anger have been examined. This study shows that physical disposal of a piece of paper containing one’s written thoughts on the cause of a provocative event neutralises anger, while holding the paper did not.
 
-#### SE Radio 609: Hyrum Wright on Software Engineering at Google – Software Engineering Radio
-* <https://se-radio.net/2024/03/se-radio-609-hyrum-wright-on-software-engineering-at-google/>
-* I am a hider, good to call me out directly. Thanks.
-A lot of engineers, myself included, a lot of early career engineers specifically can struggle with getting concrete and sometimes critical feedback on their code or their designs. It’s not that you’re a bad person, it’s that how can we help you improve your system? And the reaction to that is oftentimes we tend to hide things; we tend to keep it hidden until we think that we have the best product. But over time, that actually takes longer to get to the best outcome, and it doesn’t always lead to the best outcome because you can’t fix things farther down the road.
+#### Jonathan Haidt on Adjusting to Smartphones and Social Media (Ep. 209) 
+* <https://conversationswithtyler.com/episodes/jonathan-haidt-anxious-generation/>
+* Sociologist talking about natural needs of humans. Finally someone.
+Human children play a lot. All mammal children do. They have to play to wire up their brains. They have to do that a lot, and we all did that. Everyone over 40 did that. We did that during a crime wave, when there were flashers and perverts and drunk drivers. We didn’t use to lock them up. Now we do. It’s gotten much safer since the ’90s. We went out when life had some danger in it. We played and played and played. We loved TV. We probably watched two or three hours a day of that, but we had a lot of time unsupervised to play.
+
+The problem with screens is that they’re so attractive. They came in, the whole virtual world opened up just as we were freaking out about child abduction in the ’80s and ’90s. The main argument in the book is that we have taken the healthy, normal, play-based childhood that all mammals need, and we swapped it out and gave them a phone-based childhood, once we gave them an iPhone.
+
+The issue isn’t like, “Oh, you have a screen. Let’s have AI get rid of the screen.” No. The issue is, you are on this thing, which we can call an experience blocker. A phone is an experience blocker. That means you spend a lot less time talking to other people, in the presence of other people. You’re not with your friends. You are sleeping less. You’re out in nature less. You have less of almost everything. You don’t read books. You have no time for anything else.
