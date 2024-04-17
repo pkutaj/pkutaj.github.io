@@ -153,7 +153,12 @@ The problem with screens is that they’re so attractive. They came in, the whol
 
 The issue isn’t like, “Oh, you have a screen. Let’s have AI get rid of the screen.” No. The issue is, you are on this thing, which we can call an experience blocker. A phone is an experience blocker. That means you spend a lot less time talking to other people, in the presence of other people. You’re not with your friends. You are sleeping less. You’re out in nature less. You have less of almost everything. You don’t read books. You have no time for anything else.
 
+### APR 2024
 #### Gemini 1.5 and Google’s Nature – Stratechery by Ben Thompson
 * <https://stratechery.com/2024/gemini-1-5-and-googles-nature/>
 * Lots of attention on GCP also at my work. Ben argues that AI will push Google away from search as it cloud has a different business model. Let's see said the zen master.
+
+#### media.vimcasts.org/videos/39/profiling.m4v
+* <http://media.vimcasts.org/videos/39/profiling.m4v>
+* Right when my .vimrc started to take ages to save!
 
