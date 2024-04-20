@@ -162,3 +162,10 @@ The issue isn’t like, “Oh, you have a screen. Let’s have AI get rid of the
 * <http://media.vimcasts.org/videos/39/profiling.m4v>
 * Right when my .vimrc started to take ages to save!
 
+
+#### Tips on Adding JSON Output to Your CLI App - Brazil's Blog
+* <https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/>
+* JSON output used the most with AWS CLI. +1
+A couple of years ago I wrote a somewhat controversial article on the topic of Bringing the Unix Philosophy to the 21st Century by adding a JSON output option to CLI tools. This allows easier parsing in scripts by using JSON parsing tools like jq, jello, jp, etc. without arcane awk, sed, cut, tr, reverse, etc. incantations.
+
+It was controversial because there seem to be a lot of folks who don’t think writing bespoke parsers for each task is a big deal. Others think JSON is evil.
