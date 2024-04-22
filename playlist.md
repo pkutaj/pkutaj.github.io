@@ -169,3 +169,10 @@ The issue isn’t like, “Oh, you have a screen. Let’s have AI get rid of the
 A couple of years ago I wrote a somewhat controversial article on the topic of Bringing the Unix Philosophy to the 21st Century by adding a JSON output option to CLI tools. This allows easier parsing in scripts by using JSON parsing tools like jq, jello, jp, etc. without arcane awk, sed, cut, tr, reverse, etc. incantations.
 
 It was controversial because there seem to be a lot of folks who don’t think writing bespoke parsers for each task is a big deal. Others think JSON is evil.
+
+#### Foreword to The Art of Doing Science and Engineering
+* <https://worrydream.com/HammingForeword/>
+* Linking to https://corecursive.com/brian-kernighan-unix-bell-labs1/#thinking-great-thoughts-with-richard-hamming
+Hamming’s own career reflects this contradiction. He was employed essentially as a kind of internal mathematical consultant; he spent his days helping other people with their problems, often problems of a practical and mundane nature. Rather than begrudging this work, he saw it as the “interaction with harsh reality” necessary to keep his head out of the clouds, and at best, the continuous production of “micro-Nobel Prizes.” And most critically, all of his “great” work, his many celebrated inventions, grew directly out of these problems he was solving for other people.
+
+Throughout, Hamming insisted on an open door, lunched with anyone he could learn from or argue with, stormed in and out of colleagues’ offices, and otherwise made indisputable the social dimensions of advancing a field.
