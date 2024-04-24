@@ -176,3 +176,8 @@ It was controversial because there seem to be a lot of folks who don’t think w
 Hamming’s own career reflects this contradiction. He was employed essentially as a kind of internal mathematical consultant; he spent his days helping other people with their problems, often problems of a practical and mundane nature. Rather than begrudging this work, he saw it as the “interaction with harsh reality” necessary to keep his head out of the clouds, and at best, the continuous production of “micro-Nobel Prizes.” And most critically, all of his “great” work, his many celebrated inventions, grew directly out of these problems he was solving for other people.
 
 Throughout, Hamming insisted on an open door, lunched with anyone he could learn from or argue with, stormed in and out of colleagues’ offices, and otherwise made indisputable the social dimensions of advancing a field.
+
+#### Bringing the Unix Philosophy to the 21st Century - Brazil's Blog
+* <https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/>
+* Ambitious writing supported by heaps of engineering effort. +1
+The Unix philosophy of using compact expert tools that do one thing well and pipelining them together to manipulate data is a great idea and has worked well for the past few decades. This philosophy was outlined in the 1978 Foreward to the Bell System Technical Journal describing the UNIX Time-Sharing System
