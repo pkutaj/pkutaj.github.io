@@ -51,8 +51,8 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * https://en.wikipedia.org/wiki/Small_matter_of_programming
 * https://mitpress.mit.edu/9780262140539/
 
-### MAR 2024
 
+### MAR 2024
 #### The Perils of Audience Capture - by Gurwinder - The Prism
 * <https://www.gurwinder.blog/p/the-perils-of-audience-capture>
 * Cal Newport talked about audience capture in his interview with Tim Ferris in regards to the leftization of NYT as they switched to subscription-based model. This essay the first place that introduced me to the concept.
@@ -181,3 +181,7 @@ Throughout, Hamming insisted on an open door, lunched with anyone he could learn
 * <https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/>
 * Ambitious writing supported by heaps of engineering effort. +1
 The Unix philosophy of using compact expert tools that do one thing well and pipelining them together to manipulate data is a great idea and has worked well for the past few decades. This philosophy was outlined in the 1978 Foreward to the Bell System Technical Journal describing the UNIX Time-Sharing System
+
+#### Opinion 
+* <https://www.nytimes.com/2024/04/23/opinion/ezra-klein-podcast-adam-moss.html>
+* The relevance and concept of editting got to me in the best of moments. It is the first time I am co-authoring something with my wife and I am getting early feedback of her great editting talent. Hurts a bit and I value that tremendously.
