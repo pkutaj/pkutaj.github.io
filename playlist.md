@@ -190,3 +190,9 @@ The Unix philosophy of using compact expert tools that do one thing well and pip
 * <https://two-wrongs.com/laws-of-software-evolution>
 * Sober voice against woke, it seems.
 Andrew Kelly has written a thoughtful article on why we can’t have nice software. He acknowledges that software often gets continuous maintenance, and notes that this is curious, since “bits don’t actually rot” on their own, i.e. software should not get worse just by existing. He searches for another explanation for this maintenance effort, and settles on it being a manufactured demand. Andrew Kelly says continuous maintenance is a corporate conspiracy where in order to make profits companies make changes that are not necessary.
+
+#### Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit - YouTube
+* <https://www.youtube.com/watch?v=cEg8cOx7UZk>
+* The amount of dry humor is amazing.
+
+
