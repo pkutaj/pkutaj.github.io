@@ -182,6 +182,11 @@ Throughout, Hamming insisted on an open door, lunched with anyone he could learn
 * Ambitious writing supported by heaps of engineering effort. +1
 The Unix philosophy of using compact expert tools that do one thing well and pipelining them together to manipulate data is a great idea and has worked well for the past few decades. This philosophy was outlined in the 1978 Foreward to the Bell System Technical Journal describing the UNIX Time-Sharing System
 
-#### Opinion 
+#### This Conversation made me a Better Editor - Ezra Klein Show 
 * <https://www.nytimes.com/2024/04/23/opinion/ezra-klein-podcast-adam-moss.html>
 * The relevance and concept of editting got to me in the best of moments. It is the first time I am co-authoring something with my wife and I am getting early feedback of her great editting talent. Hurts a bit and I value that tremendously.
+
+#### Laws of Software Evolution
+* <https://two-wrongs.com/laws-of-software-evolution>
+* Sober voice against woke, it seems.
+Andrew Kelly has written a thoughtful article on why we can’t have nice software. He acknowledges that software often gets continuous maintenance, and notes that this is curious, since “bits don’t actually rot” on their own, i.e. software should not get worse just by existing. He searches for another explanation for this maintenance effort, and settles on it being a manufactured demand. Andrew Kelly says continuous maintenance is a corporate conspiracy where in order to make profits companies make changes that are not necessary.
