@@ -210,3 +210,8 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### Elephant in the Room - Future of Coding - Omny.fm
 * <https://omny.fm/shows/future-of-coding/elephant-in-the-room>
 * Meet Bret Victor's Demoes if you have not. Amazing.
+
+#### Cal Newport's Planning System (In Detail) - YouTube
+* <https://www.youtube.com/watch?v=3FipKTzkTD4>
+* Cal Newport staying faithful to some of his college practices like shutdown ritual. Enjoyable!
+
