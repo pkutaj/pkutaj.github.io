@@ -202,11 +202,11 @@ Andrew Kelly has written a thoughtful article on why we can’t have nice softwa
 
 #### Other people’s problems 
 * <https://seths.blog/2024/04/other-peoples-problems/>
-* 
 It’s surprisingly easy to be generous and find solutions to our friend’s problems.
-
 Much easier than it is to do it for ourselves. Why?
-
 There are two useful reasons, I think.
-
 FIRST, because we’re unaware of all the real and imaginary boundaries our friends have set up. If it were easy to solve the problem, they probably would have. But they’re making it hard because they have decided that there are people or systems that aren’t worth challenging.
+
+#### Elephant in the Room - Future of Coding - Omny.fm
+* <https://omny.fm/shows/future-of-coding/elephant-in-the-room>
+* Meet Bret Victor's Demoes if you have not. Amazing.
