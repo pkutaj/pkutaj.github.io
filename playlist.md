@@ -215,3 +215,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 * <https://www.youtube.com/watch?v=3FipKTzkTD4>
 * Cal Newport staying faithful to some of his college practices like shutdown ritual. Enjoyable!
 
+#### Albín Polášek – Wikipedie
+* <https://cs.wikipedia.org/wiki/Alb%C3%ADn_Pol%C3%A1%C5%A1ek>
+* 
