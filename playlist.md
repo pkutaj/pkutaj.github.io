@@ -218,3 +218,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### Albín Polášek – Wikipedie
 * <https://cs.wikipedia.org/wiki/Alb%C3%ADn_Pol%C3%A1%C5%A1ek>
 * 
+
+#### Advanced Vim registers 
+* <https://blog.sanctum.geek.nz/advanced-vim-registers/>
+* Vim Science +1
