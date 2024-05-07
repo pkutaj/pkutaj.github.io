@@ -222,3 +222,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### Advanced Vim registers 
 * <https://blog.sanctum.geek.nz/advanced-vim-registers/>
 * Vim Science +1
+
+#### python - How to copy files - Stack Overflow
+* <https://stackoverflow.com/questions/123198/how-to-copy-files>
+* After all this time, finally getting to shutil built-in module
