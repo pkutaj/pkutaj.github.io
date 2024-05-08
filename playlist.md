@@ -226,3 +226,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### python - How to copy files - Stack Overflow
 * <https://stackoverflow.com/questions/123198/how-to-copy-files>
 * After all this time, finally getting to shutil built-in module
+
+#### vim - Redefine tab as 4 spaces - Stack Overflow
+* <https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces>
+* combined with vimcast http://vimcasts.org/episodes/show-invisibles/ on a similar subject
