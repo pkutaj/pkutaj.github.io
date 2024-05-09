@@ -230,3 +230,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### vim - Redefine tab as 4 spaces - Stack Overflow
 * <https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces>
 * combined with vimcast http://vimcasts.org/episodes/show-invisibles/ on a similar subject
+
+#### Chapter I: The birth of Parquet 
+* <https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html>
+* A bit more complex then JSON, a bit less relevant, still a big deal.
