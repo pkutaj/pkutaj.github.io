@@ -234,3 +234,8 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### Chapter I: The birth of Parquet 
 * <https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html>
 * A bit more complex then JSON, a bit less relevant, still a big deal.
+
+#### The defensive arrogance of TL;DR 
+* <https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/>
+* 
+TL;DR is defensive. Not simply because it defends our time, but because it defends us from change and from lived experience. A joke isn’t funny because it has a punchline. It’s funny because something happens to us as the joke unfolds, and the punch line is simply a punctuation of that experience.
