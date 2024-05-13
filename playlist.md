@@ -239,3 +239,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 * <https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/>
 * 
 TL;DR is defensive. Not simply because it defends our time, but because it defends us from change and from lived experience. A joke isn’t funny because it has a punchline. It’s funny because something happens to us as the joke unfolds, and the punch line is simply a punctuation of that experience.
+
+#### Professional corner-cutting : Havoc's Blog
+* <https://blog.ometer.com/2016/05/04/professional-corner-cutting/>
+* 
