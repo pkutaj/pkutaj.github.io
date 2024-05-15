@@ -243,3 +243,7 @@ TL;DR is defensive. Not simply because it defends our time, but because it defen
 #### Professional corner-cutting : Havoc's Blog
 * <https://blog.ometer.com/2016/05/04/professional-corner-cutting/>
 * 
+
+#### Brad DeLong on Intellectual and Technical Progress (Ep. 172) 
+* <https://conversationswithtyler.com/episodes/brad-delong/>
+* Modernism still with us.
