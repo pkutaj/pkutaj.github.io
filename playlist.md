@@ -247,3 +247,7 @@ TL;DR is defensive. Not simply because it defends our time, but because it defen
 #### Brad DeLong on Intellectual and Technical Progress (Ep. 172) 
 * <https://conversationswithtyler.com/episodes/brad-delong/>
 * Modernism still with us.
+
+#### Quality First and Other Advice
+* <https://bastian.rieck.me/blog/2023/quality/>
+* 
