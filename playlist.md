@@ -255,3 +255,7 @@ TL;DR is defensive. Not simply because it defends our time, but because it defen
 #### A simple illustration of the benefits of feminization - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2021/09/a-simple-illustration-of-the-benefits-of-feminization.html>
 * 
+
+#### How I quadrupled my typing speed. Using deliberate practice to improve… 
+* <https://louiskruger.medium.com/how-i-quadrupled-my-typing-speed-2c707d78f551>
+* 
