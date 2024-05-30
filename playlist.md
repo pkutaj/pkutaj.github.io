@@ -259,3 +259,8 @@ TL;DR is defensive. Not simply because it defends our time, but because it defen
 #### How I quadrupled my typing speed. Using deliberate practice to improve… 
 * <https://louiskruger.medium.com/how-i-quadrupled-my-typing-speed-2c707d78f551>
 * 
+
+#### What I think about when I edit — Eva Parish
+* <https://evaparish.com/blog/how-i-edit>
+* Many gems.
+Spell out acronyms on first use. Any time you introduce an acronym or an initialism in a document, spell out what it means and put the acronym in parentheses. Thereafter, you can use the acronym by itself.
