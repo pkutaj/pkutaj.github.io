@@ -268,3 +268,8 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### Senior Engineer Fatigue - Blog 
 * <https://luminousmen.com/post/senior-engineer-fatigue?utm_source=changelog-news>
 * 
+
+#### Ultra-Processed People: Why Do We All Eat Stuff That Isn’t Food … and Why Can’t We Stop? : Tulleken, Chris van: Amazon.co.uk: Books
+* <https://www.amazon.co.uk/Ultra-Processed-People-Stuff-That-Isnt/dp/1529900050>
+* 
+
