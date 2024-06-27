@@ -280,3 +280,7 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### The Demise of the Mildly Dynamic Website
 * <https://www.devever.net/%7Ehl/mildlydynamic?utm_source=changelog-news>
 * 
+
+#### Start all of your commands with a comma
+* <https://rhodesmill.org/brandon/2009/commands-with-comma/>
+* 
