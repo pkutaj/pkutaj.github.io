@@ -267,20 +267,19 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 
 #### Senior Engineer Fatigue - Blog 
 * <https://luminousmen.com/post/senior-engineer-fatigue?utm_source=changelog-news>
-* 
 
 #### Ultra-Processed People: Why Do We All Eat Stuff That Isn’t Food … and Why Can’t We Stop? : Tulleken, Chris van: Amazon.co.uk: Books
 * <https://www.amazon.co.uk/Ultra-Processed-People-Stuff-That-Isnt/dp/1529900050>
-* 
-
 
 #### Early websites. In the beginning, website HTML was crafted by hand. Your average personal — or corporate — website might consist of hand-edited HTML subsequently uploaded, probably via FTP, to a web server which knew only how to serve static files.  Since web pages in a set often include shared elements like headers and footers, maintaining this was obviously troublesome. I have no doubt each and every person charged with maintaining such a website found their own solutions. Maybe they wrote simple Perl scripts to generate pages with common headers. If they weren't programmers, maybe they used some tool like Frontpage, Dreamweaver or Hotdog that (possibly) offered some useful functionality in this regard. Or maybe they just stuck it out and edited every page manually when they wanted to change the header or footer. You might think that sounds nuts, but I'm fairly sure it was quite common.  At some point “Server Side Includes” (SSI) came along, offering extremely basic file inclusion functionality to allow common headers and footers. CGI was developed, allowing web pages to be produced from dynamic scripts. While groundbreaking for enabling dynamic web applications, I got the impression most ordinary websites did not make use of it for serving pages. Many web servers required or at least recommended CGI scripts to be placed in a special cgi-bin directory, making URLs rather cumbersome. One major CGI application was the blogging platform Movable Type, which featured a CGI and Perl-based administration webapp which automatically regenerated static files from a database whenever changes were made.
 * <https://www.devever.net/%7Ehl/mildlydynamic?utm_source=changelog-news>
 
 #### The Demise of the Mildly Dynamic Website
 * <https://www.devever.net/%7Ehl/mildlydynamic?utm_source=changelog-news>
-* 
 
 #### Start all of your commands with a comma
 * <https://rhodesmill.org/brandon/2009/commands-with-comma/>
+
+#### Comparing buffers with vimdiff
+* <http://vimcasts.org/episodes/comparing-buffers-with-vimdiff/>
 * 
