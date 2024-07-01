@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Cloud Infrastructure Support Engineer_
+**PAVOL KUTAJ** | _Senior Cloud Support Engineer_
 ----------------|------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
@@ -10,20 +10,17 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q1/2024)
+### NOW (Q3/2024)
 * Deep diving into
     - Bash scripting since 2024 is the year of migration from Windows (and Powershell) to Mac 
     - Terraform
     - AWS/GCP services, mainly Cloudwatch and Kubernetes Engine/Workload resource management
     - Docker image creation for internal automation toolage
-    - GitHub Copilot best practices
 * Optimizing 
     - Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
     - Snowplow rollout processes
     - Configuration of Terraform drift mechanisms and alerting (OpsGenie)
-* Building dashboards for SLA/SLO breach analysis (SQL/Redash/Preset is coming...) 
-* Writing [blog](https://pavolkutaj.medium.com/) to share my notes/playbooks on medium
-* Writing up a [read-list of 2024](https://pavol.kutaj.com/playlist.html)
+* Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset) 
 
 ### EXPERIENCE
 #### AWS/GCP Cloud Infrastructure Support Engineer
