@@ -283,3 +283,7 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### Comparing buffers with vimdiff
 * <http://vimcasts.org/episodes/comparing-buffers-with-vimdiff/>
 * 
+
+#### Where DOESN’T curl run with curl BDFL Daniel Stenberg (Changelog & Friends #49)
+* <https://changelog.com/friends/49#t=552>
+* 
