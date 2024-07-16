@@ -296,3 +296,7 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts
 * <https://fev.al/posts/work-journal/>
 * 
+
+#### Docs as Code — Write the Docs
+* <https://www.writethedocs.org/guide/docs-as-code/>
+* 
