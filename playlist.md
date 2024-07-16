@@ -287,3 +287,8 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### Where DOESN’T curl run with curl BDFL Daniel Stenberg (Changelog & Friends #49)
 * <https://changelog.com/friends/49#t=552>
 * 
+
+#### Marcus' Blog
+* <https://mbuffett.com/posts/programming-advice-younger-self/>
+* 
+
