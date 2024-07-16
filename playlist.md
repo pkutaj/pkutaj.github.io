@@ -300,3 +300,7 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 #### Docs as Code — Write the Docs
 * <https://www.writethedocs.org/guide/docs-as-code/>
 * 
+
+#### A Git story: Not so fun this time 
+* <https://blog.brachiosoft.com/en/posts/git/>
+* 
