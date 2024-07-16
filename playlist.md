@@ -292,3 +292,7 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 * <https://mbuffett.com/posts/programming-advice-younger-self/>
 * 
 
+
+#### Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts
+* <https://fev.al/posts/work-journal/>
+* 
