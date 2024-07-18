@@ -1,4 +1,3 @@
----
 layout: page
 title: read_list
 ---
@@ -201,7 +200,7 @@ Andrew Kelly has written a thoughtful article on why we can’t have nice softwa
 
 
 #### Other people’s problems 
-* <https://seths.blog/2024/04/other-peoples-problems/>
+* <https://seths.blog/2024/04/other-peoples-problems/>zz
 It’s surprisingly easy to be generous and find solutions to our friend’s problems.
 Much easier than it is to do it for ourselves. Why?
 There are two useful reasons, I think.
@@ -229,7 +228,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### vim - Redefine tab as 4 spaces - Stack Overflow
 * <https://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces>
-* combined with vimcast http://vimcasts.org/episodes/show-invisibles/ on a similar subject
+* combined with vimcast <http://vimcasts.org/episodes/show-invisibles/> on a similar subject
 
 #### Chapter I: The birth of Parquet 
 * <https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html>
@@ -237,8 +236,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### The defensive arrogance of TL;DR 
 * <https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/>
-* 
-TL;DR is defensive. Not simply because it defends our time, but because it defends us from change and from lived experience. A joke isn’t funny because it has a punchline. It’s funny because something happens to us as the joke unfolds, and the punch line is simply a punctuation of that experience.
+* TL;DR is defensive. Not simply because it defends our time, but because it defends us from change and from lived experience. A joke isn’t funny because it has a punchline. It’s funny because something happens to us as the joke unfolds, and the punch line is simply a punctuation of that experience.
 
 #### Professional corner-cutting : Havoc's Blog
 * <https://blog.ometer.com/2016/05/04/professional-corner-cutting/>
@@ -250,20 +248,16 @@ TL;DR is defensive. Not simply because it defends our time, but because it defen
 
 #### Quality First and Other Advice
 * <https://bastian.rieck.me/blog/2023/quality/>
-* 
 
 #### A simple illustration of the benefits of feminization - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2021/09/a-simple-illustration-of-the-benefits-of-feminization.html>
-* 
 
 #### How I quadrupled my typing speed. Using deliberate practice to improve… 
 * <https://louiskruger.medium.com/how-i-quadrupled-my-typing-speed-2c707d78f551>
-* 
 
 #### What I think about when I edit — Eva Parish
 * <https://evaparish.com/blog/how-i-edit>
 * Many gems.
-Spell out acronyms on first use. Any time you introduce an acronym or an initialism in a document, spell out what it means and put the acronym in parentheses. Thereafter, you can use the acronym by itself.
 
 #### Senior Engineer Fatigue - Blog 
 * <https://luminousmen.com/post/senior-engineer-fatigue?utm_source=changelog-news>
@@ -282,25 +276,22 @@ Spell out acronyms on first use. Any time you introduce an acronym or an initial
 
 #### Comparing buffers with vimdiff
 * <http://vimcasts.org/episodes/comparing-buffers-with-vimdiff/>
-* 
 
 #### Where DOESN’T curl run with curl BDFL Daniel Stenberg (Changelog & Friends #49)
 * <https://changelog.com/friends/49#t=552>
-* 
 
 #### Marcus' Blog
 * <https://mbuffett.com/posts/programming-advice-younger-self/>
-* 
-
 
 #### Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts
 * <https://fev.al/posts/work-journal/>
-* 
 
 #### Docs as Code — Write the Docs
 * <https://www.writethedocs.org/guide/docs-as-code/>
-* 
 
 #### A Git story: Not so fun this time 
 * <https://blog.brachiosoft.com/en/posts/git/>
+
+#### The changes in vibes - why did they happen? - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2024/07/the-changes-in-vibes-why-did-they-happen.html>
 * 
