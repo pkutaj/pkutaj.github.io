@@ -295,3 +295,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### The changes in vibes - why did they happen? - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2024/07/the-changes-in-vibes-why-did-they-happen.html>
 * 
+
+#### Display the Search Count in Vim's Status Bar — Nick Janetakis
+* <https://nickjanetakis.com/blog/display-the-search-count-in-vims-status-bar>
+* 
