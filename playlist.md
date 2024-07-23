@@ -1,3 +1,4 @@
+---
 layout: page
 title: read_list
 ---
@@ -280,7 +281,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### Where DOESN’T curl run with curl BDFL Daniel Stenberg (Changelog & Friends #49)
 * <https://changelog.com/friends/49#t=552>
 
-#### Marcus' Blog
+#### Marcus' Blog - Programming Advice to Younger Self
 * <https://mbuffett.com/posts/programming-advice-younger-self/>
 
 #### Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts
@@ -294,8 +295,9 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### The changes in vibes - why did they happen? - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2024/07/the-changes-in-vibes-why-did-they-happen.html>
-* 
 
 #### Display the Search Count in Vim's Status Bar — Nick Janetakis
 * <https://nickjanetakis.com/blog/display-the-search-count-in-vims-status-bar>
-* 
+
+#### We’re Not Balanced Right - The Daily Dad
+* <https://dailydad.com/were-not-balanced-right/>
