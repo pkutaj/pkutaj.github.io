@@ -301,3 +301,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### We’re Not Balanced Right - The Daily Dad
 * <https://dailydad.com/were-not-balanced-right/>
+
+#### Crashes and Competition – Stratechery by Ben Thompson
+* <https://stratechery.com/2024/crashes-and-competition/>
