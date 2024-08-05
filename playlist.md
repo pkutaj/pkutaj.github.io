@@ -304,3 +304,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### Crashes and Competition – Stratechery by Ben Thompson
 * <https://stratechery.com/2024/crashes-and-competition/>
+
+#### The Product Analytics Market: Overview and Deep Dive
+* <https://www.news.aakashg.com/p/product-analytics-market>
