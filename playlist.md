@@ -310,3 +310,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### A gambler's guide to giving talks - by Benn Stancil
 * <https://benn.substack.com/p/a-gamblers-guide-to-giving-talks>
+
+#### OODA and You - Robert Greene
+* <https://powerseductionandwar.com/ooda-and-you/>
