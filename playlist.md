@@ -313,3 +313,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### OODA and You - Robert Greene
 * <https://powerseductionandwar.com/ooda-and-you/>
+
+#### Practices of Reliable Software Design
+* <https://two-wrongs.com/practices-of-reliable-software-design?utm_source=changelog-news>
