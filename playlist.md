@@ -316,3 +316,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### Practices of Reliable Software Design
 * <https://two-wrongs.com/practices-of-reliable-software-design?utm_source=changelog-news>
+
+#### Lidl’s Cloud Gambit: Europe’s Shift to Sovereign Computing 
+* <https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311>
