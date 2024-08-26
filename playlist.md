@@ -1,6 +1,6 @@
 ---
 layout: page
-title: read_list
+TItle: read_list
 ---
 
 List of texts / podcast that caught my attention this year (2024 edition).
@@ -319,3 +319,7 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 
 #### Lidl’s Cloud Gambit: Europe’s Shift to Sovereign Computing 
 * <https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311>
+
+#### The Most Important Question of Your Life
+* <https://markmanson.net/question>
+
