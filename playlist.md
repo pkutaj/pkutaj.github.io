@@ -323,7 +323,6 @@ FIRST, because we’re unaware of all the real and imaginary boundaries our frie
 #### The Most Important Question of Your Life
 * <https://markmanson.net/question>
 
-
 #### Evolving JavaScript with Douglas Crockford - The Transcript
 * <https://softwareengineeringdaily.com/wp-content/uploads/2024/08/SED1722-Douglas-Crockford.txt>
 ne day, I was out bicycling and I had this realization that JavaScript had lambdas in it, which nobody ever told us that it had that, and it doesn't really say so in the standard, but you put it together and that completely changed my understanding of the language. That this is really a functional language with dynamic objects. We've never seen a language like this. It's brilliant that it's incredibly expressive and wonderful, and that changed my life. That epiphany put me down this road, which has served me really well.
@@ -331,3 +330,6 @@ ne day, I was out bicycling and I had this realization that JavaScript had lambd
 #### Eric S. Raymond - Wikipedia
 * <https://en.wikipedia.org/wiki/Eric_S._Raymond>
 
+#### Getting away with it - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/getting-away-with-it?utm_source=post-email-title&publication_id=23588&post_id=148586186&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+Brilliant.
