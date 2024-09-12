@@ -330,6 +330,10 @@ ne day, I was out bicycling and I had this realization that JavaScript had lambd
 #### Eric S. Raymond - Wikipedia
 * <https://en.wikipedia.org/wiki/Eric_S._Raymond>
 
+### SEP 2024
 #### Getting away with it - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/getting-away-with-it?utm_source=post-email-title&publication_id=23588&post_id=148586186&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 Brilliant.
+
+#### David Chang on the long, hard, stupid way – Herbert Lui
+* <https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/>
