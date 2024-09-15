@@ -337,3 +337,6 @@ Brilliant.
 
 #### David Chang on the long, hard, stupid way – Herbert Lui
 * <https://herbertlui.net/david-chang-on-the-long-hard-stupid-way/>
+
+#### The Rise of Open Source Time Series Databases
+* <https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/>
