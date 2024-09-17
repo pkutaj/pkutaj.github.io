@@ -344,3 +344,6 @@ Brilliant.
 #### Words on Founder Mode – Rands in Repose
 * <https://randsinrepose.com/archives/words-on-founder-mode/>
 
+
+#### 44843.pdf
+* <https://static.googleusercontent.com/media/research.google.com/sk//pubs/archive/44843.pdf>
