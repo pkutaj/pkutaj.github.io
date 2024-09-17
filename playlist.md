@@ -1,6 +1,6 @@
 ---
 layout: page
-TItle: read_list
+Title: read_list
 ---
 
 List of texts / podcast that caught my attention this year (2024 edition).
@@ -340,3 +340,7 @@ Brilliant.
 
 #### The Rise of Open Source Time Series Databases
 * <https://victoriametrics.com/blog/the-rise-of-open-source-time-series-databases/>
+
+#### Words on Founder Mode – Rands in Repose
+* <https://randsinrepose.com/archives/words-on-founder-mode/>
+
