@@ -344,6 +344,8 @@ Brilliant.
 #### Words on Founder Mode – Rands in Repose
 * <https://randsinrepose.com/archives/words-on-founder-mode/>
 
-
-#### 44843.pdf
+#### Borg, Omega and Kubernetes
 * <https://static.googleusercontent.com/media/research.google.com/sk//pubs/archive/44843.pdf>
+
+#### It's not always DNS with Paul Vixie (contributor to DNS protocol design) (Changelog Interviews #581)
+* <https://changelog.com/podcast/581>
