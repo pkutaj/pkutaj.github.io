@@ -349,3 +349,6 @@ Brilliant.
 
 #### It's not always DNS with Paul Vixie (contributor to DNS protocol design) (Changelog Interviews #581)
 * <https://changelog.com/podcast/581>
+
+#### The Data Stack Show-70: The Difference Between Data Lakes and Data Warehouses with Vinoth Chandar of Apache Hudi
+* <https://rssr.link/22xFS>
