@@ -352,3 +352,6 @@ Brilliant.
 
 #### The Data Stack Show-70: The Difference Between Data Lakes and Data Warehouses with Vinoth Chandar of Apache Hudi
 * <https://rssr.link/22xFS>
+
+#### The Changelog: Software Development, Open Source-It's not always DNS (Interview)
+* <https://rssr.link/22wpy>
