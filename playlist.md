@@ -355,3 +355,6 @@ Brilliant.
 
 #### The Changelog: Software Development, Open Source-It's not always DNS (Interview)
 * <https://rssr.link/22wpy>
+
+#### TDSS 103: Everyone Is Invited to the Data Lakehouse - YouTube
+* <https://www.youtube.com/watch?v=koo1w7pEBDU>
