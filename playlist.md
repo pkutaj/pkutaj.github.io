@@ -361,3 +361,6 @@ Brilliant.
 
 #### It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
 * <https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html>
+
+#### Size of top-level domain (TLD) servers? Especially .com? - Server Fault
+* <https://serverfault.com/questions/1060906/size-of-top-level-domain-tld-servers-especially-com>
