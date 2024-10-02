@@ -358,3 +358,6 @@ Brilliant.
 
 #### TDSS 103: Everyone Is Invited to the Data Lakehouse - YouTube
 * <https://www.youtube.com/watch?v=koo1w7pEBDU>
+
+#### It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
+* <https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html>
