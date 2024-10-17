@@ -368,3 +368,7 @@ Brilliant.
 #### Leveling up JavaScript with Deno 2 featuring Ryan Dahl, creator of Node.js & Deno (Changelog Interviews #610)
 * <https://changelog.com/podcast/610>
 And I think this idea of striving for simplicity is – well, let’s put it this way. JavaScript I continue to believe is not like other programming languages. It is something like the default programming language, because so much of human infrastructure is built on the web. And because JavaScript is like HTTP or CSS or HTML, it is one of the protocols of the web. It has a future that you can’t necessarily say about Swift. Lots of people use Swift, a lot of infrastructure is built on Swift, but it’s not like JavaScript. JavaScript will be here five years from now, if not 10, if not 20, if not forever. This may be really deeply embedded in humanity at this point.
+
+#### 50 Years of Queries – Communications of the ACM
+* <https://cacm.acm.org/research/50-years-of-queries/>
+Wonderful essay on history of SQL. Similar pattern to other great tech. Academic (HTTP) simplification (JSON/REST) of previous complex tech (Navigational DBs).
