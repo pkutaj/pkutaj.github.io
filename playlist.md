@@ -372,3 +372,7 @@ And I think this idea of striving for simplicity is – well, let’s put it thi
 #### 50 Years of Queries – Communications of the ACM
 * <https://cacm.acm.org/research/50-years-of-queries/>
 Wonderful essay on history of SQL. Similar pattern to other great tech. Academic (HTTP) simplification (JSON/REST) of previous complex tech (Navigational DBs).
+
+#### Advent of Computing: Episode 97 - What Exactly IS A Database? Part II
+* <https://adventofcomputing.libsyn.com/episode-97-what-exactly-is-a-database-part-ii>
+
