@@ -395,3 +395,7 @@ Another really bad prediction. Easy to laugh to the past though. Survivorship bi
 #### Lessons Learnt From Supporting Modern Data Lake Formats at Snowplow - YouTube
 * <https://www.youtube.com/watch?v=QScMnc7uGDw&ab_channel=BigDataLDN>
 My Colleague Jordan at Big Data London. Great intro to lakehouse and some experience sharing.
+
+#### The Primeagen on Developer
+* <https://www.youtube.com/watch?v=96VlfN7ViyE&ab_channel=Laravel>
+Always prefer Uncle Bob over Primagean. But understand the value of his energy in the year when 80% of us are reported not happy in their job (unhappy or complatenc) as per Stack Overflow Survey 2024.
