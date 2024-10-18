@@ -382,10 +382,16 @@ Wonderful essay on history of SQL. Similar pattern to other great tech. Academic
 #### The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast
 * <https://corecursive.com/066-sqlite-with-richard-hipp/>
 
-
 #### Elon Dreams and Bitter Lessons – Stratechery by Ben Thompson
 * <https://stratechery.com/2024/elon-dreams-and-bitter-lessons/>
 Another really bad prediction. Easy to laugh to the past though. Survivorship bias?
 
 #### Is ArgoCd an alternative to jenkins? : r/devops
 * <https://www.reddit.com/r/devops/comments/18v8mpe/is_argocd_an_alternative_to_jenkins/?rdt=51011>
+
+#### Advent of Computing: Episode 97 - What Exactly IS A Database? Part II
+* <https://adventofcomputing.libsyn.com/episode-97-what-exactly-is-a-database-part-ii>
+
+#### Lessons Learnt From Supporting Modern Data Lake Formats at Snowplow - YouTube
+* <https://www.youtube.com/watch?v=QScMnc7uGDw&ab_channel=BigDataLDN>
+My Colleague Jordan at Big Data London. Great intro to lakehouse and some experience sharing.
