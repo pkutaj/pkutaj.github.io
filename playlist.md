@@ -386,3 +386,6 @@ Wonderful essay on history of SQL. Similar pattern to other great tech. Academic
 #### Elon Dreams and Bitter Lessons – Stratechery by Ben Thompson
 * <https://stratechery.com/2024/elon-dreams-and-bitter-lessons/>
 Another really bad prediction. Easy to laugh to the past though. Survivorship bias?
+
+#### Is ArgoCd an alternative to jenkins? : r/devops
+* <https://www.reddit.com/r/devops/comments/18v8mpe/is_argocd_an_alternative_to_jenkins/?rdt=51011>
