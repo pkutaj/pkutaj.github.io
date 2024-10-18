@@ -376,6 +376,9 @@ Wonderful essay on history of SQL. Similar pattern to other great tech. Academic
 #### Advent of Computing: Episode 97 - What Exactly IS A Database? Part II
 * <https://adventofcomputing.libsyn.com/episode-97-what-exactly-is-a-database-part-ii>
 
-
 #### (26) Exploring the Various Gateways in AWS 
 * <https://www.linkedin.com/pulse/exploring-various-gateways-aws-nikitha-mariam-koshy/>
+
+#### The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast
+* <https://corecursive.com/066-sqlite-with-richard-hipp/>
+
