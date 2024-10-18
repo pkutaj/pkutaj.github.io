@@ -382,3 +382,7 @@ Wonderful essay on history of SQL. Similar pattern to other great tech. Academic
 #### The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast
 * <https://corecursive.com/066-sqlite-with-richard-hipp/>
 
+
+#### Elon Dreams and Bitter Lessons – Stratechery by Ben Thompson
+* <https://stratechery.com/2024/elon-dreams-and-bitter-lessons/>
+Another really bad prediction. Easy to laugh to the past though. Survivorship bias?
