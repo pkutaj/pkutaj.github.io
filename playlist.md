@@ -399,3 +399,7 @@ My Colleague Jordan at Big Data London. Great intro to lakehouse and some experi
 #### The Primeagen on Developer
 * <https://www.youtube.com/watch?v=96VlfN7ViyE&ab_channel=Laravel>
 Always prefer Uncle Bob over Primagean. But understand the value of his energy in the year when 80% of us are reported not happy in their job (unhappy or complatenc) as per Stack Overflow Survey 2024.
+
+#### Focus on decisions, not tasks
+* <https://technicalwriting.dev/strategy/decisions.html>
+Known to me. Mainly for handling alerts. Some are customer/workspace specific. How to inform about context?
