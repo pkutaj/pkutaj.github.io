@@ -403,3 +403,7 @@ Always prefer Uncle Bob over Primagean. But understand the value of his energy i
 #### Focus on decisions, not tasks
 * <https://technicalwriting.dev/strategy/decisions.html>
 Known to me. Mainly for handling alerts. Some are customer/workspace specific. How to inform about context?
+
+#### Informix - Wikipedia
+* <https://en.wikipedia.org/wiki/Informix>
+Played a role in the creation of SQLlite, as described in Corecursive Podcast with SQLlite creator.
