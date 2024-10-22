@@ -407,3 +407,6 @@ Known to me. Mainly for handling alerts. Some are customer/workspace specific. H
 #### Informix - Wikipedia
 * <https://en.wikipedia.org/wiki/Informix>
 Played a role in the creation of SQLlite, as described in Corecursive Podcast with SQLlite creator.
+
+#### How Developers Stop Learning: Rise of the Expert Beginner - DaedTech
+* <https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/>
