@@ -410,3 +410,9 @@ Played a role in the creation of SQLlite, as described in Corecursive Podcast wi
 
 #### How Developers Stop Learning: Rise of the Expert Beginner - DaedTech
 * <https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/>
+
+#### How Developers Stop Learning: Rise of the Expert Beginner - DaedTech
+* <https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/>
+There’s nothing you can do to improve as long as you keep bowling like that. You’ve maxed out. If you want to get better, you’re going to have to learn to bowl properly.
+
+You need a different ball, a different style of throwing it, and you need to put your fingers in it like a big boy. And the worst part is that you’re going to get way worse before you get better, and it will be a good bit of time before you get back to and surpass your current average.
