@@ -424,3 +424,7 @@ important talk
 #### Warren Buffett’s GEICO repatriates work from the cloud
 * <https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/>
 The trend of big players going away from the cloud seems to be emerging.
+
+#### About 
+* <https://www.asyncapi.com/about>
+Swagger for Streams
