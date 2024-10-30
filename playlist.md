@@ -420,3 +420,7 @@ You need a different ball, a different style of throwing it, and you need to put
 #### GitOps - Operations by Pull Request [B] - Alexis Richardson, Weaveworks & William Denniss, Google - YouTube
 * <https://www.youtube.com/watch?v=BSqE2RqctNs&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D>
 important talk
+
+#### Warren Buffett’s GEICO repatriates work from the cloud
+* <https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/>
+The trend of big players going away from the cloud seems to be emerging.
