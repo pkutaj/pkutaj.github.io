@@ -76,6 +76,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Python
 * Bash
 * SQL
+* JQ
 * Powershell
 * Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Mermaid
