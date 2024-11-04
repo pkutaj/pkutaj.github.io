@@ -11,16 +11,16 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q4/2024)
-- Bash/Python scripting to automate Ops Processes for the rest of the Support team
-- Mentoring the rest of junior team and assuring newly rolloed features are supportable
-- Owning Snowplow's mass-rollout process to hundreds of enterprise customers
-- Responsible for incident management, running post-mortems and post-incident reviews with customers
-- Providing technical support to TAM/Sales team during onboarding/pre-sales process
-- Optimizing Kubernetes configuration for apps running on EKS/GKE
-- Docker image creation for internal automation toolage
-- Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
-- Configuration of Terraform drift mechanisms and alerting (OpsGenie)
-- Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset) 
+* Bash/Python scripting to automate Ops Processes for the rest of the Support team
+* Mentoring the rest of the junior team and assuring newly rolled features are supportable
+* Owning Snowplow’s mass-rollout process to hundreds of enterprise customers
+* Responsible for incident management, running post-mortems and post-incident reviews with customers
+* Providing technical support to TAM/Sales team during onboarding/pre-sales process
+* Optimizing Kubernetes configuration for apps running on EKS/GKE
+* Docker image creation for internal automation toolage
+* Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
+* Configuration of Terraform drift mechanisms and alerting (OpsGenie)
+* Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset)
 
 ### EXPERIENCE
 #### Senior Cloud Support Engineer
