@@ -11,7 +11,7 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q4/2024)
-* Bash/Python scripting to automate Ops Processes for the rest of the Support team
+* Bash/Python scripting to automate the ops processes for the rest of the Technical Support team
 * Mentoring the rest of the junior team and assuring newly rolled features are supportable
 * Owning Snowplow’s mass-rollout process to hundreds of enterprise customers
 * Responsible for incident management, running post-mortems and post-incident reviews with customers
