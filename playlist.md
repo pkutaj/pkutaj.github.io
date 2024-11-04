@@ -432,3 +432,11 @@ Swagger for Streams
 #### the essence of love is... annoyance? - by Ava
 * <https://www.avabear.xyz/p/the-essence-of-love-is-annoyance>
 The annoyance VS boredom relationship test is awesome it its honesty.
+
+#### 29 Lessons From 150 Million Podcast Downloads - RyanHoliday.net
+* <https://ryanholiday.net/29-lessons-from-150-million-podcast-downloads/>
+Find your reps. Lacrosse legend Paul Rabil had a coach tell him that the key to making it in lacrosse was simple: take one hundred shots a day. The caveat? Holidays, bad weather, sickness–none of that can get in the way. “You can’t miss a day,” the coach said. And that’s what Paul did. Every single day from high school through his professional career–for twenty years. Everywhere he went, he found a wall to throw against, a goal to shoot on. One hundred shots a day, no exception.
+
+I like that idea because it translates to almost everything in life. Whatever sport, business, or field you’re in: figure out what your reps are. Something you can commit to, every single day, that’s completely in your control. The key is: never miss a day. (​Listen to the full interview with Paul here​, and check out his book ​The Way of the Champion​.)
+
+Be an ‘everyday guy’. ​Buzz Williams​, the basketball coach for Texas A&M, brought up a similar point. He talked about the idea of being an everyday guy: “Whatever it is that you’re trying to do, are you tough enough to do that every day?” he asks. “If you’re basing it on talent, well at some point in time it might prevail, but not always. And so if you remove talent, then it comes down to consistency, discipline, and how you are spending your time.”
