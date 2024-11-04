@@ -10,24 +10,24 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q3/2024)
-* Deep diving into
-    - Bash scripting since 2024 is the year of migration from Windows (and Powershell) to Mac 
-    - Terraform
-    - AWS/GCP services, mainly Cloudwatch and Kubernetes Engine/Workload resource management
-    - Docker image creation for internal automation toolage
-* Optimizing 
-    - Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
-    - Snowplow rollout processes
-    - Configuration of Terraform drift mechanisms and alerting (OpsGenie)
-* Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset) 
+### NOW (Q4/2024)
+- Bash/Python scripting to automate Ops Processes for the rest of the Support team
+- Mentoring the rest of junior team and assuring newly rolloed features are supportable
+- Owning Snowplow's mass-rollout process to hundreds of enterprise customers
+- Responsible for incident management, running post-mortems and post-incident reviews with customers
+- Providing technical support to TAM/Sales team during onboarding/pre-sales process
+- Optimizing Kubernetes configuration for apps running on EKS/GKE
+- Docker image creation for internal automation toolage
+- Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
+- Configuration of Terraform drift mechanisms and alerting (OpsGenie)
+- Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset) 
 
 ### EXPERIENCE
-#### AWS/GCP Cloud Infrastructure Support Engineer
+#### Senior Cloud Support Engineer
 * Snowplow Analytics
 * 2020-ongoing
 
-#### .NET & Powershell Support Engineer; KB quality assurance
+#### .NET & Powershell Senior Support Engineer; KB quality assurance
 * Avolin, Pivotal CRM
 * 2019-2020
  
@@ -43,7 +43,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * Infosys BPO
 * 2012-2015
 
-### SIDE PROJECTS
+### WEB DEV SIDE PROJECTS
 
 Tool       | Name    | Description                         | URL
 -----------|---------|-------------------------------------|-----------------------------------------------------------------------
@@ -74,40 +74,33 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
  
 #### Programming languagues sorted by usage
 * Python
+* Bash
+* SQL
+* Powershell
 * Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Mermaid
-* Powershell; Bash
 * Regex 
-* MS SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite hands-on experience
-* Javascript 
+* Javascript/Node.js
 * HTML5/CSS3 
 * VBA/GAS 
 * C# 
 
-#### Courses/Certificates
-* [Core Python: Getting Stared](https://www.pluralsight.com/courses/getting-started-python-core)
-* [Core Python: Organizing Larger Programs](https://www.pluralsight.com/courses/core-python-organizing-larger-programs)
-* [Core Python: Functions and Functional Programming](https://www.pluralsight.com/courses/core-python-functions-functional-programming)
-
 #### Tools and Frameworks
-* Visual Studio Code as the editor of choice
-* advanced git + GitHub (actions, too)
+* Vim
+* Kubernetes
+* Docker
+* Snowflake
+* AWS/GCP Services
+* Advanced Grafana dashboard building
+* Advanced git + GitHub (actions, too)
+* VBA Scripting + advanced Excel <3
+* Visual Studio Code
 * Hashicorp Infrastructure as Code (Terraform; Consul)
-* Docker, Vagrant 
 * Chrome & Firefox Developer Tool Debugging
 * Atlassian stack (Jira, Confluence, OpsGenie) + Zendesk
 * Windows debugging (Sysinternal Tools)
 * WordPress and Drupal theming
-* Fiddler
-* Advanced Grafana dashboard building
 * Google Apps Engine, Google Apps Script
-* VBA Scripting + advanced Excel <3
 * Node.js
-* AWS knowledge/experience
  
-#### OS & network
-* TCP/IP, TLS- and DNS-config
-* IIS configuration
-* Windows Server Roles and Features setup
-* .htaccess/Apache configurations
  
