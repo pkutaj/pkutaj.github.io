@@ -428,3 +428,7 @@ The trend of big players going away from the cloud seems to be emerging.
 #### About 
 * <https://www.asyncapi.com/about>
 Swagger for Streams
+
+#### the essence of love is... annoyance? - by Ava
+* <https://www.avabear.xyz/p/the-essence-of-love-is-annoyance>
+The annoyance VS boredom relationship test is awesome it its honesty.
