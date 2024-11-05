@@ -440,3 +440,7 @@ Find your reps. Lacrosse legend Paul Rabil had a coach tell him that the key to 
 I like that idea because it translates to almost everything in life. Whatever sport, business, or field you’re in: figure out what your reps are. Something you can commit to, every single day, that’s completely in your control. The key is: never miss a day. (​Listen to the full interview with Paul here​, and check out his book ​The Way of the Champion​.)
 
 Be an ‘everyday guy’. ​Buzz Williams​, the basketball coach for Texas A&M, brought up a similar point. He talked about the idea of being an everyday guy: “Whatever it is that you’re trying to do, are you tough enough to do that every day?” he asks. “If you’re basing it on talent, well at some point in time it might prevail, but not always. And so if you remove talent, then it comes down to consistency, discipline, and how you are spending your time.”
+
+#### Learning to learn 
+* <https://kevin.the.li/posts/learning-to-learn/>
+Build a personal curriculum to become an expert and avoid the trap of the expert beginner.
