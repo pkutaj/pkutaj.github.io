@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**PAVOL KUTAJ** | _Senior Cloud Support Engineer_
+**PAVOL KUTAJ** | _Senior Support Engineer_
 ----------------|------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
@@ -23,7 +23,7 @@ location:       | Brno, Czech Republic (working 100 % remotely)
 * Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset)
 
 ### EXPERIENCE
-#### Senior Cloud Support Engineer
+#### Senior Support Engineer
 * Snowplow Analytics
 * 2020-ongoing
 

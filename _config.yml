@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ✒ Pavol Kutaj ✒
+title: Pavol Kutaj
 email: pkutaj@gmail.com
-description: Cloud Infrastructure Support Engineer
+description: Senior Support Engineer
 url: http://pavol.kutaj.com
 # Build settings
 theme: minima
