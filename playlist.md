@@ -1,9 +1,131 @@
 ---
 layout: page
-Title: read_list
+title: read_list
 ---
 
 List of texts / podcast that caught my attention this year (2024 edition).
+
+<!-- TOC -->
+
+* [FEB 2024](#feb-2024)
+    * [Mastering Programming - by Kent Beck](#mastering-programming---by-kent-beck)
+    * [Why you should never retire](#why-you-should-never-retire)
+    * [Where are Europe’s most expensive cities for renters?](#where-are-europes-most-expensive-cities-for-renters)
+    * [After 14 years in the industry, I still find programming difficult](#after-14-years-in-the-industry-i-still-find-programming-difficult)
+    * [SE Radio 604: Karl Wiegers and Candase Hokanson on Software Requirements Essentials – Software Engineering Radio](#se-radio-604-karl-wiegers-and-candase-hokanson-on-software-requirements-essentials--software-engineering-radio)
+    * [Gemini and Google’s Culture – Stratechery by Ben Thompson](#gemini-and-googles-culture--stratechery-by-ben-thompson)
+    * [Change statusline color to show insert or normal mode](#change-statusline-color-to-show-insert-or-normal-mode)
+    * [The Science of Learning to Code Debunking Myths and Exploring the Science - CoRecursive Podcast](#the-science-of-learning-to-code-debunking-myths-and-exploring-the-science---corecursive-podcast)
+    * [A Small Matter of Programming by Bonnie Nardi - Future of Coding - Omny.fm](#a-small-matter-of-programming-by-bonnie-nardi---future-of-coding---omnyfm)
+* [MAR 2024](#mar-2024)
+    * [The Perils of Audience Capture - by Gurwinder - The Prism](#the-perils-of-audience-capture---by-gurwinder---the-prism)
+    * [What Monks Know about Focus - by Joel J Miller](#what-monks-know-about-focus---by-joel-j-miller)
+    * [Rise of Worse Is Better](#rise-of-worse-is-better)
+    * [The subprocess Module: Wrapping Programs With Python – Real Python](#the-subprocess-module-wrapping-programs-with-python--real-python)
+    * [Vim Checkbox Toggle - VimTricks](#vim-checkbox-toggle---vimtricks)
+    * [How to replace a character by a newline in Vim - Stack Overflow](#how-to-replace-a-character-by-a-newline-in-vim---stack-overflow)
+    * [Why we 💚 Vim Changelog Interviews #450](#why-we--vim-changelog-interviews-450)
+    * [Vim round table discussion with Drew Neil, Tim Pope, and Yehuda Katz Changelog Interviews #56](#vim-round-table-discussion-with-drew-neil-tim-pope-and-yehuda-katz-changelog-interviews-56)
+    * [How to Make 'Vim Editor' as Bash-IDE in Linux](#how-to-make-vim-editor-as-bash-ide-in-linux)
+    * [Slashing Data Transfer Costs in AWS by 99% · Bits and Cloud](#slashing-data-transfer-costs-in-aws-by-99%25-%C2%B7-bits-and-cloud)
+    * [Summarizing ‘The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations’](#summarizing-the-devops-handbook-how-to-create-world-class-agility-reliability-and-security-in-technology-organizations)
+    * [BashFAQ/031 - Greg's Wiki](#bashfaq031---gregs-wiki)
+    * [Cut and Download Youtube Videos](#cut-and-download-youtube-videos)
+    * [Advent of Computing: Episode 96 - What Exactly IS A Database? Part I](#advent-of-computing-episode-96---what-exactly-is-a-database-part-i)
+    * [Martin Luther: The Man Who Changed The World - YouTube](#martin-luther-the-man-who-changed-the-world---youtube)
+    * [The rise of the remote husband](#the-rise-of-the-remote-husband)
+    * [Never Wish For Less Time - The Daily Dad](#never-wish-for-less-time---the-daily-dad)
+    * [John Mayer New Rule in Life Never](#john-mayer-new-rule-in-life-never)
+    * [He had a routine, which is, he’d get up about 6:00 a.m. He’d go down to the basement of his townhouse, and at 6:30, he would start writing or working on whatever his next big research project was. He’d do that, uninterrupted, for three hours at least, sometimes four. Then, at about 9:30, 10:00, he would take the subway to Harvard.  His point was, you got to start the day by doing the important work of academia, which is producing knowledge. All the rest of it — teaching, committee meetings, all that — you can do later. He was so disciplined about that, that every five years or so, he put out another major piece of work, another major book.  I looked at that, and I said to myself, I do not have the self-discipline to perform at that level. I need to go into something that has deadlines, that has structure, that has more feedback because, as you know well, Tyler, there’s a very lonely aspect to being an academic. There’s a lot of fun, and there’s lots of interesting things, but a lot of it is just sitting by yourself](#he-had-a-routine-which-is-hed-get-up-about-600-am-hed-go-down-to-the-basement-of-his-townhouse-and-at-630-he-would-start-writing-or-working-on-whatever-his-next-big-research-project-was-hed-do-that-uninterrupted-for-three-hours-at-least-sometimes-four-then-at-about-930-1000-he-would-take-the-subway-to-harvard--his-point-was-you-got-to-start-the-day-by-doing-the-important-work-of-academia-which-is-producing-knowledge-all-the-rest-of-it%E2%80%8A%E2%80%8Ateaching-committee-meetings-all-that%E2%80%8A%E2%80%8Ayou-can-do-later-he-was-so-disciplined-about-that-that-every-five-years-or-so-he-put-out-another-major-piece-of-work-another-major-book--i-looked-at-that-and-i-said-to-myself-i-do-not-have-the-self-discipline-to-perform-at-that-level-i-need-to-go-into-something-that-has-deadlines-that-has-structure-that-has-more-feedback-because-as-you-know-well-tyler-theres-a-very-lonely-aspect-to-being-an-academic-theres-a-lot-of-fun-and-theres-lots-of-interesting-things-but-a-lot-of-it-is-just-sitting-by-yourself)
+    * [Fareed Zakaria on the Age of Revolutions, the Power of Ideas, and the Rewards of Intellectual Curiosity Ep. 208](#fareed-zakaria-on-the-age-of-revolutions-the-power-of-ideas-and-the-rewards-of-intellectual-curiosity-ep-208)
+    * [What does connection reset by peer mean](#what-does-connection-reset-by-peer-mean)
+    * [Opinion](#opinion)
+    * [Anger is eliminated with the disposal of a paper written because of provocation](#anger-is-eliminated-with-the-disposal-of-a-paper-written-because-of-provocation)
+    * [Jonathan Haidt on Adjusting to Smartphones and Social Media Ep. 209](#jonathan-haidt-on-adjusting-to-smartphones-and-social-media-ep-209)
+* [APR 2024](#apr-2024)
+    * [Gemini 1.5 and Google’s Nature – Stratechery by Ben Thompson](#gemini-15-and-googles-nature--stratechery-by-ben-thompson)
+    * [media.vimcasts.org/videos/39/profiling.m4v](#mediavimcastsorgvideos39profilingm4v)
+    * [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](#tips-on-adding-json-output-to-your-cli-app---brazils-blog)
+    * [Foreword to The Art of Doing Science and Engineering](#foreword-to-the-art-of-doing-science-and-engineering)
+    * [Bringing the Unix Philosophy to the 21st Century - Brazil's Blog](#bringing-the-unix-philosophy-to-the-21st-century---brazils-blog)
+    * [This Conversation made me a Better Editor - Ezra Klein Show](#this-conversation-made-me-a-better-editor---ezra-klein-show)
+    * [Laws of Software Evolution](#laws-of-software-evolution)
+    * [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](#keynote-by-nvidia-ceo-jensen-huang-at-2024-siepr-economic-summit)
+    * [Agile Otter Blog: Programming Is Mostly Thinking](#agile-otter-blog-programming-is-mostly-thinking)
+    * [Other people’s problems](#other-peoples-problems)
+    * [Elephant in the Room - Future of Coding - Omny.fm](#elephant-in-the-room---future-of-coding---omnyfm)
+    * [Cal Newport's Planning System In Detail - YouTube](#cal-newports-planning-system-in-detail---youtube)
+    * [Albín Polášek – Wikipedie](#alb%C3%ADn-pol%C3%A1%C5%A1ek--wikipedie)
+    * [Advanced Vim registers](#advanced-vim-registers)
+    * [python - How to copy files - Stack Overflow](#python---how-to-copy-files---stack-overflow)
+    * [vim - Redefine tab as 4 spaces - Stack Overflow](#vim---redefine-tab-as-4-spaces---stack-overflow)
+    * [Chapter I: The birth of Parquet](#chapter-i-the-birth-of-parquet)
+    * [The defensive arrogance of TL;DR](#the-defensive-arrogance-of-tldr)
+    * [Professional corner-cutting : Havoc's Blog](#professional-corner-cutting--havocs-blog)
+    * [Brad DeLong on Intellectual and Technical Progress Ep. 172](#brad-delong-on-intellectual-and-technical-progress-ep-172)
+    * [Quality First and Other Advice](#quality-first-and-other-advice)
+    * [A simple illustration of the benefits of feminization - Marginal REVOLUTION](#a-simple-illustration-of-the-benefits-of-feminization---marginal-revolution)
+    * [How I quadrupled my typing speed. Using deliberate practice to improve…](#how-i-quadrupled-my-typing-speed-using-deliberate-practice-to-improve)
+    * [What I think about when I edit — Eva Parish](#what-i-think-about-when-i-edit--eva-parish)
+    * [Senior Engineer Fatigue - Blog](#senior-engineer-fatigue---blog)
+    * [Ultra-Processed People: Why Do We All Eat Stuff That Isn’t Food … and Why Can’t We Stop? : Tulleken, Chris van: Amazon.co.uk: Books](#ultra-processed-people-why-do-we-all-eat-stuff-that-isnt-food--and-why-cant-we-stop--tulleken-chris-van-amazoncouk-books)
+    * [Early websites. In the beginning, website HTML was crafted by hand. Your average personal — or corporate — website might consist of hand-edited HTML subsequently uploaded, probably via FTP, to a web server which knew only how to serve static files.  Since web pages in a set often include shared elements like headers and footers, maintaining this was obviously troublesome. I have no doubt each and every person charged with maintaining such a website found their own solutions. Maybe they wrote simple Perl scripts to generate pages with common headers. If they weren't programmers, maybe they used some tool like Frontpage, Dreamweaver or Hotdog that possibly offered some useful functionality in this regard. Or maybe they just stuck it out and edited every page manually when they wanted to change the header or footer. You might think that sounds nuts, but I'm fairly sure it was quite common.  At some point “Server Side Includes” SSI came along, offering extremely basic file inclusion functionality to allow common headers and footers. CGI was developed, allowing web pages to be produced from dynamic scripts. While groundbreaking for enabling dynamic web applications, I got the impression most ordinary websites did not make use of it for serving pages. Many web servers required or at least recommended CGI scripts to be placed in a special cgi-bin directory, making URLs rather cumbersome. One major CGI application was the blogging platform Movable Type, which featured a CGI and Perl-based administration webapp which automatically regenerated static files from a database whenever changes were made.](#early-websites-in-the-beginning-website-html-was-crafted-by-hand-your-average-personal--or-corporate--website-might-consist-of-hand-edited-html-subsequently-uploaded-probably-via-ftp-to-a-web-server-which-knew-only-how-to-serve-static-files--since-web-pages-in-a-set-often-include-shared-elements-like-headers-and-footers-maintaining-this-was-obviously-troublesome-i-have-no-doubt-each-and-every-person-charged-with-maintaining-such-a-website-found-their-own-solutions-maybe-they-wrote-simple-perl-scripts-to-generate-pages-with-common-headers-if-they-werent-programmers-maybe-they-used-some-tool-like-frontpage-dreamweaver-or-hotdog-that-possibly-offered-some-useful-functionality-in-this-regard-or-maybe-they-just-stuck-it-out-and-edited-every-page-manually-when-they-wanted-to-change-the-header-or-footer-you-might-think-that-sounds-nuts-but-im-fairly-sure-it-was-quite-common--at-some-point-server-side-includes-ssi-came-along-offering-extremely-basic-file-inclusion-functionality-to-allow-common-headers-and-footers-cgi-was-developed-allowing-web-pages-to-be-produced-from-dynamic-scripts-while-groundbreaking-for-enabling-dynamic-web-applications-i-got-the-impression-most-ordinary-websites-did-not-make-use-of-it-for-serving-pages-many-web-servers-required-or-at-least-recommended-cgi-scripts-to-be-placed-in-a-special-cgi-bin-directory-making-urls-rather-cumbersome-one-major-cgi-application-was-the-blogging-platform-movable-type-which-featured-a-cgi-and-perl-based-administration-webapp-which-automatically-regenerated-static-files-from-a-database-whenever-changes-were-made)
+    * [The Demise of the Mildly Dynamic Website](#the-demise-of-the-mildly-dynamic-website)
+    * [Start all of your commands with a comma](#start-all-of-your-commands-with-a-comma)
+    * [Comparing buffers with vimdiff](#comparing-buffers-with-vimdiff)
+    * [Where DOESN’T curl run with curl BDFL Daniel Stenberg Changelog & Friends #49](#where-doesnt-curl-run-with-curl-bdfl-daniel-stenberg-changelog--friends-49)
+    * [Marcus' Blog - Programming Advice to Younger Self](#marcus-blog---programming-advice-to-younger-self)
+    * [Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts](#use-a-work-journal-to-recover-focus-faster-and-clarify-your-thoughts)
+    * [Docs as Code — Write the Docs](#docs-as-code--write-the-docs)
+    * [A Git story: Not so fun this time](#a-git-story-not-so-fun-this-time)
+    * [The changes in vibes - why did they happen? - Marginal REVOLUTION](#the-changes-in-vibes---why-did-they-happen---marginal-revolution)
+    * [Display the Search Count in Vim's Status Bar — Nick Janetakis](#display-the-search-count-in-vims-status-bar--nick-janetakis)
+    * [We’re Not Balanced Right - The Daily Dad](#were-not-balanced-right---the-daily-dad)
+* [AUG 2024](#aug-2024)
+    * [Crashes and Competition – Stratechery by Ben Thompson](#crashes-and-competition--stratechery-by-ben-thompson)
+    * [The Product Analytics Market: Overview and Deep Dive](#the-product-analytics-market-overview-and-deep-dive)
+    * [A gambler's guide to giving talks - by Benn Stancil](#a-gamblers-guide-to-giving-talks---by-benn-stancil)
+    * [OODA and You - Robert Greene](#ooda-and-you---robert-greene)
+    * [Practices of Reliable Software Design](#practices-of-reliable-software-design)
+    * [Lidl’s Cloud Gambit: Europe’s Shift to Sovereign Computing](#lidls-cloud-gambit-europes-shift-to-sovereign-computing)
+    * [The Most Important Question of Your Life](#the-most-important-question-of-your-life)
+    * [Evolving JavaScript with Douglas Crockford - The Transcript](#evolving-javascript-with-douglas-crockford---the-transcript)
+    * [Eric S. Raymond - Wikipedia](#eric-s-raymond---wikipedia)
+* [SEP 2024](#sep-2024)
+    * [Getting away with it - by Benn Stancil - benn.substack](#getting-away-with-it---by-benn-stancil---bennsubstack)
+    * [David Chang on the long, hard, stupid way – Herbert Lui](#david-chang-on-the-long-hard-stupid-way--herbert-lui)
+    * [The Rise of Open Source Time Series Databases](#the-rise-of-open-source-time-series-databases)
+    * [Words on Founder Mode – Rands in Repose](#words-on-founder-mode--rands-in-repose)
+    * [Borg, Omega and Kubernetes](#borg-omega-and-kubernetes)
+    * [It's not always DNS with Paul Vixie contributor to DNS protocol design Changelog Interviews #581](#its-not-always-dns-with-paul-vixie-contributor-to-dns-protocol-design-changelog-interviews-581)
+    * [The Data Stack Show-70: The Difference Between Data Lakes and Data Warehouses with Vinoth Chandar of Apache Hudi](#the-data-stack-show-70-the-difference-between-data-lakes-and-data-warehouses-with-vinoth-chandar-of-apache-hudi)
+    * [The Changelog: Software Development, Open Source-It's not always DNS Interview](#the-changelog-software-development-open-source-its-not-always-dns-interview)
+    * [TDSS 103: Everyone Is Invited to the Data Lakehouse - YouTube](#tdss-103-everyone-is-invited-to-the-data-lakehouse---youtube)
+    * [It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson](#its-hard-to-write-code-for-computers-but-its-even-harder-to-write-code-for-humans-%C2%B7-erik-bernhardsson)
+    * [Size of top-level domain TLD servers? Especially .com? - Server Fault](#size-of-top-level-domain-tld-servers-especially-com---server-fault)
+    * [Leveling up JavaScript with Deno 2 featuring Ryan Dahl, creator of Node.js & Deno Changelog Interviews #610](#leveling-up-javascript-with-deno-2-featuring-ryan-dahl-creator-of-nodejs--deno-changelog-interviews-610)
+    * [Years of Queries – Communications of the ACM](#years-of-queries--communications-of-the-acm)
+    * [Advent of Computing: Episode 97 - What Exactly IS A Database? Part II](#advent-of-computing-episode-97---what-exactly-is-a-database-part-ii)
+    * [26 Exploring the Various Gateways in AWS](#26-exploring-the-various-gateways-in-aws)
+    * [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](#the-untold-story-of-sqlite-with-richard-hipp---corecursive-podcast)
+    * [Elon Dreams and Bitter Lessons – Stratechery by Ben Thompson](#elon-dreams-and-bitter-lessons--stratechery-by-ben-thompson)
+    * [Is ArgoCd an alternative to jenkins? : r/devops](#is-argocd-an-alternative-to-jenkins--rdevops)
+* [OCT 2024](#oct-2024)
+    * [Advent of Computing: Episode 97 - What Exactly IS A Database? Part II](#advent-of-computing-episode-97---what-exactly-is-a-database-part-ii)
+    * [Lessons Learnt From Supporting Modern Data Lake Formats at Snowplow - YouTube](#lessons-learnt-from-supporting-modern-data-lake-formats-at-snowplow---youtube)
+    * [The Primeagen on Developer](#the-primeagen-on-developer)
+    * [Focus on decisions, not tasks](#focus-on-decisions-not-tasks)
+    * [Informix - Wikipedia](#informix---wikipedia)
+    * [How Developers Stop Learning: Rise of the Expert Beginner - DaedTech](#how-developers-stop-learning-rise-of-the-expert-beginner---daedtech)
+    * [GitOps - Operations by Pull Request [B] - Alexis Richardson, Weaveworks & William Denniss, Google - YouTube](#gitops---operations-by-pull-request-b---alexis-richardson-weaveworks--william-denniss-google---youtube)
+    * [Warren Buffett’s GEICO repatriates work from the cloud](#warren-buffetts-geico-repatriates-work-from-the-cloud)
+    * [the essence of love is... annoyance? - by Ava](#the-essence-of-love-is-annoyance---by-ava)
+    * [Lessons From 150 Million Podcast Downloads - RyanHoliday.net](#lessons-from-150-million-podcast-downloads---ryanholidaynet)
+* [NOV 2024](#nov-2024)
+    * [Learning to learn](#learning-to-learn)
+    * [Blog Writing for Developers](#blog-writing-for-developers)
+
+<!-- /TOC -->
 
 ### FEB 2024
 #### Mastering Programming - by Kent Beck
@@ -389,6 +511,8 @@ Another really bad prediction. Easy to laugh to the past though. Survivorship bi
 #### Is ArgoCd an alternative to jenkins? : r/devops
 * <https://www.reddit.com/r/devops/comments/18v8mpe/is_argocd_an_alternative_to_jenkins/?rdt=51011>
 
+### OCT 2024
+
 #### Advent of Computing: Episode 97 - What Exactly IS A Database? Part II
 * <https://adventofcomputing.libsyn.com/episode-97-what-exactly-is-a-database-part-ii>
 
@@ -410,9 +534,6 @@ Played a role in the creation of SQLlite, as described in Corecursive Podcast wi
 
 #### How Developers Stop Learning: Rise of the Expert Beginner - DaedTech
 * <https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/>
-
-#### How Developers Stop Learning: Rise of the Expert Beginner - DaedTech
-* <https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/>
 There’s nothing you can do to improve as long as you keep bowling like that. You’ve maxed out. If you want to get better, you’re going to have to learn to bowl properly.
 
 You need a different ball, a different style of throwing it, and you need to put your fingers in it like a big boy. And the worst part is that you’re going to get way worse before you get better, and it will be a good bit of time before you get back to and surpass your current average.
@@ -424,10 +545,6 @@ important talk
 #### Warren Buffett’s GEICO repatriates work from the cloud
 * <https://www.thestack.technology/warren-buffetts-geico-repatriates-work-from-the-cloud-continues-ambitious-infrastructure-overhaul/>
 The trend of big players going away from the cloud seems to be emerging.
-
-#### About 
-* <https://www.asyncapi.com/about>
-Swagger for Streams
 
 #### the essence of love is... annoyance? - by Ava
 * <https://www.avabear.xyz/p/the-essence-of-love-is-annoyance>
@@ -441,10 +558,11 @@ I like that idea because it translates to almost everything in life. Whatever sp
 
 Be an ‘everyday guy’. ​Buzz Williams​, the basketball coach for Texas A&M, brought up a similar point. He talked about the idea of being an everyday guy: “Whatever it is that you’re trying to do, are you tough enough to do that every day?” he asks. “If you’re basing it on talent, well at some point in time it might prevail, but not always. And so if you remove talent, then it comes down to consistency, discipline, and how you are spending your time.”
 
+### NOV 2024
+
 #### Learning to learn 
 * <https://kevin.the.li/posts/learning-to-learn/>
 Build a personal curriculum to become an expert and avoid the trap of the expert beginner.
 
 #### Blog Writing for Developers
 * <https://rmoff.net/2023/07/19/blog-writing-for-developers/>
-Rememeber!
