@@ -444,3 +444,7 @@ Be an ‘everyday guy’. ​Buzz Williams​, the basketball coach for Texas A&
 #### Learning to learn 
 * <https://kevin.the.li/posts/learning-to-learn/>
 Build a personal curriculum to become an expert and avoid the trap of the expert beginner.
+
+#### Blog Writing for Developers
+* <https://rmoff.net/2023/07/19/blog-writing-for-developers/>
+Rememeber!
