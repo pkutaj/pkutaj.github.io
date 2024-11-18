@@ -576,3 +576,7 @@ Not Sure If I have a usecase, but a well received and good looking simple find&r
 #### David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015 - YouTube
 * <https://www.youtube.com/watch?v=MCs5OvhV9S4&ab_channel=PyCon2015>
 Curioud aboud David Baezley's stuff for a while now. Bookmarking a viral conference talk to watch for later. Live Coding Demo, takes some courage todo.
+
+#### Good software development habits 
+* <https://zarar.dev/good-software-development-habits/>
+Finally someone who explained me Kent Beck's "For each desired change, first make the change easy (this may be hard); then make the change". It is explained in terms of refactoring. Aim for at least half of all commits to be refactorings. Continuous refactoring is thinking of changes I can make in under 10 minutes that improve something. Doing this pays off whenever a bigger requirement comes in and you find yourself making a small change to satisfy it only because of those smaller improvements. Big refactorings are a bad idea.
