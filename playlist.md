@@ -572,3 +572,7 @@ Build a personal curriculum to become an expert and avoid the trap of the expert
 #### Show HN: Scooter – Interactive find and replace in the terminal 
 * <https://news.ycombinator.com/item?id=42148543>
 Not Sure If I have a usecase, but a well received and good looking simple find&replace tool, sed replacement.
+
+#### David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015 - YouTube
+* <https://www.youtube.com/watch?v=MCs5OvhV9S4&ab_channel=PyCon2015>
+Curioud aboud David Baezley's stuff for a while now. Bookmarking a viral conference talk to watch for later. Live Coding Demo, takes some courage todo.
