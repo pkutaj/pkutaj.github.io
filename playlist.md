@@ -568,3 +568,7 @@ Build a personal curriculum to become an expert and avoid the trap of the expert
 
 #### Blog Writing for Developers
 * <https://rmoff.net/2023/07/19/blog-writing-for-developers/>
+
+#### Show HN: Scooter – Interactive find and replace in the terminal 
+* <https://news.ycombinator.com/item?id=42148543>
+Not Sure If I have a usecase, but a well received and good looking simple find&replace tool, sed replacement.
