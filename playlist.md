@@ -580,3 +580,6 @@ Curioud aboud David Baezley's stuff for a while now. Bookmarking a viral confere
 #### Good software development habits 
 * <https://zarar.dev/good-software-development-habits/>
 Finally someone who explained me Kent Beck's "For each desired change, first make the change easy (this may be hard); then make the change". It is explained in terms of refactoring. Aim for at least half of all commits to be refactorings. Continuous refactoring is thinking of changes I can make in under 10 minutes that improve something. Doing this pays off whenever a bigger requirement comes in and you find yourself making a small change to satisfy it only because of those smaller improvements. Big refactorings are a bad idea.
+
+#### Embedded databases (1): The harmony of DuckDB, KùzuDB and LanceDB 
+* <https://thedataquarry.com/posts/embedded-db-1/>
