@@ -583,3 +583,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### Embedded databases (1): The harmony of DuckDB, KùzuDB and LanceDB 
 * <https://thedataquarry.com/posts/embedded-db-1/>
+
+#### April King — Handling Cookies is a Minefield
+* <https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/>
