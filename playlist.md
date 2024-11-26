@@ -586,3 +586,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### April King — Handling Cookies is a Minefield
 * <https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/>
+
+#### 223. On the Toll of Being a Disruptor
+* <https://hardcoresoftware.learningbyshipping.com/p/223-on-the-toll-of-being-a-disruptor>
