@@ -589,3 +589,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### 223. On the Toll of Being a Disruptor
 * <https://hardcoresoftware.learningbyshipping.com/p/223-on-the-toll-of-being-a-disruptor>
+
+#### localfirst.fm - A podcast about local-first software development.
+* <https://www.localfirst.fm/>
