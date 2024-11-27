@@ -592,3 +592,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### localfirst.fm - A podcast about local-first software development.
 * <https://www.localfirst.fm/>
+
+#### Poisoning the day
+* <https://ashore.io/journal/crossover-creativity/poisoning-the-day>
