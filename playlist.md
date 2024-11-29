@@ -598,3 +598,7 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### bfrg/vim-jqplay: Run jq interactively in Vim
 * <https://github.com/bfrg/vim-jqplay?tab=readme-ov-file>
+
+#### Sketch - Ensō Coffeeshop Mode · Untested
+* <https://untested.sonnet.io/notes/sketch-enso-coffeeshop-mode/>
+
