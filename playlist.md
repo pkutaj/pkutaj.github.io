@@ -605,3 +605,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### xo/usql: Universal command-line interface for SQL databases
 * <https://github.com/xo/usql?tab=readme-ov-file#database-support>
+
+#### Embedded databases (1): The harmony of DuckDB, KùzuDB and LanceDB 
+* <https://thedataquarry.com/posts/embedded-db-1/>
