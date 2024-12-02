@@ -602,3 +602,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 #### Sketch - Ensō Coffeeshop Mode · Untested
 * <https://untested.sonnet.io/notes/sketch-enso-coffeeshop-mode/>
 
+
+#### xo/usql: Universal command-line interface for SQL databases
+* <https://github.com/xo/usql?tab=readme-ov-file#database-support>
