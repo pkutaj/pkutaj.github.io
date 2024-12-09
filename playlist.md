@@ -124,6 +124,19 @@ List of texts / podcast that caught my attention this year (2024 edition).
 * [NOV 2024](#nov-2024)
     * [Learning to learn](#learning-to-learn)
     * [Blog Writing for Developers](#blog-writing-for-developers)
+    * [Show HN: Scooter – Interactive find and replace in the terminal](#show-hn-scooter--interactive-find-and-replace-in-the-terminal)
+    * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015 - YouTube](#david-beazley---python-concurrency-from-the-ground-up-live---pycon-2015---youtube)
+    * [Good software development habits](#good-software-development-habits)
+    * [Embedded databases 1: The harmony of DuckDB, KùzuDB and LanceDB](#embedded-databases-1-the-harmony-of-duckdb-k%C3%B9zudb-and-lancedb)
+    * [April King — Handling Cookies is a Minefield](#april-king--handling-cookies-is-a-minefield)
+    * [On the Toll of Being a Disruptor](#on-the-toll-of-being-a-disruptor)
+    * [localfirst.fm - A podcast about local-first software development.](#localfirstfm---a-podcast-about-local-first-software-development)
+    * [Poisoning the day](#poisoning-the-day)
+    * [bfrg/vim-jqplay: Run jq interactively in Vim](#bfrgvim-jqplay-run-jq-interactively-in-vim)
+    * [Sketch - Ensō Coffeeshop Mode · Untested](#sketch---ens%C5%8D-coffeeshop-mode-%C2%B7-untested)
+    * [xo/usql: Universal command-line interface for SQL databases](#xousql-universal-command-line-interface-for-sql-databases)
+    * [Embedded databases 1: The harmony of DuckDB, KùzuDB and LanceDB](#embedded-databases-1-the-harmony-of-duckdb-k%C3%B9zudb-and-lancedb)
+    * [Comments - War, Deficits, and the Russian Economy: An Uphill Battle to Nowhere](#comments---war-deficits-and-the-russian-economy-an-uphill-battle-to-nowhere)
 
 <!-- /TOC -->
 
@@ -608,6 +621,8 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### Embedded databases (1): The harmony of DuckDB, KùzuDB and LanceDB 
 * <https://thedataquarry.com/posts/embedded-db-1/>
+
+### DEC 2024
 
 #### Comments - War, Deficits, and the Russian Economy: An Uphill Battle to Nowhere
 * <https://frontelligence.substack.com/p/war-deficits-and-the-russian-economy/comment/79949761>
