@@ -608,3 +608,6 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### Embedded databases (1): The harmony of DuckDB, KùzuDB and LanceDB 
 * <https://thedataquarry.com/posts/embedded-db-1/>
+
+#### Comments - War, Deficits, and the Russian Economy: An Uphill Battle to Nowhere
+* <https://frontelligence.substack.com/p/war-deficits-and-the-russian-economy/comment/79949761>
