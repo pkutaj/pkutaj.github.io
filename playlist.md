@@ -626,3 +626,7 @@ Finally someone who explained me Kent Beck's "For each desired change, first mak
 
 #### Comments - War, Deficits, and the Russian Economy: An Uphill Battle to Nowhere
 * <https://frontelligence.substack.com/p/war-deficits-and-the-russian-economy/comment/79949761>
+
+#### Dynamic Host Configuration Protocol - Wikipedia
+* <https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol>
+Learning a bit about DHCP and Elastic IP addresses and the differences between the two. DHCP is used for automatic, temporary IP address assignment within a VPC, while Elastic IP addresses provide static, public IP addresses that can be reassigned as needed.
