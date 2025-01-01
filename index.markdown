@@ -10,13 +10,13 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q4/2024)
-* Bash/Python scripting to automate the ops processes for the rest of the Technical Support team
-* Mentoring the rest of the junior team and assuring newly rolled features are supportable
+### NOW (Q1/2025)
 * Owning Snowplow’s mass-rollout process to hundreds of enterprise customers
+* Mentoring the rest of the junior team and assuring newly rolled features are supportable
+* Writing Bash/Python scripts to automate the support/ops processes
 * Responsible for incident management, running post-mortems and post-incident reviews with customers
-* Providing technical support to TAM/Sales team during onboarding/pre-sales process
-* Optimizing Kubernetes configuration for apps running on EKS/GKE
+* Providing technical support to TAM/Sales team during onboarding/POC processes
+* Optimizing Kubernetes configuration for apps running on EKS/GKE/AKS
 * Docker image creation for internal automation toolage
 * Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
 * Configuration of Terraform drift mechanisms and alerting (OpsGenie)
