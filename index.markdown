@@ -11,7 +11,7 @@ blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2025)
-* Owning Snowplow’s mass-rollout process to hundreds of enterprise customers
+* Owning Snowplow’s rollout process to hundreds of enterprise customers
 * Mentoring the rest of the junior team and assuring newly rolled features are supportable
 * Writing Bash/Python scripts to automate the support/ops processes
 * Responsible for incident management, running post-mortems and post-incident reviews with customers
