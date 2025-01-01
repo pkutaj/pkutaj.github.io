@@ -3,11 +3,11 @@ layout: home
 ---
 
 **PAVOL KUTAJ** | _Senior Support Engineer_
-----------------|------------------------------------------------------
+----------------|--------------------------------------------------------
 phone:          | +420702152552
 email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)
 web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
-blog:           | [pavolkutaj.medium.com](http://pavolkutaj.medium.com)
+blog:           | [Pavol Z. Kutaj - DEV Community](https://dev.to/pkutaj)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2025)
