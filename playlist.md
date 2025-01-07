@@ -19,3 +19,7 @@ Interesting debate on VIM vs IDE. I write Bash in Vim and Python in IDE (VSCode 
 #### Programming as Theory Building (1985) [pdf] 
 * <https://news.ycombinator.com/item?id=42592543>
 Discussions of one of my favorite papers and favorite podcast episodes (Future of Code)
+
+#### Bird (2024) 
+* <https://mubi.com/en/de/films/bird>
+A movie I found when listening to Fountains DC's Bug song.
