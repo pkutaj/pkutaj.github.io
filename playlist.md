@@ -23,3 +23,7 @@ Discussions of one of my favorite papers and favorite podcast episodes (Future o
 #### Bird (2024) 
 * <https://mubi.com/en/de/films/bird>
 A movie I found when listening to Fountains DC's Bug song.
+
+#### Null device - Wikipedia
+* <https://en.wikipedia.org/wiki/Null_device>
+Learning about black hole register and /dev/null in bash.
