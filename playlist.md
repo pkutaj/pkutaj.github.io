@@ -35,3 +35,7 @@ Return to this post as a refresher on SQL JOINs.
 #### Hotel California - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/hotel-california?utm_source=post-email-title&publication_id=23588&post_id=154556809&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 On chaotic reality crashing into life filled with simulation.
+
+#### Remembering Mike Maples, Sr.
+* <https://hardcoresoftware.learningbyshipping.com/p/remembering-mike-maples-sr>
+All along, Mike created a culture of respect, collaboration, and most of all “promise and deliver”. He instilled in everyone the most basic notion of saying what you’re going to do and doing that well.
