@@ -31,3 +31,7 @@ Learning about black hole register and /dev/null in bash.
 #### Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.
 * <https://blog.jooq.org/say-no-to-venn-diagrams-when-explaining-joins/>
 Return to this post as a refresher on SQL JOINs.
+
+#### Hotel California - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/hotel-california?utm_source=post-email-title&publication_id=23588&post_id=154556809&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+On chaotic reality crashing into life filled with simulation.
