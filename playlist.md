@@ -27,3 +27,7 @@ A movie I found when listening to Fountains DC's Bug song.
 #### Null device - Wikipedia
 * <https://en.wikipedia.org/wiki/Null_device>
 Learning about black hole register and /dev/null in bash.
+
+#### Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.
+* <https://blog.jooq.org/say-no-to-venn-diagrams-when-explaining-joins/>
+Return to this post as a refresher on SQL JOINs.
