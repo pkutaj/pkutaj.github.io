@@ -39,3 +39,7 @@ On chaotic reality crashing into life filled with simulation.
 #### Remembering Mike Maples, Sr.
 * <https://hardcoresoftware.learningbyshipping.com/p/remembering-mike-maples-sr>
 All along, Mike created a culture of respect, collaboration, and most of all “promise and deliver”. He instilled in everyone the most basic notion of saying what you’re going to do and doing that well.
+
+#### Why Greenland Is Of Growing Strategic Significance
+* <https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance>
+Reminds of a book with the title "The Revenge of Geography"
