@@ -44,3 +44,14 @@ All along, Mike created a culture of respect, collaboration, and most of all “
 #### Why Greenland Is Of Growing Strategic Significance
 * <https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance>
 Reminds of a book with the title "The Revenge of Geography"
+
+#### Jerry Seinfeld, Ichiro Suzuki and the Pursuit of Mastery
+* <https://www.readtrung.com/p/jerry-seinfeld-ichiro-suzuki-and>
+Anyone Can Pursue Mastery
+Mastery is Plateaus and Brief Spurts of Progress
+Mastery is a Lifelong Journey
+The Importance of a Child’s Mindset
+Mastery & Muscle Memory
+The Zen Buddhism Connection
+4 Traits Shared By Practitioners of Mastery
+Seinfeld and Ichiro Suzuki
