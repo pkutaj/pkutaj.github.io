@@ -59,3 +59,7 @@ Seinfeld and Ichiro Suzuki
 #### AI’s Uneven Arrival – Stratechery by Ben Thompson
 * <https://stratechery.com/2025/ais-uneven-arrival/>
 An eye-opener for o3. This is a surprising and important step-function increase in AI capabilities, showing novel task adaptation ability never seen before in the GPT-family models. For context, ARC-AGI-1 took 4 years to go from 0% with GPT-3 in 2020 to 5% in 2024 with GPT-4o. All intuition about AI capabilities will need to get updated for o3, which performs at 75% for ths test.
+
+#### The Origins of Wokeness
+* <https://paulgraham.com/woke.html>
+We should have a conscious bias against defining new forms of heresy. Whenever anyone tries to ban saying something that we'd previously been able to say, our initial assumption should be that they're wrong. Only our initial assumption of course. If they can prove we should stop saying it, then we should. But the burden of proof is on them. In liberal democracies, people trying to prevent something from being said will usually claim they're not merely engaging in censorship, but trying to prevent some form of "harm". And maybe they're right. But once again, the burden of proof is on them. It's not enough to claim harm; they have to prove it.
