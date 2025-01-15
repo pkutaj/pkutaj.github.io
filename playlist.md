@@ -63,3 +63,7 @@ An eye-opener for o3. This is a surprising and important step-function increase 
 #### The Origins of Wokeness
 * <https://paulgraham.com/woke.html>
 We should have a conscious bias against defining new forms of heresy. Whenever anyone tries to ban saying something that we'd previously been able to say, our initial assumption should be that they're wrong. Only our initial assumption of course. If they can prove we should stop saying it, then we should. But the burden of proof is on them. In liberal democracies, people trying to prevent something from being said will usually claim they're not merely engaging in censorship, but trying to prevent some form of "harm". And maybe they're right. But once again, the burden of proof is on them. It's not enough to claim harm; they have to prove it.
+
+#### Heroku and the Twelve-Factor App with Vish Abrams - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2025/01/14/heroku-and-the-twelve-factor-app-with-vish-abrams/?utm_source=rss&utm_medium=rss&utm_campaign=heroku-and-the-twelve-factor-app-with-vish-abrams>
+the manifesto is getting a rewrite, driven by Heroku but being worked on collectivelly as an open-source project, great chat on current state of Heroku as well.
