@@ -67,3 +67,7 @@ We should have a conscious bias against defining new forms of heresy. Whenever a
 #### Heroku and the Twelve-Factor App with Vish Abrams - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2025/01/14/heroku-and-the-twelve-factor-app-with-vish-abrams/?utm_source=rss&utm_medium=rss&utm_campaign=heroku-and-the-twelve-factor-app-with-vish-abrams>
 the manifesto is getting a rewrite, driven by Heroku but being worked on collectivelly as an open-source project, great chat on current state of Heroku as well.
+
+#### Principles - Nabeel S. Qureshi
+* <https://nabeelqu.substack.com/p/principles?publication_id=107423&utm_campaign=email-post-title&r=3o9&utm_medium=email>
+“Aim for Chartres” (Christopher Alexander) — when doing something, aim to be the best there ever was at it. This compensates for your natural bias, which is to do something mediocre. You have to really aim to be as good as the greats.
