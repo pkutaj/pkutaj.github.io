@@ -71,3 +71,6 @@ the manifesto is getting a rewrite, driven by Heroku but being worked on collect
 #### Principles - Nabeel S. Qureshi
 * <https://nabeelqu.substack.com/p/principles?publication_id=107423&utm_campaign=email-post-title&r=3o9&utm_medium=email>
 “Aim for Chartres” (Christopher Alexander) — when doing something, aim to be the best there ever was at it. This compensates for your natural bias, which is to do something mediocre. You have to really aim to be as good as the greats.
+
+#### Show HN: GUI for editing Mermaid class diagrams 
+* <https://news.ycombinator.com/item?id=42738656>
