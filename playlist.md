@@ -86,3 +86,7 @@ I do AI slop as well and I own it on my blog.
 #### From open source to acquired with Ashley Jeffs (Changelog Interviews #625)
 * <https://changelog.com/podcast/625>
 On Benthos Stream Processing, from OS to being bought by Red Panda. Very funny at times, the humor there seemed like instilled in Benthos itself.
+
+#### Jinja (template engine) - Wikipedia
+* <https://en.wikipedia.org/wiki/Jinja_(template_engine)>
+Using Jinja for a simpler task as it was a first thing that occured to me. I should have just used a built-in Template module though. I did not need any programming logic in the template just a simple placeholders.
