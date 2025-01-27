@@ -78,3 +78,7 @@ the manifesto is getting a rewrite, driven by Heroku but being worked on collect
 #### The quiet rebellion of a little life 
 * <https://news.ycombinator.com/item?id=42769751>
 Near as I can tell there is a not-insignificant part of the American psychological context that amounts to a threat of utter destitution should you not choose to keep slaving away. By Krom, America needs homeless people to show you just how far you can fall unless you keep serving the man.
+
+#### AI Slop, Suspicion, and Writing Back
+* <https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/>
+I do AI slop as well and I own it on my blog.
