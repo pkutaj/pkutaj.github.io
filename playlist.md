@@ -82,3 +82,7 @@ Near as I can tell there is a not-insignificant part of the American psychologic
 #### AI Slop, Suspicion, and Writing Back
 * <https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/>
 I do AI slop as well and I own it on my blog.
+
+#### From open source to acquired with Ashley Jeffs (Changelog Interviews #625)
+* <https://changelog.com/podcast/625>
+On Benthos Stream Processing, from OS to being bought by Red Panda. Very funny at times, the humor there seemed like instilled in Benthos itself.
