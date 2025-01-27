@@ -90,3 +90,7 @@ On Benthos Stream Processing, from OS to being bought by Red Panda. Very funny a
 #### Jinja (template engine) - Wikipedia
 * <https://en.wikipedia.org/wiki/Jinja_(template_engine)>
 Using Jinja for a simpler task as it was a first thing that occured to me. I should have just used a built-in Template module though. I did not need any programming logic in the template just a simple placeholders.
+
+#### Good Lord - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/good-lord>
+Such a brave critique of the politics of current Silicon Valley and catching its own hypocricies. Amazing and inspiring.
