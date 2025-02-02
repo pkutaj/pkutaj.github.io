@@ -94,3 +94,7 @@ Using Jinja for a simpler task as it was a first thing that occured to me. I sho
 #### Good Lord - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/good-lord>
 Such a brave critique of the politics of current Silicon Valley and catching its own hypocricies. Amazing and inspiring.
+
+#### Antiqua et Nova: Note on the relationship between AI and human intelligence 
+* <https://news.ycombinator.com/item?id=42877709>
+Vatican's take on AI and many respectful voices on Hacker News. I can still get surprised!
