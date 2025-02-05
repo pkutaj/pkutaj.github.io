@@ -102,3 +102,7 @@ Vatican's take on AI and many respectful voices on Hacker News. I can still get 
 #### Opinion 
 * <https://www.nytimes.com/2025/02/02/opinion/ezra-klein-podcast-trump-column-read.html>
 Perception cannot become reality so easily. Can it?
+
+#### Introducing self-describing JSONs 
+* <https://snowplow.io/blog/introducing-self-describing-jsons>
+Learning about semi-structured data, this self-describing JSON approach rhymes with that.
