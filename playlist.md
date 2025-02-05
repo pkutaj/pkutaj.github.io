@@ -98,3 +98,7 @@ Such a brave critique of the politics of current Silicon Valley and catching its
 #### Antiqua et Nova: Note on the relationship between AI and human intelligence 
 * <https://news.ycombinator.com/item?id=42877709>
 Vatican's take on AI and many respectful voices on Hacker News. I can still get surprised!
+
+#### Opinion 
+* <https://www.nytimes.com/2025/02/02/opinion/ezra-klein-podcast-trump-column-read.html>
+Perception cannot become reality so easily. Can it?
