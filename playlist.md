@@ -133,3 +133,6 @@ On documentation: what's often missing is I think my biggest gripe right now is 
 SQLite (and most databases) store data in disk-block-sized pages, usually 4KB, which helps make reads and writes as fast as possible.
 
 Normally developers interact with databases on the "schema level" - tables, rows, and SQL. But taking a peek at the "page level" can give you some interesting insights:
+
+#### Continuous reinvention: A brief history of block storage at AWS 
+* <https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html>
