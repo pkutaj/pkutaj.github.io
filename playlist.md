@@ -143,3 +143,6 @@ Could be applied just as well to working environments.
 
 #### Comments - Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything
 * <https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing/comments?utm_medium=web>
+
+#### Let Brandon Cook - Cal Newport
+* <https://calnewport.com/let-brandon-cook/>
