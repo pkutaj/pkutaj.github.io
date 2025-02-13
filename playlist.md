@@ -119,3 +119,7 @@ Listened to a great episode on SQLite itself on Corecursive Podcast in the past.
 #### Beej's Guide to Network Programming
 * <https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket>
 Socket Programming featured in David Beazley's famous live coding - https://www.youtube.com/watch?v=MCs5OvhV9S4 - so as I am new to network programming, I'm glad to have some intro here to better enjoy the talk, really (not doing any of that myself)
+
+#### Trumpian policy as cultural policy - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2025/02/trumpian-policy-as-cultural-policy.html>
+Another important take for me - on cultural change there already was one about "The vibes have changed" that came out before the election. This is an implementation of cultural change by "flooding the zone" by filling media with agenda, constant, without time taking for implementation. It's just an aggresive take on the existing discourse. Fascinating.
