@@ -111,3 +111,7 @@ Learning about semi-structured data, this self-describing JSON approach rhymes w
 #### 49 Small Truths About Marriage All Couples Understand - Fatherly
 * <https://www.fatherly.com/love-money/truths-about-marriage>
 Everyone thinks of leaving. That's just part of staying.
+
+#### Turso is rewriting SQLite in Rust with Glauber Costa, CEO at Turso (Changelog Interviews #626)
+* <https://changelog.com/podcast/626>
+Listened to a great episode on SQLite itself on Corecursive Podcast in the past. Happy to see the challer on the block.
