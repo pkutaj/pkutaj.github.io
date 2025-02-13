@@ -115,3 +115,7 @@ Everyone thinks of leaving. That's just part of staying.
 #### Turso is rewriting SQLite in Rust with Glauber Costa, CEO at Turso (Changelog Interviews #626)
 * <https://changelog.com/podcast/626>
 Listened to a great episode on SQLite itself on Corecursive Podcast in the past. Happy to see the challer on the block.
+
+#### Beej's Guide to Network Programming
+* <https://beej.us/guide/bgnet/html/split/what-is-a-socket.html#what-is-a-socket>
+Socket Programming featured in David Beazley's famous live coding - https://www.youtube.com/watch?v=MCs5OvhV9S4 - so as I am new to network programming, I'm glad to have some intro here to better enjoy the talk, really (not doing any of that myself)
