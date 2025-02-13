@@ -107,3 +107,7 @@ Perception cannot become reality so easily. Can it?
 #### Introducing self-describing JSONs 
 * <https://snowplow.io/blog/introducing-self-describing-jsons>
 Learning about semi-structured data, this self-describing JSON approach rhymes with that.
+
+#### 49 Small Truths About Marriage All Couples Understand - Fatherly
+* <https://www.fatherly.com/love-money/truths-about-marriage>
+Everyone thinks of leaving. That's just part of staying.
