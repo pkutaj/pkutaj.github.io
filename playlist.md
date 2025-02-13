@@ -127,3 +127,9 @@ Another important take for me - on cultural change there already was one about "
 #### Fallthrough & Friends with Matthew Sanabria & Kris Brandow (Changelog & Friends #77)
 * <https://changelog.com/friends/77>
 On documentation: what's often missing is I think my biggest gripe right now is just how few docs we have, how little documentation so many things have. But if there was a way… I think there was especially – what was it? There was one that was like the discover and learn steps. I am very frustrated often at libraries that I want to go in and understand, and there’s no “Oh, start looking here.” Or like “Here’s the basic architecture that you can then use to understand how this codebase is laid out, so you can go read the code and understand how we’ve implemented all of these things.” That documentation is almost always completely missing.
+
+#### QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
+* <https://github.com/QuadrupleA/sqlite-page-explorer>
+SQLite (and most databases) store data in disk-block-sized pages, usually 4KB, which helps make reads and writes as fast as possible.
+
+Normally developers interact with databases on the "schema level" - tables, rows, and SQL. But taking a peek at the "page level" can give you some interesting insights:
