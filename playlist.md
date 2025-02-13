@@ -146,3 +146,7 @@ Could be applied just as well to working environments.
 
 #### Let Brandon Cook - Cal Newport
 * <https://calnewport.com/let-brandon-cook/>
+
+#### Firing programmers for AI is a mistake 
+* <https://news.ycombinator.com/item?id=43010814>
+Another long thread on HN about what AI is going to do to programmers. My thoughts are on Walter Benjamin§s essay on Art and Mechanical Reproduction.
