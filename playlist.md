@@ -136,3 +136,7 @@ Normally developers interact with databases on the "schema level" - tables, rows
 
 #### Continuous reinvention: A brief history of block storage at AWS 
 * <https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html>
+
+#### Marshmallow Test and Parenting - @desunit (Sergey Bogdanov)
+* <https://desunit.com/blog/marshmallow-test-and-parenting/>
+Could be applied just as well to working environments.
