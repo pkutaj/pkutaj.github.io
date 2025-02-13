@@ -140,3 +140,6 @@ Normally developers interact with databases on the "schema level" - tables, rows
 #### Marshmallow Test and Parenting - @desunit (Sergey Bogdanov)
 * <https://desunit.com/blog/marshmallow-test-and-parenting/>
 Could be applied just as well to working environments.
+
+#### Comments - Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything
+* <https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing/comments?utm_medium=web>
