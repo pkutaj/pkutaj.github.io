@@ -153,3 +153,7 @@ Another long thread on HN about what AI is going to do to programmers. My though
 
 #### Why Blog If Nobody Reads It? 
 * <https://andysblog.uk/why-blog-if-nobody-reads-it/>
+
+#### Do-nothing scripting: the key to gradual automation (2019) 
+* <https://news.ycombinator.com/item?id=29083367>
+On Programmed Documentation - maybe Warp has Workflows that actually fits this.
