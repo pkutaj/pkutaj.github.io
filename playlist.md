@@ -123,3 +123,7 @@ Socket Programming featured in David Beazley's famous live coding - https://www.
 #### Trumpian policy as cultural policy - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2025/02/trumpian-policy-as-cultural-policy.html>
 Another important take for me - on cultural change there already was one about "The vibes have changed" that came out before the election. This is an implementation of cultural change by "flooding the zone" by filling media with agenda, constant, without time taking for implementation. It's just an aggresive take on the existing discourse. Fascinating.
+
+#### Fallthrough & Friends with Matthew Sanabria & Kris Brandow (Changelog & Friends #77)
+* <https://changelog.com/friends/77>
+On documentation: what's often missing is I think my biggest gripe right now is just how few docs we have, how little documentation so many things have. But if there was a way… I think there was especially – what was it? There was one that was like the discover and learn steps. I am very frustrated often at libraries that I want to go in and understand, and there’s no “Oh, start looking here.” Or like “Here’s the basic architecture that you can then use to understand how this codebase is laid out, so you can go read the code and understand how we’ve implemented all of these things.” That documentation is almost always completely missing.
