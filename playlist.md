@@ -161,3 +161,7 @@ On Programmed Documentation - maybe Warp has Workflows that actually fits this.
 #### What is the difference between len() and sys.getsizeof() methods in python? - Stack Overflow
 * <https://stackoverflow.com/questions/17574076/what-is-the-difference-between-len-and-sys-getsizeof-methods-in-python>
 Finding a pleasure in reading great answers for programming 100% authored by people in Stack Overflow.
+
+#### Filtered Decks - Anki Manual
+* <https://docs.ankiweb.net/filtered-decks.html#:~:text=The%20easiest%20way%20to%20create,you%20click%20on%20a%20deck.>
+Pre-warming my studies with memorization session.
