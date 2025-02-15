@@ -157,3 +157,7 @@ Another long thread on HN about what AI is going to do to programmers. My though
 #### Do-nothing scripting: the key to gradual automation (2019) 
 * <https://news.ycombinator.com/item?id=29083367>
 On Programmed Documentation - maybe Warp has Workflows that actually fits this.
+
+#### What is the difference between len() and sys.getsizeof() methods in python? - Stack Overflow
+* <https://stackoverflow.com/questions/17574076/what-is-the-difference-between-len-and-sys-getsizeof-methods-in-python>
+Finding a pleasure in reading great answers for programming 100% authored by people in Stack Overflow.
