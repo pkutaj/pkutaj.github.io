@@ -168,3 +168,9 @@ Pre-warming my studies with memorization session.
 
 #### htop Explained Visually 
 * <https://codeahoy.com/2017/01/20/hhtop-explained-visually/>
+
+#### PBS - JOHN GARDNER - EDUCATION AND EXCELLENCE
+* <https://www.pbs.org/johngardner/sections/writings_speech_1.html>
+The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You leant not to burn up energy in anxiety. You discover how to manage your tensions, if you have any, which you do. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent, but pays off on character.
+
+You come to understand that most people are neither for you nor against you, they are thinking about themselves. You learn that no matter how hard you try to please, some people in this world are not going to love you, a lesson that is at first troubling and then really quite relaxing.
