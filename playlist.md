@@ -165,3 +165,6 @@ Finding a pleasure in reading great answers for programming 100% authored by peo
 #### Filtered Decks - Anki Manual
 * <https://docs.ankiweb.net/filtered-decks.html#:~:text=The%20easiest%20way%20to%20create,you%20click%20on%20a%20deck.>
 Pre-warming my studies with memorization session.
+
+#### htop Explained Visually 
+* <https://codeahoy.com/2017/01/20/hhtop-explained-visually/>
