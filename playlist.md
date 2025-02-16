@@ -186,3 +186,7 @@ Learning MTG?
 #### The Republican Party’s NPC Problem — and Ours 
 * <https://www.youtube.com/watch?v=lckYPwQj_NM&ab_channel=TheEzraKleinShow>
 See https://stratechery.com/2022/the-current-thing/ for the analysis of the "current thing" meme.
+
+#### Discovering discovery coding with Jimmy Miller (Changelog & Friends #80)
+* <https://changelog.com/friends/80>
+Future of Code host on my favorite show. A must.
