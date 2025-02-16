@@ -182,3 +182,7 @@ Venn Diagrams for Comm - as they are usually used for JOIN
 #### Pravidla Magic: The Gathering ( ▷ Videonávod)
 * <https://www.fyft.cz/mtg-clanky/magic-the-gathering-pravidla/>
 Learning MTG?
+
+#### The Republican Party’s NPC Problem — and Ours 
+* <https://www.youtube.com/watch?v=lckYPwQj_NM&ab_channel=TheEzraKleinShow>
+See https://stratechery.com/2022/the-current-thing/ for the analysis of the "current thing" meme.
