@@ -178,3 +178,7 @@ You come to understand that most people are neither for you nor against you, the
 #### Intro To 'comm' Command In Linux
 * <https://blog.robertelder.org/intro-to-comm-command/>
 Venn Diagrams for Comm - as they are usually used for JOIN
+
+#### Pravidla Magic: The Gathering ( ▷ Videonávod)
+* <https://www.fyft.cz/mtg-clanky/magic-the-gathering-pravidla/>
+Learning MTG?
