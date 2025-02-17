@@ -197,3 +197,10 @@ Future of Code host on my favorite show. A must.
 #### Achievement, here and there - by Benn Stancil
 * <https://benn.substack.com/p/achievement-here-and-there?publication_id=23588&utm_campaign=email-post-title&r=25tz5&utm_medium=email>
 A variation of "The Current Thing" meme? Making pivoting the point, and the status of start-ups being greatly overestimated and being about marketing and attention grab then a more authentic value.
+
+#### Discovering discovery coding with Jimmy Miller (Changelog & Friends #80)
+* <https://changelog.com/friends/80>
+
+#### Vim After Bram: A Core Maintainer on How They’ve Kept It Going - The New Stack
+* <https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/>
+I am still on Vim. Tempted to go to Neo-Vim, but to not see outputs being worth it.  at the moment. But it may be a question of time if I get to writing Python and Bash in much higher velocity in Vim.
