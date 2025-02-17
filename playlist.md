@@ -190,3 +190,6 @@ See https://stratechery.com/2022/the-current-thing/ for the analysis of the "cur
 #### Discovering discovery coding with Jimmy Miller (Changelog & Friends #80)
 * <https://changelog.com/friends/80>
 Future of Code host on my favorite show. A must.
+
+#### Future of AI: what happens after DeepSeek? (No One knows - but I have a guess) - YouTube
+* <https://www.youtube.com/watch?v=tjtnA8sm9ZA>
