@@ -193,3 +193,7 @@ Future of Code host on my favorite show. A must.
 
 #### Future of AI: what happens after DeepSeek? (No One knows - but I have a guess) - YouTube
 * <https://www.youtube.com/watch?v=tjtnA8sm9ZA>
+
+#### Achievement, here and there - by Benn Stancil
+* <https://benn.substack.com/p/achievement-here-and-there?publication_id=23588&utm_campaign=email-post-title&r=25tz5&utm_medium=email>
+A variation of "The Current Thing" meme? Making pivoting the point, and the status of start-ups being greatly overestimated and being about marketing and attention grab then a more authentic value.
