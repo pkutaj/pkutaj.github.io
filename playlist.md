@@ -207,3 +207,9 @@ I am still on Vim. Tempted to go to Neo-Vim, but to not see outputs being worth 
 
 #### SED1260 - Robert Hodges
 * <https://softwareengineeringdaily.com/wp-content/uploads/2021/05/SED1260-Robert-Hodges.pdf>
+
+#### Understanding Golang’s lightweight concurrency model 
+* <https://medium.com/@mail2rajeevshukla/unlocking-the-power-of-goroutines-understanding-gos-lightweight-concurrency-model-3775f8e696b0#:~:text=Unlike%20traditional%2C%20relatively%20heavy%20threads,hundreds%20or%20thousands%20of%20them>
+
+#### Understanding Golang’s lightweight concurrency model 
+* <https://medium.com/@mail2rajeevshukla/unlocking-the-power-of-goroutines-understanding-gos-lightweight-concurrency-model-3775f8e696b0>
