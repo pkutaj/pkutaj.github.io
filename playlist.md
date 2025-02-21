@@ -216,3 +216,11 @@ I am still on Vim. Tempted to go to Neo-Vim, but to not see outputs being worth 
 
 #### yq 
 * <https://mikefarah.gitbook.io/yq>
+
+#### Discovering discovery coding with Jimmy Miller (Changelog & Friends #80)
+* <https://changelog.com/friends/80#transcript>
+But I think the key to get into discovery coding is to be willing to not have a solution in mind. I do think that that is easier said than done. I think it’s very, very tempting anytime you’re approaching programming problems to come with solutions. And I don’t know, it sounds almost silly when I say it, but I’ve found that to be the number one thing that stops me from finding the good solutions, is that I already have a solution in mind, even if it’s just in the back of my head, and as I’m going and doing this, I will just automatically go towards that solution.
+
+So step one, clear your mind, meditate… No solutions. Step two I really think is ask questions. Ask questions about the codebase, about the problem, about whatever it is that is this situation you’re in, and try to find the answers for those. And if the answers are frustrating to find, if it just takes too long to find them, build a tool that makes it really easy. And if you start there, the process of discovery coding will start becoming the easy default, because every time you want to have an answer, you already have tools available to you to help find that answer, and that ends up being like your inspiration for how to continue.
+
+So the goal is to try to make it easy to discovery-code, because if it’s not, you’re never gonna do it. So you kind of have to do the hard work up front.
