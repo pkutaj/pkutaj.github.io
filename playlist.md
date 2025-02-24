@@ -224,3 +224,6 @@ But I think the key to get into discovery coding is to be willing to not have a 
 So step one, clear your mind, meditate… No solutions. Step two I really think is ask questions. Ask questions about the codebase, about the problem, about whatever it is that is this situation you’re in, and try to find the answers for those. And if the answers are frustrating to find, if it just takes too long to find them, build a tool that makes it really easy. And if you start there, the process of discovery coding will start becoming the easy default, because every time you want to have an answer, you already have tools available to you to help find that answer, and that ends up being like your inspiration for how to continue.
 
 So the goal is to try to make it easy to discovery-code, because if it’s not, you’re never gonna do it. So you kind of have to do the hard work up front.
+
+#### Jr Devs - I Can't Code Anymore
+* <https://www.youtube.com/watch?v=1Se2zTlXDwY>
