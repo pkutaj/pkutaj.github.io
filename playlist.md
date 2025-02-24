@@ -235,3 +235,6 @@ Attach to profit centers - where are those in the age of AI?
 #### Europe faces its fate as an American colony - New Statesman
 * <https://www.newstatesman.com/international-politics/2025/02/jd-vance-munich-europe-russia-ukraine-trump>
 Is what EU faces an attempt to turn it into US colony?
+
+#### DOC • Beautiful, boring, and without soul
+* <https://www.doc.cc/articles/beautiful-boring-and-without-soul>
