@@ -254,3 +254,7 @@ Something that makes me highly nostalgic and that gives soul to the gaming as I 
 #### Programming with LLMs featuring David Crawshaw (Changelog Interviews #629)
 * <https://changelog.com/podcast/629>
 A different take on AI assisted coding than one you have from Primagean, who is much more skeptical. This is more specific, building Go-specific tooling and being passionate about what LLMs can do for us. Also appreciating how code-completion is a completely different paradigm than a chat-bot for AI and how cool that is, pionereed by GitHub Copilot. I am not turning it back on, I don't depend on the amount of code I write for my paycheck so I rather write by myself, working through the problems alone. Or with occational oblique strategy. Still, it is fascinating what is happening, utterly mezmerizing to watch that.
+
+#### New Junior Developers Can’t Actually Code 
+* <https://nmn.gl/blog/ai-and-learning>
+Clickbait and Moral Panic or it is really different? I am surely cautious. But the great plus is you CAN build things that until now needed code. If your focus is on craft - no. If your focus is on value - absolutely.
