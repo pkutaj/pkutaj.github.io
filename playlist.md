@@ -250,3 +250,7 @@ So the goal is to try to make it easy to discovery-code, because if it’s not, 
 #### The Digital Antiquarian
 * <https://www.filfre.net/>
 Something that makes me highly nostalgic and that gives soul to the gaming as I remember it.
+
+#### Programming with LLMs featuring David Crawshaw (Changelog Interviews #629)
+* <https://changelog.com/podcast/629>
+A different take on AI assisted coding than one you have from Primagean, who is much more skeptical. This is more specific, building Go-specific tooling and being passionate about what LLMs can do for us. Also appreciating how code-completion is a completely different paradigm than a chat-bot for AI and how cool that is, pionereed by GitHub Copilot. I am not turning it back on, I don't depend on the amount of code I write for my paycheck so I rather write by myself, working through the problems alone. Or with occational oblique strategy. Still, it is fascinating what is happening, utterly mezmerizing to watch that.
