@@ -227,3 +227,7 @@ So the goal is to try to make it easy to discovery-code, because if it’s not, 
 
 #### Jr Devs - I Can't Code Anymore
 * <https://www.youtube.com/watch?v=1Se2zTlXDwY>
+
+#### Don't Call Yourself A Programmer, And Other Career Advice 
+* <https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/>
+Attach to profit centers - where are those in the age of AI?
