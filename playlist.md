@@ -258,3 +258,7 @@ A different take on AI assisted coding than one you have from Primagean, who is 
 #### New Junior Developers Can’t Actually Code 
 * <https://nmn.gl/blog/ai-and-learning>
 Clickbait and Moral Panic or it is really different? I am surely cautious. But the great plus is you CAN build things that until now needed code. If your focus is on craft - no. If your focus is on value - absolutely.
+
+#### Change my mind (Changelog & Friends #81)
+* <https://changelog.com/friends/81>
+Primagean is covering the same piece in https://www.youtube.com/watch?v=pnpUK-f87zo&t=58s&ab_channel=ThePrimeTime.
