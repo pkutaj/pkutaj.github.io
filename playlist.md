@@ -266,3 +266,7 @@ Primagean is covering the same piece in https://www.youtube.com/watch?v=pnpUK-f8
 #### Change my mind (Changelog & Friends #81)
 * <https://changelog.com/friends/81>
 A great episode, the first one I watched with video as I was curious about tweaking HTOP as discussed. Some great points there, about going slow, about overcustomization and general a food for thought based on a blogpost from https://chriskiehl.com/article/thoughts-after-10-years
+
+#### GenAI hot takes and bad use cases (Practical AI #304)
+* <https://changelog.com/practicalai/304>
+What's LLM are currently not good for: high throughput/low latency usecases, complete autonomy, high-stakes forecasting, not top languages (both of human and computer world), ... there is more and great!
