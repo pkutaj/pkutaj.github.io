@@ -270,3 +270,9 @@ A great episode, the first one I watched with video as I was curious about tweak
 #### GenAI hot takes and bad use cases (Practical AI #304)
 * <https://changelog.com/practicalai/304>
 What's LLM are currently not good for: high throughput/low latency usecases, complete autonomy, high-stakes forecasting, not top languages (both of human and computer world), ... there is more and great!
+
+#### The return of the modern data stack - by Benn Stancil
+* <https://benn.substack.com/p/the-return-of-the-modern-data-stack?utm_source=post-email-title&publication_id=23588&post_id=157625068&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+So much fun! Which, sure, this is how databases work now. About ten years ago, they got split in half, into a bucket of data on one side, and a compute engine that runs calculations on the other. So long as the buckets are formatted correctly, you can mix and match different buckets with different calculators.
+
+But this SAP product, if it works the way I think it does, extends that idea in a couple of new ways. First, it suggests that applications, like CRMs and ERPs to CPQs and ATSs, could be one of the buckets that databases connect their calculators to. Rather than exporting data out of SAP—which is how people have done this for a while, and it clearly hasn’t gone well—SAP can simply reformat it. Then, people can bring their database—or, since it’s 2025, bring their aGeNtS—directly to the applications themselves.
