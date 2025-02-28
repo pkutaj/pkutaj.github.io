@@ -276,3 +276,7 @@ What's LLM are currently not good for: high throughput/low latency usecases, com
 So much fun! Which, sure, this is how databases work now. About ten years ago, they got split in half, into a bucket of data on one side, and a compute engine that runs calculations on the other. So long as the buckets are formatted correctly, you can mix and match different buckets with different calculators.
 
 But this SAP product, if it works the way I think it does, extends that idea in a couple of new ways. First, it suggests that applications, like CRMs and ERPs to CPQs and ATSs, could be one of the buckets that databases connect their calculators to. Rather than exporting data out of SAP—which is how people have done this for a while, and it clearly hasn’t gone well—SAP can simply reformat it. Then, people can bring their database—or, since it’s 2025, bring their aGeNtS—directly to the applications themselves.
+
+#### The End of Programming as We Know It – O’Reilly
+* <https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/>
+as read and commented on by primagean - [(4) The End Of Programming As We Know It - YouTube](https://www.youtube.com/watch?v=C79mALqHI0o&t=1015s&ab_channel=ThePrimeTime) and I currently agree that one should invest into not be made stupid and one should be defending ones skills - if you've already aqcuired them. Is it good for lifetime? 
