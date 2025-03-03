@@ -280,3 +280,7 @@ as read and commented on by primagean - [(4) The End Of Programming As We Know I
 #### aposd-vs-clean-code/README.md at main · johnousterhout/aposd-vs-clean-code
 * <https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md>
 After discussion on Performance with (don't remember who), Uncle Bob is discussing with John Ousterhout, who strongly disagrees with his points, but proves again hat Uncle Bob is the real deal.
+
+#### The end of YC - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/the-end-of-yc?utm_source=post-email-title&publication_id=23588&post_id=158116384&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+Prediction that AI is getting engineers-as-product-builders really out of work as the entry bar has decreased and speed increased many times over.
