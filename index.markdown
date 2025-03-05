@@ -11,21 +11,16 @@ blog:           | [Pavol Z. Kutaj - DEV Community](https://dev.to/pkutaj)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
 ### NOW (Q1/2025)
-* Owning Snowplow’s rollout process to hundreds of enterprise customers
-* Mentoring the rest of the junior team and assuring newly rolled features are supportable
-* Writing Bash/Python scripts to automate the support/ops processes
-* Responsible for incident management, running post-mortems and post-incident reviews with customers
-* Providing technical support to TAM/Sales team during onboarding/POC processes
-* Optimizing Kubernetes configuration for apps running on EKS/GKE/AKS
-* Docker image creation for internal automation toolage
-* Snowplow pipeline deployment processes (Python/bash/HashiCorp stack)
-* Configuration of Terraform drift mechanisms and alerting (OpsGenie)
-* Building dashboards for SLA/SLO breach analysis (SQL in Redash/Preset)
+* Joining Clickhouse and learning the hard way
 
 ### EXPERIENCE
+#### Clickhouse Senior Support Entineer
+* Clickhouse
+* 2025-ongoing
+
 #### Senior Support Engineer
 * Snowplow Analytics
-* 2020-ongoing
+* 2020-2035
 
 #### .NET & Powershell Senior Support Engineer; KB quality assurance
 * Avolin, Pivotal CRM
