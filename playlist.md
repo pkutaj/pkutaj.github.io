@@ -292,3 +292,7 @@ Real-Time Analytics for security - monitoring car plates. On moving from Redshif
 #### Opinion 
 * <https://www.nytimes.com/2025/03/04/opinion/ezra-klein-podcast-ben-buchanan.html>
 unoriginal, but I needed to hear this - it is happening...
+
+#### (7) Clickhouse: Faster Queries, Faster Answers (with Alasdair Brown) - YouTube
+* <https://www.youtube.com/watch?v=S8ldDYxjyLQ>
+Interesting takes on limitations of Clickhouse as a datawarehousing solution.
