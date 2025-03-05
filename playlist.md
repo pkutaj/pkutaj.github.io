@@ -288,3 +288,7 @@ Prediction that AI is getting engineers-as-product-builders really out of work a
 #### (7) Real Time Traffic Analytics powered by ClickHouse at FlockSafety - YouTube
 * <https://www.youtube.com/watch?v=dN4yrzn8Td4>
 Real-Time Analytics for security - monitoring car plates. On moving from Redshift to Clickhouse, going from 24 hour staleness to minutes. Amazing.
+
+#### Opinion 
+* <https://www.nytimes.com/2025/03/04/opinion/ezra-klein-podcast-ben-buchanan.html>
+unoriginal, but I needed to hear this - it is happening...
