@@ -284,3 +284,7 @@ After discussion on Performance with (don't remember who), Uncle Bob is discussi
 #### The end of YC - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/the-end-of-yc?utm_source=post-email-title&publication_id=23588&post_id=158116384&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 Prediction that AI is getting engineers-as-product-builders really out of work as the entry bar has decreased and speed increased many times over.
+
+#### (7) Real Time Traffic Analytics powered by ClickHouse at FlockSafety - YouTube
+* <https://www.youtube.com/watch?v=dN4yrzn8Td4>
+Real-Time Analytics for security - monitoring car plates. On moving from Redshift to Clickhouse, going from 24 hour staleness to minutes. Amazing.
