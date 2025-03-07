@@ -296,3 +296,7 @@ unoriginal, but I needed to hear this - it is happening...
 #### (7) Clickhouse: Faster Queries, Faster Answers (with Alasdair Brown) - YouTube
 * <https://www.youtube.com/watch?v=S8ldDYxjyLQ>
 Interesting takes on limitations of Clickhouse as a datawarehousing solution.
+
+#### Demystifying the Parquet File Format 
+* <https://medium.com/towards-data-science/demystifying-the-parquet-file-format-13adb0206705#:~:text=On%20top%20of%20strong%20compression,scans%20and%20encoding%20repeat%20variables.>
+Data Storage Problem well explained. Thanks!
