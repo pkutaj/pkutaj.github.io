@@ -304,3 +304,7 @@ Data Storage Problem well explained. Thanks!
 #### LeetCode is dead? Privacy is done? 
 * <https://www.youtube.com/watch?v=EZFlOnlLCsk>
 On tech interview, lying and some fiction references that are actually amazing.
+
+#### Opinion 
+* <https://www.nytimes.com/2025/03/05/opinion/ezra-klein-podcast-trump-speech.html>
+On Lying as Loyalty test. Hannah Arendt was writing about this, I remember. Orwellian topic there. Also Vaclav Havel's the power of powerless is resounding there and whole (romantic?) subject of the life-in-truth.
