@@ -300,3 +300,7 @@ Interesting takes on limitations of Clickhouse as a datawarehousing solution.
 #### Demystifying the Parquet File Format 
 * <https://medium.com/towards-data-science/demystifying-the-parquet-file-format-13adb0206705#:~:text=On%20top%20of%20strong%20compression,scans%20and%20encoding%20repeat%20variables.>
 Data Storage Problem well explained. Thanks!
+
+#### LeetCode is dead? Privacy is done? 
+* <https://www.youtube.com/watch?v=EZFlOnlLCsk>
+On tech interview, lying and some fiction references that are actually amazing.
