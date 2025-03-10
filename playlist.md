@@ -312,3 +312,7 @@ On Lying as Loyalty test. Hannah Arendt was writing about this, I remember. Orwe
 #### Docker Compose vs Kubernetes - Differences Explained
 * <https://spacelift.io/blog/docker-compose-vs-kubernetes>
 Learning about docker compose VS kubernetes vs further orchestration options.
+
+#### You might not need Redis - viblo.se
+* <https://www.viblo.se/posts/no-need-redis/>
+Why Redis can be an overkill just because it has a great reputation amongs developers (duckDB has great  name as well)
