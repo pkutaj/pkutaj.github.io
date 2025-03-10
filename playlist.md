@@ -316,3 +316,7 @@ Learning about docker compose VS kubernetes vs further orchestration options.
 #### You might not need Redis - viblo.se
 * <https://www.viblo.se/posts/no-need-redis/>
 Why Redis can be an overkill just because it has a great reputation amongs developers (duckDB has great  name as well)
+
+#### You might not need Redis 
+* <https://news.ycombinator.com/item?id=43301432>
+A discussion on overdeploying Redis which is good for their business I'd say.
