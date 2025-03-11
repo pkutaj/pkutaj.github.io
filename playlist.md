@@ -338,3 +338,7 @@ Kotkin is always great. This was recommendation by Marg Revolution.
 
 #### (1) MIT 6.828: Operating System Engineering - YouTube
 * <https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP>
+
+#### (1) MIT 6.004 Computation Structures, Spring 2017 - YouTube
+* <https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2>
+Mainly Chapters 14 and 16
