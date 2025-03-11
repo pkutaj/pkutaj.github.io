@@ -332,3 +332,6 @@ A wonderful motivation speech on why discipline of getting things done matters. 
 #### Can Ukraine—and America—Survive Donald Trump? 
 * <https://www.newyorker.com/news/the-new-yorker-interview/can-ukraine-and-america-survive-donald-trump>
 Kotkin is always great. This was recommendation by Marg Revolution.
+
+#### (1) 1.01 - Basics of Operating Systems - YouTube
+* <https://www.youtube.com/watch?v=29LYMb1G_wA&list=PLftJ4X48yC1n1FyWM_snN2YweAEAwMDLY>
