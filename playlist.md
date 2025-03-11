@@ -324,3 +324,7 @@ A discussion on overdeploying Redis which is good for their business I'd say.
 #### (1) Bjarne Says C++ Is Under Attack - YouTube
 * <https://www.youtube.com/watch?v=nfx9iV7GuNk>
 Are we good with C++ in Clickhouse? Bjarne is worried about the future of the ecosystem. Prime getting a funny comment of a one-man language.
+
+#### Ep. 343: A Minimal Protocol for Taking Control of Your Life - The Deep Life by Cal Newport
+* <https://www.thedeeplife.com/podcasts/episodes/ep-343-a-minimal-protocol-for-taking-control-of-your-life/>
+A wonderful motivation speech on why discipline of getting things done matters. Thinking about bare bonesbut also - give intent to your day, do not be dragged by reactive mode.
