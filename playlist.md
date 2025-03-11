@@ -335,3 +335,6 @@ Kotkin is always great. This was recommendation by Marg Revolution.
 
 #### (1) 1.01 - Basics of Operating Systems - YouTube
 * <https://www.youtube.com/watch?v=29LYMb1G_wA&list=PLftJ4X48yC1n1FyWM_snN2YweAEAwMDLY>
+
+#### (1) MIT 6.828: Operating System Engineering - YouTube
+* <https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP>
