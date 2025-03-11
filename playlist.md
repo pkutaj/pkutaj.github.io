@@ -328,3 +328,7 @@ Are we good with C++ in Clickhouse? Bjarne is worried about the future of the ec
 #### Ep. 343: A Minimal Protocol for Taking Control of Your Life - The Deep Life by Cal Newport
 * <https://www.thedeeplife.com/podcasts/episodes/ep-343-a-minimal-protocol-for-taking-control-of-your-life/>
 A wonderful motivation speech on why discipline of getting things done matters. Thinking about bare bonesbut also - give intent to your day, do not be dragged by reactive mode.
+
+#### Can Ukraine—and America—Survive Donald Trump? 
+* <https://www.newyorker.com/news/the-new-yorker-interview/can-ukraine-and-america-survive-donald-trump>
+Kotkin is always great. This was recommendation by Marg Revolution.
