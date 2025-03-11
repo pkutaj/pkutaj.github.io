@@ -320,3 +320,7 @@ Why Redis can be an overkill just because it has a great reputation amongs devel
 #### You might not need Redis 
 * <https://news.ycombinator.com/item?id=43301432>
 A discussion on overdeploying Redis which is good for their business I'd say.
+
+#### (1) Bjarne Says C++ Is Under Attack - YouTube
+* <https://www.youtube.com/watch?v=nfx9iV7GuNk>
+Are we good with C++ in Clickhouse? Bjarne is worried about the future of the ecosystem. Prime getting a funny comment of a one-man language.
