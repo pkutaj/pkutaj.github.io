@@ -342,3 +342,7 @@ Kotkin is always great. This was recommendation by Marg Revolution.
 #### (1) MIT 6.004 Computation Structures, Spring 2017 - YouTube
 * <https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2>
 Mainly Chapters 14 and 16
+
+#### How we built a Scalable Data Platform · JC
+* <https://jchandra.com/posts/data-infra/#our-new-data-platform>
+Highly Interesting, but for me essentially highlighting a quite typical - when successful - customer journey that necessitates a creation of OLAP specific platform optimized for cost and performance. The fact you're stepping away from managed solutions seems alto to be a direction into which market is headed atm.
