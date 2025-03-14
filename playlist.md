@@ -357,3 +357,7 @@ The next meme. Vibe coding. Prime is quite ruthless.
 
 #### How to Increase the Number of Threads in ClickHouse 
 * <https://clickhouse.com/docs/knowledgebase/how-to-increase-thread-pool-size>
+
+#### Reaching industrial economies of scale with Beyang Liu, CTO of Sourcegraph (Changelog Interviews #632)
+* <https://changelog.com/podcast/632>
+This is something Primeagean should listen to, not the clickbait heÂ is so easily dismissing.
