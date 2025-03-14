@@ -350,3 +350,7 @@ Highly Interesting, but for me essentially highlighting a quite typical - when s
 #### DBeaver - Wikipedia
 * <https://en.wikipedia.org/wiki/DBeaver>
 DuckDB has a new UI, Dbeaver has a competitor
+
+#### (1) Vibe Coding Is The Future - YouTube
+* <https://www.youtube.com/watch?v=riyh_CIshTs>
+The next meme. Vibe coding. Prime is quite ruthless.
