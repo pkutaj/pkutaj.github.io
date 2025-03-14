@@ -354,3 +354,6 @@ DuckDB has a new UI, Dbeaver has a competitor
 #### (1) Vibe Coding Is The Future - YouTube
 * <https://www.youtube.com/watch?v=riyh_CIshTs>
 The next meme. Vibe coding. Prime is quite ruthless.
+
+#### How to Increase the Number of Threads in ClickHouse 
+* <https://clickhouse.com/docs/knowledgebase/how-to-increase-thread-pool-size>
