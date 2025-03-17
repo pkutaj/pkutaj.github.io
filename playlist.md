@@ -365,3 +365,7 @@ This is something Primeagean should listen to, not the clickbait heÂ is so easil
 #### Anchoring effect - Wikipedia
 * <https://en.wikipedia.org/wiki/Anchoring_effect>
 Primagean mentioning this in The Future of Vibe Coding. Have Kahneman's book at home. Still have not read. But mentioned in a book about negotiating (Chris oss's never split the difference)
+
+#### Jason Pepas' Technical Blog
+* <https://gist.github.com/cellularmitosis/1106b185f8b34ae0e36afa5fbcd04a00>
+Technical Blog out of GH Gists, not bad
