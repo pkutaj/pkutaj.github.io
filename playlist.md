@@ -369,3 +369,7 @@ Primagean mentioning this in The Future of Vibe Coding. Have Kahneman's book at 
 #### Jason Pepas' Technical Blog
 * <https://gist.github.com/cellularmitosis/1106b185f8b34ae0e36afa5fbcd04a00>
 Technical Blog out of GH Gists, not bad
+
+#### alias pf=fzf
+* <https://nickjanetakis.com/blog/using-fzf-to-preview-text-files-on-the-command-line-and-within-vim>
+he's just amazing, exactly what I needed.
