@@ -360,7 +360,7 @@ The next meme. Vibe coding. Prime is quite ruthless.
 
 #### Reaching industrial economies of scale with Beyang Liu, CTO of Sourcegraph (Changelog Interviews #632)
 * <https://changelog.com/podcast/632>
-This is something Primeagean should listen to, not the clickbait heÂ is so easily dismissing.
+This is something Primeagean should listen to, not the clickbait he is so easily dismissing.
 
 #### Anchoring effect - Wikipedia
 * <https://en.wikipedia.org/wiki/Anchoring_effect>
