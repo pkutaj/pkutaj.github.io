@@ -373,3 +373,6 @@ Technical Blog out of GH Gists, not bad
 #### alias pf=fzf
 * <https://nickjanetakis.com/blog/using-fzf-to-preview-text-files-on-the-command-line-and-within-vim>
 he's just amazing, exactly what I needed.
+
+#### AI Is Here And Students You Are Screwed If You Don't Take Action 
+* <https://www.youtube.com/watch?v=LXUw0xSib-g&ab_channel=ThePrimeTime>
