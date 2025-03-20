@@ -376,3 +376,6 @@ he's just amazing, exactly what I needed.
 
 #### AI Is Here And Students You Are Screwed If You Don't Take Action 
 * <https://www.youtube.com/watch?v=LXUw0xSib-g&ab_channel=ThePrimeTime>
+
+#### Building a Paste Service With ClickHouse
+* <https://clickhouse.com/blog/building-a-paste-service-with-clickhouse>
