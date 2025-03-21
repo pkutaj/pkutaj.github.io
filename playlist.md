@@ -481,3 +481,7 @@ he's just amazing, exactly what I needed.
 #### Schedule 
 * <https://15445.courses.cs.cmu.edu/spring2025/schedule.html>
 PDF free to download, Videos behind a wall.
+
+#### SQL or Death? Seminar Series – Spring 2025
+* <https://db.cs.cmu.edu/seminar2025/>
+Perhaps a new challenge to go through DB seminars and learn the landscape.
