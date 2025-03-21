@@ -477,3 +477,7 @@ he's just amazing, exactly what I needed.
 
 #### 3.20. Building a Paste Service With ClickHouse
 * <https://clickhouse.com/blog/building-a-paste-service-with-clickhouse>
+
+#### Schedule 
+* <https://15445.courses.cs.cmu.edu/spring2025/schedule.html>
+PDF free to download, Videos behind a wall.
