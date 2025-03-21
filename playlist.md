@@ -492,3 +492,7 @@ Open Source, influenced by Red Hat's experience.
 
 #### Sync Engines are the Future
 * <https://www.instantdb.com/essays/sync_future>
+
+#### Copy copy revolution - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/copy-copy-revolution?utm_source=post-email-title&publication_id=23588&post_id=159550307&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+Benn suggesting AI code should be very different from manmade code - by design.
