@@ -489,3 +489,6 @@ Perhaps a new challenge to go through DB seminars and learn the landscape.
 #### Practical AI 
 * <https://practicalai.fm/306>
 Open Source, influenced by Red Hat's experience.
+
+#### Sync Engines are the Future
+* <https://www.instantdb.com/essays/sync_future>
