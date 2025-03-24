@@ -500,3 +500,7 @@ Benn suggesting AI code should be very different from manmade code - by design.
 #### Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL 
 * <https://news.ycombinator.com/item?id=43427671>
 An interesting project probably competing with MotherDuck and also comparing trying Clickhouse as competition.
+
+#### ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
+* <https://www.youtube.com/watch?v=tNZnLkRBYA8&ab_channel=LexFridman>
+Just the beginning is a sparkle of passion from craftsmen who appreciate the craft.
