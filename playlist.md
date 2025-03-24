@@ -496,3 +496,7 @@ Open Source, influenced by Red Hat's experience.
 #### Copy copy revolution - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/copy-copy-revolution?utm_source=post-email-title&publication_id=23588&post_id=159550307&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 Benn suggesting AI code should be very different from manmade code - by design.
+
+#### Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL 
+* <https://news.ycombinator.com/item?id=43427671>
+An interesting project probably competing with MotherDuck and also comparing trying Clickhouse as competition.
