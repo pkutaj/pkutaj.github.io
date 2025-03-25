@@ -504,3 +504,7 @@ An interesting project probably competing with MotherDuck and also comparing try
 #### ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
 * <https://www.youtube.com/watch?v=tNZnLkRBYA8&ab_channel=LexFridman>
 Just the beginning is a sparkle of passion from craftsmen who appreciate the craft.
+
+#### StarRocks/starrocks: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+* <https://github.com/StarRocks/starrocks>
+Learning a bit about competition.
