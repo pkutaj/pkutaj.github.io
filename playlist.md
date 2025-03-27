@@ -508,3 +508,10 @@ Just the beginning is a sparkle of passion from craftsmen who appreciate the cra
 #### StarRocks/starrocks: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 * <https://github.com/StarRocks/starrocks>
 Learning a bit about competition.
+
+#### xan/docs/LOVE_LETTER.md at master · medialab/xan
+* <https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md>
+
+#### Home - The XY Problem
+* <https://xyproblem.info/>
+Great heuristics, think about what the problem is, not how the person you are working with is trying to solve it. Also the problem may be initially poorly formulated.
