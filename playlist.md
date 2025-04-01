@@ -519,3 +519,7 @@ Great heuristics, think about what the problem is, not how the person you are wo
 #### 229. Tech
 * <https://hardcoresoftware.learningbyshipping.com/p/229-tech-goes-hardcore-again>
 A cycle of tech. On perks being outdated. On some frugality. On microsoft culture.
+
+#### #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
+* <https://lexfridman.com/theprimeagen/?utm_source=rss&utm_medium=rss&utm_campaign=theprimeagen>
+Amazing life story, cool tips for engineering setup, AI skepticism I'm widely sharing and the innovative combination of high positivity and character and humor something that makes Primagean a part of my imagined wider family.
