@@ -515,3 +515,7 @@ Learning a bit about competition.
 #### Home - The XY Problem
 * <https://xyproblem.info/>
 Great heuristics, think about what the problem is, not how the person you are working with is trying to solve it. Also the problem may be initially poorly formulated.
+
+#### 229. Tech
+* <https://hardcoresoftware.learningbyshipping.com/p/229-tech-goes-hardcore-again>
+A cycle of tech. On perks being outdated. On some frugality. On microsoft culture.
