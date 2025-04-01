@@ -523,3 +523,10 @@ A cycle of tech. On perks being outdated. On some frugality. On microsoft cultur
 #### #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
 * <https://lexfridman.com/theprimeagen/?utm_source=rss&utm_medium=rss&utm_campaign=theprimeagen>
 Amazing life story, cool tips for engineering setup, AI skepticism I'm widely sharing and the innovative combination of high positivity and character and humor something that makes Primagean a part of my imagined wider family.
+
+#### Clickhouse
+* <https://news.ycombinator.com/item?id=43489058>
+
+#### The Website Hacker News Is Afraid to Discuss 
+* <https://news.ycombinator.com/item?id=43489058>
+Fascinating, and I've heard about Daring Fireball's post on something's rotten in the state of Cupertino in a recent Changelog Episode wholly dedicated to it. Fun.
