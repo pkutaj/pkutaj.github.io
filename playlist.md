@@ -530,3 +530,7 @@ Amazing life story, cool tips for engineering setup, AI skepticism I'm widely sh
 #### The Website Hacker News Is Afraid to Discuss 
 * <https://news.ycombinator.com/item?id=43489058>
 Fascinating, and I've heard about Daring Fireball's post on something's rotten in the state of Cupertino in a recent Changelog Episode wholly dedicated to it. Fun.
+
+#### Why Are Beach Holes So Deadly? - YouTube
+* <https://www.youtube.com/watch?v=0kQXOTcEB_E>
+fascinating
