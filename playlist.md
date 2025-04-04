@@ -534,3 +534,7 @@ Fascinating, and I've heard about Daring Fireball's post on something's rotten i
 #### Why Are Beach Holes So Deadly? - YouTube
 * <https://www.youtube.com/watch?v=0kQXOTcEB_E>
 fascinating
+
+#### Incubation:APM ClickHouse evaluation (#4) · Issues · GitLab.org / incubation-engineering / APM / APM · GitLab
+* <https://gitlab.com/gitlab-org/incubation-engineering/apm/apm/-/issues/4>
+Gitlab's eval of ClickHouse vs TimescaleDB (long ago listened to a good podcast with TimescaleDB CEO, with some good lessons on observability space as an incubation of time series data as a category and their ventures into internet of things and other domains).
