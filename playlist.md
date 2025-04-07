@@ -542,3 +542,6 @@ Gitlab's eval of ClickHouse vs TimescaleDB (long ago listened to a good podcast 
 #### Prime Reacts - Why I Stopped Using AI Code Editors - YouTube
 * <https://www.youtube.com/watch?v=y3_TY4K8hVE>
 The same point again - reinforced - the loss of Fingerspitzgefuehl, the loss of intuition, the loss of the ability to interact fluently and after the loss the reaction to loss is really negative. May be similar to loss of fluency in a language though. It is not going to be lost completely. It just goes into background and you can refresh it after say a week of pratice if you have years of experience there.
+
+#### Advice from Old Tech Heads and Bossware - Article RoundUp - YouTube
+* <https://www.youtube.com/watch?v=CrcpAu_724A>
