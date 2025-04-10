@@ -561,3 +561,7 @@ The death of expert beginner? The rise of expert beginner explained in https://d
 #### Ep. 346: Getting Smarter in a Dumb World - The Deep Life by Cal Newport
 * <https://www.thedeeplife.com/podcasts/episodes/ep-346-getting-smarter-in-a-dumb-world/>
 Cal embraced the thesis that smartphone makes us less skillful. Less inteligent. More importantly, less wise. His cure: dialectics!
+
+#### Strategies to Thrive as AIs get Better - Especially for programmers - YouTube
+* <https://www.youtube.com/watch?v=A_fOHpBqj50>
+Carl's advice? Cross-disciplines, generalism, meta-rationality and I'd add understanding the damn foundations if you want to survive.
