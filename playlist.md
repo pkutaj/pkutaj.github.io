@@ -549,3 +549,7 @@ The same point again - reinforced - the loss of Fingerspitzgefuehl, the loss of 
 #### Making A Game GOOD - The Standup EP 3 - YouTube
 * <https://www.youtube.com/watch?v=nCxU-OBoISk&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk>
 Casey and Prime talking their new game and what is it that makes a game compelling which is the second-to-second experience that needs tweaking, tweaking, tweaking.
+
+#### Classical liberalism vs. The New Right - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2022/10/classical-liberalism-vs-the-new-right.html>
+Trust is a must. New right is highly distrustful of elites and does not offer any replacement.
