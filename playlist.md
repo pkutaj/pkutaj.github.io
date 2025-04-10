@@ -553,3 +553,7 @@ Casey and Prime talking their new game and what is it that makes a game compelli
 #### Classical liberalism vs. The New Right - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2022/10/classical-liberalism-vs-the-new-right.html>
 Trust is a must. New right is highly distrustful of elites and does not offer any replacement.
+
+#### Use AI Now! Prime Reacts - YouTube
+* <https://www.youtube.com/watch?v=zy2FjRCqBSI>
+The death of expert beginner? The rise of expert beginner explained in https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
