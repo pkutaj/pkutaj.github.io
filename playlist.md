@@ -557,3 +557,7 @@ Trust is a must. New right is highly distrustful of elites and does not offer an
 #### Use AI Now! Prime Reacts - YouTube
 * <https://www.youtube.com/watch?v=zy2FjRCqBSI>
 The death of expert beginner? The rise of expert beginner explained in https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
+
+#### Ep. 346: Getting Smarter in a Dumb World - The Deep Life by Cal Newport
+* <https://www.thedeeplife.com/podcasts/episodes/ep-346-getting-smarter-in-a-dumb-world/>
+Cal embraced the thesis that smartphone makes us less skillful. Less inteligent. More importantly, less wise. His cure: dialectics!
