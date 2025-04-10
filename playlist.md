@@ -545,3 +545,7 @@ The same point again - reinforced - the loss of Fingerspitzgefuehl, the loss of 
 
 #### Advice from Old Tech Heads and Bossware - Article RoundUp - YouTube
 * <https://www.youtube.com/watch?v=CrcpAu_724A>
+
+#### Making A Game GOOD - The Standup EP 3 - YouTube
+* <https://www.youtube.com/watch?v=nCxU-OBoISk&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk>
+Casey and Prime talking their new game and what is it that makes a game compelling which is the second-to-second experience that needs tweaking, tweaking, tweaking.
