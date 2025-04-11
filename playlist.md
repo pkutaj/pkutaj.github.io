@@ -565,3 +565,7 @@ Cal embraced the thesis that smartphone makes us less skillful. Less inteligent.
 #### Strategies to Thrive as AIs get Better - Especially for programmers - YouTube
 * <https://www.youtube.com/watch?v=A_fOHpBqj50>
 Carl's advice? Cross-disciplines, generalism, meta-rationality and I'd add understanding the damn foundations if you want to survive.
+
+#### This Doesn't Look Good For AI - The Standup - Ep 4 - YouTube
+* <https://www.youtube.com/watch?v=nmlkY9e4JjQ&t=2041s&ab_channel=ThePrimeTime>
+Licencing catching up on LLMs? Casey deepdiving into what that may mean in the future.
