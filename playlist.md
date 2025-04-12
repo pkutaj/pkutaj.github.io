@@ -573,3 +573,7 @@ Licencing catching up on LLMs? Casey deepdiving into what that may mean in the f
 #### The industrialization of IT - by Benn Stancil
 * <https://benn.substack.com/p/the-industrialization-of-it?utm_source=post-email-title&publication_id=23588&post_id=160968590&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 A cynical take from The Killer: The Killer: From the beginning of history, the few have always exploited the many. This is the cornerstone of civilization. The blood in the mortar that binds all bricks. Whatever it takes, make sure you're one of the few, not one of the many.
+
+#### Plavecký stadion Podolí – Wikipedie
+* <https://cs.wikipedia.org/wiki/Plaveck%C3%BD_stadion_Podol%C3%AD>
+next swimming stop!
