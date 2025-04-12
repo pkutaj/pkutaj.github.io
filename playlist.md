@@ -577,3 +577,6 @@ A cynical take from The Killer: The Killer: From the beginning of history, the f
 #### Plavecký stadion Podolí – Wikipedie
 * <https://cs.wikipedia.org/wiki/Plaveck%C3%BD_stadion_Podol%C3%AD>
 next swimming stop!
+
+#### Rails is having a moment (again) with David Heinemeier Hansson (DHH), creator of Ruby on Rails (Changelog Interviews #615)
+* <https://changelog.com/podcast/615>
