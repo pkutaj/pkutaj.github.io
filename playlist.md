@@ -580,3 +580,7 @@ next swimming stop!
 
 #### Rails is having a moment (again) with David Heinemeier Hansson (DHH), creator of Ruby on Rails (Changelog Interviews #615)
 * <https://changelog.com/podcast/615>
+
+#### The FASTEST and SAFEST Database - YouTube
+* <https://www.youtube.com/watch?v=sC1B3d9C_sI>
+Joran Dirk Greef was also on Changelog(https://changelog.com/podcast/635); Prime was inspired to use asserts more in his code based on this presentation. Amazing that the work originated within Gates Foundation and has "character" i.e. an intention to make banking cheaper for developing world. Plus amazing piece of technology. Fascinating.
