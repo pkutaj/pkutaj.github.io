@@ -584,3 +584,7 @@ next swimming stop!
 #### The FASTEST and SAFEST Database - YouTube
 * <https://www.youtube.com/watch?v=sC1B3d9C_sI>
 Joran Dirk Greef was also on Changelog(https://changelog.com/podcast/635); Prime was inspired to use asserts more in his code based on this presentation. Amazing that the work originated within Gates Foundation and has "character" i.e. an intention to make banking cheaper for developing world. Plus amazing piece of technology. Fascinating.
+
+#### The YX Problem (Reverse XY Problem)
+* <https://yawn.io/posts/yx-problem-v2/>
+How not to be a jerk in ops.
