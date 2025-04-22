@@ -592,3 +592,13 @@ How not to be a jerk in ops.
 #### (4) The Emergency Is Here 
 * <https://www.youtube.com/watch?v=JN1oBfg0fwI>
 A bit that got through my info diet. Together with Common Sense - Dan Carlin is back, things are serious in the US.
+
+#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
+
+#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
+
+#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+* <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
+A great it on observability as phases, viewed from the business angle, rather than a collection of metrics, logs and traces between 15:00-19:00
