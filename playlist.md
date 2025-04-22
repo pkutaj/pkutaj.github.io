@@ -588,3 +588,7 @@ Joran Dirk Greef was also on Changelog(https://changelog.com/podcast/635); Prime
 #### The YX Problem (Reverse XY Problem)
 * <https://yawn.io/posts/yx-problem-v2/>
 How not to be a jerk in ops.
+
+#### (4) The Emergency Is Here 
+* <https://www.youtube.com/watch?v=JN1oBfg0fwI>
+A bit that got through my info diet. Together with Common Sense - Dan Carlin is back, things are serious in the US.
