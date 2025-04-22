@@ -602,3 +602,7 @@ A bit that got through my info diet. Together with Common Sense - Dan Carlin is 
 #### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
 A great it on observability as phases, viewed from the business angle, rather than a collection of metrics, logs and traces between 15:00-19:00
+
+#### The Best Programmers I Know 
+* <https://endler.dev/2025/best-programmers/>
+Prime reacted in https://www.youtube.com/watch?v=5La12L8g1Ys; a great piece.
