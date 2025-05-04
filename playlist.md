@@ -614,3 +614,7 @@ Ross Douhat's Manifesto against the all-replacing digital replacements. Intense.
 #### Practical AI 
 * <https://practicalai.fm/310>
 Listening about All Hands - AI coding machine and its CEO doing some coding and creation in short time between meetings or on the way to work from the phone. Sounds like an interesting assistant.
+
+#### I'd rather read the prompt
+* <https://claytonwramsey.com/blog/prompt/>
+Against computers writing for us. A tough one.
