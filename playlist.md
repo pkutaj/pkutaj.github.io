@@ -610,3 +610,7 @@ Prime reacted in https://www.youtube.com/watch?v=5La12L8g1Ys; a great piece.
 #### Opinion 
 * <https://archive.is/tcG5v>
 Ross Douhat's Manifesto against the all-replacing digital replacements. Intense.
+
+#### Practical AI 
+* <https://practicalai.fm/310>
+Listening about All Hands - AI coding machine and its CEO doing some coding and creation in short time between meetings or on the way to work from the phone. Sounds like an interesting assistant.
