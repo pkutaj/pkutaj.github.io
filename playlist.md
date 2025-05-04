@@ -606,3 +606,7 @@ A great it on observability as phases, viewed from the business angle, rather th
 #### The Best Programmers I Know 
 * <https://endler.dev/2025/best-programmers/>
 Prime reacted in https://www.youtube.com/watch?v=5La12L8g1Ys; a great piece.
+
+#### Opinion 
+* <https://archive.is/tcG5v>
+Ross Douhat's Manifesto against the all-replacing digital replacements. Intense.
