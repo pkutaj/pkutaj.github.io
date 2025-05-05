@@ -618,3 +618,7 @@ Listening about All Hands - AI coding machine and its CEO doing some coding and 
 #### I'd rather read the prompt
 * <https://claytonwramsey.com/blog/prompt/>
 Against computers writing for us. A tough one.
+
+#### We Shut Down Snowflake - And Here’s Why - by Arturas Tutkus
+* <https://arturastutkus.substack.com/p/we-shut-down-snowflake-and-heres>
+On Snowflake having issues with large-scale semi-structured (JSON) columns.
