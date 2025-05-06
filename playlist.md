@@ -622,3 +622,7 @@ Against computers writing for us. A tough one.
 #### We Shut Down Snowflake - And Here’s Why - by Arturas Tutkus
 * <https://arturastutkus.substack.com/p/we-shut-down-snowflake-and-heres>
 On Snowflake having issues with large-scale semi-structured (JSON) columns.
+
+#### What is data at rest? 
+* <https://www.cloudflare.com/learning/security/glossary/data-at-rest/>
+Security, types of data (at reast, in motion, in use) and various techniques to secure that.
