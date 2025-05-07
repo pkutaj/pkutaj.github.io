@@ -626,3 +626,7 @@ On Snowflake having issues with large-scale semi-structured (JSON) columns.
 #### What is data at rest? 
 * <https://www.cloudflare.com/learning/security/glossary/data-at-rest/>
 Security, types of data (at reast, in motion, in use) and various techniques to secure that.
+
+#### Pluralistic: Sarah Wynn-Williams’s ‘Careless People’ (23 Apr 2025) – Pluralistic: Daily links from Cory Doctorow
+* <https://pluralistic.net/2025/04/23/zuckerstreisand/>
+Important. On Facebook internals and letting your loved ones/kids use the tools with this background.
