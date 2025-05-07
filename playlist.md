@@ -630,3 +630,7 @@ Security, types of data (at reast, in motion, in use) and various techniques to 
 #### Pluralistic: Sarah Wynn-Williams’s ‘Careless People’ (23 Apr 2025) – Pluralistic: Daily links from Cory Doctorow
 * <https://pluralistic.net/2025/04/23/zuckerstreisand/>
 Important. On Facebook internals and letting your loved ones/kids use the tools with this background.
+
+#### On The Death of Daydreaming - by Christine Rosen
+* <https://www.afterbabel.com/p/on-the-death-of-daydreaming>
+Another anti-digital take from Jon Haidt and friends. Almost as good as Ross D. phone-as-bottleneck manifesto in NY Times.
