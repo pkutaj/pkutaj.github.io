@@ -634,3 +634,7 @@ Important. On Facebook internals and letting your loved ones/kids use the tools 
 #### On The Death of Daydreaming - by Christine Rosen
 * <https://www.afterbabel.com/p/on-the-death-of-daydreaming>
 Another anti-digital take from Jon Haidt and friends. Almost as good as Ross D. phone-as-bottleneck manifesto in NY Times.
+
+#### Dijkstra On the foolishness of natural
+* <https://news.ycombinator.com/item?id=43564386>
+A discussion in the heated LLM debate in the engineering circles.
