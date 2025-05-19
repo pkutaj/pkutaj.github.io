@@ -642,3 +642,7 @@ A discussion in the heated LLM debate in the engineering circles.
 #### How To Become The BEST Engineer At Your Company - YouTube
 * <https://www.youtube.com/watch?v=Qc_kEyLsXH0>
 A bit of social engineering not bad in your perfonal tech engineering journey?
+
+#### JUST USE HTML - YouTube
+* <https://www.youtube.com/watch?v=jnY61ywnBHM>
+Yes. Simplicity. Yes.
