@@ -646,3 +646,7 @@ A bit of social engineering not bad in your perfonal tech engineering journey?
 #### JUST USE HTML - YouTube
 * <https://www.youtube.com/watch?v=jnY61ywnBHM>
 Yes. Simplicity. Yes.
+
+#### Page not found – Software Engineering Radio
+* <https://se-radio.net/se-radio-623-mike-freedman-on-timescaledb>
+Great bit from competition. On TSDB and Postgres ecosystem as a competitive advantage.
