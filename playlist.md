@@ -83,7 +83,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [2.49. (7) Clickhouse: Faster Queries, Faster Answers (with Alasdair Brown) - YouTube](#249-7-clickhouse-faster-queries-faster-answers-with-alasdair-brown---youtube)
   - [2.50. Demystifying the Parquet File Format](#250-demystifying-the-parquet-file-format)
   - [2.51. LeetCode is dead? Privacy is done?](#251-leetcode-is-dead-privacy-is-done)
-- [3. March-2025](#3-march-2025)
+- [3. MAR-2025](#3-mar-2025)
   - [3.1. Opinion](#31-opinion)
   - [3.2. Docker Compose vs Kubernetes - Differences Explained](#32-docker-compose-vs-kubernetes---differences-explained)
   - [3.3. You might not need Redis - viblo.se](#33-you-might-not-need-redis---viblose)
@@ -115,7 +115,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [3.29. xan/docs/LOVE\_LETTER.md at master · medialab/xan](#329-xandocslove_lettermd-at-master--medialabxan)
   - [3.30. Home - The XY Problem](#330-home---the-xy-problem)
   - [3.31. Tech](#331-tech)
-- [4. April-2025](#4-april-2025)
+- [4. APR-2025](#4-apr-2025)
   - [4.1. #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](#41-461--theprimeagen-programming-ai-adhd-productivity-addiction-and-god)
   - [4.2. Clickhouse](#42-clickhouse)
   - [4.3. The Website Hacker News Is Afraid to Discuss](#43-the-website-hacker-news-is-afraid-to-discuss)
@@ -139,7 +139,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.21. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily](#421-prometheus-and-open-source-observability-with-eric-schabell---software-engineering-daily)
   - [4.22. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily](#422-prometheus-and-open-source-observability-with-eric-schabell---software-engineering-daily)
   - [4.23. The Best Programmers I Know](#423-the-best-programmers-i-know)
-- [5. May-2025](#5-may-2025)
+- [5. MAY-2025](#5-may-2025)
   - [5.1. Opinion](#51-opinion)
   - [5.2. Practical AI](#52-practical-ai)
   - [5.3. I'd rather read the prompt](#53-id-rather-read-the-prompt)
@@ -151,6 +151,8 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [5.9. How To Become The BEST Engineer At Your Company - YouTube](#59-how-to-become-the-best-engineer-at-your-company---youtube)
   - [5.10. JUST USE HTML - YouTube](#510-just-use-html---youtube)
   - [5.11. Page not found – Software Engineering Radio](#511-page-not-found--software-engineering-radio)
+  - [5.12. Coding Should Be A Vibe - YouTube](#512-coding-should-be-a-vibe---youtube)
+
 
 
 ### 1. Jan-2025
@@ -700,3 +702,12 @@ Yes. Simplicity. Yes.
 #### 5.11. Page not found – Software Engineering Radio
 * <https://se-radio.net/se-radio-623-mike-freedman-on-timescaledb>
 Great bit from competition. On TSDB and Postgres ecosystem as a competitive advantage.
+
+#### 5.12. Coding Should Be A Vibe - YouTube
+* <https://www.youtube.com/watch?v=sfT6sMkj6Ow&ab_channel=ThePrimeTime>
+
+#### Test
+
+#### Don't Let Architecture Astronauts Scare You - YouTube
+* <https://www.youtube.com/watch?v=LhKau4K6Pqc&ab_channel=ThePrimeTime>
+Joel on Software against Hype and product/production driven thinking and against premature abstraction.
