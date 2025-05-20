@@ -711,3 +711,7 @@ Great bit from competition. On TSDB and Postgres ecosystem as a competitive adva
 #### Don't Let Architecture Astronauts Scare You - YouTube
 * <https://www.youtube.com/watch?v=LhKau4K6Pqc&ab_channel=ThePrimeTime>
 Joel on Software against Hype and product/production driven thinking and against premature abstraction.
+
+#### After months of coding with LLMs, I'm going back to using my brain • albertofortin.com
+* <https://albertofortin.com/writing/coding-with-ai>
+Someone expressing what I've been intuiting. AI decreases competence.
