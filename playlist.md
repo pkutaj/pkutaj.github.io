@@ -8,6 +8,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 - [2023](https://pavol.kutaj.com/assets/playlist_2023)
 - [2024](https://pavol.kutaj.com/assets/playlist_2024)
 
+
 - [1. Jan-2025](#1-jan-2025)
   - [1.1. Databases in 2024: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](#11-databases-in-2024-a-year-in-review--blog--andy-pavlo---carnegie-mellon-university)
   - [1.2. Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](#12-ask-hn-programmers-who-dont-use-autocompletelsp-how-do-you-do-it)
@@ -103,6 +104,53 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [3.18. alias pf=fzf](#318-alias-pffzf)
   - [3.19. AI Is Here And Students You Are Screwed If You Don't Take Action](#319-ai-is-here-and-students-you-are-screwed-if-you-dont-take-action)
   - [3.20. Building a Paste Service With ClickHouse](#320-building-a-paste-service-with-clickhouse)
+  - [3.21. Schedule](#321-schedule)
+  - [3.22. SQL or Death? Seminar Series – Spring 2025](#322-sql-or-death-seminar-series--spring-2025)
+  - [3.23. Practical AI](#323-practical-ai)
+  - [3.24. Sync Engines are the Future](#324-sync-engines-are-the-future)
+  - [3.25. Copy copy revolution - by Benn Stancil - benn.substack](#325-copy-copy-revolution---by-benn-stancil---bennsubstack)
+  - [3.26. Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL](#326-show-hn-gizmosql--run-duckdb-as-a-server-with-arrow-flight-sql)
+  - [3.27. ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](#327-theprimeagen-programming-ai-adhd-productivity-addiction-and-god)
+  - [3.28. StarRocks/starrocks: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.](#328-starrocksstarrocks-the-worlds-fastest-open-query-engine-for-sub-second-analytics-both-on-and-off-the-data-lakehouse-with-the-flexibility-to-support-nearly-any-scenario-starrocks-provides-best-in-class-performance-for-multi-dimensional-analytics-real-time-analytics-and-ad-hoc-queries-a-linux-foundation-project)
+  - [3.29. xan/docs/LOVE\_LETTER.md at master · medialab/xan](#329-xandocslove_lettermd-at-master--medialabxan)
+  - [3.30. Home - The XY Problem](#330-home---the-xy-problem)
+  - [3.31. Tech](#331-tech)
+- [4. April-2025](#4-april-2025)
+  - [4.1. #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](#41-461--theprimeagen-programming-ai-adhd-productivity-addiction-and-god)
+  - [4.2. Clickhouse](#42-clickhouse)
+  - [4.3. The Website Hacker News Is Afraid to Discuss](#43-the-website-hacker-news-is-afraid-to-discuss)
+  - [4.4. Why Are Beach Holes So Deadly? - YouTube](#44-why-are-beach-holes-so-deadly---youtube)
+  - [4.5. Incubation:APM ClickHouse evaluation (#4) · Issues · GitLab.org / incubation-engineering / APM / APM · GitLab](#45-incubationapm-clickhouse-evaluation-4--issues--gitlaborg--incubation-engineering--apm--apm--gitlab)
+  - [4.6. Prime Reacts - Why I Stopped Using AI Code Editors - YouTube](#46-prime-reacts---why-i-stopped-using-ai-code-editors---youtube)
+  - [4.7. Advice from Old Tech Heads and Bossware - Article RoundUp - YouTube](#47-advice-from-old-tech-heads-and-bossware---article-roundup---youtube)
+  - [4.8. Making A Game GOOD - The Standup EP 3 - YouTube](#48-making-a-game-good---the-standup-ep-3---youtube)
+  - [4.9. Classical liberalism vs. The New Right - Marginal REVOLUTION](#49-classical-liberalism-vs-the-new-right---marginal-revolution)
+  - [4.10. Use AI Now! Prime Reacts - YouTube](#410-use-ai-now-prime-reacts---youtube)
+  - [4.11. Ep. 346: Getting Smarter in a Dumb World - The Deep Life by Cal Newport](#411-ep-346-getting-smarter-in-a-dumb-world---the-deep-life-by-cal-newport)
+  - [4.12. Strategies to Thrive as AIs get Better - Especially for programmers - YouTube](#412-strategies-to-thrive-as-ais-get-better---especially-for-programmers---youtube)
+  - [4.13. This Doesn't Look Good For AI - The Standup - Ep 4 - YouTube](#413-this-doesnt-look-good-for-ai---the-standup---ep-4---youtube)
+  - [4.14. The industrialization of IT - by Benn Stancil](#414-the-industrialization-of-it---by-benn-stancil)
+  - [4.15. Plavecký stadion Podolí – Wikipedie](#415-plavecký-stadion-podolí--wikipedie)
+  - [4.16. Rails is having a moment (again) with David Heinemeier Hansson (DHH), creator of Ruby on Rails (Changelog Interviews #615)](#416-rails-is-having-a-moment-again-with-david-heinemeier-hansson-dhh-creator-of-ruby-on-rails-changelog-interviews-615)
+  - [4.17. The FASTEST and SAFEST Database - YouTube](#417-the-fastest-and-safest-database---youtube)
+  - [4.18. The YX Problem (Reverse XY Problem)](#418-the-yx-problem-reverse-xy-problem)
+  - [4.19. (4) The Emergency Is Here](#419-4-the-emergency-is-here)
+  - [4.20. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily](#420-prometheus-and-open-source-observability-with-eric-schabell---software-engineering-daily)
+  - [4.21. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily](#421-prometheus-and-open-source-observability-with-eric-schabell---software-engineering-daily)
+  - [4.22. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily](#422-prometheus-and-open-source-observability-with-eric-schabell---software-engineering-daily)
+  - [4.23. The Best Programmers I Know](#423-the-best-programmers-i-know)
+- [5. May-2025](#5-may-2025)
+  - [5.1. Opinion](#51-opinion)
+  - [5.2. Practical AI](#52-practical-ai)
+  - [5.3. I'd rather read the prompt](#53-id-rather-read-the-prompt)
+  - [5.4. We Shut Down Snowflake - And Here’s Why - by Arturas Tutkus](#54-we-shut-down-snowflake---and-heres-why---by-arturas-tutkus)
+  - [5.5. What is data at rest?](#55-what-is-data-at-rest)
+  - [5.6. Pluralistic: Sarah Wynn-Williams’s ‘Careless People’ (23 Apr 2025) – Pluralistic: Daily links from Cory Doctorow](#56-pluralistic-sarah-wynn-williamss-careless-people-23-apr-2025--pluralistic-daily-links-from-cory-doctorow)
+  - [5.7. On The Death of Daydreaming - by Christine Rosen](#57-on-the-death-of-daydreaming---by-christine-rosen)
+  - [5.8. Dijkstra On the foolishness of natural](#58-dijkstra-on-the-foolishness-of-natural)
+  - [5.9. How To Become The BEST Engineer At Your Company - YouTube](#59-how-to-become-the-best-engineer-at-your-company---youtube)
+  - [5.10. JUST USE HTML - YouTube](#510-just-use-html---youtube)
+  - [5.11. Page not found – Software Engineering Radio](#511-page-not-found--software-engineering-radio)
 
 
 ### 1. Jan-2025
@@ -402,7 +450,7 @@ Data Storage Problem well explained. Thanks!
 * <https://www.youtube.com/watch?v=EZFlOnlLCsk>
 On tech interview, lying and some fiction references that are actually amazing.
 
-### 3. March-2025
+### 3. MAR-2025
 #### 3.1. Opinion 
 * <https://www.nytimes.com/2025/03/05/opinion/ezra-klein-podcast-trump-speech.html>
 On Lying as Loyalty test. Hannah Arendt was writing about this, I remember. Orwellian topic there. Also Vaclav Havel's the power of powerless is resounding there and whole (romantic?) subject of the life-in-truth.
@@ -478,175 +526,177 @@ he's just amazing, exactly what I needed.
 #### 3.20. Building a Paste Service With ClickHouse
 * <https://clickhouse.com/blog/building-a-paste-service-with-clickhouse>
 
-#### Schedule 
+#### 3.21. Schedule 
 * <https://15445.courses.cs.cmu.edu/spring2025/schedule.html>
 PDF free to download, Videos behind a wall.
 
-#### SQL or Death? Seminar Series – Spring 2025
+#### 3.22. SQL or Death? Seminar Series – Spring 2025
 * <https://db.cs.cmu.edu/seminar2025/>
 Perhaps a new challenge to go through DB seminars and learn the landscape.
 
-#### Practical AI 
+#### 3.23. Practical AI 
 * <https://practicalai.fm/306>
 Open Source, influenced by Red Hat's experience.
 
-#### Sync Engines are the Future
+#### 3.24. Sync Engines are the Future
 * <https://www.instantdb.com/essays/sync_future>
 
-#### Copy copy revolution - by Benn Stancil - benn.substack
+#### 3.25. Copy copy revolution - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/copy-copy-revolution?utm_source=post-email-title&publication_id=23588&post_id=159550307&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 Benn suggesting AI code should be very different from manmade code - by design.
 
-#### Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL 
+#### 3.26. Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL 
 * <https://news.ycombinator.com/item?id=43427671>
 An interesting project probably competing with MotherDuck and also comparing trying Clickhouse as competition.
 
-#### ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
+#### 3.27. ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
 * <https://www.youtube.com/watch?v=tNZnLkRBYA8&ab_channel=LexFridman>
 Just the beginning is a sparkle of passion from craftsmen who appreciate the craft.
 
-#### StarRocks/starrocks: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+#### 3.28. StarRocks/starrocks: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
 * <https://github.com/StarRocks/starrocks>
 Learning a bit about competition.
 
-#### xan/docs/LOVE_LETTER.md at master · medialab/xan
+#### 3.29. xan/docs/LOVE_LETTER.md at master · medialab/xan
 * <https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md>
 
-#### Home - The XY Problem
+#### 3.30. Home - The XY Problem
 * <https://xyproblem.info/>
 Great heuristics, think about what the problem is, not how the person you are working with is trying to solve it. Also the problem may be initially poorly formulated.
 
-#### 229. Tech
+#### 3.31. Tech
 * <https://hardcoresoftware.learningbyshipping.com/p/229-tech-goes-hardcore-again>
 A cycle of tech. On perks being outdated. On some frugality. On microsoft culture.
 
-#### #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
+### 4. APR-2025
+#### 4.1. #461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God 
 * <https://lexfridman.com/theprimeagen/?utm_source=rss&utm_medium=rss&utm_campaign=theprimeagen>
 Amazing life story, cool tips for engineering setup, AI skepticism I'm widely sharing and the innovative combination of high positivity and character and humor something that makes Primagean a part of my imagined wider family.
 
-#### Clickhouse
+#### 4.2. Clickhouse
 * <https://news.ycombinator.com/item?id=43489058>
 
-#### The Website Hacker News Is Afraid to Discuss 
+#### 4.3. The Website Hacker News Is Afraid to Discuss 
 * <https://news.ycombinator.com/item?id=43489058>
 Fascinating, and I've heard about Daring Fireball's post on something's rotten in the state of Cupertino in a recent Changelog Episode wholly dedicated to it. Fun.
 
-#### Why Are Beach Holes So Deadly? - YouTube
+#### 4.4. Why Are Beach Holes So Deadly? - YouTube
 * <https://www.youtube.com/watch?v=0kQXOTcEB_E>
 fascinating
 
-#### Incubation:APM ClickHouse evaluation (#4) · Issues · GitLab.org / incubation-engineering / APM / APM · GitLab
+#### 4.5. Incubation:APM ClickHouse evaluation (#4) · Issues · GitLab.org / incubation-engineering / APM / APM · GitLab
 * <https://gitlab.com/gitlab-org/incubation-engineering/apm/apm/-/issues/4>
 Gitlab's eval of ClickHouse vs TimescaleDB (long ago listened to a good podcast with TimescaleDB CEO, with some good lessons on observability space as an incubation of time series data as a category and their ventures into internet of things and other domains).
 
-#### Prime Reacts - Why I Stopped Using AI Code Editors - YouTube
+#### 4.6. Prime Reacts - Why I Stopped Using AI Code Editors - YouTube
 * <https://www.youtube.com/watch?v=y3_TY4K8hVE>
 The same point again - reinforced - the loss of Fingerspitzgefuehl, the loss of intuition, the loss of the ability to interact fluently and after the loss the reaction to loss is really negative. May be similar to loss of fluency in a language though. It is not going to be lost completely. It just goes into background and you can refresh it after say a week of pratice if you have years of experience there.
 
-#### Advice from Old Tech Heads and Bossware - Article RoundUp - YouTube
+#### 4.7. Advice from Old Tech Heads and Bossware - Article RoundUp - YouTube
 * <https://www.youtube.com/watch?v=CrcpAu_724A>
 
-#### Making A Game GOOD - The Standup EP 3 - YouTube
+#### 4.8. Making A Game GOOD - The Standup EP 3 - YouTube
 * <https://www.youtube.com/watch?v=nCxU-OBoISk&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk>
 Casey and Prime talking their new game and what is it that makes a game compelling which is the second-to-second experience that needs tweaking, tweaking, tweaking.
 
-#### Classical liberalism vs. The New Right - Marginal REVOLUTION
+#### 4.9. Classical liberalism vs. The New Right - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2022/10/classical-liberalism-vs-the-new-right.html>
 Trust is a must. New right is highly distrustful of elites and does not offer any replacement.
 
-#### Use AI Now! Prime Reacts - YouTube
+#### 4.10. Use AI Now! Prime Reacts - YouTube
 * <https://www.youtube.com/watch?v=zy2FjRCqBSI>
 The death of expert beginner? The rise of expert beginner explained in https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 
-#### Ep. 346: Getting Smarter in a Dumb World - The Deep Life by Cal Newport
+#### 4.11. Ep. 346: Getting Smarter in a Dumb World - The Deep Life by Cal Newport
 * <https://www.thedeeplife.com/podcasts/episodes/ep-346-getting-smarter-in-a-dumb-world/>
 Cal embraced the thesis that smartphone makes us less skillful. Less inteligent. More importantly, less wise. His cure: dialectics!
 
-#### Strategies to Thrive as AIs get Better - Especially for programmers - YouTube
+#### 4.12. Strategies to Thrive as AIs get Better - Especially for programmers - YouTube
 * <https://www.youtube.com/watch?v=A_fOHpBqj50>
 Carl's advice? Cross-disciplines, generalism, meta-rationality and I'd add understanding the damn foundations if you want to survive.
 
-#### This Doesn't Look Good For AI - The Standup - Ep 4 - YouTube
+#### 4.13. This Doesn't Look Good For AI - The Standup - Ep 4 - YouTube
 * <https://www.youtube.com/watch?v=nmlkY9e4JjQ&t=2041s&ab_channel=ThePrimeTime>
 Licencing catching up on LLMs? Casey deepdiving into what that may mean in the future.
 
-#### The industrialization of IT - by Benn Stancil
+#### 4.14. The industrialization of IT - by Benn Stancil
 * <https://benn.substack.com/p/the-industrialization-of-it?utm_source=post-email-title&publication_id=23588&post_id=160968590&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 A cynical take from The Killer: The Killer: From the beginning of history, the few have always exploited the many. This is the cornerstone of civilization. The blood in the mortar that binds all bricks. Whatever it takes, make sure you're one of the few, not one of the many.
 
-#### Plavecký stadion Podolí – Wikipedie
+#### 4.15. Plavecký stadion Podolí – Wikipedie
 * <https://cs.wikipedia.org/wiki/Plaveck%C3%BD_stadion_Podol%C3%AD>
 next swimming stop!
 
-#### Rails is having a moment (again) with David Heinemeier Hansson (DHH), creator of Ruby on Rails (Changelog Interviews #615)
+#### 4.16. Rails is having a moment (again) with David Heinemeier Hansson (DHH), creator of Ruby on Rails (Changelog Interviews #615)
 * <https://changelog.com/podcast/615>
 
-#### The FASTEST and SAFEST Database - YouTube
+#### 4.17. The FASTEST and SAFEST Database - YouTube
 * <https://www.youtube.com/watch?v=sC1B3d9C_sI>
 Joran Dirk Greef was also on Changelog(https://changelog.com/podcast/635); Prime was inspired to use asserts more in his code based on this presentation. Amazing that the work originated within Gates Foundation and has "character" i.e. an intention to make banking cheaper for developing world. Plus amazing piece of technology. Fascinating.
 
-#### The YX Problem (Reverse XY Problem)
+#### 4.18. The YX Problem (Reverse XY Problem)
 * <https://yawn.io/posts/yx-problem-v2/>
 How not to be a jerk in ops.
 
-#### (4) The Emergency Is Here 
+#### 4.19. (4) The Emergency Is Here 
 * <https://www.youtube.com/watch?v=JN1oBfg0fwI>
 A bit that got through my info diet. Together with Common Sense - Dan Carlin is back, things are serious in the US.
 
-#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+#### 4.20. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
 
-#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+#### 4.21. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
 
-#### Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
+#### 4.22. Prometheus and Open-Source Observability with Eric Schabell - Software Engineering Daily
 * <https://softwareengineeringdaily.com/2025/04/15/prometheus-and-open-source-observability-with-eric-schabell/?utm_source=rss&utm_medium=rss&utm_campaign=prometheus-and-open-source-observability-with-eric-schabell>
 A great it on observability as phases, viewed from the business angle, rather than a collection of metrics, logs and traces between 15:00-19:00
 
-#### The Best Programmers I Know 
+#### 4.23. The Best Programmers I Know 
 * <https://endler.dev/2025/best-programmers/>
 Prime reacted in https://www.youtube.com/watch?v=5La12L8g1Ys; a great piece.
 
-#### Opinion 
+### 5. MAY-2025
+#### 5.1. Opinion 
 * <https://archive.is/tcG5v>
 Ross Douhat's Manifesto against the all-replacing digital replacements. Intense.
 
-#### Practical AI 
+#### 5.2. Practical AI 
 * <https://practicalai.fm/310>
 Listening about All Hands - AI coding machine and its CEO doing some coding and creation in short time between meetings or on the way to work from the phone. Sounds like an interesting assistant.
 
-#### I'd rather read the prompt
+#### 5.3. I'd rather read the prompt
 * <https://claytonwramsey.com/blog/prompt/>
 Against computers writing for us. A tough one.
 
-#### We Shut Down Snowflake - And Here’s Why - by Arturas Tutkus
+#### 5.4. We Shut Down Snowflake - And Here’s Why - by Arturas Tutkus
 * <https://arturastutkus.substack.com/p/we-shut-down-snowflake-and-heres>
 On Snowflake having issues with large-scale semi-structured (JSON) columns.
 
-#### What is data at rest? 
+#### 5.5. What is data at rest? 
 * <https://www.cloudflare.com/learning/security/glossary/data-at-rest/>
 Security, types of data (at reast, in motion, in use) and various techniques to secure that.
 
-#### Pluralistic: Sarah Wynn-Williams’s ‘Careless People’ (23 Apr 2025) – Pluralistic: Daily links from Cory Doctorow
+#### 5.6. Pluralistic: Sarah Wynn-Williams’s ‘Careless People’ (23 Apr 2025) – Pluralistic: Daily links from Cory Doctorow
 * <https://pluralistic.net/2025/04/23/zuckerstreisand/>
 Important. On Facebook internals and letting your loved ones/kids use the tools with this background.
 
-#### On The Death of Daydreaming - by Christine Rosen
+#### 5.7. On The Death of Daydreaming - by Christine Rosen
 * <https://www.afterbabel.com/p/on-the-death-of-daydreaming>
 Another anti-digital take from Jon Haidt and friends. Almost as good as Ross D. phone-as-bottleneck manifesto in NY Times.
 
-#### Dijkstra On the foolishness of natural
+#### 5.8. Dijkstra On the foolishness of natural
 * <https://news.ycombinator.com/item?id=43564386>
 A discussion in the heated LLM debate in the engineering circles.
 
-#### How To Become The BEST Engineer At Your Company - YouTube
+#### 5.9. How To Become The BEST Engineer At Your Company - YouTube
 * <https://www.youtube.com/watch?v=Qc_kEyLsXH0>
 A bit of social engineering not bad in your perfonal tech engineering journey?
 
-#### JUST USE HTML - YouTube
+#### 5.10. JUST USE HTML - YouTube
 * <https://www.youtube.com/watch?v=jnY61ywnBHM>
 Yes. Simplicity. Yes.
 
-#### Page not found – Software Engineering Radio
+#### 5.11. Page not found – Software Engineering Radio
 * <https://se-radio.net/se-radio-623-mike-freedman-on-timescaledb>
 Great bit from competition. On TSDB and Postgres ecosystem as a competitive advantage.
