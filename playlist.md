@@ -715,3 +715,7 @@ Joel on Software against Hype and product/production driven thinking and against
 #### After months of coding with LLMs, I'm going back to using my brain • albertofortin.com
 * <https://albertofortin.com/writing/coding-with-ai>
 Someone expressing what I've been intuiting. AI decreases competence.
+
+#### It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
+* <https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html>
+Getting Started is the Product!
