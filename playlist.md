@@ -719,3 +719,6 @@ Someone expressing what I've been intuiting. AI decreases competence.
 #### It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
 * <https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html>
 Getting Started is the Product!
+
+#### Its Finally Over For Devs (again, fr fr ong) - YouTube
+* <https://www.youtube.com/watch?v=8MUNWKQ9_9c>
