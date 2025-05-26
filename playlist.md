@@ -726,3 +726,10 @@ Getting Started is the Product!
 #### The Copilot Delusion
 * <https://deplet.ing/the-copilot-delusion/>
 Either a bubble of - when it comes to AI/coding - the vibes have changed.
+
+#### The ads are coming - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/the-ads-are-coming?utm_source=post-email-title&publication_id=23588&post_id=164203877&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+
+#### The ads are coming - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/the-ads-are-coming>
+When I see many people paying $20/month for GPT+ or Perplexity, I have an impression that the internet is about the undergo a transformation of its business model (+web3 may have a word to say there). That may be a temporary delusion.
