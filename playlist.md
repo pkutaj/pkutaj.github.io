@@ -722,3 +722,7 @@ Getting Started is the Product!
 
 #### Its Finally Over For Devs (again, fr fr ong) - YouTube
 * <https://www.youtube.com/watch?v=8MUNWKQ9_9c>
+
+#### The Copilot Delusion
+* <https://deplet.ing/the-copilot-delusion/>
+Either a bubble of - when it comes to AI/coding - the vibes have changed.
