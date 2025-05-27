@@ -733,3 +733,7 @@ Either a bubble of - when it comes to AI/coding - the vibes have changed.
 #### The ads are coming - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/the-ads-are-coming>
 When I see many people paying $20/month for GPT+ or Perplexity, I have an impression that the internet is about the undergo a transformation of its business model (+web3 may have a word to say there). That may be a temporary delusion.
+
+#### Its Finally Over For Devs (again, fr fr ong) - YouTube
+* <https://www.youtube.com/watch?v=8MUNWKQ9_9c&t=1178s>
+The vibes have changed - another round. 3 things that make professional eng: communication+architecture(theory)+coding(practice). All three required. Amazing how Prime cut it at the moment it dawned on him the thing's written by the AI.
