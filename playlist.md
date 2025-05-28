@@ -737,3 +737,7 @@ When I see many people paying $20/month for GPT+ or Perplexity, I have an impres
 #### Its Finally Over For Devs (again, fr fr ong) - YouTube
 * <https://www.youtube.com/watch?v=8MUNWKQ9_9c&t=1178s>
 The vibes have changed - another round. 3 things that make professional eng: communication+architecture(theory)+coding(practice). All three required. Amazing how Prime cut it at the moment it dawned on him the thing's written by the AI.
+
+#### Carson Gross
+* <https://www.youtube.com/watch?v=hQJcGmWXDJw&t=481s>
+Uncle Bob went mad. At least for me, looking at his twitter. Same as Jordan Peterson, at least for me.
