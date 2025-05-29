@@ -745,3 +745,7 @@ Uncle Bob went mad. At least for me, looking at his twitter. Same as Jordan Pete
 #### In-depth: ClickHouse vs Snowflake - PostHog
 * <https://posthog.com/blog/clickhouse-vs-snowflake>
 History of Snowflake and its storage architecture with a dedicated layer on master disk storage system that Snowflake warehouses consult for storage. Interesting.
+
+#### As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala
+* <https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/>
+A bit of anti-hype again. Pen and paper as most ipmortant dev tools - not sure, but I'm not a dev. Neovim is surely better watching Prime though.
