@@ -741,3 +741,7 @@ The vibes have changed - another round. 3 things that make professional eng: com
 #### Carson Gross
 * <https://www.youtube.com/watch?v=hQJcGmWXDJw&t=481s>
 Uncle Bob went mad. At least for me, looking at his twitter. Same as Jordan Peterson, at least for me.
+
+#### In-depth: ClickHouse vs Snowflake - PostHog
+* <https://posthog.com/blog/clickhouse-vs-snowflake>
+History of Snowflake and its storage architecture with a dedicated layer on master disk storage system that Snowflake warehouses consult for storage. Interesting.
