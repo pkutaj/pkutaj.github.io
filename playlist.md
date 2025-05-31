@@ -749,3 +749,7 @@ History of Snowflake and its storage architecture with a dedicated layer on mast
 #### As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala
 * <https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/>
 A bit of anti-hype again. Pen and paper as most ipmortant dev tools - not sure, but I'm not a dev. Neovim is surely better watching Prime though.
+
+#### Show HN: I wrote a modern Command Line Handbook 
+* <https://news.ycombinator.com/item?id=44126612>
+learning a lot here!
