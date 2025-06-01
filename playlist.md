@@ -753,3 +753,7 @@ A bit of anti-hype again. Pen and paper as most ipmortant dev tools - not sure, 
 #### Show HN: I wrote a modern Command Line Handbook 
 * <https://news.ycombinator.com/item?id=44126612>
 learning a lot here!
+
+#### Keynote Speaker - Cory Doctorow - YouTube
+* <https://www.youtube.com/watch?v=ydVmzg_SJLw&ab_channel=PyConUS>
+to watch
