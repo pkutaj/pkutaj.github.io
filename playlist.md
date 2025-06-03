@@ -769,3 +769,7 @@ learning a lot here!
 #### 5.26. Keynote Speaker - Cory Doctorow - YouTube
 * <https://www.youtube.com/watch?v=ydVmzg_SJLw&ab_channel=PyConUS>
 to watch
+
+#### Fallthrough 
+* <https://fallthrough.transistor.fm/episodes/event-driven-architectures>
+Synchronicity as a blocker of REST explained.
