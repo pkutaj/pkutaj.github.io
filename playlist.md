@@ -777,3 +777,7 @@ Synchronicity as a blocker of REST explained.
 #### 
 * <https://hardcoresoftware.learningbyshipping.com/p/232-from-typewriters-to-transformers>
 Interesting that TS Kuhn's cyclical philosophy of history is raised here with the point that AI is a tool revolution rather than conceptual revolution. It is a new typewriter? No, golden retriver on Acid, as described by Zed editor creator in Changelog podcast. That fits the best I think!
+
+#### (1) Progressives Are Driving Themselves Into Extinction 
+* <https://www.youtube.com/watch?v=3BBapHuklN8&ab_channel=InterestingTimeswithRossDouthat>
+Amazing. Not just Jon Heidt. It's even more serious.
