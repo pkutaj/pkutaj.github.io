@@ -781,3 +781,7 @@ Interesting that TS Kuhn's cyclical philosophy of history is raised here with th
 #### (1) Progressives Are Driving Themselves Into Extinction 
 * <https://www.youtube.com/watch?v=3BBapHuklN8&ab_channel=InterestingTimeswithRossDouthat>
 Amazing. Not just Jon Heidt. It's even more serious.
+
+#### Claude 4, Anthropic Agents, Human-AI Agents – Stratechery by Ben Thompson
+* <https://stratechery.com/2025/claude-4-anthropic-agents-human-ai-agents/>
+on the potential of multiplayer AI (so humans + AI) together unlocking new games.
