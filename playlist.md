@@ -8,7 +8,6 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 - [2023](https://pavol.kutaj.com/assets/playlist_2023)
 - [2024](https://pavol.kutaj.com/assets/playlist_2024)
 
-
 - [1. Jan-2025](#1-jan-2025)
   - [1.1. Databases in 2024: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](#11-databases-in-2024-a-year-in-review--blog--andy-pavlo---carnegie-mellon-university)
   - [1.2. Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](#12-ask-hn-programmers-who-dont-use-autocompletelsp-how-do-you-do-it)
@@ -152,7 +151,20 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [5.10. JUST USE HTML - YouTube](#510-just-use-html---youtube)
   - [5.11. Page not found – Software Engineering Radio](#511-page-not-found--software-engineering-radio)
   - [5.12. Coding Should Be A Vibe - YouTube](#512-coding-should-be-a-vibe---youtube)
-
+  - [5.13. Test](#513-test)
+  - [5.14. Don't Let Architecture Astronauts Scare You - YouTube](#514-dont-let-architecture-astronauts-scare-you---youtube)
+  - [5.15. After months of coding with LLMs, I'm going back to using my brain • albertofortin.com](#515-after-months-of-coding-with-llms-im-going-back-to-using-my-brain--albertofortincom)
+  - [5.16. It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson](#516-its-hard-to-write-code-for-computers-but-its-even-harder-to-write-code-for-humans--erik-bernhardsson)
+  - [5.17. Its Finally Over For Devs (again, fr fr ong) - YouTube](#517-its-finally-over-for-devs-again-fr-fr-ong---youtube)
+  - [5.18. The Copilot Delusion](#518-the-copilot-delusion)
+  - [5.19. The ads are coming - by Benn Stancil - benn.substack](#519-the-ads-are-coming---by-benn-stancil---bennsubstack)
+  - [5.20. The ads are coming - by Benn Stancil - benn.substack](#520-the-ads-are-coming---by-benn-stancil---bennsubstack)
+  - [5.21. Its Finally Over For Devs (again, fr fr ong) - YouTube](#521-its-finally-over-for-devs-again-fr-fr-ong---youtube)
+  - [5.22. Carson Gross](#522-carson-gross)
+  - [5.23. In-depth: ClickHouse vs Snowflake - PostHog](#523-in-depth-clickhouse-vs-snowflake---posthog)
+  - [5.24. As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala](#524-as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook--juha-matti-santala)
+  - [5.25. Show HN: I wrote a modern Command Line Handbook](#525-show-hn-i-wrote-a-modern-command-line-handbook)
+  - [5.26. Keynote Speaker - Cory Doctorow - YouTube](#526-keynote-speaker---cory-doctorow---youtube)
 
 
 ### 1. Jan-2025
@@ -706,54 +718,54 @@ Great bit from competition. On TSDB and Postgres ecosystem as a competitive adva
 #### 5.12. Coding Should Be A Vibe - YouTube
 * <https://www.youtube.com/watch?v=sfT6sMkj6Ow&ab_channel=ThePrimeTime>
 
-#### Test
+#### 5.13. Test
 
-#### Don't Let Architecture Astronauts Scare You - YouTube
+#### 5.14. Don't Let Architecture Astronauts Scare You - YouTube
 * <https://www.youtube.com/watch?v=LhKau4K6Pqc&ab_channel=ThePrimeTime>
 Joel on Software against Hype and product/production driven thinking and against premature abstraction.
 
-#### After months of coding with LLMs, I'm going back to using my brain • albertofortin.com
+#### 5.15. After months of coding with LLMs, I'm going back to using my brain • albertofortin.com
 * <https://albertofortin.com/writing/coding-with-ai>
 Someone expressing what I've been intuiting. AI decreases competence.
 
-#### It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
+#### 5.16. It's hard to write code for computers, but it's even harder to write code for humans · Erik Bernhardsson
 * <https://erikbern.com/2024/09/27/its-hard-to-write-code-for-humans.html>
 Getting Started is the Product!
 
-#### Its Finally Over For Devs (again, fr fr ong) - YouTube
+#### 5.17. Its Finally Over For Devs (again, fr fr ong) - YouTube
 * <https://www.youtube.com/watch?v=8MUNWKQ9_9c>
 
-#### The Copilot Delusion
+#### 5.18. The Copilot Delusion
 * <https://deplet.ing/the-copilot-delusion/>
 Either a bubble of - when it comes to AI/coding - the vibes have changed.
 
-#### The ads are coming - by Benn Stancil - benn.substack
+#### 5.19. The ads are coming - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/the-ads-are-coming?utm_source=post-email-title&publication_id=23588&post_id=164203877&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 
-#### The ads are coming - by Benn Stancil - benn.substack
+#### 5.20. The ads are coming - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/the-ads-are-coming>
 When I see many people paying $20/month for GPT+ or Perplexity, I have an impression that the internet is about the undergo a transformation of its business model (+web3 may have a word to say there). That may be a temporary delusion.
 
-#### Its Finally Over For Devs (again, fr fr ong) - YouTube
+#### 5.21. Its Finally Over For Devs (again, fr fr ong) - YouTube
 * <https://www.youtube.com/watch?v=8MUNWKQ9_9c&t=1178s>
 The vibes have changed - another round. 3 things that make professional eng: communication+architecture(theory)+coding(practice). All three required. Amazing how Prime cut it at the moment it dawned on him the thing's written by the AI.
 
-#### Carson Gross
+#### 5.22. Carson Gross
 * <https://www.youtube.com/watch?v=hQJcGmWXDJw&t=481s>
 Uncle Bob went mad. At least for me, looking at his twitter. Same as Jordan Peterson, at least for me.
 
-#### In-depth: ClickHouse vs Snowflake - PostHog
+#### 5.23. In-depth: ClickHouse vs Snowflake - PostHog
 * <https://posthog.com/blog/clickhouse-vs-snowflake>
 History of Snowflake and its storage architecture with a dedicated layer on master disk storage system that Snowflake warehouses consult for storage. Interesting.
 
-#### As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala
+#### 5.24. As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala
 * <https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/>
 A bit of anti-hype again. Pen and paper as most ipmortant dev tools - not sure, but I'm not a dev. Neovim is surely better watching Prime though.
 
-#### Show HN: I wrote a modern Command Line Handbook 
+#### 5.25. Show HN: I wrote a modern Command Line Handbook 
 * <https://news.ycombinator.com/item?id=44126612>
 learning a lot here!
 
-#### Keynote Speaker - Cory Doctorow - YouTube
+#### 5.26. Keynote Speaker - Cory Doctorow - YouTube
 * <https://www.youtube.com/watch?v=ydVmzg_SJLw&ab_channel=PyConUS>
 to watch
