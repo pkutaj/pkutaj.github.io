@@ -785,3 +785,7 @@ Amazing. Not just Jon Heidt. It's even more serious.
 #### Claude 4, Anthropic Agents, Human-AI Agents – Stratechery by Ben Thompson
 * <https://stratechery.com/2025/claude-4-anthropic-agents-human-ai-agents/>
 on the potential of multiplayer AI (so humans + AI) together unlocking new games.
+
+#### 233. The
+* <https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts>
+Stop Antropomorphizing AI; the expectations are too large; the trust is too large. The institutions like universities are reacting brutally to the misuse and that's prolly correct.
