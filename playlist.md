@@ -789,3 +789,7 @@ on the potential of multiplayer AI (so humans + AI) together unlocking new games
 #### 233. The
 * <https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts>
 Stop Antropomorphizing AI; the expectations are too large; the trust is too large. The institutions like universities are reacting brutally to the misuse and that's prolly correct.
+
+#### Well-rounded doesn’t cut. 
+* <https://sive.rs/rounded>
+AI-assisted synthesis? No, have voice, face, uniqueness during work with people. It's an extra spice and a necessary one. Also you know what you actually submit. Never submit shit.
