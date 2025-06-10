@@ -793,3 +793,7 @@ Stop Antropomorphizing AI; the expectations are too large; the trust is too larg
 #### Well-rounded doesn’t cut. 
 * <https://sive.rs/rounded>
 AI-assisted synthesis? No, have voice, face, uniqueness during work with people. It's an extra spice and a necessary one. Also you know what you actually submit. Never submit shit.
+
+#### Steve Yegge on productive vibe coding, the death of the IDE, babysitting a fleet of AI coding agents - YouTube
+* <https://www.youtube.com/watch?v=G7kXuVlo6tU&t=3528s&ab_channel=Changelog>
+The model of non-devs knowledge workers having bespoke software (or changes) is I think coming. The optimism of Steve the juniors will be profers, guarantors, editors of that software is important. Still - also juniors need to create and get hands dirty asap.
