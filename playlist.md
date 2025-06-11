@@ -797,3 +797,6 @@ AI-assisted synthesis? No, have voice, face, uniqueness during work with people.
 #### Steve Yegge on productive vibe coding, the death of the IDE, babysitting a fleet of AI coding agents - YouTube
 * <https://www.youtube.com/watch?v=G7kXuVlo6tU&t=3528s&ab_channel=Changelog>
 The model of non-devs knowledge workers having bespoke software (or changes) is I think coming. The optimism of Steve the juniors will be profers, guarantors, editors of that software is important. Still - also juniors need to create and get hands dirty asap.
+
+#### Smart People Don't Chase Goals; They Create Limits
+* <https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/>
