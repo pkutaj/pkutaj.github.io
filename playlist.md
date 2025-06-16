@@ -804,3 +804,7 @@ The model of non-devs knowledge workers having bespoke software (or changes) is 
 #### sketch blog: How I program with Agents
 * <https://sketch.dev/blog/programming-with-agents>
 Learn fundamentals. Stay close to hard thinking. Don't get carried away by access to Windsurf or any other "servant". >>> There is a lot to do, and I suspect in six months things will be very different again. Curiosity and humility will get us through it, but even more than usual I would suggest turning away from internet forums where people talk in circles about this technology. That is a job for an agent.
+
+#### How to use the lsof command to troubleshoot Linux
+* <https://www.redhat.com/en/blog/analyze-processes-lsof>
+learning about lsof in bash, as sometimes I have a blocked port for re-authentication of a cli tool
