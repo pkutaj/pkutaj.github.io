@@ -808,3 +808,6 @@ Learn fundamentals. Stay close to hard thinking. Don't get carried away by acces
 #### How to use the lsof command to troubleshoot Linux
 * <https://www.redhat.com/en/blog/analyze-processes-lsof>
 learning about lsof in bash, as sometimes I have a blocked port for re-authentication of a cli tool
+
+#### Timescale Is Now TigerData 
+* <https://news.ycombinator.com/item?id=44300064>
