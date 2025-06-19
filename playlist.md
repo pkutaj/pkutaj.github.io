@@ -811,3 +811,6 @@ learning about lsof in bash, as sometimes I have a blocked port for re-authentic
 
 #### Timescale Is Now TigerData 
 * <https://news.ycombinator.com/item?id=44300064>
+
+#### Practical AI 
+* <https://practicalai.fm/312>
