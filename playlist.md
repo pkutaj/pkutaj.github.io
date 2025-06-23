@@ -817,3 +817,7 @@ learning about lsof in bash, as sometimes I have a blocked port for re-authentic
 
 #### DynamoDB vs MongoDB: Choose One and Say No to SQL - Kinsta®
 * <https://kinsta.com/blog/dynamodb-vs-mongodb/>
+
+#### I Want to be a Journey Programmer Again
+* <https://hexhowells.com/posts/journey.html>
+metoo
