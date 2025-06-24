@@ -829,3 +829,7 @@ Yes — Kafka is hard.
 #### (1) The Copilot Delusion - YouTube
 * <https://www.youtube.com/watch?v=-Q8c5vzYjfg&ab_channel=ThePrimeTime>
 Worth relistening to. The writing is amazing. The reading is amazing. The whole thing with the culmination at the end.
+
+#### Are you stuck in movie logic? - by Cate Hall
+* <https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic>
+TSo John Bradshaw, the "inner child" meme author, taught that life is a series of problems that need to be confronted. This essay is about the first crucial step, and one of the most challenging thing in computer science — naming. Naming problem allows interacting with it. Naming is what wizards do in SICP. Also, my wife challenges my appreciation of 5 love languages basically by saying that love is mutual confrontation of problems and that begins with naming and sharig the problem. I still like to get gifts x)
