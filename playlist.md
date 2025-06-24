@@ -821,3 +821,7 @@ learning about lsof in bash, as sometimes I have a blocked port for re-authentic
 #### I Want to be a Journey Programmer Again
 * <https://hexhowells.com/posts/journey.html>
 metoo
+
+#### Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale 
+* <https://news.ycombinator.com/item?id=44318728>
+Yes — Kafka is hard.
