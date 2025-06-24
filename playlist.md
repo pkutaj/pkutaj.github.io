@@ -833,3 +833,7 @@ Worth relistening to. The writing is amazing. The reading is amazing. The whole 
 #### Are you stuck in movie logic? - by Cate Hall
 * <https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic>
 TSo John Bradshaw, the "inner child" meme author, taught that life is a series of problems that need to be confronted. This essay is about the first crucial step, and one of the most challenging thing in computer science — naming. Naming problem allows interacting with it. Naming is what wizards do in SICP. Also, my wife challenges my appreciation of 5 love languages basically by saying that love is mutual confrontation of problems and that begins with naming and sharig the problem. I still like to get gifts x)
+
+#### Writing documentation for AI: best practices 
+* <https://docs.kapa.ai/improving/writing-best-practices>
+Not just Tyler Cowen writes for LLMs. https://marginalrevolution.com/marginalrevolution/2025/01/should-you-be-writing-for-the-ais.html
