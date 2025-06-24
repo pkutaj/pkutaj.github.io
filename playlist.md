@@ -825,3 +825,7 @@ metoo
 #### Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale 
 * <https://news.ycombinator.com/item?id=44318728>
 Yes — Kafka is hard.
+
+#### (1) The Copilot Delusion - YouTube
+* <https://www.youtube.com/watch?v=-Q8c5vzYjfg&ab_channel=ThePrimeTime>
+Worth relistening to. The writing is amazing. The reading is amazing. The whole thing with the culmination at the end.
