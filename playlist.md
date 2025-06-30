@@ -837,3 +837,7 @@ TSo John Bradshaw, the "inner child" meme author, taught that life is a series o
 #### Writing documentation for AI: best practices 
 * <https://docs.kapa.ai/improving/writing-best-practices>
 Not just Tyler Cowen writes for LLMs. https://marginalrevolution.com/marginalrevolution/2025/01/should-you-be-writing-for-the-ais.html
+
+#### The Who Cares Era - YouTube
+* <https://www.youtube.com/watch?v=ILTJPYn_WTs&ab_channel=ThePrimeTime>
+One of the "downsides" is not caring anymore if the relevation appears. Well you do care if you have skin in that game. Like being an academic and reading thesis AI generated. In my millieu, there are massive kick-outs from thesis defensese due to this. These people do care. Wider public? Probably not much. Benn Stancil has a great post on this in https://benn.substack.com/p/meme-company on cluely, providing an interesting analogy of what zero-cost content generation (with digital photography say) did with AI. People became important, not their works (MrBeast yes, but his specific video no).
