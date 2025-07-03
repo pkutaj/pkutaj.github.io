@@ -854,3 +854,7 @@ in a world where foundation models improve 10x every 18 months, building infrast
 #### The Rest Is History 
 * <https://therestishistory.supportingcast.fm/listen/the-rest-is-history/572-the-medici-masters-of-florence-part-1>
 Florence's wealth: Technology - import of 0 and arabic numerals + import of paper + invention of double entry accounting. Pretty cool.
+
+#### LLMs bring new nature of abstraction
+* <https://martinfowler.com/articles/2025-nature-abstraction.html>
+Martin Fowler believes AI's not a hype. Change similar to the arrival of Higher Level languages and complier where you stopped writing against a particular instruction set. + non-determinism is a big one. Let's see. Still think that the best investment is into foundations and classics.
