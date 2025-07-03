@@ -841,3 +841,7 @@ Not just Tyler Cowen writes for LLMs. https://marginalrevolution.com/marginalrev
 #### The Who Cares Era - YouTube
 * <https://www.youtube.com/watch?v=ILTJPYn_WTs&ab_channel=ThePrimeTime>
 One of the "downsides" is not caring anymore if the relevation appears. Well you do care if you have skin in that game. Like being an academic and reading thesis AI generated. In my millieu, there are massive kick-outs from thesis defensese due to this. These people do care. Wider public? Probably not much. Benn Stancil has a great post on this in https://benn.substack.com/p/meme-company on cluely, providing an interesting analogy of what zero-cost content generation (with digital photography say) did with AI. People became important, not their works (MrBeast yes, but his specific video no).
+
+#### A survey of LSM-Tree based Indexes, Data Systems and KV-stores
+* <https://arxiv.org/html/2402.10460v2#:~:text=The%20LSM%2DTree%20is%20the,%5D%20%2C%20Cassandra%20%5B27%5D%20%2C>
+learning LSM trees. What else if working for ClickHouse
