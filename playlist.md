@@ -845,3 +845,8 @@ One of the "downsides" is not caring anymore if the relevation appears. Well you
 #### A survey of LSM-Tree based Indexes, Data Systems and KV-stores
 * <https://arxiv.org/html/2402.10460v2#:~:text=The%20LSM%2DTree%20is%20the,%5D%20%2C%20Cassandra%20%5B27%5D%20%2C>
 learning LSM trees. What else if working for ClickHouse
+
+#### 
+* <https://benn.substack.com/p/meme-company>
+in a world where foundation models improve 10x every 18 months, building infrastructure is like decorating a house you're about to demolish. the smart money isn't on building the best product - it's on being the default option when the underlying tech finally works.
+
