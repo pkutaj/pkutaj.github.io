@@ -850,3 +850,7 @@ learning LSM trees. What else if working for ClickHouse
 * <https://benn.substack.com/p/meme-company>
 in a world where foundation models improve 10x every 18 months, building infrastructure is like decorating a house you're about to demolish. the smart money isn't on building the best product - it's on being the default option when the underlying tech finally works.
 
+
+#### The Rest Is History 
+* <https://therestishistory.supportingcast.fm/listen/the-rest-is-history/572-the-medici-masters-of-florence-part-1>
+Florence's wealth: Technology - import of 0 and arabic numerals + import of paper + invention of double entry accounting. Pretty cool.
