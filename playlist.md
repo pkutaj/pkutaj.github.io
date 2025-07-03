@@ -858,3 +858,7 @@ Florence's wealth: Technology - import of 0 and arabic numerals + import of pape
 #### LLMs bring new nature of abstraction
 * <https://martinfowler.com/articles/2025-nature-abstraction.html>
 Martin Fowler believes AI's not a hype. Change similar to the arrival of Higher Level languages and complier where you stopped writing against a particular instruction set. + non-determinism is a big one. Let's see. Still think that the best investment is into foundations and classics.
+
+#### Ezra Klein: The Case Against Writing With AI
+* <https://howiwrite.substack.com/p/ezra-klein-the-case-against-writing>
+Ezra on the essence of reading for writing. On substance against form. On AI being destructive for thinking (and Prime pointed out - destructive for discipline if you don't pay attention)
