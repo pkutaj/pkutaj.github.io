@@ -862,3 +862,7 @@ Martin Fowler believes AI's not a hype. Change similar to the arrival of Higher 
 #### Ezra Klein: The Case Against Writing With AI
 * <https://howiwrite.substack.com/p/ezra-klein-the-case-against-writing>
 Ezra on the essence of reading for writing. On substance against form. On AI being destructive for thinking (and Prime pointed out - destructive for discipline if you don't pay attention)
+
+#### QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
+* <https://github.com/QuadrupleA/sqlite-page-explorer>
+fun tool to understand b=-trees in relational storage engines
