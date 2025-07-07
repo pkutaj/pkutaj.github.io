@@ -866,3 +866,9 @@ Ezra on the essence of reading for writing. On substance against form. On AI bei
 #### QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 * <https://github.com/QuadrupleA/sqlite-page-explorer>
 fun tool to understand b=-trees in relational storage engines
+
+#### How to Network as an Introvert 
+* <https://aginfer.bearblog.dev/how-to-network-as-an-introvert/>
+Some great tips for socializing. Good book recommendation as well. Most people hate starting conversations because they overthink the words. The truth is, words are secondary. Your tone, posture, and energy do most of the work.
+
+Start with: “How do you spend most of your time?” Not “What do you do?” It opens people up beyond job titles.
