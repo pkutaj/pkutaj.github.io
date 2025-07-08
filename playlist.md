@@ -872,3 +872,7 @@ fun tool to understand b=-trees in relational storage engines
 Some great tips for socializing. Good book recommendation as well. Most people hate starting conversations because they overthink the words. The truth is, words are secondary. Your tone, posture, and energy do most of the work.
 
 Start with: “How do you spend most of your time?” Not “What do you do?” It opens people up beyond job titles.
+
+#### Don’t Ignore Your Moral Intuition About Phones - Cal Newport
+* <https://calnewport.com/dont-ignore-your-moral-intuition-about-phones/>
+On Voice of Conscienve VS distrusting oneself until intuitino is consecrated by the science.
