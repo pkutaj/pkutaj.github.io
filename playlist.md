@@ -165,6 +165,35 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [5.24. As a developer, my most important tools are a pen and a notebook : Juha-Matti Santala](#524-as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook--juha-matti-santala)
   - [5.25. Show HN: I wrote a modern Command Line Handbook](#525-show-hn-i-wrote-a-modern-command-line-handbook)
   - [5.26. Keynote Speaker - Cory Doctorow - YouTube](#526-keynote-speaker---cory-doctorow---youtube)
+  - [5.27. Fallthrough: On Event Driven Architecture](#527-fallthrough-on-event-driven-architecture)
+  - [5.28. From Typewriters to Transformers](#528-from-typewriters-to-transformers)
+  - [5.29. (1) Progressives Are Driving Themselves Into Extinction](#529-1-progressives-are-driving-themselves-into-extinction)
+  - [5.30. Claude 4, Anthropic Agents, Human-AI Agents – Stratechery by Ben Thompson](#530-claude-4-anthropic-agents-human-ai-agents--stratechery-by-ben-thompson)
+  - [5.31. Stop Antropomorphizing AI: The Apple AI-Skepticism contribution](#531-stop-antropomorphizing-ai-the-apple-ai-skepticism-contribution)
+  - [5.32. Well-rounded doesn’t cut.](#532-well-rounded-doesnt-cut)
+  - [5.33. Steve Yegge on productive vibe coding, the death of the IDE, babysitting a fleet of AI coding agents - YouTube](#533-steve-yegge-on-productive-vibe-coding-the-death-of-the-ide-babysitting-a-fleet-of-ai-coding-agents---youtube)
+  - [5.34. Smart People Don't Chase Goals; They Create Limits](#534-smart-people-dont-chase-goals-they-createlimits)
+  - [5.35. sketch blog: How I program with Agents](#535-sketch-blog-how-i-program-with-agents)
+  - [5.36. How to use the lsof command to troubleshoot Linux](#536-how-to-use-the-lsof-command-to-troubleshoot-linux)
+  - [5.37. Timescale Is Now TigerData](#537-timescale-is-now-tigerdata)
+  - [5.38. Practical AI](#538-practical-ai)
+  - [5.39. DynamoDB vs MongoDB: Choose One and Say No to SQL - Kinsta®](#539-dynamodb-vs-mongodb-choose-one-and-say-no-to-sql---kinsta)
+- [6. JUNE-2025](#6-june-2025)
+  - [6.1. I Want to be a Journey Programmer Again](#61-i-want-to-be-a-journey-programmer-again)
+  - [6.2. Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale](#62-load-test-glassflow-for-clickhouse-real-time-dedup-at-scale)
+  - [6.3. (1) The Copilot Delusion - YouTube](#63-1-the-copilot-delusion---youtube)
+  - [6.4. Are you stuck in movie logic? - by Cate Hall](#64-are-you-stuck-in-movie-logic---by-cate-hall)
+  - [6.5. Writing documentation for AI: best practices](#65-writing-documentation-for-ai-best-practices)
+  - [6.6. The Who Cares Era - YouTube](#66-the-who-cares-era---youtube)
+  - [6.7. A survey of LSM-Tree based Indexes, Data Systems and KV-stores](#67-a-survey-of-lsm-tree-based-indexes-data-systems-and-kv-stores)
+  - [6.8. Meme Company](#68-meme-company)
+  - [6.9. The Rest Is History](#69-the-rest-is-history)
+  - [6.10. LLMs bring new nature of abstraction](#610-llms-bring-new-nature-of-abstraction)
+  - [6.11. Ezra Klein: The Case Against Writing With AI](#611-ezra-klein-the-case-against-writing-with-ai)
+  - [6.12. QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.](#612-quadrupleasqlite-page-explorer-visual-tool-to-explore-sqlite-databases-page-by-page-the-way-theyre-stored-on-disk-and-the-way-sqlite-sees-them)
+  - [6.13. How to Network as an Introvert](#613-how-to-network-as-an-introvert)
+  - [6.14. Don’t Ignore Your Moral Intuition About Phones - Cal Newport](#614-dont-ignore-your-moral-intuition-about-phones---cal-newport)
+
 
 
 ### 1. Jan-2025
@@ -671,7 +700,7 @@ A great it on observability as phases, viewed from the business angle, rather th
 Prime reacted in https://www.youtube.com/watch?v=5La12L8g1Ys; a great piece.
 
 ### 5. MAY-2025
-#### 5.1. Opinion 
+#### 5.1. Opinion: An Age of Extinction Is Coming 
 * <https://archive.is/tcG5v>
 Ross Douhat's Manifesto against the all-replacing digital replacements. Intense.
 
@@ -770,109 +799,112 @@ learning a lot here!
 * <https://www.youtube.com/watch?v=ydVmzg_SJLw&ab_channel=PyConUS>
 to watch
 
-#### Fallthrough 
+#### 5.27. Fallthrough: On Event Driven Architecture
 * <https://fallthrough.transistor.fm/episodes/event-driven-architectures>
 Synchronicity as a blocker of REST explained.
 
-#### 
+#### 5.28. From Typewriters to Transformers
 * <https://hardcoresoftware.learningbyshipping.com/p/232-from-typewriters-to-transformers>
 Interesting that TS Kuhn's cyclical philosophy of history is raised here with the point that AI is a tool revolution rather than conceptual revolution. It is a new typewriter? No, golden retriver on Acid, as described by Zed editor creator in Changelog podcast. That fits the best I think!
 
-#### (1) Progressives Are Driving Themselves Into Extinction 
+#### 5.29. (1) Progressives Are Driving Themselves Into Extinction 
 * <https://www.youtube.com/watch?v=3BBapHuklN8&ab_channel=InterestingTimeswithRossDouthat>
 Amazing. Not just Jon Heidt. It's even more serious.
 
-#### Claude 4, Anthropic Agents, Human-AI Agents – Stratechery by Ben Thompson
+#### 5.30. Claude 4, Anthropic Agents, Human-AI Agents – Stratechery by Ben Thompson
 * <https://stratechery.com/2025/claude-4-anthropic-agents-human-ai-agents/>
 on the potential of multiplayer AI (so humans + AI) together unlocking new games.
 
-#### 233. The
+#### 5.31. Stop Antropomorphizing AI: The Apple AI-Skepticism contribution
 * <https://hardcoresoftware.learningbyshipping.com/p/233-the-illusion-of-thinking-thoughts>
 Stop Antropomorphizing AI; the expectations are too large; the trust is too large. The institutions like universities are reacting brutally to the misuse and that's prolly correct.
 
-#### Well-rounded doesn’t cut. 
+#### 5.32. Well-rounded doesn’t cut. 
 * <https://sive.rs/rounded>
 AI-assisted synthesis? No, have voice, face, uniqueness during work with people. It's an extra spice and a necessary one. Also you know what you actually submit. Never submit shit.
 
-#### Steve Yegge on productive vibe coding, the death of the IDE, babysitting a fleet of AI coding agents - YouTube
+#### 5.33. Steve Yegge on productive vibe coding, the death of the IDE, babysitting a fleet of AI coding agents - YouTube
 * <https://www.youtube.com/watch?v=G7kXuVlo6tU&t=3528s&ab_channel=Changelog>
 The model of non-devs knowledge workers having bespoke software (or changes) is I think coming. The optimism of Steve the juniors will be profers, guarantors, editors of that software is important. Still - also juniors need to create and get hands dirty asap.
 
-#### Smart People Don't Chase Goals; They Create Limits
+#### 5.34. Smart People Don't Chase Goals; They Create Limits
 * <https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/>
 
-#### sketch blog: How I program with Agents
+#### 5.35. sketch blog: How I program with Agents
 * <https://sketch.dev/blog/programming-with-agents>
 Learn fundamentals. Stay close to hard thinking. Don't get carried away by access to Windsurf or any other "servant". >>> There is a lot to do, and I suspect in six months things will be very different again. Curiosity and humility will get us through it, but even more than usual I would suggest turning away from internet forums where people talk in circles about this technology. That is a job for an agent.
 
-#### How to use the lsof command to troubleshoot Linux
+#### 5.36. How to use the lsof command to troubleshoot Linux
 * <https://www.redhat.com/en/blog/analyze-processes-lsof>
 learning about lsof in bash, as sometimes I have a blocked port for re-authentication of a cli tool
 
-#### Timescale Is Now TigerData 
+#### 5.37. Timescale Is Now TigerData 
 * <https://news.ycombinator.com/item?id=44300064>
 
-#### Practical AI 
+#### 5.38. Practical AI 
 * <https://practicalai.fm/312>
 
-#### DynamoDB vs MongoDB: Choose One and Say No to SQL - Kinsta®
+#### 5.39. DynamoDB vs MongoDB: Choose One and Say No to SQL - Kinsta®
 * <https://kinsta.com/blog/dynamodb-vs-mongodb/>
 
-#### I Want to be a Journey Programmer Again
+### 6. JUNE-2025
+
+#### 6.1. I Want to be a Journey Programmer Again
 * <https://hexhowells.com/posts/journey.html>
 metoo
 
-#### Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale 
+#### 6.2. Load Test GlassFlow for ClickHouse: Real-Time Dedup at Scale 
 * <https://news.ycombinator.com/item?id=44318728>
 Yes — Kafka is hard.
 
-#### (1) The Copilot Delusion - YouTube
+#### 6.3. (1) The Copilot Delusion - YouTube
 * <https://www.youtube.com/watch?v=-Q8c5vzYjfg&ab_channel=ThePrimeTime>
 Worth relistening to. The writing is amazing. The reading is amazing. The whole thing with the culmination at the end.
 
-#### Are you stuck in movie logic? - by Cate Hall
+#### 6.4. Are you stuck in movie logic? - by Cate Hall
 * <https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic>
 TSo John Bradshaw, the "inner child" meme author, taught that life is a series of problems that need to be confronted. This essay is about the first crucial step, and one of the most challenging thing in computer science — naming. Naming problem allows interacting with it. Naming is what wizards do in SICP. Also, my wife challenges my appreciation of 5 love languages basically by saying that love is mutual confrontation of problems and that begins with naming and sharig the problem. I still like to get gifts x)
 
-#### Writing documentation for AI: best practices 
+#### 6.5. Writing documentation for AI: best practices 
 * <https://docs.kapa.ai/improving/writing-best-practices>
 Not just Tyler Cowen writes for LLMs. https://marginalrevolution.com/marginalrevolution/2025/01/should-you-be-writing-for-the-ais.html
 
-#### The Who Cares Era - YouTube
+#### 6.6. The Who Cares Era - YouTube
 * <https://www.youtube.com/watch?v=ILTJPYn_WTs&ab_channel=ThePrimeTime>
 One of the "downsides" is not caring anymore if the relevation appears. Well you do care if you have skin in that game. Like being an academic and reading thesis AI generated. In my millieu, there are massive kick-outs from thesis defensese due to this. These people do care. Wider public? Probably not much. Benn Stancil has a great post on this in https://benn.substack.com/p/meme-company on cluely, providing an interesting analogy of what zero-cost content generation (with digital photography say) did with AI. People became important, not their works (MrBeast yes, but his specific video no).
 
-#### A survey of LSM-Tree based Indexes, Data Systems and KV-stores
+#### 6.7. A survey of LSM-Tree based Indexes, Data Systems and KV-stores
 * <https://arxiv.org/html/2402.10460v2#:~:text=The%20LSM%2DTree%20is%20the,%5D%20%2C%20Cassandra%20%5B27%5D%20%2C>
 learning LSM trees. What else if working for ClickHouse
 
-#### 
+#### 6.8. Meme Company
 * <https://benn.substack.com/p/meme-company>
-in a world where foundation models improve 10x every 18 months, building infrastructure is like decorating a house you're about to demolish. the smart money isn't on building the best product - it's on being the default option when the underlying tech finally works.
+> in a world where foundation models improve 10x every 18 months, building infrastructure is like decorating a house you're about to demolish. the smart money isn't on building the best product - it's on being the default option when the underlying tech finally works.
 
-
-#### The Rest Is History 
+#### 6.9. The Rest Is History 
 * <https://therestishistory.supportingcast.fm/listen/the-rest-is-history/572-the-medici-masters-of-florence-part-1>
 Florence's wealth: Technology - import of 0 and arabic numerals + import of paper + invention of double entry accounting. Pretty cool.
 
-#### LLMs bring new nature of abstraction
+#### 6.10. LLMs bring new nature of abstraction
 * <https://martinfowler.com/articles/2025-nature-abstraction.html>
 Martin Fowler believes AI's not a hype. Change similar to the arrival of Higher Level languages and complier where you stopped writing against a particular instruction set. + non-determinism is a big one. Let's see. Still think that the best investment is into foundations and classics.
 
-#### Ezra Klein: The Case Against Writing With AI
+#### 6.11. Ezra Klein: The Case Against Writing With AI
 * <https://howiwrite.substack.com/p/ezra-klein-the-case-against-writing>
 Ezra on the essence of reading for writing. On substance against form. On AI being destructive for thinking (and Prime pointed out - destructive for discipline if you don't pay attention)
 
-#### QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
+#### 6.12. QuadrupleA/sqlite-page-explorer: Visual tool to explore SQLite databases page-by-page, the way they're stored on disk and the way SQLite sees them.
 * <https://github.com/QuadrupleA/sqlite-page-explorer>
 fun tool to understand b=-trees in relational storage engines
 
-#### How to Network as an Introvert 
+#### 6.13. How to Network as an Introvert 
 * <https://aginfer.bearblog.dev/how-to-network-as-an-introvert/>
 Some great tips for socializing. Good book recommendation as well. Most people hate starting conversations because they overthink the words. The truth is, words are secondary. Your tone, posture, and energy do most of the work.
-
 Start with: “How do you spend most of your time?” Not “What do you do?” It opens people up beyond job titles.
 
-#### Don’t Ignore Your Moral Intuition About Phones - Cal Newport
+#### 6.14. Don’t Ignore Your Moral Intuition About Phones - Cal Newport
 * <https://calnewport.com/dont-ignore-your-moral-intuition-about-phones/>
 On Voice of Conscienve VS distrusting oneself until intuitino is consecrated by the science.
+
+#### Analyzing Database Trends Through 1.8 Million Hacker News Headlines - camelAI
+* <https://camelai.com/blog/hn-database-hype/>
