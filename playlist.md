@@ -908,3 +908,7 @@ On Voice of Conscienve VS distrusting oneself until intuitino is consecrated by 
 
 #### Analyzing Database Trends Through 1.8 Million Hacker News Headlines - camelAI
 * <https://camelai.com/blog/hn-database-hype/>
+
+#### No more disks: the architecture behind stateless compute in ClickHouse Cloud
+* <https://clickhouse.com/blog/clickhouse-cloud-stateless-compute>
+Shared√-Nothing is a thing of the past for us.
