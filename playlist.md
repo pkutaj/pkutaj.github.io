@@ -920,3 +920,9 @@ Another big report on the downsides. The theory-building (Peter Naur) holds as e
 #### My AI Skeptic Friends Are All Nuts · The Fly Blog
 * <https://fly.io/blog/youre-all-nuts/>
 Some of the pro-AI voices are really strong however. The metaphor is that pro-CRAFT is in denial and riding horse carriages is powerful, yet - expertise is what matters after all. Results, too. But the first determines the latter.
+
+#### AI slows down open source developers. Peter Naur can teach us why.
+* <https://johnwhiles.com/posts/mental-models-vs-ai-tools>
+We know that the programmers in Metr's study are all people with extremely well developed mental models of the projects they work on. And we also know that the LLMs they used had no real access to those mental models. The developers could provide chunks of that mental model to their AI tools - but doing so is a slow and lossy process that will never truly capture the theory of the program that exists in their minds. By offloading their software development work to an LLM they hampered their unique ability to work on their codebases effectively.
+
+
