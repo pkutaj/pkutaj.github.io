@@ -916,3 +916,7 @@ Shared�-Nothing is a thing of the past for us.
 #### METR na X: „AI slows down some?
 * <https://x.com/METR_Evals/status/1943360399220388093>
 Another big report on the downsides. The theory-building (Peter Naur) holds as essential. But most of the work is non-essential and this is where the AI seems to excel.
+
+#### My AI Skeptic Friends Are All Nuts · The Fly Blog
+* <https://fly.io/blog/youre-all-nuts/>
+Some of the pro-AI voices are really strong however. The metaphor is that pro-CRAFT is in denial and riding horse carriages is powerful, yet - expertise is what matters after all. Results, too. But the first determines the latter.
