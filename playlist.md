@@ -912,3 +912,7 @@ On Voice of Conscienve VS distrusting oneself until intuitino is consecrated by 
 #### No more disks: the architecture behind stateless compute in ClickHouse Cloud
 * <https://clickhouse.com/blog/clickhouse-cloud-stateless-compute>
 SharedÃ-Nothing is a thing of the past for us.
+
+#### METR na X: â€žAI slows down some?
+* <https://x.com/METR_Evals/status/1943360399220388093>
+Another big report on the downsides. The theory-building (Peter Naur) holds as essential. But most of the work is non-essential and this is where the AI seems to excel.
