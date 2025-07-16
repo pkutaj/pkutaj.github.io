@@ -926,3 +926,8 @@ Some of the pro-AI voices are really strong however. The metaphor is that pro-CR
 We know that the programmers in Metr's study are all people with extremely well developed mental models of the projects they work on. And we also know that the LLMs they used had no real access to those mental models. The developers could provide chunks of that mental model to their AI tools - but doing so is a slow and lossy process that will never truly capture the theory of the program that exists in their minds. By offloading their software development work to an LLM they hampered their unique ability to work on their codebases effectively.
 
 
+
+#### One Big Table (OBT)
+* <https://www.ssp.sh/brain/one-big-table/>
+A schema design from data warehousing as a counter to the traditional star/snowflake schema. Name seems eponymous with bigtable DB that preceded bigquery, i.e. from Google. Now a standard for many cloud native OLAP solutions, also ClickHouse.
+
