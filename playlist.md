@@ -931,3 +931,7 @@ We know that the programmers in Metr's study are all people with extremely well 
 * <https://www.ssp.sh/brain/one-big-table/>
 A schema design from data warehousing as a counter to the traditional star/snowflake schema. Name seems eponymous with bigtable DB that preceded bigquery, i.e. from Google. Now a standard for many cloud native OLAP solutions, also ClickHouse.
 
+
+#### Everyone is crazy now - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/everyone-is-crazy-now?utm_source=post-email-title&publication_id=23588&post_id=169194408&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
+It depends where you point your attention. How you think about it. So old. Oddyseus was curious about syren calls, but had himself attached to the pole... But sure the current craziness is even worth the curiousity.
