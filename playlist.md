@@ -750,3 +750,7 @@ It depends where you point your attention. How you think about it. So old. Oddys
 #### It's rude to show AI output to people 
 * <https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people>
 Yes — I was told off a couple of times and enough - no more faking.
+
+#### Enough AI copilots! We need AI HUDs
+* <https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds>
+A good metaphor that AI should be Augmenting reality not being a butler. A tool, not an assistant. Good debate on HN on this as well. Sparkling.
