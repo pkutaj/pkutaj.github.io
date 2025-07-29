@@ -746,3 +746,7 @@ A schema design from data warehousing as a counter to the traditional star/snowf
 ### 7.9. Everyone is crazy now - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/everyone-is-crazy-now?utm_source=post-email-title&publication_id=23588&post_id=169194408&utm_campaign=email-post-title&isFreemail=true&r=25tz5&triedRedirect=true&utm_medium=email>
 It depends where you point your attention. How you think about it. So old. Oddyseus was curious about syren calls, but had himself attached to the pole... But sure the current craziness is even worth the curiousity.
+
+#### It's rude to show AI output to people 
+* <https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people>
+Yes — I was told off a couple of times and enough - no more faking.
