@@ -754,3 +754,7 @@ Yes — I was told off a couple of times and enough - no more faking.
 #### Enough AI copilots! We need AI HUDs
 * <https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds>
 A good metaphor that AI should be Augmenting reality not being a butler. A tool, not an assistant. Good debate on HN on this as well. Sparkling.
+
+#### Why American Jews No Longer Understand One Another - YouTube
+* <https://www.youtube.com/watch?v=tvTnj630eUk>
+Another great one by Ezra.
