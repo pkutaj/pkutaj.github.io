@@ -100,7 +100,7 @@ Such a brave critique of the politics of current Silicon Valley and catching its
 * <https://news.ycombinator.com/item?id=42877709>
 Vatican's take on AI and many respectful voices on Hacker News. I can still get surprised!
 
-## 2. Feb-2025
+## 2. FEB-2025
 ### 2.1. Don't Believe Him (by Ezra)
 * <https://www.nytimes.com/2025/02/02/opinion/ezra-klein-podcast-trump-column-read.html>
 Perception cannot become reality so easily. Can it?
