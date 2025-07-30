@@ -758,3 +758,7 @@ A good metaphor that AI should be Augmenting reality not being a butler. A tool,
 #### Why American Jews No Longer Understand One Another - YouTube
 * <https://www.youtube.com/watch?v=tvTnj630eUk>
 Another great one by Ezra.
+
+#### Learning Is Slower Than You Think 
+* <https://news.ycombinator.com/item?id=44723763>
+To me this was powerful. To some, this is AI slop.
