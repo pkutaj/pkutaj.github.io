@@ -762,3 +762,27 @@ Another great one by Ezra.
 #### Learning Is Slower Than You Think 
 * <https://news.ycombinator.com/item?id=44723763>
 To me this was powerful. To some, this is AI slop.
+
+#### How we built fast UPDATEs for the ClickHouse column store – Part 1: Purpose-built engines
+* <https://clickhouse.com/blog/updates-in-clickhouse-1-purpose-built-engines>
+In database systems, updates and analytics pull in opposite directions; what’s fast for one tends to be slow for the other.
+
+In row stores (like PostgreSQL or MySQL):
+
+Each row is stored contiguously on disk.
+
+This makes updates easy, you can overwrite a row in place.
+
+But analytical queries suffer: even if you need just two columns, the entire row must be loaded into memory.
+
+In column stores (like ClickHouse):
+
+Each column is stored in a separate file.
+
+This makes analytics blazing fast, only the columns you query are read.
+
+But updates are harder because each column is stored separately, modifying a row means touching multiple files and rewriting fragments.
+
+This tradeoff has long made efficient row-level updates a challenge for columnar systems.
+
+
