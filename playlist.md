@@ -775,3 +775,6 @@ To me this was powerful. To some, this is AI slop.
 > This makes analytics blazing fast, only the columns you query are read.
 > But updates are harder because each column is stored separately, modifying a row means touching multiple files and rewriting fragments.
 > This tradeoff has long made efficient row-level updates a challenge for columnar systems.
+
+#### Why your website should be under 14kB in size - YouTube
+* <https://www.youtube.com/watch?v=ciNXbR5wvhU&ab_channel=ThePrimeTime>
