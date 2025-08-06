@@ -778,3 +778,7 @@ To me this was powerful. To some, this is AI slop.
 
 #### Why your website should be under 14kB in size - YouTube
 * <https://www.youtube.com/watch?v=ciNXbR5wvhU&ab_channel=ThePrimeTime>
+
+#### Show HN: A benchmark + latency sim for LLM db queries: ClickHouse / Postgres 
+* <https://news.ycombinator.com/item?id=44805879>
+OLAP vs OLTP in 2025 on LLM Benchmarking
