@@ -785,3 +785,7 @@ OLAP vs OLTP in 2025 on LLM Benchmarking
 
 #### Hyrum's Law
 * <https://www.hyrumslaw.com/>
+
+#### 6 Weeks of Claude Code - Puzzmo Blog
+* <https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/>
+Claude Code as anti-procrastination, prototype-maker, giving first-flash to ideas.
