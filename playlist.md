@@ -789,3 +789,7 @@ OLAP vs OLTP in 2025 on LLM Benchmarking
 #### 6 Weeks of Claude Code - Puzzmo Blog
 * <https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/>
 Claude Code as anti-procrastination, prototype-maker, giving first-flash to ideas.
+
+#### I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri
+* <https://www.al3rez.com/todo-txt-journey>
+A bit boring. Cal Newport would be happy. Otherwise, I keep capturing with my phone - this is lacking
