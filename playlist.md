@@ -793,3 +793,7 @@ Claude Code as anti-procrastination, prototype-maker, giving first-flash to idea
 #### I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri
 * <https://www.al3rez.com/todo-txt-journey>
 A bit boring. Cal Newport would be happy. Otherwise, I keep capturing with my phone - this is lacking
+
+#### Vibe Debugging: Enterprises' Up and Coming Nightmare
+* <https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and>
+Was this just a question of time? Primagean was warning about this from the moment vibe coding appeared. Now, this is the first real complaint. The chickens coming back home to roost?
