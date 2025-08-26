@@ -801,3 +801,7 @@ Was this just a question of time? Primagean was warning about this from the mome
 #### Shortcat: Universal command palette for your Mac 
 * <https://shortcat.app/>
 A welcomed addition to Vimium!
+
+#### sping Documentation
+* <https://dseltzer.gitlab.io/sping/docs/>
++1 for an elegant terminal utility. Always.
