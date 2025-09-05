@@ -805,3 +805,7 @@ A welcomed addition to Vimium!
 #### sping Documentation
 * <https://dseltzer.gitlab.io/sping/docs/>
 +1 for an elegant terminal utility. Always.
+
+#### Notes on Managing ADHD
+* <https://borretti.me/article/notes-on-managing-adhd>
+Perhaps interesting
