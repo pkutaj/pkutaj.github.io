@@ -813,3 +813,7 @@ Perhaps interesting
 #### Stop Acting Like This is Normal 
 * <https://www.youtube.com/watch?v=W3-0SpkF-V0&ab_channel=TheEzraKleinShow>
 Public Intelectual at its best in action. Clear strong opinion. Willingness to admit risk and own mistakes. Skin in the game.
+
+#### Does the Future Belong to China? 
+* <https://www.youtube.com/watch?v=ZNK3vNg13XA>
+Some interesting facts. On demography and the brutality of one-child policy (there was an episode of dr house on this too). On Shanghai as New-York City-like metropolis looking down on Beijing. The frame of engineering vs creative types a bit too general, similar to "society of lawiers" vs "society of engineers". But reminiscent of Tom Friedman on Ezra ('My colleague Tom Friedman thinks we’re screwed.'; see https://www.youtube.com/watch?v=UqBa0hBAQBA)
