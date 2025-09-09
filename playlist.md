@@ -809,3 +809,7 @@ A welcomed addition to Vimium!
 #### Notes on Managing ADHD
 * <https://borretti.me/article/notes-on-managing-adhd>
 Perhaps interesting
+
+#### Stop Acting Like This is Normal 
+* <https://www.youtube.com/watch?v=W3-0SpkF-V0&ab_channel=TheEzraKleinShow>
+Public Intelectual at its best in action. Clear strong opinion. Willingness to admit risk and own mistakes. Skin in the game.
