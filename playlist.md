@@ -751,19 +751,20 @@ It depends where you point your attention. How you think about it. So old. Oddys
 * <https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people>
 Yes — I was told off a couple of times and enough - no more faking.
 
-#### 7.11. Enough AI copilots! We need AI HUDs
+### 8. AUG-2025
+#### 8.1. Enough AI copilots! We need AI HUDs
 * <https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds>
 A good metaphor that AI should be Augmenting reality not being a butler. A tool, not an assistant. Good debate on HN on this as well. Sparkling.
 
-#### 7.12. Why American Jews No Longer Understand One Another - YouTube
+#### 8.2. Why American Jews No Longer Understand One Another - YouTube
 * <https://www.youtube.com/watch?v=tvTnj630eUk>
 Another great one by Ezra.
 
-#### 7.13. Learning Is Slower Than You Think
+#### 8.3. Learning Is Slower Than You Think
 * <https://news.ycombinator.com/item?id=44723763>
 To me this was powerful. To some, this is AI slop.
 
-#### 7.14. How we built fast UPDATEs for the ClickHouse column store – Part 1: Purpose-built engines
+#### 8.4. How we built fast UPDATEs for the ClickHouse column store – Part 1: Purpose-built engines
 * <https://clickhouse.com/blog/updates-in-clickhouse-1-purpose-built-engines>
 > In database systems, updates and analytics pull in opposite directions; what’s fast for one tends to be slow for the other.
 > In row stores (like PostgreSQL or MySQL):
@@ -776,44 +777,46 @@ To me this was powerful. To some, this is AI slop.
 > But updates are harder because each column is stored separately, modifying a row means touching multiple files and rewriting fragments.
 > This tradeoff has long made efficient row-level updates a challenge for columnar systems.
 
-#### Why your website should be under 14kB in size - YouTube
+#### 8.5. Why your website should be under 14kB in size - YouTube
 * <https://www.youtube.com/watch?v=ciNXbR5wvhU&ab_channel=ThePrimeTime>
 
-#### Show HN: A benchmark + latency sim for LLM db queries: ClickHouse / Postgres 
+#### 8.6. Show HN: A benchmark + latency sim for LLM db queries: ClickHouse / Postgres 
 * <https://news.ycombinator.com/item?id=44805879>
 OLAP vs OLTP in 2025 on LLM Benchmarking
 
-#### Hyrum's Law
+#### 8.7. Hyrum's Law
 * <https://www.hyrumslaw.com/>
 
-#### 6 Weeks of Claude Code - Puzzmo Blog
+#### 8.8. 6 Weeks of Claude Code - Puzzmo Blog
 * <https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/>
 Claude Code as anti-procrastination, prototype-maker, giving first-flash to ideas.
 
-#### I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri
+#### 8.9. I Tried Every Todo App and Ended Up With a .txt File - Alireza Bashiri
 * <https://www.al3rez.com/todo-txt-journey>
 A bit boring. Cal Newport would be happy. Otherwise, I keep capturing with my phone - this is lacking
 
-#### Vibe Debugging: Enterprises' Up and Coming Nightmare
+#### 8.10. Vibe Debugging: Enterprises' Up and Coming Nightmare
 * <https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and>
 Was this just a question of time? Primagean was warning about this from the moment vibe coding appeared. Now, this is the first real complaint. The chickens coming back home to roost?
 
-#### Shortcat: Universal command palette for your Mac 
+### 9. SEP-2025
+
+#### 9.1. Shortcat: Universal command palette for your Mac 
 * <https://shortcat.app/>
 A welcomed addition to Vimium!
 
-#### sping Documentation
+#### 9.2. sping Documentation
 * <https://dseltzer.gitlab.io/sping/docs/>
 +1 for an elegant terminal utility. Always.
 
-#### Notes on Managing ADHD
+#### 9.3. Notes on Managing ADHD
 * <https://borretti.me/article/notes-on-managing-adhd>
 Perhaps interesting
 
-#### Stop Acting Like This is Normal 
+#### 9.4. Stop Acting Like This is Normal 
 * <https://www.youtube.com/watch?v=W3-0SpkF-V0&ab_channel=TheEzraKleinShow>
 Public Intelectual at its best in action. Clear strong opinion. Willingness to admit risk and own mistakes. Skin in the game.
 
-#### Does the Future Belong to China? 
+#### 9.5. Does the Future Belong to China? 
 * <https://www.youtube.com/watch?v=ZNK3vNg13XA>
 Some interesting facts. On demography and the brutality of one-child policy (there was an episode of dr house on this too). On Shanghai as New-York City-like metropolis looking down on Beijing. The frame of engineering vs creative types a bit too general, similar to "society of lawiers" vs "society of engineers". But reminiscent of Tom Friedman on Ezra ('My colleague Tom Friedman thinks we’re screwed.'; see https://www.youtube.com/watch?v=UqBa0hBAQBA)
