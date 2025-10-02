@@ -823,3 +823,13 @@ Some interesting facts. On demography and the brutality of one-child policy (the
 
 #### Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah
 * <https://soc.utah.edu/sociology3112/bivariate-tables.php#:~:text=Main%20Points&text=The%20independent%20variable%20usually%20goes,bivariate%20table%20are%20called%20marginals.>
+
+#### It's the best authoring tool we've ever devised.
+* <https://news.ycombinator.com/item?id=45435463>
+
+#### It's the best authoring tool we've ever devised.
+* <https://news.ycombinator.com/item?id=45435463>
+
+#### It's the best authoring tool we've ever devised.
+* <https://news.ycombinator.com/item?id=45435463>
+Great debate. Fully behind "It's the best authoring tool we've ever designed". Mermaid is up there with low-code diagramming. Essential for good tech support.
