@@ -10,8 +10,9 @@ web:            | [pavol.kutaj.com](https://pavol.kutaj.com)
 blog:           | [Pavol Z. Kutaj - DEV Community](https://dev.to/pkutaj)
 location:       | Brno, Czech Republic (working 100 % remotely)
 
-### NOW (Q1/2025)
-* Joining Clickhouse and learning the hard way
+### NOW (Q4/2025)
+* Supporting Clickhouse; learning the hard way
+* Being an observability/monitoring lead, authoring Grafana dashboards
 
 ### EXPERIENCE
 #### Clickhouse Senior Support Entineer
