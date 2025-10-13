@@ -7,7 +7,7 @@ layout: home
  | phone:          | +420702152552                                                    |
  | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)                     |
  | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)                       |
- | blog:           | [Pavol Z. Kutaj - DEV Community](https://medium.com/@pavolkutaj) |
+ | blog:           | [@pkutaj - Medium] (https://medium.com/@pavolkutaj) |
  | location:       | Brno, Czech Republic (working 100 % remotely)                    |
 
 ### NOW (Q4/2025)
