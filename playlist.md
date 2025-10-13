@@ -827,12 +827,5 @@ Some interesting facts. On demography and the brutality of one-child policy (the
 #### It's the best authoring tool we've ever devised.
 * <https://news.ycombinator.com/item?id=45435463>
 
-#### It's the best authoring tool we've ever devised.
-* <https://news.ycombinator.com/item?id=45435463>
-
-#### It's the best authoring tool we've ever devised.
-* <https://news.ycombinator.com/item?id=45435463>
-Great debate. Fully behind "It's the best authoring tool we've ever designed". Mermaid is up there with low-code diagramming. Essential for good tech support.
-
 #### The Atomic Bomb Considered As Hungarian High School Science Fair Project 
 * <https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/>
