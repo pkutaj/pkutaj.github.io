@@ -1046,3 +1046,7 @@ Some interesting facts. On demography and the brutality of one-child policy (the
 
 #### 9.8. The Atomic Bomb Considered As Hungarian High School Science Fair Project 
 * <https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/>
+
+#### Spotlight on pdfly, the Swiss Army knife for PDF files 
+* <https://news.ycombinator.com/item?id=45566139>
+Some interesting notes on the history of PDF. Also quite a cool tool. Used PDFSam in the past.
