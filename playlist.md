@@ -1050,3 +1050,7 @@ Some interesting facts. On demography and the brutality of one-child policy (the
 #### Spotlight on pdfly, the Swiss Army knife for PDF files 
 * <https://news.ycombinator.com/item?id=45566139>
 Some interesting notes on the history of PDF. Also quite a cool tool. Used PDFSam in the past.
+
+#### Ripley (TV series) - Wikipedia
+* <https://en.wikipedia.org/wiki/Ripley_(TV_series)>
+one of the bests. Listening to Radio version now in Czech Public Radio.
