@@ -1054,3 +1054,7 @@ Some interesting notes on the history of PDF. Also quite a cool tool. Used PDFSa
 #### Ripley (TV series) - Wikipedia
 * <https://en.wikipedia.org/wiki/Ripley_(TV_series)>
 one of the bests. Listening to Radio version now in Czech Public Radio.
+
+#### CMU Database Group - YouTube
+* <https://www.youtube.com/@CMUDatabaseGroup/playlists>
+Saving for watching.
