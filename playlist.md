@@ -1058,3 +1058,7 @@ one of the bests. Listening to Radio version now in Czech Public Radio.
 #### CMU Database Group - YouTube
 * <https://www.youtube.com/@CMUDatabaseGroup/playlists>
 Saving for watching.
+
+#### atuinsh/desktop: 📖 Runbooks that run
+* <https://github.com/atuinsh/desktop>
+One day
