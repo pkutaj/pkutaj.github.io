@@ -1068,3 +1068,7 @@ One day
 
 #### noamteyssier/hist-rs: An efficient unique-line counter (25x over )
 * <https://github.com/noamteyssier/hist-rs>
+
+#### Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
+* <https://changelog.com/podcast/663>
+Could save our team.
