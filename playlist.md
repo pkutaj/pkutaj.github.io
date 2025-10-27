@@ -1062,3 +1062,9 @@ Saving for watching.
 #### atuinsh/desktop: 📖 Runbooks that run
 * <https://github.com/atuinsh/desktop>
 One day
+
+#### noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )
+* <https://github.com/noamteyssier/hist-rs>
+
+#### noamteyssier/hist-rs: An efficient unique-line counter (25x over )
+* <https://github.com/noamteyssier/hist-rs>
