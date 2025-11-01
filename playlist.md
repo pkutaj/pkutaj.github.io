@@ -1072,3 +1072,6 @@ One day
 #### Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
 * <https://changelog.com/podcast/663>
 Could save our team.
+
+#### Adam Jacob on AI native infrastructure automation - YouTube
+* <https://www.youtube.com/watch?v=cQNGNAsXbd8&t=2s>
