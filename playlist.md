@@ -1075,3 +1075,7 @@ Could save our team.
 
 #### Adam Jacob on AI native infrastructure automation - YouTube
 * <https://www.youtube.com/watch?v=cQNGNAsXbd8&t=2s>
+
+#### Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube
+* <https://www.youtube.com/watch?v=v1Gm1OR2SPg>
+3 awesome historians around one table
