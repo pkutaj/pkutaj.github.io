@@ -1092,3 +1092,7 @@ Could save our team.
 #### Scripts I wrote that I use all the time
 * <https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/>
 Remembered this one and missed putting them into bookmarks. Great collection.
+
+#### Ezra Klein: This Is How Democrats Win - YouTube
+* <https://www.youtube.com/watch?v=T8iw1A2utVA>
+Amazing, again.
