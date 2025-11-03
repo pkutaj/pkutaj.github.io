@@ -1088,3 +1088,7 @@ Could save our team.
 3 awesome historians around one table
 
 ### 11. NOV-2025
+
+#### Scripts I wrote that I use all the time
+* <https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/>
+Remembered this one and missed putting them into bookmarks. Great collection.
