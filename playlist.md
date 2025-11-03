@@ -219,10 +219,20 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.3. Notes on Managing ADHD](#93-notes-on-managing-adhd)
   - [9.4. Stop Acting Like This is Normal](#94-stop-acting-like-this-is-normal)
   - [9.5. Does the Future Belong to China?](#95-does-the-future-belong-to-china)
-- [OCT-2025](#oct-2025)
-  - [9.6. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah](#96-bivariate-tables---sociology-3112---department-of-sociology---the-university-of-utah)
-  - [9.7. It's the best authoring tool we've ever devised.](#97-its-the-best-authoring-tool-weve-ever-devised)
-  - [9.8. The Atomic Bomb Considered As Hungarian High School Science Fair Project](#98-the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project)
+- [10. OCT-2025](#10-oct-2025)
+  - [10.1. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah](#101-bivariate-tables---sociology-3112---department-of-sociology---the-university-of-utah)
+  - [10.2. It's the best authoring tool we've ever devised.](#102-its-the-best-authoring-tool-weve-ever-devised)
+  - [10.3. The Atomic Bomb Considered As Hungarian High School Science Fair Project](#103-the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project)
+  - [10.4. Spotlight on pdfly, the Swiss Army knife for PDF files](#104-spotlight-on-pdfly-the-swiss-army-knife-for-pdf-files)
+  - [10.5. Ripley (TV series) - Wikipedia](#105-ripley-tv-series---wikipedia)
+  - [10.6. CMU Database Group - YouTube](#106-cmu-database-group---youtube)
+  - [10.7. atuinsh/desktop: 📖 Runbooks that run](#107-atuinshdesktop--runbooks-that-run)
+  - [10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )](#108-noamteyssierhist-rs-an-efficient-unique-line-counter-25x-over----1-get-uniq-counts-and-uniq-lines-fast-with-rust-cli-tool-)
+  - [10.9. noamteyssier/hist-rs: An efficient unique-line counter (25x over )](#109-noamteyssierhist-rs-an-efficient-unique-line-counter-25x-over-)
+  - [10.10. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)](#1010-bringing-atuin-to-the-desktop-with-ellie-huxtable-changelog-interviews-663)
+  - [10.11. Adam Jacob on AI native infrastructure automation - YouTube](#1011-adam-jacob-on-ai-native-infrastructure-automation---youtube)
+  - [10.12. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube](#1012-niall-ferguson-victor-davis-hanson-and-stephen-kotkin-three-historians-debate-the-era-of-trump---youtube)
+
 
 ### 1. JAN-2025
 #### 1.1. Databases in 2024: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University
@@ -1036,46 +1046,48 @@ Public Intelectual at its best in action. Clear strong opinion. Willingness to a
 * <https://www.youtube.com/watch?v=ZNK3vNg13XA>
 Some interesting facts. On demography and the brutality of one-child policy (there was an episode of dr house on this too). On Shanghai as New-York City-like metropolis looking down on Beijing. The frame of engineering vs creative types a bit too general, similar to "society of lawiers" vs "society of engineers". But reminiscent of Tom Friedman on Ezra ('My colleague Tom Friedman thinks we’re screwed.'; see https://www.youtube.com/watch?v=UqBa0hBAQBA)
 
-### OCT-2025
+### 10. OCT-2025
 
-#### 9.6. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah
+#### 10.1. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah
 * <https://soc.utah.edu/sociology3112/bivariate-tables.php#:~:text=Main%20Points&text=The%20independent%20variable%20usually%20goes,bivariate%20table%20are%20called%20marginals.>
 
-#### 9.7. It's the best authoring tool we've ever devised.
+#### 10.2. It's the best authoring tool we've ever devised.
 * <https://news.ycombinator.com/item?id=45435463>
 
-#### 9.8. The Atomic Bomb Considered As Hungarian High School Science Fair Project 
+#### 10.3. The Atomic Bomb Considered As Hungarian High School Science Fair Project 
 * <https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/>
 
-#### Spotlight on pdfly, the Swiss Army knife for PDF files 
+#### 10.4. Spotlight on pdfly, the Swiss Army knife for PDF files 
 * <https://news.ycombinator.com/item?id=45566139>
 Some interesting notes on the history of PDF. Also quite a cool tool. Used PDFSam in the past.
 
-#### Ripley (TV series) - Wikipedia
+#### 10.5. Ripley (TV series) - Wikipedia
 * <https://en.wikipedia.org/wiki/Ripley_(TV_series)>
 one of the bests. Listening to Radio version now in Czech Public Radio.
 
-#### CMU Database Group - YouTube
+#### 10.6. CMU Database Group - YouTube
 * <https://www.youtube.com/@CMUDatabaseGroup/playlists>
 Saving for watching.
 
-#### atuinsh/desktop: 📖 Runbooks that run
+#### 10.7. atuinsh/desktop: 📖 Runbooks that run
 * <https://github.com/atuinsh/desktop>
 One day
 
-#### noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )
+#### 10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )
 * <https://github.com/noamteyssier/hist-rs>
 
-#### noamteyssier/hist-rs: An efficient unique-line counter (25x over )
+#### 10.9. noamteyssier/hist-rs: An efficient unique-line counter (25x over )
 * <https://github.com/noamteyssier/hist-rs>
 
-#### Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
+#### 10.10. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
 * <https://changelog.com/podcast/663>
 Could save our team.
 
-#### Adam Jacob on AI native infrastructure automation - YouTube
+#### 10.11. Adam Jacob on AI native infrastructure automation - YouTube
 * <https://www.youtube.com/watch?v=cQNGNAsXbd8&t=2s>
 
-#### Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube
+#### 10.12. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube
 * <https://www.youtube.com/watch?v=v1Gm1OR2SPg>
 3 awesome historians around one table
+
+### 11. NOV-2025
