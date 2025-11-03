@@ -1051,7 +1051,7 @@ Some interesting facts. On demography and the brutality of one-child policy (the
 #### 10.1. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah
 * <https://soc.utah.edu/sociology3112/bivariate-tables.php#:~:text=Main%20Points&text=The%20independent%20variable%20usually%20goes,bivariate%20table%20are%20called%20marginals.>
 
-#### 10.2. It's the best authoring tool we've ever devised.
+#### 10.2. Spreadsheets - It's the best authoring tool we've ever devised.
 * <https://news.ycombinator.com/item?id=45435463>
 
 #### 10.3. The Atomic Bomb Considered As Hungarian High School Science Fair Project 
@@ -1072,9 +1072,6 @@ Saving for watching.
 #### 10.7. atuinsh/desktop: 📖 Runbooks that run
 * <https://github.com/atuinsh/desktop>
 One day
-
-#### 10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )
-* <https://github.com/noamteyssier/hist-rs>
 
 #### 10.9. noamteyssier/hist-rs: An efficient unique-line counter (25x over )
 * <https://github.com/noamteyssier/hist-rs>
