@@ -8,6 +8,8 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 - [2023](https://pavol.kutaj.com/assets/playlist_2023)
 - [2024](https://pavol.kutaj.com/assets/playlist_2024)
 
+<!-- TOC -->
+
 - [1. JAN-2025](#1-jan-2025)
   - [1.1. Databases in 2024: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](#11-databases-in-2024-a-year-in-review--blog--andy-pavlo---carnegie-mellon-university)
   - [1.2. Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?](#12-ask-hn-programmers-who-dont-use-autocompletelsp-how-do-you-do-it)
@@ -221,18 +223,20 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.5. Does the Future Belong to China?](#95-does-the-future-belong-to-china)
 - [10. OCT-2025](#10-oct-2025)
   - [10.1. Bivariate Tables - Sociology 3112 - Department of Sociology - The University of utah](#101-bivariate-tables---sociology-3112---department-of-sociology---the-university-of-utah)
-  - [10.2. It's the best authoring tool we've ever devised.](#102-its-the-best-authoring-tool-weve-ever-devised)
+  - [10.2. Spreadsheets - It's the best authoring tool we've ever devised.](#102-spreadsheets---its-the-best-authoring-tool-weve-ever-devised)
   - [10.3. The Atomic Bomb Considered As Hungarian High School Science Fair Project](#103-the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project)
   - [10.4. Spotlight on pdfly, the Swiss Army knife for PDF files](#104-spotlight-on-pdfly-the-swiss-army-knife-for-pdf-files)
   - [10.5. Ripley (TV series) - Wikipedia](#105-ripley-tv-series---wikipedia)
   - [10.6. CMU Database Group - YouTube](#106-cmu-database-group---youtube)
   - [10.7. atuinsh/desktop: 📖 Runbooks that run](#107-atuinshdesktop--runbooks-that-run)
-  - [10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over    1 Get Uniq Counts and Uniq lines fast with rust CLI tool. )](#108-noamteyssierhist-rs-an-efficient-unique-line-counter-25x-over----1-get-uniq-counts-and-uniq-lines-fast-with-rust-cli-tool-)
-  - [10.9. noamteyssier/hist-rs: An efficient unique-line counter (25x over )](#109-noamteyssierhist-rs-an-efficient-unique-line-counter-25x-over-)
-  - [10.10. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)](#1010-bringing-atuin-to-the-desktop-with-ellie-huxtable-changelog-interviews-663)
-  - [10.11. Adam Jacob on AI native infrastructure automation - YouTube](#1011-adam-jacob-on-ai-native-infrastructure-automation---youtube)
-  - [10.12. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube](#1012-niall-ferguson-victor-davis-hanson-and-stephen-kotkin-three-historians-debate-the-era-of-trump---youtube)
-
+  - [10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over )](#108-noamteyssierhist-rs-an-efficient-unique-line-counter-25x-over-)
+  - [10.9. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)](#109-bringing-atuin-to-the-desktop-with-ellie-huxtable-changelog-interviews-663)
+  - [10.10. Adam Jacob on AI native infrastructure automation - YouTube](#1010-adam-jacob-on-ai-native-infrastructure-automation---youtube)
+  - [10.11. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube](#1011-niall-ferguson-victor-davis-hanson-and-stephen-kotkin-three-historians-debate-the-era-of-trump---youtube)
+- [11. NOV-2025](#11-nov-2025)
+  - [11.1. Scripts I wrote that I use all the time](#111-scripts-i-wrote-that-i-use-all-the-time)
+  - [11.2. Ezra Klein: This Is How Democrats Win - YouTube](#112-ezra-klein-this-is-how-democrats-win---youtube)
+<!-- /TOC -->
 
 ### 1. JAN-2025
 #### 1.1. Databases in 2024: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University
@@ -1073,26 +1077,30 @@ Saving for watching.
 * <https://github.com/atuinsh/desktop>
 One day
 
-#### 10.9. noamteyssier/hist-rs: An efficient unique-line counter (25x over )
+#### 10.8. noamteyssier/hist-rs: An efficient unique-line counter (25x over )
 * <https://github.com/noamteyssier/hist-rs>
 
-#### 10.10. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
+#### 10.9. Bringing Atuin to the desktop with Ellie Huxtable (Changelog Interviews #663)
 * <https://changelog.com/podcast/663>
 Could save our team.
 
-#### 10.11. Adam Jacob on AI native infrastructure automation - YouTube
+#### 10.10. Adam Jacob on AI native infrastructure automation - YouTube
 * <https://www.youtube.com/watch?v=cQNGNAsXbd8&t=2s>
 
-#### 10.12. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube
+#### 10.11. Niall Ferguson, Victor Davis Hanson and Stephen Kotkin: Three Historians Debate The Era of Trump - YouTube
 * <https://www.youtube.com/watch?v=v1Gm1OR2SPg>
 3 awesome historians around one table
 
 ### 11. NOV-2025
 
-#### Scripts I wrote that I use all the time
+#### 11.1. Scripts I wrote that I use all the time
 * <https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/>
 Remembered this one and missed putting them into bookmarks. Great collection.
 
-#### Ezra Klein: This Is How Democrats Win - YouTube
+#### 11.2. Ezra Klein: This Is How Democrats Win - YouTube
 * <https://www.youtube.com/watch?v=T8iw1A2utVA>
 Amazing, again.
+
+#### Your URL Is Your State
+* <https://alfy.blog/2025/10/31/your-url-is-your-state.html>
+This is the value of https://github.com/ClickHouse/pastila.
