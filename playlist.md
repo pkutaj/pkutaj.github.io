@@ -236,6 +236,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 - [11. NOV-2025](#11-nov-2025)
   - [11.1. Scripts I wrote that I use all the time](#111-scripts-i-wrote-that-i-use-all-the-time)
   - [11.2. Ezra Klein: This Is How Democrats Win - YouTube](#112-ezra-klein-this-is-how-democrats-win---youtube)
+  - [11.3. Your URL Is Your State](#113-your-url-is-your-state)
 <!-- /TOC -->
 
 ### 1. JAN-2025
@@ -1101,6 +1102,13 @@ Remembered this one and missed putting them into bookmarks. Great collection.
 * <https://www.youtube.com/watch?v=T8iw1A2utVA>
 Amazing, again.
 
-#### Your URL Is Your State
+#### 11.3. Your URL Is Your State
 * <https://alfy.blog/2025/10/31/your-url-is-your-state.html>
 This is the value of https://github.com/ClickHouse/pastila.
+
+#### A Friendly Tour of Process Memory on Linux 
+* <https://www.0xkato.xyz/linux-process-memory/>
+
+#### A Friendly Tour of Process Memory on Linux 
+* <https://www.0xkato.xyz/linux-process-memory/>
+Trending on HN. To be read as I have major gaps in this field and ClickHouse Supports often leads to a rabbit hole that's right in the area of memory management.
