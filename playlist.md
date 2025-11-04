@@ -1112,3 +1112,7 @@ This is the value of https://github.com/ClickHouse/pastila.
 #### A Friendly Tour of Process Memory on Linux 
 * <https://www.0xkato.xyz/linux-process-memory/>
 Trending on HN. To be read as I have major gaps in this field and ClickHouse Supports often leads to a rabbit hole that's right in the area of memory management.
+
+#### Who's Afraid of Virginia Woolf? (film) - Wikipedia
+* <https://en.wikipedia.org/wiki/Who's_Afraid_of_Virginia_Woolf%3F_(film)>
+Found that this play I know if a refernce to Disney's Who's Afraid of Big Bad Wolf which according to The Rest is History episode on Walt Disney serverd as an 'american anthem' in the depressed US of early 1930s.
