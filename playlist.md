@@ -1123,3 +1123,11 @@ Tyles thinks this is philosophy proper from the Silicon Valley now. There certai
 
 #### Sarah Paine — How Russia sabotaged China's rise - YouTube
 * <https://www.youtube.com/watch?v=RH_ycZYH8-s&t=12s>
+
+#### C Programming and Memory Management - Full Course - YouTube
+* <https://www.youtube.com/watch?v=rJrd2QMVbGM>
+TJ is competing with DRchuck with intro to C for me!
+
+#### C Programming and Memory Management - Full Course - YouTube
+* <https://www.youtube.com/watch?v=rJrd2QMVbGM>
+TJ vs DRchuck on intro to C. DRchuck has C 4 everyone. Let's see where I give time.
