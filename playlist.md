@@ -1116,3 +1116,7 @@ Trending on HN. To be read as I have major gaps in this field and ClickHouse Sup
 #### Who's Afraid of Virginia Woolf? (film) - Wikipedia
 * <https://en.wikipedia.org/wiki/Who's_Afraid_of_Virginia_Woolf%3F_(film)>
 Found that this play I know if a refernce to Disney's Who's Afraid of Big Bad Wolf which according to The Rest is History episode on Walt Disney serverd as an 'american anthem' in the depressed US of early 1930s.
+
+#### Andrej and Dwarkesh as philosophy - Marginal REVOLUTION
+* <https://marginalrevolution.com/marginalrevolution/2025/11/andrej-and-dwarkesh-as-philosophy.html>
+Tyles thinks this is philosophy proper from the Silicon Valley now. There certainly are existential themes, but that kind of speculation does not qualify in depths with the level of Kierkegaard, I think.
