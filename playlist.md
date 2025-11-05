@@ -1120,3 +1120,6 @@ Found that this play I know if a refernce to Disney's Who's Afraid of Big Bad Wo
 #### Andrej and Dwarkesh as philosophy - Marginal REVOLUTION
 * <https://marginalrevolution.com/marginalrevolution/2025/11/andrej-and-dwarkesh-as-philosophy.html>
 Tyles thinks this is philosophy proper from the Silicon Valley now. There certainly are existential themes, but that kind of speculation does not qualify in depths with the level of Kierkegaard, I think.
+
+#### Sarah Paine — How Russia sabotaged China's rise - YouTube
+* <https://www.youtube.com/watch?v=RH_ycZYH8-s&t=12s>
