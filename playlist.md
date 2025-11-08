@@ -1131,3 +1131,6 @@ TJ is competing with DRchuck with intro to C for me!
 #### C Programming and Memory Management - Full Course - YouTube
 * <https://www.youtube.com/watch?v=rJrd2QMVbGM>
 TJ vs DRchuck on intro to C. DRchuck has C 4 everyone. Let's see where I give time.
+
+#### How Did I Get Here?
+* <https://how-did-i-get-here.net/>
