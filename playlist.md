@@ -1137,3 +1137,7 @@ TJ vs DRchuck on intro to C. DRchuck has C 4 everyone. Let's see where I give ti
 
 #### Radek Sikorski
 * <https://www.youtube.com/watch?v=Fy3-L3pCadM>
+
+#### Did Liberal Feminism Ruin the Workplace? 
+* <https://www.youtube.com/watch?v=xkTglJuqq8U>
+Another great debate after Kotkin vs Fergusson on consequentialism of Trump presidency. Fun!
