@@ -1134,3 +1134,6 @@ TJ vs DRchuck on intro to C. DRchuck has C 4 everyone. Let's see where I give ti
 
 #### How Did I Get Here?
 * <https://how-did-i-get-here.net/>
+
+#### Radek Sikorski
+* <https://www.youtube.com/watch?v=Fy3-L3pCadM>
