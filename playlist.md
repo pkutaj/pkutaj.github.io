@@ -1145,3 +1145,15 @@ Another great debate after Kotkin vs Fergusson on consequentialism of Trump pres
 #### Learning C with gdb - Blog - Recurse Center
 * <https://www.recurse.com/blog/5-learning-c-with-gdb>
 I think my neovim setup's OK but saving in case I want something more repl-like and gdb may be important.
+
+#### Developing our position on AI - Blog - Recurse Center
+* <https://www.recurse.com/blog/191-developing-our-position-on-ai>
+This Comes over and over. Martin Fowler - AI skips learning loop. Here - The first self-directive is to work at the edge of your abilities. Real growth happens at the boundary of what you can do and what you can almost do. Used well, LLMs can help you more quickly find or even expand your edge, but they risk creating a gap between the edge of what you can produce and what you can understand.
+
+RC is a place for rigor. You should strive to be more rigorous, not less, when using AI-powered tools to learn, though exactly what you need to be rigorous about is likely different when using them.
+
+You learn best and most effectively when you are learning something that you care about. Your work becomes meaningful and something you can be proud of only when you have chosen it for yourself. This is why our second self-directive is to build your volitional muscles. Your volition is your ability to make decisions and act on them. To set your own goals, choose your own path, and decide what matters to you. Like physical muscles, you build your volitional muscles by exercising them, and in doing so you can increase your sense of what’s possible.
+
+LLMs are good at giving fast answers. They’re not good at knowing what questions you care about, or which answers are meaningful. Only you can do that. You should use AI-powered tools to complement or increase your agency, not replace it.
+
+The primary value of RC is the people, which is why our third self-directive is to learn generously. Learning generously is what makes RC a community. We celebrate each other’s successes, support each other when we struggle, and benefit from each other’s knowledge.
