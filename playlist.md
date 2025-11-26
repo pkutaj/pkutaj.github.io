@@ -1141,3 +1141,7 @@ TJ vs DRchuck on intro to C. DRchuck has C 4 everyone. Let's see where I give ti
 #### Did Liberal Feminism Ruin the Workplace? 
 * <https://www.youtube.com/watch?v=xkTglJuqq8U>
 Another great debate after Kotkin vs Fergusson on consequentialism of Trump presidency. Fun!
+
+#### Learning C with gdb - Blog - Recurse Center
+* <https://www.recurse.com/blog/5-learning-c-with-gdb>
+I think my neovim setup's OK but saving in case I want something more repl-like and gdb may be important.
