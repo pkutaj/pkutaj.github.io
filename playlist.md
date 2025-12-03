@@ -1157,3 +1157,10 @@ You learn best and most effectively when you are learning something that you car
 LLMs are good at giving fast answers. They’re not good at knowing what questions you care about, or which answers are meaningful. Only you can do that. You should use AI-powered tools to complement or increase your agency, not replace it.
 
 The primary value of RC is the people, which is why our third self-directive is to learn generously. Learning generously is what makes RC a community. We celebrate each other’s successes, support each other when we struggle, and benefit from each other’s knowledge.
+
+#### Learning C with gdb - Blog - Recurse Center
+* <https://www.recurse.com/blog/5-learning-c-with-gdb>
+
+#### 9-9-6-0 - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/9-9-6-0>
+This could never ever be written by a machine.
