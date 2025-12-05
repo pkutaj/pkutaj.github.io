@@ -1164,3 +1164,7 @@ The primary value of RC is the people, which is why our third self-directive is 
 #### 9-9-6-0 - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/9-9-6-0>
 This could never ever be written by a machine.
+
+#### (1) Volkswagen Pink
+* <https://www.youtube.com/watch?v=_-kqUkZnDcM>
+Fun Fact - Car Commercial Made Nick Drake Famous 20 years after his suicide.
