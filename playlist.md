@@ -1172,3 +1172,7 @@ Fun Fact - Car Commercial Made Nick Drake Famous 20 years after his suicide.
 #### If You’re Going to Vibe Code, Why Not Do It in C?
 * <https://stephenramsay.net/posts/vibe-coding.html>
 Someone with similar sentiments towards coding like me/DHH/Jimmy from Future of Codine where problem and activity is loved more than product and solution, yet predicting that AI generated code will be what's coming. Plus a theorical takedown of generated code in Python. Python is for Human. Machine 4 Machine code should be in... "machine code"! Of course. We can formalize the specs in some other lang. That's prolly the future. Then you'll have this new-not existing lang, and engligh, and the rest of it (Rust, C, etc.) which will also co-exist. That's my current bet.
+
+#### Comments - The vibes and the noise - by Benn Stancil
+* <https://benn.substack.com/p/the-vibes-and-the-noise/comments>
+A philosophy of history of sorts, Karl Mannheim made his generation theory (based on Hegel) hundreds years ago and here we are being inspired.
