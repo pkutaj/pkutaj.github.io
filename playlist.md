@@ -1176,3 +1176,7 @@ Someone with similar sentiments towards coding like me/DHH/Jimmy from Future of 
 #### Comments - The vibes and the noise - by Benn Stancil
 * <https://benn.substack.com/p/the-vibes-and-the-noise/comments>
 A philosophy of history of sorts, Karl Mannheim made his generation theory (based on Hegel) hundreds years ago and here we are being inspired.
+
+#### Prefixes for binary multiples
+* <https://www.iec.ch/prefixes-binary-multiples>
+Learning about the diff between KB and KiB and its historical roots and the problems the initial identity caused with the big data revolution of 2010s onwards...
