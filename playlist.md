@@ -20,3 +20,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 #### Prepare for That Stupid World
 * <https://ploum.net/2025-12-19-prepare-for-that-world.html>
 > normalising the fact that "even if it is completely stupid, AI will be everywhere, get used to it!"
+
+#### I Program on the Subway 
+* <https://www.scd31.com/posts/programming-on-the-subway>
+Creative use of time. Like Ryan Holiday's suggestion to be extremely careful about interstinial/do-nothing time.
