@@ -16,3 +16,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 <!-- /TOC -->
 
 ### 1. JAN-2026
+
+#### Prepare for That Stupid World
+* <https://ploum.net/2025-12-19-prepare-for-that-world.html>
+> normalising the fact that "even if it is completely stupid, AI will be everywhere, get used to it!"
