@@ -31,3 +31,7 @@ Something I'm learning by heart these days. Combining with https://roundup.getdb
 
 #### Your Supabase Is Public
 * <https://skilldeliver.com/your-supabase-is-public>
+
+#### Creator of Go Crashes out - YouTube
+* <https://www.youtube.com/watch?v=C9i3VTFxd_Q>
+Prime's contrarian take. +1
