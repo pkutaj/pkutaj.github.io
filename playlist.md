@@ -35,3 +35,7 @@ Something I'm learning by heart these days. Combining with https://roundup.getdb
 #### Creator of Go Crashes out - YouTube
 * <https://www.youtube.com/watch?v=C9i3VTFxd_Q>
 Prime's contrarian take. +1
+
+#### Legendary Game Dev Jonathan Blow 
+* <https://www.youtube.com/watch?v=vHfdUqLmPNU>
+The only reasons why games may ever be interesting again and this is because of rants in The Future of Code podcast.
