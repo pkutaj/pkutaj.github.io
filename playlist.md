@@ -39,3 +39,7 @@ Prime's contrarian take. +1
 #### Legendary Game Dev Jonathan Blow 
 * <https://www.youtube.com/watch?v=vHfdUqLmPNU>
 The only reasons why games may ever be interesting again and this is because of rants in The Future of Code podcast.
+
+#### Assorted less(1) tips 
+* <https://news.ycombinator.com/item?id=46464120>
+Learning less!
