@@ -43,3 +43,6 @@ The only reasons why games may ever be interesting again and this is because of 
 #### Assorted less(1) tips 
 * <https://news.ycombinator.com/item?id=46464120>
 Learning less!
+
+#### Be Wary of Digital Deskilling - Cal Newport
+* <https://calnewport.com/be-wary-of-digital-deskilling/>
