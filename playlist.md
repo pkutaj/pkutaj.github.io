@@ -12,6 +12,14 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 <!-- TOC -->
 
 - [1. JAN-2026](#1-jan-2026)
+  - [Prepare for That Stupid World](#prepare-for-that-stupid-world)
+  - [I Program on the Subway](#i-program-on-the-subway)
+  - [Understanding Query Execution with the Analyzer](#understanding-query-execution-with-the-analyzer)
+  - [Your Supabase Is Public](#your-supabase-is-public)
+  - [Creator of Go Crashes out - YouTube](#creator-of-go-crashes-out---youtube)
+  - [Legendary Game Dev Jonathan Blow](#legendary-game-dev-jonathan-blow)
+  - [Assorted less(1) tips](#assorted-less1-tips)
+  - [Be Wary of Digital Deskilling - Cal Newport](#be-wary-of-digital-deskilling---cal-newport)
 
 <!-- /TOC -->
 
@@ -46,3 +54,7 @@ Learning less!
 
 #### Be Wary of Digital Deskilling - Cal Newport
 * <https://calnewport.com/be-wary-of-digital-deskilling/>
+* I keep coming to this concept, it's memorable and somewhat valuable
+
+#### I'm addicted to being useful
+* <https://www.seangoedecke.com/addicted-to-being-useful/>
