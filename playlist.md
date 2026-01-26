@@ -62,3 +62,7 @@ Learning less!
 #### How I estimate work as a staff software engineer
 * <https://www.seangoedecke.com/how-i-estimate-work/>
 Sean again :) The standard way of thinking about estimates is that you start with a proposed piece of software work, and you then go and figure out how long it will take. This is entirely backwards. Instead, teams will often start with the estimate, and then go and figure out what kind of software work they can do to meet it.
+
+#### Introduction to PostgreSQL Indexes ::
+* <https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/>
+Bookmarking for later, because we started PG managed service starting 2026. https://www.youtube.com/watch?v=rpBA13nQxAk
