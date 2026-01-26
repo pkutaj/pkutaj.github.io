@@ -58,3 +58,7 @@ Learning less!
 
 #### I'm addicted to being useful
 * <https://www.seangoedecke.com/addicted-to-being-useful/>
+
+#### How I estimate work as a staff software engineer
+* <https://www.seangoedecke.com/how-i-estimate-work/>
+Sean again :) The standard way of thinking about estimates is that you start with a proposed piece of software work, and you then go and figure out how long it will take. This is entirely backwards. Instead, teams will often start with the estimate, and then go and figure out what kind of software work they can do to meet it.
