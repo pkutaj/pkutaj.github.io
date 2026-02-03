@@ -66,3 +66,7 @@ Sean again :) The standard way of thinking about estimates is that you start wit
 #### Introduction to PostgreSQL Indexes ::
 * <https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/>
 Bookmarking for later, because we started PG managed service starting 2026. https://www.youtube.com/watch?v=rpBA13nQxAk
+
+#### Bridges - by Kent Beck - Software Design: Tidy First?
+* <https://tidyfirst.substack.com/p/bridges>
+important
