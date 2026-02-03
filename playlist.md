@@ -82,3 +82,7 @@ Looking at what a quick smartphone adoption done to the genZ, I'm not adopting A
 #### The future of software engineering is SRE 
 * <https://swizec.com/blog/the-future-of-software-engineering-is-sre/?utm_source=changelog-news>
 robustness, robustness, robustness
+
+#### Generative AI and Wikipedia editing: What we learned in 2025 – Wiki Education
+* <https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/>
+Bookmarking pangram.
