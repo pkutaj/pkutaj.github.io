@@ -70,3 +70,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 #### Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
+#### Opinion 
+* <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
+Great analysis!
