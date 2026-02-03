@@ -78,3 +78,7 @@ Great analysis!
 #### A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev – Somehow Manage
 * <https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/>
 Looking at what a quick smartphone adoption done to the genZ, I'm not adopting AI too quickly. Only where it sharpens the old skills.
+
+#### The future of software engineering is SRE 
+* <https://swizec.com/blog/the-future-of-software-engineering-is-sre/?utm_source=changelog-news>
+robustness, robustness, robustness
