@@ -86,3 +86,7 @@ robustness, robustness, robustness
 #### Generative AI and Wikipedia editing: What we learned in 2025 – Wiki Education
 * <https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/>
 Bookmarking pangram.
+
+#### The gentle obsolescence - by Benn Stancil - benn.substack
+* <https://benn.substack.com/p/the-gentle-obsolescence>
+Interesting re-framimg and trashing the "Intern" frame around AI. Timely?
