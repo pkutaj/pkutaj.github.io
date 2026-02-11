@@ -93,3 +93,7 @@ Interesting re-framimg and trashing the "Intern" frame around AI. Timely?
 
 #### When internal hostnames are leaked to the clown
 * <https://rachelbythebay.com/w/2026/02/03/badnas/>
+
+#### (AI) Slop Terrifies Me – ezhik.jp
+* <https://ezhik.jp/ai-slop-terrifies-me/>
+A series of journey(code) enthusiasts accepting the end of engineering as we knew it since the birth of hFortran. This is the end, beautiful friend.
