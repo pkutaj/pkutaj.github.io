@@ -90,3 +90,6 @@ Bookmarking pangram.
 #### The gentle obsolescence - by Benn Stancil - benn.substack
 * <https://benn.substack.com/p/the-gentle-obsolescence>
 Interesting re-framimg and trashing the "Intern" frame around AI. Timely?
+
+#### When internal hostnames are leaked to the clown
+* <https://rachelbythebay.com/w/2026/02/03/badnas/>
