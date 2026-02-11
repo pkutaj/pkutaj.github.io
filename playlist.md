@@ -97,3 +97,7 @@ Interesting re-framimg and trashing the "Intern" frame around AI. Timely?
 #### (AI) Slop Terrifies Me – ezhik.jp
 * <https://ezhik.jp/ai-slop-terrifies-me/>
 A series of journey(code) enthusiasts accepting the end of engineering as we knew it since the birth of hFortran. This is the end, beautiful friend.
+
+#### I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed 
+* <https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/>
+Another in the series of mourning/grieving and ACCEPTING the end of death of coding as the essence of software engineering. New chapter's here. Death deserves grief.
