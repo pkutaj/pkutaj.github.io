@@ -101,3 +101,7 @@ A series of journey(code) enthusiasts accepting the end of engineering as we kne
 #### I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed 
 * <https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/>
 Another in the series of mourning/grieving and ACCEPTING the end of death of coding as the essence of software engineering. New chapter's here. Death deserves grief.
+
+#### Your Job Isn't Disappearing. It's Shrinking Around You in Real Time
+* <https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking>
+The adaptation strategy is to use new technology as an enabler or doing things previously unforeseen. Not fight it. Not learn it. Kind of "Gas Town" move? Still, it's too amorphous to spend time with, in my opinion. Rather, read the structure of scientific revolution by TS Kuhn again and other histories of technologicial revolutions. This is not the first time, it's going to rhyme.
