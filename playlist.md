@@ -129,3 +129,7 @@ exactly
 #### The AI Vampire. This was an unusually hard post to… 
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
 On the dark side of Agentic Engineering, it being too exhausting. But is not everything in the amorophous/berserk mode?
+
+#### How I Use Claude Code 
+* <https://boristane.com/blog/how-i-use-claude-code/>
+A bit waterfall-y, but better than berserk. Waiting for AIAgile.
