@@ -133,3 +133,7 @@ On the dark side of Agentic Engineering, it being too exhausting. But is not eve
 #### How I Use Claude Code 
 * <https://boristane.com/blog/how-i-use-claude-code/>
 A bit waterfall-y, but better than berserk. Waiting for AIAgile.
+
+#### (3) The Iran War: How America, Israel and Iran Got Here 
+* <https://www.youtube.com/watch?v=IKWMrpQOh7Y>
+Good, sobering, not as deep into Islam as The rest is history series on Iranian revolution from early this year but awesome.
