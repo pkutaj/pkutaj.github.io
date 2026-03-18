@@ -137,3 +137,13 @@ A bit waterfall-y, but better than berserk. Waiting for AIAgile.
 #### (3) The Iran War: How America, Israel and Iran Got Here 
 * <https://www.youtube.com/watch?v=IKWMrpQOh7Y>
 Good, sobering, not as deep into Islam as The rest is history series on Iranian revolution from early this year but awesome.
+
+#### AI Coding is Gambling 
+* <https://notes.visaint.space/ai-coding-is-gambling/>
+
+#### AI Coding is Gambling 
+* <https://notes.visaint.space/ai-coding-is-gambling/>
+
+#### AI Coding is Gambling 
+* <https://notes.visaint.space/ai-coding-is-gambling/>
+Kent Beck said the same in Pragmatic Engineering pod in Summer 2025.
