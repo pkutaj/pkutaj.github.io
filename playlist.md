@@ -147,3 +147,7 @@ Good, sobering, not as deep into Islam as The rest is history series on Iranian 
 #### AI Coding is Gambling 
 * <https://notes.visaint.space/ai-coding-is-gambling/>
 Kent Beck said the same in Pragmatic Engineering pod in Summer 2025.
+
+#### (3) we're so back - YouTube
+* <https://www.youtube.com/watch?v=5DP0az1q_8M>
+Mitchel Hashimoto's wowed by latest Codex - another 'its so over' moment and Primes skepticism. We shall see said the zenmaster.
