@@ -151,3 +151,7 @@ Kent Beck said the same in Pragmatic Engineering pod in Summer 2025.
 #### (3) we're so back - YouTube
 * <https://www.youtube.com/watch?v=5DP0az1q_8M>
 Mitchel Hashimoto's wowed by latest Codex - another 'its so over' moment and Primes skepticism. We shall see said the zenmaster.
+
+#### Opinion 
+* <https://archive.is/r9Dkt>
+As-of-now, the most essential piece on the impact of AI on the quality of mind
