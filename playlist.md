@@ -171,3 +171,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Thoughts on slowing the fuck down | Mario Zechner
 * <https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/>
  * AI agents create compounding complexity without friction; slow down, keep humans in the loop
+
+#### Rome's Greatest Enemy Part 3 - Bloodbath in Africa
+* <https://youtu.be/Wd-3I9qqLbc>
+ * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
