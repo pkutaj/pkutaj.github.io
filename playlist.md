@@ -35,6 +35,15 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [2.8. I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed](#28-i-started-programming-when-i-was-7-im-50-now-and-the-thing-i-loved-has-changed)
   - [2.9. Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](#29-your-job-isnt-disappearing-its-shrinking-around-you-in-real-time)
   - [2.10. AI makes you boring](#210-ai-makes-you-boring)
+  - [The AI Vampire. This was an unusually hard post to…](#the-ai-vampire-this-was-an-unusually-hard-post-to)
+  - [How I Use Claude Code](#how-i-use-claude-code)
+  - [(3) The Iran War: How America, Israel and Iran Got Here](#3-the-iran-war-how-america-israel-and-iran-got-here)
+  - [AI Coding is Gambling](#ai-coding-is-gambling)
+  - [AI Coding is Gambling](#ai-coding-is-gambling-1)
+  - [AI Coding is Gambling](#ai-coding-is-gambling-2)
+  - [(3) we're so back - YouTube](#3-were-so-back---youtube)
+  - [Opinion](#opinion)
+  - [](#)
 
 <!-- /TOC -->
 
@@ -158,3 +167,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 
 * <https://benn.substack.com/p/compacting>
+
+#### Thoughts on slowing the fuck down | Mario Zechner
+* <https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/>
+ * AI agents create compounding complexity without friction; slow down, keep humans in the loop
