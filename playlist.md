@@ -175,3 +175,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
+#### 392. JFK: The Road to the White House (Part 1) - The Rest is History
+* <https://www.youtube.com/watch?v=gb5M3ax9cxg>
+ * JFK's Irish-Catholic origins, Joe Kennedy Sr., PT-109 heroism, health struggles, rise to politics
