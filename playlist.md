@@ -35,15 +35,20 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [2.8. I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed](#28-i-started-programming-when-i-was-7-im-50-now-and-the-thing-i-loved-has-changed)
   - [2.9. Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](#29-your-job-isnt-disappearing-its-shrinking-around-you-in-real-time)
   - [2.10. AI makes you boring](#210-ai-makes-you-boring)
-  - [The AI Vampire. This was an unusually hard post to…](#the-ai-vampire-this-was-an-unusually-hard-post-to)
-  - [How I Use Claude Code](#how-i-use-claude-code)
-  - [(3) The Iran War: How America, Israel and Iran Got Here](#3-the-iran-war-how-america-israel-and-iran-got-here)
-  - [AI Coding is Gambling](#ai-coding-is-gambling)
-  - [AI Coding is Gambling](#ai-coding-is-gambling-1)
-  - [AI Coding is Gambling](#ai-coding-is-gambling-2)
-  - [(3) we're so back - YouTube](#3-were-so-back---youtube)
-  - [Opinion](#opinion)
-  - [](#)
+- [3. MAR-2025](#3-mar-2025)
+  - [3.1. The AI Vampire. This was an unusually hard post to…](#31-the-ai-vampire-this-was-an-unusually-hard-post-to)
+  - [3.2. How I Use Claude Code](#32-how-i-use-claude-code)
+  - [3.3. (3) The Iran War: How America, Israel and Iran Got Here](#33-3-the-iran-war-how-america-israel-and-iran-got-here)
+  - [3.4. AI Coding is Gambling](#34-ai-coding-is-gambling)
+  - [3.5. AI Coding is Gambling](#35-ai-coding-is-gambling)
+  - [3.6. AI Coding is Gambling](#36-ai-coding-is-gambling)
+  - [3.7. (3) we're so back - YouTube](#37-3-were-so-back---youtube)
+  - [3.8. Opinion](#38-opinion)
+  - [3.9.](#39)
+  - [3.10. Thoughts on slowing the fuck down | Mario Zechner](#310-thoughts-on-slowing-the-fuck-down--mario-zechner)
+  - [3.11. Rome's Greatest Enemy Part 3 - Bloodbath in Africa](#311-romes-greatest-enemy-part-3---bloodbath-in-africa)
+- [4. APR-2025](#4-apr-2025)
+  - [4.1. JFK: The Road to the White House (Part 1) - The Rest is History](#41-jfk-the-road-to-the-white-house-part-1---the-rest-is-history)
 
 <!-- /TOC -->
 
@@ -135,47 +140,54 @@ The adaptation strategy is to use new technology as an enabler or doing things p
 * <https://www.marginalia.nu/log/a_132_ai_bores/>
 exactly
 
-#### The AI Vampire. This was an unusually hard post to… 
+### 3. MAR-2025
+#### 3.1. The AI Vampire. This was an unusually hard post to… 
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
 On the dark side of Agentic Engineering, it being too exhausting. But is not everything in the amorophous/berserk mode?
 
-#### How I Use Claude Code 
+#### 3.2. How I Use Claude Code 
 * <https://boristane.com/blog/how-i-use-claude-code/>
 A bit waterfall-y, but better than berserk. Waiting for AIAgile.
 
-#### (3) The Iran War: How America, Israel and Iran Got Here 
+#### 3.3. (3) The Iran War: How America, Israel and Iran Got Here 
 * <https://www.youtube.com/watch?v=IKWMrpQOh7Y>
 Good, sobering, not as deep into Islam as The rest is history series on Iranian revolution from early this year but awesome.
 
-#### AI Coding is Gambling 
+#### 3.4. AI Coding is Gambling 
 * <https://notes.visaint.space/ai-coding-is-gambling/>
 
-#### AI Coding is Gambling 
+#### 3.5. AI Coding is Gambling 
 * <https://notes.visaint.space/ai-coding-is-gambling/>
 
-#### AI Coding is Gambling 
+#### 3.6. AI Coding is Gambling 
 * <https://notes.visaint.space/ai-coding-is-gambling/>
 Kent Beck said the same in Pragmatic Engineering pod in Summer 2025.
 
-#### (3) we're so back - YouTube
+#### 3.7. (3) we're so back - YouTube
 * <https://www.youtube.com/watch?v=5DP0az1q_8M>
 Mitchel Hashimoto's wowed by latest Codex - another 'its so over' moment and Primes skepticism. We shall see said the zenmaster.
 
-#### Opinion 
+#### 3.8. Opinion 
 * <https://archive.is/r9Dkt>
 As-of-now, the most essential piece on the impact of AI on the quality of mind
 
-#### 
+#### 3.9. 
 * <https://benn.substack.com/p/compacting>
 
-#### Thoughts on slowing the fuck down | Mario Zechner
+#### 3.10. Thoughts on slowing the fuck down | Mario Zechner
 * <https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/>
  * AI agents create compounding complexity without friction; slow down, keep humans in the loop
 
-#### Rome's Greatest Enemy Part 3 - Bloodbath in Africa
+#### 3.11. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
 
-#### 392. JFK: The Road to the White House (Part 1) - The Rest is History
+### 4. APR-2025
+
+#### 4.1. JFK: The Road to the White House (Part 1) - The Rest is History
 * <https://www.youtube.com/watch?v=gb5M3ax9cxg>
  * JFK's Irish-Catholic origins, Joe Kennedy Sr., PT-109 heroism, health struggles, rise to politics
+
+#### How the KKK Turned the South Into a Terror State - The Rest Is History
+* <https://www.youtube.com/watch?v=hpPkpTc5xJs>
+ * Rest Is History KKK pt.2: voter suppression, Colfax massacre, Compromise of 1877, Birth of a Nation
