@@ -191,3 +191,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### How the KKK Turned the South Into a Terror State - The Rest Is History
 * <https://www.youtube.com/watch?v=hpPkpTc5xJs>
  * Rest Is History KKK pt.2: voter suppression, Colfax massacre, Compromise of 1877, Birth of a Nation
+
+#### Is Iran Winning? - The Ezra Klein Show
+* <https://www.youtube.com/watch?v=nUhi5b8aj7U>
+ * Suzanne Maloney on Iran's time strategy, Hormuz toll booth, failed decapitation, no Plan C
