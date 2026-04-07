@@ -195,3 +195,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Is Iran Winning? - The Ezra Klein Show
 * <https://www.youtube.com/watch?v=nUhi5b8aj7U>
  * Suzanne Maloney on Iran's time strategy, Hormuz toll booth, failed decapitation, no Plan C
+
+#### The machines are fine. I'm worried about us. - Minas Karamanis
+* <https://ergosphere.blog/posts/the-machines-are-fine/>
+ * AI tool-use vs cognitive outsourcing, Alice vs Bob, Schwartz experiment, Dune quote
