@@ -199,3 +199,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### The machines are fine. I'm worried about us. - Minas Karamanis
 * <https://ergosphere.blog/posts/the-machines-are-fine/>
  * AI tool-use vs cognitive outsourcing, Alice vs Bob, Schwartz experiment, Dune quote
+
+#### ClickHouse v26.3 Release Webinar
+* <https://www.youtube.com/watch?v=_bY0ucNB1lQ>
+ * ClickHouse 26.3 LTS: materialized CTEs, sharded maps, WASM UDFs, 31 SQL dialects, async inserts default, ALP codec, data lake 40-100x speedup, chDB v4 zero-copy pandas
