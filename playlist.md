@@ -203,3 +203,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### ClickHouse v26.3 Release Webinar
 * <https://www.youtube.com/watch?v=_bY0ucNB1lQ>
  * ClickHouse 26.3 LTS: materialized CTEs, sharded maps, WASM UDFs, 31 SQL dialects, async inserts default, ALP codec, data lake 40-100x speedup, chDB v4 zero-copy pandas
+
+#### The Future of Everything is Lies, I Guess (Aphyr)
+* <https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess>
+ * Kyle Kingsbury (Jepsen) on LLMs: improv machines, jagged competence frontier, bullshit with confidence
