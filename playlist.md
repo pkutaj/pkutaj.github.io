@@ -211,3 +211,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Anna Gát: Review of The Drama (film)
 * <https://x.com/TheAnnaGat/status/2041911589851345080>
  * Kierkegaard meets American self-creation: love begins where social roles end
+
+#### An Unfinished Life: JFK biography (Robert Dallek)
+* <https://en.wikipedia.org/wiki/An_Unfinished_Life:_John_F._Kennedy,_1917%E2%80%931963>
+ * Dallek's biography — first access to sealed medical records, PT-109, Cuban Missile Crisis
