@@ -207,3 +207,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### The Future of Everything is Lies, I Guess (Aphyr)
 * <https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess>
  * Kyle Kingsbury (Jepsen) on LLMs: improv machines, jagged competence frontier, bullshit with confidence
+
+#### Anna Gát: Review of The Drama (film)
+* <https://x.com/TheAnnaGat/status/2041911589851345080>
+ * Kierkegaard meets American self-creation: love begins where social roles end
