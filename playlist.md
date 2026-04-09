@@ -215,3 +215,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### An Unfinished Life: JFK biography (Robert Dallek)
 * <https://en.wikipedia.org/wiki/An_Unfinished_Life:_John_F._Kennedy,_1917%E2%80%931963>
  * Dallek's biography — first access to sealed medical records, PT-109, Cuban Missile Crisis
+
+#### Martin Fowler & Kent Beck: Frameworks for Reinventing
+* <https://www.youtube.com/watch?v=CZs8J1ZD0CE>
+ * TDD more valuable in AI age, skepticism about skepticism, craft shift from code perfection to domain understanding
