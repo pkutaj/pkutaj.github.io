@@ -219,3 +219,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Martin Fowler & Kent Beck: Frameworks for Reinventing
 * <https://www.youtube.com/watch?v=CZs8J1ZD0CE>
  * TDD more valuable in AI age, skepticism about skepticism, craft shift from code perfection to domain understanding
+
+#### SQLite in Production: Lessons from Running a Store on a Single File
+* <https://ultrathink.art/blog/sqlite-in-production-lessons>
+ * Rails 8 + SQLite WAL on Docker, lost orders during blue-green deploy, file lock limits
