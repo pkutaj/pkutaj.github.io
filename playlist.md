@@ -16,22 +16,22 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [1.2. I Program on the Subway](#12-i-program-on-the-subway)
   - [1.3. Understanding Query Execution with the Analyzer](#13-understanding-query-execution-with-the-analyzer)
   - [1.4. Your Supabase Is Public](#14-your-supabase-is-public)
-  - [1.5. Creator of Go Crashes out - YouTube](#15-creator-of-go-crashes-out---youtube)
+  - [1.5. Creator of Go Crashes out - YouTube](#15-creator-of-go-crashes-out-youtube)
   - [1.6. Legendary Game Dev Jonathan Blow](#16-legendary-game-dev-jonathan-blow)
   - [1.7. Assorted less(1) tips](#17-assorted-less1-tips)
-  - [1.8. Be Wary of Digital Deskilling - Cal Newport](#18-be-wary-of-digital-deskilling---cal-newport)
+  - [1.8. Be Wary of Digital Deskilling - Cal Newport](#18-be-wary-of-digital-deskilling-cal-newport)
   - [1.9. I'm addicted to being useful](#19-im-addicted-to-being-useful)
   - [1.10. How I estimate work as a staff software engineer](#110-how-i-estimate-work-as-a-staff-software-engineer)
-  - [1.11. Introduction to PostgreSQL Indexes ::](#111-introduction-to-postgresql-indexes-)
-  - [1.12. Bridges - by Kent Beck - Software Design: Tidy First?](#112-bridges---by-kent-beck---software-design-tidy-first)
+  - [1.11. Introduction to PostgreSQL Indexes ::](#111-introduction-to-postgresql-indexes)
+  - [1.12. Bridges - by Kent Beck - Software Design: Tidy First?](#112-bridges-by-kent-beck-software-design-tidy-first)
 - [2. FEB-2025](#2-feb-2025)
   - [2.1. Opinion](#21-opinion)
-  - [2.2. A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev – Somehow Manage](#22-a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev--somehow-manage)
+  - [2.2. A Step Behind the Bleeding Edge: Monarch’s Philosophy on AI in Dev – Somehow Manage](#22-a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev-somehow-manage)
   - [2.3. The future of software engineering is SRE](#23-the-future-of-software-engineering-is-sre)
-  - [2.4. Generative AI and Wikipedia editing: What we learned in 2025 – Wiki Education](#24-generative-ai-and-wikipedia-editing-what-we-learned-in-2025--wiki-education)
-  - [2.5. The gentle obsolescence - by Benn Stancil - benn.substack](#25-the-gentle-obsolescence---by-benn-stancil---bennsubstack)
+  - [2.4. Generative AI and Wikipedia editing: What we learned in 2025 – Wiki Education](#24-generative-ai-and-wikipedia-editing-what-we-learned-in-2025-wiki-education)
+  - [2.5. The gentle obsolescence - by Benn Stancil - benn.substack](#25-the-gentle-obsolescence-by-benn-stancil-bennsubstack)
   - [2.6. When internal hostnames are leaked to the clown](#26-when-internal-hostnames-are-leaked-to-the-clown)
-  - [2.7. (AI) Slop Terrifies Me – ezhik.jp](#27-ai-slop-terrifies-me--ezhikjp)
+  - [2.7. (AI) Slop Terrifies Me – ezhik.jp](#27-ai-slop-terrifies-me-ezhikjp)
   - [2.8. I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed](#28-i-started-programming-when-i-was-7-im-50-now-and-the-thing-i-loved-has-changed)
   - [2.9. Your Job Isn't Disappearing. It's Shrinking Around You in Real Time](#29-your-job-isnt-disappearing-its-shrinking-around-you-in-real-time)
   - [2.10. AI makes you boring](#210-ai-makes-you-boring)
@@ -40,16 +40,24 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [3.2. How I Use Claude Code](#32-how-i-use-claude-code)
   - [3.3. (3) The Iran War: How America, Israel and Iran Got Here](#33-3-the-iran-war-how-america-israel-and-iran-got-here)
   - [3.4. AI Coding is Gambling](#34-ai-coding-is-gambling)
-  - [3.5. AI Coding is Gambling](#35-ai-coding-is-gambling)
-  - [3.6. AI Coding is Gambling](#36-ai-coding-is-gambling)
-  - [3.7. (3) we're so back - YouTube](#37-3-were-so-back---youtube)
-  - [3.8. Opinion](#38-opinion)
-  - [3.9.](#39)
-  - [3.10. Thoughts on slowing the fuck down | Mario Zechner](#310-thoughts-on-slowing-the-fuck-down--mario-zechner)
-  - [3.11. Rome's Greatest Enemy Part 3 - Bloodbath in Africa](#311-romes-greatest-enemy-part-3---bloodbath-in-africa)
+  - [3.5. (3) we're so back - YouTube](#35-3-were-so-back-youtube)
+  - [3.6. Opinion](#36-opinion)
+  - [3.7. Compacting - by Benn Stancil](#37-compacting-by-benn-stancil)
+  - [3.8. Thoughts on slowing the fuck down | Mario Zechner](#38-thoughts-on-slowing-the-fuck-down-mario-zechner)
+  - [3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa](#39-romes-greatest-enemy-part-3-bloodbath-in-africa)
 - [4. APR-2025](#4-apr-2025)
-  - [4.1. JFK: The Road to the White House (Part 1) - The Rest is History](#41-jfk-the-road-to-the-white-house-part-1---the-rest-is-history)
-
+  - [4.1. JFK: The Road to the White House (Part 1) - The Rest is History](#41-jfk-the-road-to-the-white-house-part-1-the-rest-is-history)
+  - [4.2. How the KKK Turned the South Into a Terror State - The Rest Is History](#42-how-the-kkk-turned-the-south-into-a-terror-state-the-rest-is-history)
+  - [4.3. Is Iran Winning? - The Ezra Klein Show](#43-is-iran-winning-the-ezra-klein-show)
+  - [4.4. The machines are fine. I'm worried about us. - Minas Karamanis](#44-the-machines-are-fine-im-worried-about-us-minas-karamanis)
+  - [4.5. ClickHouse v26.3 Release Webinar](#45-clickhouse-v263-release-webinar)
+  - [4.6. The Future of Everything is Lies, I Guess (Aphyr)](#46-the-future-of-everything-is-lies-i-guess-aphyr)
+  - [4.7. Anna Gát: Review of The Drama (film)](#47-anna-gát-review-of-the-drama-film)
+  - [4.8. An Unfinished Life: JFK biography (Robert Dallek)](#48-an-unfinished-life-jfk-biography-robert-dallek)
+  - [4.9. Martin Fowler & Kent Beck: Frameworks for Reinventing](#49-martin-fowler-kent-beck-frameworks-for-reinventing)
+  - [4.10. SQLite in Production: Lessons from Running a Store on a Single File](#410-sqlite-in-production-lessons-from-running-a-store-on-a-single-file)
+  - [4.11. Punch-Drunk Love - Wikipedia](#411-punch-drunk-love-wikipedia)
+  - [4.12. DHH's new way of writing code](#412-dhhs-new-way-of-writing-code)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -58,11 +66,11 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 * <https://ploum.net/2025-12-19-prepare-for-that-world.html>
 > normalising the fact that "even if it is completely stupid, AI will be everywhere, get used to it!"
 
-#### 1.2. I Program on the Subway 
+#### 1.2. I Program on the Subway
 * <https://www.scd31.com/posts/programming-on-the-subway>
 Creative use of time. Like Ryan Holiday's suggestion to be extremely careful about interstinial/do-nothing time.
 
-#### 1.3. Understanding Query Execution with the Analyzer 
+#### 1.3. Understanding Query Execution with the Analyzer
 * <https://clickhouse.com/docs/guides/developer/understanding-query-execution-with-the-analyzer>
 Something I'm learning by heart these days. Combining with https://roundup.getdbt.com/p/the-evolution-of-databases-w-wolfram
 
@@ -73,11 +81,11 @@ Something I'm learning by heart these days. Combining with https://roundup.getdb
 * <https://www.youtube.com/watch?v=C9i3VTFxd_Q>
 Prime's contrarian take. +1
 
-#### 1.6. Legendary Game Dev Jonathan Blow 
+#### 1.6. Legendary Game Dev Jonathan Blow
 * <https://www.youtube.com/watch?v=vHfdUqLmPNU>
 The only reasons why games may ever be interesting again and this is because of rants in The Future of Code podcast.
 
-#### 1.7. Assorted less(1) tips 
+#### 1.7. Assorted less(1) tips
 * <https://news.ycombinator.com/item?id=46464120>
 Learning less!
 
@@ -101,7 +109,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 important
 
 ### 2. FEB-2025
-#### 2.1. Opinion 
+#### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
 Great analysis!
 
@@ -109,7 +117,7 @@ Great analysis!
 * <https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/>
 Looking at what a quick smartphone adoption done to the genZ, I'm not adopting AI too quickly. Only where it sharpens the old skills.
 
-#### 2.3. The future of software engineering is SRE 
+#### 2.3. The future of software engineering is SRE
 * <https://swizec.com/blog/the-future-of-software-engineering-is-sre/?utm_source=changelog-news>
 robustness, robustness, robustness
 
@@ -128,7 +136,7 @@ Interesting re-framimg and trashing the "Intern" frame around AI. Timely?
 * <https://ezhik.jp/ai-slop-terrifies-me/>
 A series of journey(code) enthusiasts accepting the end of engineering as we knew it since the birth of hFortran. This is the end, beautiful friend.
 
-#### 2.8. I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed 
+#### 2.8. I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed
 * <https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/>
 Another in the series of mourning/grieving and ACCEPTING the end of death of coding as the essence of software engineering. New chapter's here. Death deserves grief.
 
@@ -136,49 +144,42 @@ Another in the series of mourning/grieving and ACCEPTING the end of death of cod
 * <https://newsletter.jantegze.com/p/your-job-isnt-disappearing-its-shrinking>
 The adaptation strategy is to use new technology as an enabler or doing things previously unforeseen. Not fight it. Not learn it. Kind of "Gas Town" move? Still, it's too amorphous to spend time with, in my opinion. Rather, read the structure of scientific revolution by TS Kuhn again and other histories of technologicial revolutions. This is not the first time, it's going to rhyme.
 
-#### 2.10. AI makes you boring 
+#### 2.10. AI makes you boring
 * <https://www.marginalia.nu/log/a_132_ai_bores/>
 exactly
 
 ### 3. MAR-2025
-#### 3.1. The AI Vampire. This was an unusually hard post to… 
+#### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
 On the dark side of Agentic Engineering, it being too exhausting. But is not everything in the amorophous/berserk mode?
 
-#### 3.2. How I Use Claude Code 
+#### 3.2. How I Use Claude Code
 * <https://boristane.com/blog/how-i-use-claude-code/>
 A bit waterfall-y, but better than berserk. Waiting for AIAgile.
 
-#### 3.3. (3) The Iran War: How America, Israel and Iran Got Here 
+#### 3.3. (3) The Iran War: How America, Israel and Iran Got Here
 * <https://www.youtube.com/watch?v=IKWMrpQOh7Y>
 Good, sobering, not as deep into Islam as The rest is history series on Iranian revolution from early this year but awesome.
 
-#### 3.4. AI Coding is Gambling 
+#### 3.4. AI Coding is Gambling
 * <https://notes.visaint.space/ai-coding-is-gambling/>
 
-#### 3.5. AI Coding is Gambling 
-* <https://notes.visaint.space/ai-coding-is-gambling/>
-
-#### 3.6. AI Coding is Gambling 
-* <https://notes.visaint.space/ai-coding-is-gambling/>
-Kent Beck said the same in Pragmatic Engineering pod in Summer 2025.
-
-#### 3.7. (3) we're so back - YouTube
+#### 3.5. (3) we're so back - YouTube
 * <https://www.youtube.com/watch?v=5DP0az1q_8M>
 Mitchel Hashimoto's wowed by latest Codex - another 'its so over' moment and Primes skepticism. We shall see said the zenmaster.
 
-#### 3.8. Opinion 
+#### 3.6. Opinion
 * <https://archive.is/r9Dkt>
 As-of-now, the most essential piece on the impact of AI on the quality of mind
 
-#### 3.9. 
+#### 3.7. Compacting - by Benn Stancil
 * <https://benn.substack.com/p/compacting>
 
-#### 3.10. Thoughts on slowing the fuck down | Mario Zechner
+#### 3.8. Thoughts on slowing the fuck down | Mario Zechner
 * <https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/>
  * AI agents create compounding complexity without friction; slow down, keep humans in the loop
 
-#### 3.11. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
+#### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
 
@@ -188,50 +189,47 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=gb5M3ax9cxg>
  * JFK's Irish-Catholic origins, Joe Kennedy Sr., PT-109 heroism, health struggles, rise to politics
 
-#### How the KKK Turned the South Into a Terror State - The Rest Is History
+#### 4.2. How the KKK Turned the South Into a Terror State - The Rest Is History
 * <https://www.youtube.com/watch?v=hpPkpTc5xJs>
  * Rest Is History KKK pt.2: voter suppression, Colfax massacre, Compromise of 1877, Birth of a Nation
 
-#### Is Iran Winning? - The Ezra Klein Show
+#### 4.3. Is Iran Winning? - The Ezra Klein Show
 * <https://www.youtube.com/watch?v=nUhi5b8aj7U>
  * Suzanne Maloney on Iran's time strategy, Hormuz toll booth, failed decapitation, no Plan C
 
-#### The machines are fine. I'm worried about us. - Minas Karamanis
+#### 4.4. The machines are fine. I'm worried about us. - Minas Karamanis
 * <https://ergosphere.blog/posts/the-machines-are-fine/>
  * AI tool-use vs cognitive outsourcing, Alice vs Bob, Schwartz experiment, Dune quote
 
-#### ClickHouse v26.3 Release Webinar
+#### 4.5. ClickHouse v26.3 Release Webinar
 * <https://www.youtube.com/watch?v=_bY0ucNB1lQ>
  * ClickHouse 26.3 LTS: materialized CTEs, sharded maps, WASM UDFs, 31 SQL dialects, async inserts default, ALP codec, data lake 40-100x speedup, chDB v4 zero-copy pandas
 
-#### The Future of Everything is Lies, I Guess (Aphyr)
+#### 4.6. The Future of Everything is Lies, I Guess (Aphyr)
 * <https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess>
  * Kyle Kingsbury (Jepsen) on LLMs: improv machines, jagged competence frontier, bullshit with confidence
 
-#### Anna Gát: Review of The Drama (film)
+#### 4.7. Anna Gát: Review of The Drama (film)
 * <https://x.com/TheAnnaGat/status/2041911589851345080>
  * Kierkegaard meets American self-creation: love begins where social roles end
 
-#### An Unfinished Life: JFK biography (Robert Dallek)
+#### 4.8. An Unfinished Life: JFK biography (Robert Dallek)
 * <https://en.wikipedia.org/wiki/An_Unfinished_Life:_John_F._Kennedy,_1917%E2%80%931963>
  * Dallek's biography — first access to sealed medical records, PT-109, Cuban Missile Crisis
 
-#### Martin Fowler & Kent Beck: Frameworks for Reinventing
+#### 4.9. Martin Fowler & Kent Beck: Frameworks for Reinventing
 * <https://www.youtube.com/watch?v=CZs8J1ZD0CE>
  * TDD more valuable in AI age, skepticism about skepticism, craft shift from code perfection to domain understanding
 
-#### SQLite in Production: Lessons from Running a Store on a Single File
+#### 4.10. SQLite in Production: Lessons from Running a Store on a Single File
 * <https://ultrathink.art/blog/sqlite-in-production-lessons>
  * Rails 8 + SQLite WAL on Docker, lost orders during blue-green deploy, file lock limits
 
-#### Punch-Drunk Love - Wikipedia
+#### 4.11. Punch-Drunk Love - Wikipedia
 * <https://en.wikipedia.org/wiki/Punch-Drunk_Love>
  * PTA's 2002 absurdist romance, Tati + musical influences, Sandler's dramatic turn
 
-#### DHH's new way of writing code
+#### 4.12. DHH's new way of writing code
 * <https://www.youtube.com/watch?v=JiWgKRgdgpI>
  * agent-first workflow, aesthetics is truth, peak programmer, centaur mode is transitional
 
-#### SQLite in Production: Lessons from Running a Store on a Single File
-* <https://ultrathink.art/blog/sqlite-in-production-lessons>
- * SQLite WAL in Rails 8, lost orders from blue-green deploy contention, when to switch to Postgres
