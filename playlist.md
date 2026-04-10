@@ -227,3 +227,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Punch-Drunk Love - Wikipedia
 * <https://en.wikipedia.org/wiki/Punch-Drunk_Love>
  * PTA's 2002 absurdist romance, Tati + musical influences, Sandler's dramatic turn
+
+#### DHH's new way of writing code
+* <https://www.youtube.com/watch?v=JiWgKRgdgpI>
+ * agent-first workflow, aesthetics is truth, peak programmer, centaur mode is transitional
