@@ -231,3 +231,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### DHH's new way of writing code
 * <https://www.youtube.com/watch?v=JiWgKRgdgpI>
  * agent-first workflow, aesthetics is truth, peak programmer, centaur mode is transitional
+
+#### SQLite in Production: Lessons from Running a Store on a Single File
+* <https://ultrathink.art/blog/sqlite-in-production-lessons>
+ * SQLite WAL in Rails 8, lost orders from blue-green deploy contention, when to switch to Postgres
