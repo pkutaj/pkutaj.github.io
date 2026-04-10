@@ -223,3 +223,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### SQLite in Production: Lessons from Running a Store on a Single File
 * <https://ultrathink.art/blog/sqlite-in-production-lessons>
  * Rails 8 + SQLite WAL on Docker, lost orders during blue-green deploy, file lock limits
+
+#### Punch-Drunk Love - Wikipedia
+* <https://en.wikipedia.org/wiki/Punch-Drunk_Love>
+ * PTA's 2002 absurdist romance, Tati + musical influences, Sandler's dramatic turn
