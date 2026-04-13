@@ -59,6 +59,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.11. Punch-Drunk Love - Wikipedia](#411-punch-drunk-love-wikipedia)
   - [4.12. DHH's new way of writing code](#412-dhhs-new-way-of-writing-code)
   - [4.13. I Still Prefer MCP Over Skills | David Mohl](#413-i-still-prefer-mcp-over-skills-david-mohl)
+  - [4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr](#414-the-future-of-everything-is-lies-i-guess-culture-aphyr)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -238,3 +239,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.13. I Still Prefer MCP Over Skills | David Mohl
 * <https://david.coffee/i-still-prefer-mcp-over-skills/>
  * MCP as API abstraction vs Skills as CLI wrappers; hybrid: Skills as cheat sheets atop MCP connectors
+
+#### 4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr
+* <https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture>
+ * Aphyr on how LLMs reshape culture — missing mythologies, new AI aesthetics, corporate content arbitration
