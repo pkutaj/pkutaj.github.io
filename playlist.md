@@ -64,6 +64,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.16. The Future of Everything is Lies, I Guess: Annoyances | Aphyr](#416-the-future-of-everything-is-lies-i-guess-annoyances-aphyr)
   - [4.17. Blowback S1E00: Iraqnophobia feat. H. Jon Benjamin](#417-blowback-s1e00-iraqnophobia-feat-h-jon-benjamin)
   - [4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)](#418-the-moral-cost-of-trumps-war-the-ezra-klein-show-w-fareed-zakaria)
+  - [4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)](#419-ids03-database-storage-files-pages-andy-pavlo-cmu)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -263,3 +264,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)
 * <https://www.youtube.com/watch?v=b5hU0VHM1-M>
   * Fareed Zakaria on Trump's Iran war, predatory hegemony, and liberalism's exhaustion
+
+#### 4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)
+* <https://www.youtube.com/watch?v=dSxV5Sob5V8>
+  * Storage hierarchy, heap files, slotted pages, Neon flash talk (Heikki Linnakangas)
