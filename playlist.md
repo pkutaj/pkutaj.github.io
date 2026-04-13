@@ -58,6 +58,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.10. SQLite in Production: Lessons from Running a Store on a Single File](#410-sqlite-in-production-lessons-from-running-a-store-on-a-single-file)
   - [4.11. Punch-Drunk Love - Wikipedia](#411-punch-drunk-love-wikipedia)
   - [4.12. DHH's new way of writing code](#412-dhhs-new-way-of-writing-code)
+  - [4.13. I Still Prefer MCP Over Skills | David Mohl](#413-i-still-prefer-mcp-over-skills-david-mohl)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -233,3 +234,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=JiWgKRgdgpI>
  * agent-first workflow, aesthetics is truth, peak programmer, centaur mode is transitional
 
+
+#### 4.13. I Still Prefer MCP Over Skills | David Mohl
+* <https://david.coffee/i-still-prefer-mcp-over-skills/>
+ * MCP as API abstraction vs Skills as CLI wrappers; hybrid: Skills as cheat sheets atop MCP connectors
