@@ -62,6 +62,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr](#414-the-future-of-everything-is-lies-i-guess-culture-aphyr)
   - [4.15. The Future of Everything is Lies, I Guess: Information Ecology | Aphyr](#415-the-future-of-everything-is-lies-i-guess-information-ecology-aphyr)
   - [4.16. The Future of Everything is Lies, I Guess: Annoyances | Aphyr](#416-the-future-of-everything-is-lies-i-guess-annoyances-aphyr)
+  - [4.17. Blowback S1E00: Iraqnophobia feat. H. Jon Benjamin](#417-blowback-s1e00-iraqnophobia-feat-h-jon-benjamin)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -253,3 +254,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.16. The Future of Everything is Lies, I Guess: Annoyances | Aphyr
 * <https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances>
  * Aphyr on LLM customer service erosion — replacing humans with unreliable chatbots, cognitive atrophy
+
+#### 4.17. Blowback S1E00: Iraqnophobia feat. H. Jon Benjamin
+* <https://youtu.be/3mpyfw-RySg>
+ * Blowback podcast S1 intro — Iraq War counter-history, cast of characters, cultural amnesia thesis
