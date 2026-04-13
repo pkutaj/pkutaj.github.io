@@ -60,6 +60,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.12. DHH's new way of writing code](#412-dhhs-new-way-of-writing-code)
   - [4.13. I Still Prefer MCP Over Skills | David Mohl](#413-i-still-prefer-mcp-over-skills-david-mohl)
   - [4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr](#414-the-future-of-everything-is-lies-i-guess-culture-aphyr)
+  - [4.15. The Future of Everything is Lies, I Guess: Information Ecology | Aphyr](#415-the-future-of-everything-is-lies-i-guess-information-ecology-aphyr)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -243,3 +244,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr
 * <https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture>
  * Aphyr on how LLMs reshape culture — missing mythologies, new AI aesthetics, corporate content arbitration
+
+#### 4.15. The Future of Everything is Lies, I Guess: Information Ecology | Aphyr
+* <https://aphyr.com/posts/414-the-future-of-everything-is-lies-i-guess-information-ecology>
+ * Aphyr on LLM-driven trust erosion — web pollution, spam economics, propaganda at scale, democratic consensus collapse
