@@ -65,6 +65,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.17. Blowback S1E00: Iraqnophobia feat. H. Jon Benjamin](#417-blowback-s1e00-iraqnophobia-feat-h-jon-benjamin)
   - [4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)](#418-the-moral-cost-of-trumps-war-the-ezra-klein-show-w-fareed-zakaria)
   - [4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)](#419-ids03-database-storage-files-pages-andy-pavlo-cmu)
+  - [4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -268,3 +269,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)
 * <https://www.youtube.com/watch?v=dSxV5Sob5V8>
   * Storage hierarchy, heap files, slotted pages, Neon flash talk (Heikki Linnakangas)
+
+#### 4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao
+* <https://www.youtube.com/watch?v=bnYQe2wcNSQ>
+ * ClickPipes internals: no Debezium/Kafka — S3 buffer + Temporal orchestration + ReplacingMergeTree dedup, CTID-based parallel snapshots, error classification system
