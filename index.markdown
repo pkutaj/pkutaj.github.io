@@ -2,27 +2,26 @@
 layout: home
 ---
 
- | **PAVOL KUTAJ** | _10+ years as Senior Support Engineer_                   |
+ | **PAVOL KUTAJ** | _10+ Years as Support Engineer with M.A. in Modern History_ |
  |-----------------|----------------------------------------------------------|
  | phone:          | +420702152552                                            |
- | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)             |
+ | email:          | [pkutaj@gmail.com](mailto:pkutaj@gmail.com)              |
  | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)               |
  | blog:           | [medium.com/@pavolkutaj](https://medium.com/@pavolkutaj) |
- | location:       | Brno, Czech Republic (working 100 % remotely)            |
+ | location:       | Brno, Czech Republic (working 100% remotely)             |
 
 ### NOW (Q2/2026)
-* Got seniority after a year, as appreciation for building Grafana for Support
-* Continuing working on observability
+* Continuing working on observability and Grafana
 * Leading AI adoption within the team
 
 ### EXPERIENCE
-#### Clickhouse Senior Support Entineer
-* Clickhouse
+#### ClickHouse Senior Support Engineer
+* ClickHouse
 * 2025-ongoing
 
-#### Senior Support Engineer
+#### Snowplow Analytics Senior Support Engineer
 * Snowplow Analytics
-* 2020-2035
+* 2020-2025
 
 #### .NET & Powershell Senior Support Engineer; KB quality assurance
 * Avolin, Pivotal CRM
@@ -55,7 +54,7 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * Czech C2
 * German C1 certified, currently not used
  
-#### Programming languagues sorted by usage
+#### Programming languages sorted by usage
 * SQL
 * Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Python
