@@ -68,6 +68,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.20. Monster SCALE Summit 2026 — Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
   - [4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal](#421-the-rest-is-politics-ep18-iran-war-the-art-of-the-no-deal)
   - [4.22. Do You Even Need a Database? — DB Pro Blog](#422-do-you-even-need-a-database-db-pro-blog)
+  - [4.23. The Forever War — Dexter Filkins (Afghanistan 1998, Taliban, Northern Alliance)](#423-the-forever-war-dexter-filkins-afghanistan-1998-taliban-northern-alliance)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -283,3 +284,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.22. Do You Even Need a Database? — DB Pro Blog
 * <https://www.dbpro.app/blog/do-you-even-need-a-database>
  * FS vs DB: ACID gap (only D, and shaky), Greenspun's 10th rule for databases, concurrency myth
+
+#### 4.23. The Forever War — Dexter Filkins (Afghanistan 1998, Taliban, Northern Alliance)
+* <https://en.wikipedia.org/wiki/The_Forever_War_(Filkins_book)>
+ * Filkins' ground-level account of US wars, Taliban origin myth, Massoud, Afghanistan 1998, Forever War vs Permawar
