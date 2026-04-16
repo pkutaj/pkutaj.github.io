@@ -2,7 +2,7 @@
 layout: home
 ---
 
- | **PAVOL KUTAJ** | _Senior Support Engineer_                     |
+ | **PAVOL KUTAJ** | _10+ years as Senior Support Engineer_        |
  |-----------------|-----------------------------------------------|
  | phone:          | +420702152552                                 |
  | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)  |
@@ -40,20 +40,6 @@ layout: home
 * Infosys BPO
 * 2012-2015
 
-### WEB DEV SIDE PROJECTS
-
-Tool       | Name    | Description                         | URL
------------|---------|-------------------------------------|-----------------------------------------------------------------------
-Python     | jirc    | Create a **jir**a **c**ard from CLI | [https://github.com/pkutaj/jirc](https://github.com/pkutaj/jirc)
-Powershell | mv      | Personal History of Software        | [https://github.com/pkutaj/mv](https://github.com/pkutaj/mv)
-Powershell | z4v     | Zettelkasten 4 VSCode               | [https://github.com/pkutaj/z4v](https://github.com/pkutaj/z4v)
-Python     | md2med  | Markdown → Medium publisher         | [https://github.com/pkutaj/md2med](https://github.com/pkutaj/md2med)
-Powershell | kronCLI | CLI markdown Journal                | [https://github.com/pkutaj/kronCLI](https://github.com/pkutaj/kronCLI)
-Drupal     | website | Corporate IT department             | [http://gitc.heidelbegcement.com](http://gitc.heidelbegcement.com)
-Wordpress  | website | Venetian Glass Art                  | [http://syin.eu](http://syin.eu)
-Wordpress  | website | Dermatologist                       | [http://iderma.cz](http://iderma.cz)
-Wordpress  | website | Psychotherapeutic Association       | [http://csgt.cz](http://csgt.cz)
-
 ### EDUCATION 
 
 Charles University                 | Central European University
@@ -70,12 +56,13 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * German C1 certified, currently not used
  
 #### Programming languagues sorted by usage
+* SQL
+* Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Python
 * Bash
-* SQL
+* Lua (Neovim)
 * JQ
 * Powershell
-* Markdown ([is a programming language!](https://dev.to/dendron/vscode-markdown-edition-e73))
 * Mermaid
 * Regex 
 * Javascript/Node.js
@@ -84,21 +71,15 @@ B.A. degree; graduated with honors | M.A. degree; graduated with honors
 * C# 
 
 #### Tools and Frameworks
-* Vim
+* Neovim <3
+* ClickHouse Certified Developer
+* Grafana Subject Matter Expert within ClickHouse Support
+* Claude Code
 * Kubernetes
 * Docker
 * Snowflake
 * AWS/GCP Services
-* Advanced Grafana dashboard building
-* Advanced git + GitHub (actions, too)
-* VBA Scripting + advanced Excel <3
-* Visual Studio Code
 * Hashicorp Infrastructure as Code (Terraform; Consul)
-* Chrome & Firefox Developer Tool Debugging
-* Atlassian stack (Jira, Confluence, OpsGenie) + Zendesk
-* Windows debugging (Sysinternal Tools)
-* WordPress and Drupal theming
-* Google Apps Engine, Google Apps Script
-* Node.js
- 
+... 
+* In the old days, VBA Scripting + to this day advanced Excel <3
  
