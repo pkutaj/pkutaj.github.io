@@ -67,6 +67,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)](#419-ids03-database-storage-files-pages-andy-pavlo-cmu)
   - [4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
   - [4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal](#421-the-rest-is-politics-ep18-iran-war-the-art-of-the-no-deal)
+  - [4.22. Do You Even Need a Database? — DB Pro Blog](#422-do-you-even-need-a-database-db-pro-blog)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -278,3 +279,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal
 * <https://www.youtube.com/watch?v=eoP-oHVTWrs>
  * Campbell & Stewart on Trump/Vance blowing up Iran negotiations after 21 hours vs Oslo (9mo), Dayton (5mo), Good Friday (22mo), JCPOA (10yr)
+
+#### 4.22. Do You Even Need a Database? — DB Pro Blog
+* <https://www.dbpro.app/blog/do-you-even-need-a-database>
+ * FS vs DB: ACID gap (only D, and shaky), Greenspun's 10th rule for databases, concurrency myth
