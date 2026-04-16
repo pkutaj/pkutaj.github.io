@@ -15,11 +15,11 @@ layout: home
 * Leading AI adoption within the team
 
 ### EXPERIENCE
-#### ClickHouse Senior Support Engineer
+#### ClickHouse Senior Support Engineer; Grafana dashboard owner, AI adoption accelerator
 * ClickHouse
 * 2025-ongoing
 
-#### Snowplow Analytics Senior Support Engineer
+#### Snowplow Analytics Senior Support Engineer; KB creator/owner and mentor
 * Snowplow Analytics
 * 2020-2025
 
@@ -35,7 +35,7 @@ layout: home
 * HeidelbergCement Group
 * 2015-2017
   
-#### L1 iOS Support Engineer with German
+#### L1 iOS Support Engineer with German; onboarding buddy for new hires
 * Infosys BPO
 * 2012-2015
 
