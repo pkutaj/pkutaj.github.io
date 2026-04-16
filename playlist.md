@@ -66,6 +66,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)](#418-the-moral-cost-of-trumps-war-the-ezra-klein-show-w-fareed-zakaria)
   - [4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)](#419-ids03-database-storage-files-pages-andy-pavlo-cmu)
   - [4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
+  - [4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal](#421-the-rest-is-politics-ep18-iran-war-the-art-of-the-no-deal)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -273,3 +274,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao
 * <https://www.youtube.com/watch?v=bnYQe2wcNSQ>
  * ClickPipes internals: no Debezium/Kafka — S3 buffer + Temporal orchestration + ReplacingMergeTree dedup, CTID-based parallel snapshots, error classification system
+
+#### 4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal
+* <https://www.youtube.com/watch?v=eoP-oHVTWrs>
+ * Campbell & Stewart on Trump/Vance blowing up Iran negotiations after 21 hours vs Oslo (9mo), Dayton (5mo), Good Friday (22mo), JCPOA (10yr)
