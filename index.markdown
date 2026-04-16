@@ -13,7 +13,7 @@ layout: home
 ### NOW (Q2/2026)
 * Got seniority after a year, as appreciation for building Grafana for Support
 * Continuing working on observability
-* + leading AI adoption within the team
+* Leading AI adoption within the team
 
 ### EXPERIENCE
 #### Clickhouse Senior Support Entineer
