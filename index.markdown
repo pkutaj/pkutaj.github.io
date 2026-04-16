@@ -4,7 +4,6 @@ layout: home
 
  | **PAVOL KUTAJ** | _10+ Years as Support Engineer with M.A. in Modern History_ |
  |-----------------|----------------------------------------------------------|
- | phone:          | +420702152552                                            |
  | email:          | [pkutaj@gmail.com](mailto:pkutaj@gmail.com)              |
  | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)               |
  | blog:           | [medium.com/@pavolkutaj](https://medium.com/@pavolkutaj) |
