@@ -43,7 +43,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [3.5. (3) we're so back - YouTube](#35-3-were-so-back-youtube)
   - [3.6. Opinion](#36-opinion)
   - [3.7. Compacting - by Benn Stancil](#37-compacting-by-benn-stancil)
-  - [3.8. Thoughts on slowing the fuck down | Mario Zechner](#38-thoughts-on-slowing-the-fuck-down-mario-zechner)
+  - [3.8. Thoughts on slowing the fuck down — Mario Zechner](#38-thoughts-on-slowing-the-fuck-down-mario-zechner)
   - [3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa](#39-romes-greatest-enemy-part-3-bloodbath-in-africa)
 - [4. APR-2025](#4-apr-2025)
   - [4.1. JFK: The Road to the White House (Part 1) - The Rest is History](#41-jfk-the-road-to-the-white-house-part-1-the-rest-is-history)
@@ -58,14 +58,14 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.10. SQLite in Production: Lessons from Running a Store on a Single File](#410-sqlite-in-production-lessons-from-running-a-store-on-a-single-file)
   - [4.11. Punch-Drunk Love - Wikipedia](#411-punch-drunk-love-wikipedia)
   - [4.12. DHH's new way of writing code](#412-dhhs-new-way-of-writing-code)
-  - [4.13. I Still Prefer MCP Over Skills | David Mohl](#413-i-still-prefer-mcp-over-skills-david-mohl)
-  - [4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr](#414-the-future-of-everything-is-lies-i-guess-culture-aphyr)
-  - [4.15. The Future of Everything is Lies, I Guess: Information Ecology | Aphyr](#415-the-future-of-everything-is-lies-i-guess-information-ecology-aphyr)
-  - [4.16. The Future of Everything is Lies, I Guess: Annoyances | Aphyr](#416-the-future-of-everything-is-lies-i-guess-annoyances-aphyr)
+  - [4.13. I Still Prefer MCP Over Skills — David Mohl](#413-i-still-prefer-mcp-over-skills-david-mohl)
+  - [4.14. The Future of Everything is Lies, I Guess: Culture — Aphyr](#414-the-future-of-everything-is-lies-i-guess-culture-aphyr)
+  - [4.15. The Future of Everything is Lies, I Guess: Information Ecology — Aphyr](#415-the-future-of-everything-is-lies-i-guess-information-ecology-aphyr)
+  - [4.16. The Future of Everything is Lies, I Guess: Annoyances — Aphyr](#416-the-future-of-everything-is-lies-i-guess-annoyances-aphyr)
   - [4.17. Blowback S1E00: Iraqnophobia feat. H. Jon Benjamin](#417-blowback-s1e00-iraqnophobia-feat-h-jon-benjamin)
-  - [4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)](#418-the-moral-cost-of-trumps-war-the-ezra-klein-show-w-fareed-zakaria)
+  - [4.18. The Moral Cost of Trump's War — The Ezra Klein Show (w/ Fareed Zakaria)](#418-the-moral-cost-of-trumps-war-the-ezra-klein-show-w-fareed-zakaria)
   - [4.19. IDS#03 - Database Storage: Files & Pages (Andy Pavlo, CMU)](#419-ids03-database-storage-files-pages-andy-pavlo-cmu)
-  - [4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
+  - [4.20. Monster SCALE Summit 2026 — Building a Database Replication Platform at Scale by Joy Gao](#420-monster-scale-summit-2026-building-a-database-replication-platform-at-scale-by-joy-gao)
   - [4.21. The Rest is Politics ep.18: Iran War — The Art of the No Deal](#421-the-rest-is-politics-ep18-iran-war-the-art-of-the-no-deal)
   - [4.22. Do You Even Need a Database? — DB Pro Blog](#422-do-you-even-need-a-database-db-pro-blog)
 <!-- /TOC -->
@@ -185,7 +185,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 3.7. Compacting - by Benn Stancil
 * <https://benn.substack.com/p/compacting>
 
-#### 3.8. Thoughts on slowing the fuck down | Mario Zechner
+#### 3.8. Thoughts on slowing the fuck down — Mario Zechner
 * <https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/>
  * AI agents create compounding complexity without friction; slow down, keep humans in the loop
 
@@ -244,19 +244,19 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
  * agent-first workflow, aesthetics is truth, peak programmer, centaur mode is transitional
 
 
-#### 4.13. I Still Prefer MCP Over Skills | David Mohl
+#### 4.13. I Still Prefer MCP Over Skills — David Mohl
 * <https://david.coffee/i-still-prefer-mcp-over-skills/>
  * MCP as API abstraction vs Skills as CLI wrappers; hybrid: Skills as cheat sheets atop MCP connectors
 
-#### 4.14. The Future of Everything is Lies, I Guess: Culture | Aphyr
+#### 4.14. The Future of Everything is Lies, I Guess: Culture — Aphyr
 * <https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture>
  * Aphyr on how LLMs reshape culture — missing mythologies, new AI aesthetics, corporate content arbitration
 
-#### 4.15. The Future of Everything is Lies, I Guess: Information Ecology | Aphyr
+#### 4.15. The Future of Everything is Lies, I Guess: Information Ecology — Aphyr
 * <https://aphyr.com/posts/414-the-future-of-everything-is-lies-i-guess-information-ecology>
  * Aphyr on LLM-driven trust erosion — web pollution, spam economics, propaganda at scale, democratic consensus collapse
 
-#### 4.16. The Future of Everything is Lies, I Guess: Annoyances | Aphyr
+#### 4.16. The Future of Everything is Lies, I Guess: Annoyances — Aphyr
 * <https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances>
  * Aphyr on LLM customer service erosion — replacing humans with unreliable chatbots, cognitive atrophy
 
@@ -264,7 +264,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://youtu.be/3mpyfw-RySg>
  * Blowback podcast S1 intro — Iraq War counter-history, cast of characters, cultural amnesia thesis
 
-#### 4.18. The Moral Cost of Trump's War | The Ezra Klein Show (w/ Fareed Zakaria)
+#### 4.18. The Moral Cost of Trump's War — The Ezra Klein Show (w/ Fareed Zakaria)
 * <https://www.youtube.com/watch?v=b5hU0VHM1-M>
   * Fareed Zakaria on Trump's Iran war, predatory hegemony, and liberalism's exhaustion
 
@@ -272,7 +272,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=dSxV5Sob5V8>
   * Storage hierarchy, heap files, slotted pages, Neon flash talk (Heikki Linnakangas)
 
-#### 4.20. Monster SCALE Summit 2026 | Building a Database Replication Platform at Scale by Joy Gao
+#### 4.20. Monster SCALE Summit 2026 — Building a Database Replication Platform at Scale by Joy Gao
 * <https://www.youtube.com/watch?v=bnYQe2wcNSQ>
  * ClickPipes internals: no Debezium/Kafka — S3 buffer + Temporal orchestration + ReplacingMergeTree dedup, CTID-based parallel snapshots, error classification system
 
