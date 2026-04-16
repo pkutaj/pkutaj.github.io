@@ -2,17 +2,18 @@
 layout: home
 ---
 
- | **PAVOL KUTAJ** | _Senior Support Engineer_                                        |
- |-----------------|------------------------------------------------------------------|
- | phone:          | +420702152552                                                    |
- | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)                     |
- | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)                       |
- | blog:           | [@pkutaj - Medium] (https://medium.com/@pavolkutaj) |
- | location:       | Brno, Czech Republic (working 100 % remotely)                    |
+ | **PAVOL KUTAJ** | _Senior Support Engineer_                     |
+ |-----------------|-----------------------------------------------|
+ | phone:          | +420702152552                                 |
+ | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)  |
+ | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)    |
+ | blog:           | [Medium](https://medium.com/@pavolkutaj)      |
+ | location:       | Brno, Czech Republic (working 100 % remotely) |
 
-### NOW (Q4/2025)
-* Supporting Clickhouse; learning the hard way
-* Being an observability/monitoring lead, authoring Grafana dashboards
+### NOW (Q2/2026)
+* Got seniority after a year, as appreciation for building Grafana for Support
+* Continuing working on observability
+* + leading AI adoption within the team
 
 ### EXPERIENCE
 #### Clickhouse Senior Support Entineer
