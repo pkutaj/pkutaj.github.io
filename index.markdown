@@ -2,13 +2,13 @@
 layout: home
 ---
 
- | **PAVOL KUTAJ** | _10+ years as Senior Support Engineer_        |
- |-----------------|-----------------------------------------------|
- | phone:          | +420702152552                                 |
- | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)  |
- | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)    |
- | blog:           | [Medium](https://medium.com/@pavolkutaj)      |
- | location:       | Brno, Czech Republic (working 100 % remotely) |
+ | **PAVOL KUTAJ** | _10+ years as Senior Support Engineer_                   |
+ |-----------------|----------------------------------------------------------|
+ | phone:          | +420702152552                                            |
+ | email:          | [pkutaj@gmail.com](mailto: pkutaj@gmail.com)             |
+ | web:            | [pavol.kutaj.com](https://pavol.kutaj.com)               |
+ | blog:           | [medium.com/@pavolkutaj](https://medium.com/@pavolkutaj) |
+ | location:       | Brno, Czech Republic (working 100 % remotely)            |
 
 ### NOW (Q2/2026)
 * Got seniority after a year, as appreciation for building Grafana for Support
