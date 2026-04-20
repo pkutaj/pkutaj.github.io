@@ -73,6 +73,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.25. Sherry Turkle — We're losing the raw, human part of being with each other](#425-sherry-turkle-were-losing-the-raw-human-part-of-being-with-each-other)
   - [4.26. Tinybird vs. ClickHouse — What's the difference?](#426-tinybird-vs-clickhouse-whats-the-difference)
   - [4.27. JSON Lines — On The Web](#427-json-lines-on-the-web)
+  - [4.28. Dave Rupert — When moving fast, talking is the first thing to break](#428-dave-rupert-when-moving-fast-talking-is-the-first-thing-to-break)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -307,4 +308,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 4.27. JSON Lines — On The Web
 * <https://jsonlines.org/on_the_web/>
+ * <one_line_summary>
+
+#### 4.28. Dave Rupert — When moving fast, talking is the first thing to break
+* <https://daverupert.com/2026/04/more-talk-less-grok/>
  * <one_line_summary>
