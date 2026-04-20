@@ -71,6 +71,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.23. The Forever War — Dexter Filkins (Afghanistan 1998, Taliban, Northern Alliance)](#423-the-forever-war-dexter-filkins-afghanistan-1998-taliban-northern-alliance)
   - [4.24. The Illusion of American Omnipotence — D.W. Brogan (Harper's, 1952)](#424-the-illusion-of-american-omnipotence-dw-brogan-harpers-1952)
   - [4.25. Sherry Turkle — We're losing the raw, human part of being with each other](#425-sherry-turkle-were-losing-the-raw-human-part-of-being-with-each-other)
+  - [4.26. Tinybird vs. ClickHouse — What's the difference?](#426-tinybird-vs-clickhouse-whats-the-difference)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -297,4 +298,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
+ * <one_line_summary>
+
+#### 4.26. Tinybird vs. ClickHouse — What's the difference?
+* <https://www.tinybird.co/blog/tinybird-vs-clickhouse>
  * <one_line_summary>
