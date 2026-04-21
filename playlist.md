@@ -74,6 +74,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.26. Tinybird vs. ClickHouse — What's the difference?](#426-tinybird-vs-clickhouse-whats-the-difference)
   - [4.27. JSON Lines — On The Web](#427-json-lines-on-the-web)
   - [4.28. Dave Rupert — When moving fast, talking is the first thing to break](#428-dave-rupert-when-moving-fast-talking-is-the-first-thing-to-break)
+  - [4.29. The 1000x faster financial database — Joran Dirk Greef (TigerBeetle) on The Changelog](#429-the-1000x-faster-financial-database-joran-dirk-greef-tigerbeetle-on-the-changelog)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -314,3 +315,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://daverupert.com/2026/04/more-talk-less-grok/>
  * <one_line_summary>
 
+
+#### 4.29. The 1000x faster financial database — Joran Dirk Greef (TigerBeetle) on The Changelog
+* <https://www.youtube.com/watch?v=Yr8Y2EYnxJs>
+ * TigerBeetle founder on why general-purpose SQL tops out at ~1000 TPS (rowlocks across network latency), why OLTP is multi-row-major, batched debit-credit interfaces, LSM forest, and deterministic simulation testing (DST) giving ~2000 years of test time per day.
