@@ -313,3 +313,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.28. Dave Rupert — When moving fast, talking is the first thing to break
 * <https://daverupert.com/2026/04/more-talk-less-grok/>
  * <one_line_summary>
+
