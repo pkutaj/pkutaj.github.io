@@ -324,3 +324,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.30. Dan Carlin's Hardcore History 62 — Supernova in the East
 * <https://www.youtube.com/watch?v=oErYYBNCHh4>
  * <one_line_summary>
+
