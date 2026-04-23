@@ -76,6 +76,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.28. Dave Rupert — When moving fast, talking is the first thing to break](#428-dave-rupert-when-moving-fast-talking-is-the-first-thing-to-break)
   - [4.29. The 1000x faster financial database — Joran Dirk Greef (TigerBeetle) on The Changelog](#429-the-1000x-faster-financial-database-joran-dirk-greef-tigerbeetle-on-the-changelog)
   - [4.30. Dan Carlin's Hardcore History 62 — Supernova in the East](#430-dan-carlins-hardcore-history-62-supernova-in-the-east)
+  - [4.31. Laws of Software Engineering](#431-laws-of-software-engineering)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -325,3 +326,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=oErYYBNCHh4>
  * <one_line_summary>
 
+
+#### 4.31. Laws of Software Engineering
+* <https://lawsofsoftwareengineering.com/>
+ * Collection of software engineering laws, including premature optimization (Knuth)
