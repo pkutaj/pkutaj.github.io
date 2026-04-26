@@ -77,6 +77,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.29. The 1000x faster financial database — Joran Dirk Greef (TigerBeetle) on The Changelog](#429-the-1000x-faster-financial-database-joran-dirk-greef-tigerbeetle-on-the-changelog)
   - [4.30. Dan Carlin's Hardcore History 62 — Supernova in the East](#430-dan-carlins-hardcore-history-62-supernova-in-the-east)
   - [4.31. Laws of Software Engineering](#431-laws-of-software-engineering)
+  - [4.32. Trump Fought The Pope, And The Pope Won? — The Rest Is Politics](#432-trump-fought-the-pope-and-the-pope-won-the-rest-is-politics)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -330,3 +331,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.31. Laws of Software Engineering
 * <https://lawsofsoftwareengineering.com/>
  * Collection of software engineering laws, including premature optimization (Knuth)
+
+#### 4.32. Trump Fought The Pope, And The Pope Won? — The Rest Is Politics
+* <https://www.youtube.com/watch?v=-Fs2H-pPJMQ>
+ * <one_line_summary>
