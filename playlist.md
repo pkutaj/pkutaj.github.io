@@ -340,3 +340,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.33. xkcd 1172 — Workflow
 * <https://xkcd.com/1172/>
  * <Hyrum's Law illustrated: user depends on CPU overheating as a feature>
+
