@@ -80,6 +80,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.32. Trump Fought The Pope, And The Pope Won? — The Rest Is Politics](#432-trump-fought-the-pope-and-the-pope-won-the-rest-is-politics)
   - [4.33. xkcd 1172 — Workflow](#433-xkcd-1172-workflow)
   - [4.34. Opinion — Does Israel Want to Be Saudi Arabia? (NYT)](#434-opinion-does-israel-want-to-be-saudi-arabia-nyt)
+  - [4.35. Index Sharding in ClickHouse Cloud — Petabyte-scale data indexing](#435-index-sharding-in-clickhouse-cloud-petabyte-scale-data-indexing)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -346,3 +347,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.34. Opinion — Does Israel Want to Be Saudi Arabia? (NYT)
 * <https://www.nytimes.com/2026/04/21/opinion/israel-us-public-opinion.html>
  * <NYT opinion piece on Israel public opinion and US relations>
+
+#### 4.35. Index Sharding in ClickHouse Cloud — Petabyte-scale data indexing
+* <https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing>
+ * <ClickHouse blog: index sharding for petabyte-scale workloads>
