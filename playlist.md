@@ -357,3 +357,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://techtrenches.dev/p/the-west-forgot-how-to-make-things>
  * <one_line_summary>
 
+
