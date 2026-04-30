@@ -81,6 +81,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.33. xkcd 1172 — Workflow](#433-xkcd-1172-workflow)
   - [4.34. Opinion — Does Israel Want to Be Saudi Arabia? (NYT)](#434-opinion-does-israel-want-to-be-saudi-arabia-nyt)
   - [4.35. Index Sharding in ClickHouse Cloud — Petabyte-scale data indexing](#435-index-sharding-in-clickhouse-cloud-petabyte-scale-data-indexing)
+  - [4.36. The West Forgot How to Build — Now It's Forgetting Code](#436-the-west-forgot-how-to-build-now-its-forgetting-code)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -351,3 +352,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.35. Index Sharding in ClickHouse Cloud — Petabyte-scale data indexing
 * <https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing>
  * <ClickHouse blog: index sharding for petabyte-scale workloads>
+
+#### 4.36. The West Forgot How to Build — Now It's Forgetting Code
+* <https://techtrenches.dev/p/the-west-forgot-how-to-make-things>
+ * <one_line_summary>
