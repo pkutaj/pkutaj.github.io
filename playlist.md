@@ -87,6 +87,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.39. What the heck is the event loop anyway — Philip Roberts, JSConf EU](#439-what-the-heck-is-the-event-loop-anyway-philip-roberts-jsconf-eu)
   - [4.40. Benn Stancil — Leaderbored](#440-benn-stancil-leaderbored)
   - [4.41. Kuku TV, Reelies — Why micro-dramas are going mainstream](#441-kuku-tv-reelies-why-micro-dramas-are-going-mainstream)
+  - [4.42. Good developers learn to program — not a language](#442-good-developers-learn-to-program-not-a-language)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -386,3 +387,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.41. Kuku TV, Reelies — Why micro-dramas are going mainstream
 * <https://www.bbc.com/news/articles/c3v2k3xvr04o>
  * <BBC article on the micro-drama streaming format going mainstream>
+
+#### 4.42. Good developers learn to program — not a language
+* <https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language>
+ * <Mechanical empathy over syntax: master one system deeply, then compare with a structurally different second>
