@@ -82,6 +82,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.34. Opinion — Does Israel Want to Be Saudi Arabia? (NYT)](#434-opinion-does-israel-want-to-be-saudi-arabia-nyt)
   - [4.35. Index Sharding in ClickHouse Cloud — Petabyte-scale data indexing](#435-index-sharding-in-clickhouse-cloud-petabyte-scale-data-indexing)
   - [4.36. The West Forgot How to Build — Now It's Forgetting Code](#436-the-west-forgot-how-to-build-now-its-forgetting-code)
+  - [4.37. Kent Beck — Genie Tarpit](#437-kent-beck-genie-tarpit)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -361,3 +362,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
+#### 4.37. Kent Beck — Genie Tarpit
+* <https://tidyfirst.substack.com/p/genie-tarpit>
+ * <LLMs naturally produce low-quality code on both features and flexibility axes, landing below even mediocre 'muddling' teams>
