@@ -85,6 +85,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.37. Kent Beck — Genie Tarpit](#437-kent-beck-genie-tarpit)
   - [4.38. Why I Still Reach for Scheme and Lisp Instead of Haskell](#438-why-i-still-reach-for-scheme-and-lisp-instead-of-haskell)
   - [4.39. What the heck is the event loop anyway — Philip Roberts, JSConf EU](#439-what-the-heck-is-the-event-loop-anyway-philip-roberts-jsconf-eu)
+  - [4.40. Benn Stancil — Leaderbored](#440-benn-stancil-leaderbored)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -376,3 +377,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.39. What the heck is the event loop anyway — Philip Roberts, JSConf EU
 * <https://www.youtube.com/watch?v=8aGhZQkoFbQ>
  * <Classic JS concurrency talk: call stack, event loop, callback queue, async I/O explained visually>
+
+#### 4.40. Benn Stancil — Leaderbored
+* <https://benn.substack.com/p/leaderbored>
+ * <AI whiplash is structural: leaders shift compute to inference, ceding training ground to challengers — the real moat is compute, not models>
