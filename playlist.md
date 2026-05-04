@@ -84,6 +84,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.36. The West Forgot How to Build — Now It's Forgetting Code](#436-the-west-forgot-how-to-build-now-its-forgetting-code)
   - [4.37. Kent Beck — Genie Tarpit](#437-kent-beck-genie-tarpit)
   - [4.38. Why I Still Reach for Scheme and Lisp Instead of Haskell](#438-why-i-still-reach-for-scheme-and-lisp-instead-of-haskell)
+  - [4.39. What the heck is the event loop anyway — Philip Roberts, JSConf EU](#439-what-the-heck-is-the-event-loop-anyway-philip-roberts-jsconf-eu)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -371,3 +372,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.38. Why I Still Reach for Scheme and Lisp Instead of Haskell
 * <https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html>
  * <Backlog: return to SICP and Scheme after IDS (Intro to DB Systems) is done>
+
+#### 4.39. What the heck is the event loop anyway — Philip Roberts, JSConf EU
+* <https://www.youtube.com/watch?v=8aGhZQkoFbQ>
+ * <Classic JS concurrency talk: call stack, event loop, callback queue, async I/O explained visually>
