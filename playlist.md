@@ -396,3 +396,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.43. The AI Economy is about to change — ThePrimeagen
 * <https://www.youtube.com/watch?v=_Q-e_nczWqM>
  * <Compute as the real AI moat; Google vs Anthropic marketing; AI economy structural shift>
+
