@@ -89,6 +89,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.41. Kuku TV, Reelies — Why micro-dramas are going mainstream](#441-kuku-tv-reelies-why-micro-dramas-are-going-mainstream)
   - [4.42. Good developers learn to program — not a language](#442-good-developers-learn-to-program-not-a-language)
   - [4.43. The AI Economy is about to change — ThePrimeagen](#443-the-ai-economy-is-about-to-change-theprimeagen)
+  - [4.44. Martin Kleppmann on Kafka, DDIA, and data integration pain — Interview](#444-martin-kleppmann-on-kafka-ddia-and-data-integration-pain-interview)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -397,3 +398,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=_Q-e_nczWqM>
  * <Compute as the real AI moat; Google vs Anthropic marketing; AI economy structural shift>
 
+
+#### 4.44. Martin Kleppmann on Kafka, DDIA, and data integration pain — Interview
+* <https://www.youtube.com/watch?v=SVOrURyOu_U>
+ * <kleppmann on why kafka was built - integration pain at linkedin, ddia book origin>
