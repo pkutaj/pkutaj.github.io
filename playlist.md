@@ -90,6 +90,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.42. Good developers learn to program — not a language](#442-good-developers-learn-to-program-not-a-language)
   - [4.43. The AI Economy is about to change — ThePrimeagen](#443-the-ai-economy-is-about-to-change-theprimeagen)
   - [4.44. Martin Kleppmann on Kafka, DDIA, and data integration pain — Interview](#444-martin-kleppmann-on-kafka-ddia-and-data-integration-pain-interview)
+  - [4.45. His Majesty and Our Travesty — NYT Opinion](#445-his-majesty-and-our-travesty-nyt-opinion)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -402,3 +403,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.44. Martin Kleppmann on Kafka, DDIA, and data integration pain — Interview
 * <https://www.youtube.com/watch?v=SVOrURyOu_U>
  * <kleppmann on why kafka was built - integration pain at linkedin, ddia book origin>
+
+#### 4.45. His Majesty and Our Travesty — NYT Opinion
+* <https://www.nytimes.com/2026/05/02/opinion/king-charles-america-visit-trump.html>
+ * <king charles visit to trump era america - peak of life after diana's shadow>
