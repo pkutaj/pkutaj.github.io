@@ -92,6 +92,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.44. Martin Kleppmann on Kafka, DDIA, and data integration pain — Interview](#444-martin-kleppmann-on-kafka-ddia-and-data-integration-pain-interview)
   - [4.45. His Majesty and Our Travesty — NYT Opinion](#445-his-majesty-and-our-travesty-nyt-opinion)
   - [4.46. Perzia ep1 — The Rest Is History (Greco-Persian Wars)](#446-perzia-ep1-the-rest-is-history-greco-persian-wars)
+  - [4.47. How Economic Calamity Led To Thatcher's Rise — The Rest Is History ep.32](#447-how-economic-calamity-led-to-thatchers-rise-the-rest-is-history-ep32)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -412,3 +413,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.46. Perzia ep1 — The Rest Is History (Greco-Persian Wars)
 * <https://www.youtube.com/watch?v=63d-gjFTKZo>
  * <Darius rise to power, Ionian Revolt background, Aristagoras & Naxos, setting up Marathon>
+
+#### 4.47. How Economic Calamity Led To Thatcher's Rise — The Rest Is History ep.32
+* <https://www.youtube.com/watch?v=-Pn5yGnrbxk>
+ * <Britain 1975: oil shock, 26% inflation, trade union barons, Ted Heath collapse — context for Thatcher becoming Tory leader>
