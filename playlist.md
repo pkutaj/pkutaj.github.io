@@ -97,6 +97,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.49. (32) Germany Defied Donald Trump — Here's Why](#449-32-germany-defied-donald-trump-heres-why)
   - [4.50. This Is The Most Important Skill You Can Have In Life — Ryan Holiday](#450-this-is-the-most-important-skill-you-can-have-in-life-ryan-holiday)
   - [4.51. The Revolution Will Be Ticketed — Benn Stancil](#451-the-revolution-will-be-ticketed-benn-stancil)
+  - [4.52. (33) The Book That Changed How I Think About Liberalism](#452-33-the-book-that-changed-how-i-think-about-liberalism)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -436,4 +437,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 4.51. The Revolution Will Be Ticketed — Benn Stancil
 * <https://benn.substack.com/p/the-revolution-will-be-ticketed>
+ * <one_line_summary>
+
+#### 4.52. (33) The Book That Changed How I Think About Liberalism
+* <https://www.youtube.com/watch?v=YHYBLxMPMok>
  * <one_line_summary>
