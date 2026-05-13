@@ -100,6 +100,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.52. (33) The Book That Changed How I Think About Liberalism](#452-33-the-book-that-changed-how-i-think-about-liberalism)
   - [4.53. Easy is Overrated — Cal Newport](#453-easy-is-overrated-cal-newport)
   - [4.54. perzia ep1 — Greco-Persian War, Miletus, Darius, Persian Ideology](#454-perzia-ep1-greco-persian-war-miletus-darius-persian-ideology)
+  - [4.55. The Log — What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction — Jay Kreps](#455-the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstraction-jay-kreps)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -451,4 +452,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 4.54. perzia ep1 — Greco-Persian War, Miletus, Darius, Persian Ideology
 * <https://youtu.be/63d-gjFTKZo>
+ * <one_line_summary>
+
+#### 4.55. The Log — What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction — Jay Kreps
+* <https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying>
  * <one_line_summary>
