@@ -94,6 +94,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.46. Perzia ep1 — The Rest Is History (Greco-Persian Wars)](#446-perzia-ep1-the-rest-is-history-greco-persian-wars)
   - [4.47. How Economic Calamity Led To Thatcher's Rise — The Rest Is History ep.32](#447-how-economic-calamity-led-to-thatchers-rise-the-rest-is-history-ep32)
   - [4.48. Mitchell Hashimoto — The Pragmatic Engineer](#448-mitchell-hashimoto-the-pragmatic-engineer)
+  - [4.49. (32) Germany Defied Donald Trump — Here's Why](#449-32-germany-defied-donald-trump-heres-why)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -422,3 +423,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.48. Mitchell Hashimoto — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=WjckELpzLOU>
  * Context switching, best engineers profile, AI agents, open source future
+
+#### 4.49. (32) Germany Defied Donald Trump — Here's Why
+* <https://www.youtube.com/watch?v=xcliSqa97E0>
+ * <one_line_summary>
