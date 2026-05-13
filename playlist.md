@@ -98,6 +98,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.50. This Is The Most Important Skill You Can Have In Life — Ryan Holiday](#450-this-is-the-most-important-skill-you-can-have-in-life-ryan-holiday)
   - [4.51. The Revolution Will Be Ticketed — Benn Stancil](#451-the-revolution-will-be-ticketed-benn-stancil)
   - [4.52. (33) The Book That Changed How I Think About Liberalism](#452-33-the-book-that-changed-how-i-think-about-liberalism)
+  - [4.53. Easy is Overrated — Cal Newport](#453-easy-is-overrated-cal-newport)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -441,4 +442,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 #### 4.52. (33) The Book That Changed How I Think About Liberalism
 * <https://www.youtube.com/watch?v=YHYBLxMPMok>
+ * <one_line_summary>
+
+#### 4.53. Easy is Overrated — Cal Newport
+* <https://calnewport.com/easy-is-overrated/>
  * <one_line_summary>
