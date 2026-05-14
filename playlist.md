@@ -457,3 +457,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.55. The Log — What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction — Jay Kreps
 * <https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying>
  * <one_line_summary>
+
