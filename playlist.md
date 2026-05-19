@@ -106,6 +106,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines](#458-getting-closer-to-her-from-moshi-to-thinking-machines)
   - [4.59. Why Programmers Adopt Bad Ideas — Casey Muratori](#459-why-programmers-adopt-bad-ideas-casey-muratori)
   - [4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning](#460-mitchell-hashimoto-ai-psychosis-and-the-mtbfmttr-reckoning)
+  - [4.61. The Bonfire of Our Vanities — Benn Stancil](#461-the-bonfire-of-our-vanities-benn-stancil)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -483,3 +484,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning
 * <https://x.com/mitchellh/status/2055380239711457578>
  * <AI psychosis = MTTR-only thinking applied to software; mirrors Netflix chaos engineering debate; local metrics mask global decay>
+
+#### 4.61. The Bonfire of Our Vanities — Benn Stancil
+* <https://benn.substack.com/p/the-bonfire-of-our-vanities>
+ * <vibe coding as escapism — excitement → disillusionment → open question: will anything remain?>
