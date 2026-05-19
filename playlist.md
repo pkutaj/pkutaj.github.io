@@ -104,6 +104,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.56. Přepište dějiny — Brno válečné a účtující — Meeting Brno](#456-přepište-dějiny-brno-válečné-a-účtující-meeting-brno)
   - [4.57. The Dark Side of the Jevons Paradox — Cal Newport](#457-the-dark-side-of-the-jevons-paradox-cal-newport)
   - [4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines](#458-getting-closer-to-her-from-moshi-to-thinking-machines)
+  - [4.59. Why Programmers Adopt Bad Ideas — Casey Muratori](#459-why-programmers-adopt-bad-ideas-casey-muratori)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -473,3 +474,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines
 * <https://polymath707.substack.com/p/getting-closer-to-her-from-moshi>
  * <two-model architecture splits presence (fast) from intelligence (background) to enable real-time AI voice assistants>
+
+#### 4.59. Why Programmers Adopt Bad Ideas — Casey Muratori
+* <https://www.youtube.com/watch?v=Z8B4BSi35CI>
+ * <adoption ≠ quality; cargo-culting in programming culture; fewer LOC = better; modern heroism fights avoidable abstractions>
