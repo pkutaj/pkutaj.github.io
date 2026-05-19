@@ -105,6 +105,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.57. The Dark Side of the Jevons Paradox — Cal Newport](#457-the-dark-side-of-the-jevons-paradox-cal-newport)
   - [4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines](#458-getting-closer-to-her-from-moshi-to-thinking-machines)
   - [4.59. Why Programmers Adopt Bad Ideas — Casey Muratori](#459-why-programmers-adopt-bad-ideas-casey-muratori)
+  - [4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning](#460-mitchell-hashimoto-ai-psychosis-and-the-mtbfmttr-reckoning)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -478,3 +479,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.59. Why Programmers Adopt Bad Ideas — Casey Muratori
 * <https://www.youtube.com/watch?v=Z8B4BSi35CI>
  * <adoption ≠ quality; cargo-culting in programming culture; fewer LOC = better; modern heroism fights avoidable abstractions>
+
+#### 4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning
+* <https://x.com/mitchellh/status/2055380239711457578>
+ * <AI psychosis = MTTR-only thinking applied to software; mirrors Netflix chaos engineering debate; local metrics mask global decay>
