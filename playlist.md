@@ -103,6 +103,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.55. The Log — What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction — Jay Kreps](#455-the-log-what-every-software-engineer-should-know-about-real-time-datas-unifying-abstraction-jay-kreps)
   - [4.56. Přepište dějiny — Brno válečné a účtující — Meeting Brno](#456-přepište-dějiny-brno-válečné-a-účtující-meeting-brno)
   - [4.57. The Dark Side of the Jevons Paradox — Cal Newport](#457-the-dark-side-of-the-jevons-paradox-cal-newport)
+  - [4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines](#458-getting-closer-to-her-from-moshi-to-thinking-machines)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -468,3 +469,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.57. The Dark Side of the Jevons Paradox — Cal Newport
 * <https://calnewport.com/the-dark-side-of-the-jevons-paradox/>
  * <efficiency gains cause demand explosion + unforeseen side effects — applied to AI and jobs>
+
+#### 4.58. Getting Closer to 'Her' — From Moshi to Thinking Machines
+* <https://polymath707.substack.com/p/getting-closer-to-her-from-moshi>
+ * <two-model architecture splits presence (fast) from intelligence (background) to enable real-time AI voice assistants>
