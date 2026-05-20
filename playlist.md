@@ -493,3 +493,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.62. Hardcore History 56 — Kings of Kings — Dan Carlin
 * <https://www.dancarlin.com/product/hardcore-history-56-kings-kings/comment-page-2/>
  * <Achaemenid Persian Empire — Dan Carlin's epic series on Persian Kings>
+
