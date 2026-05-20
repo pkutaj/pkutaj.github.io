@@ -110,6 +110,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.62. Hardcore History 56 — Kings of Kings — Dan Carlin](#462-hardcore-history-56-kings-of-kings-dan-carlin)
   - [4.63. The Emacsification of Software — sockpuppet.org](#463-the-emacsification-of-software-sockpuppetorg)
   - [4.64. How Trump's China Trip Could Trigger A New Global Order](#464-how-trumps-china-trip-could-trigger-a-new-global-order)
+  - [4.65. Latency Numbers Programmer Should Know — Crash Course](#465-latency-numbers-programmer-should-know-crash-course)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -504,3 +505,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.64. How Trump's China Trip Could Trigger A New Global Order
 * <https://www.youtube.com/watch?v=htwADRlI4Rw>
  * <geopolitics — Trump China trip and potential new world order>
+
+#### 4.65. Latency Numbers Programmer Should Know — Crash Course
+* <https://www.youtube.com/watch?v=FqR5vESuKe0>
+ * <orders of magnitude for L1/L2/RAM/SSD/network latencies every engineer should know>
