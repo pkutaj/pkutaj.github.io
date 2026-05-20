@@ -114,6 +114,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.66. SCIM — The Identity Protocol You Use Every Day](#466-scim-the-identity-protocol-you-use-every-day)
   - [4.67. FANG Interview Question — Process vs Thread](#467-fang-interview-question-process-vs-thread)
   - [4.68. Real-Time Decisioning for AI Agents — Why you Need a Customer Context Layer First](#468-real-time-decisioning-for-ai-agents-why-you-need-a-customer-context-layer-first)
+  - [4.69. Source of Truth is back — Alex Dean on AI agents and behavioural data](#469-source-of-truth-is-back-alex-dean-on-ai-agents-and-behavioural-data)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -524,3 +525,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.68. Real-Time Decisioning for AI Agents — Why you Need a Customer Context Layer First
 * <https://www.databricks.com/blog/real-time-decisioning-ai-agents-why-you-need-customer-context-layer-first>
  * <Alex Dean (Snowplow) on composable CDPs, AI agent decisioning, and the customer context layer>
+
+#### 4.69. Source of Truth is back — Alex Dean on AI agents and behavioural data
+* <https://sourceoftruth.substack.com/p/source-of-truth-is-back-with-a-new>
+ * <composability won the war; next frontier is AI agent decisioning + real-time customer context layer>
