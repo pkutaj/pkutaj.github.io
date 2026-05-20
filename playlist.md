@@ -109,6 +109,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.61. The Bonfire of Our Vanities — Benn Stancil](#461-the-bonfire-of-our-vanities-benn-stancil)
   - [4.62. Hardcore History 56 — Kings of Kings — Dan Carlin](#462-hardcore-history-56-kings-of-kings-dan-carlin)
   - [4.63. The Emacsification of Software — sockpuppet.org](#463-the-emacsification-of-software-sockpuppetorg)
+  - [4.64. How Trump's China Trip Could Trigger A New Global Order](#464-how-trumps-china-trip-could-trigger-a-new-global-order)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -499,3 +500,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.63. The Emacsification of Software — sockpuppet.org
 * <https://sockpuppet.org/blog/2026/05/12/emacsification/>
  * <on the trend of software becoming composable and programmable like Emacs>
+
+#### 4.64. How Trump's China Trip Could Trigger A New Global Order
+* <https://www.youtube.com/watch?v=htwADRlI4Rw>
+ * <geopolitics — Trump China trip and potential new world order>
