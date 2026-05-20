@@ -107,6 +107,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.59. Why Programmers Adopt Bad Ideas — Casey Muratori](#459-why-programmers-adopt-bad-ideas-casey-muratori)
   - [4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning](#460-mitchell-hashimoto-ai-psychosis-and-the-mtbfmttr-reckoning)
   - [4.61. The Bonfire of Our Vanities — Benn Stancil](#461-the-bonfire-of-our-vanities-benn-stancil)
+  - [4.62. Hardcore History 56 — Kings of Kings — Dan Carlin](#462-hardcore-history-56-kings-of-kings-dan-carlin)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -488,3 +489,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.61. The Bonfire of Our Vanities — Benn Stancil
 * <https://benn.substack.com/p/the-bonfire-of-our-vanities>
  * <vibe coding as escapism — excitement → disillusionment → open question: will anything remain?>
+
+#### 4.62. Hardcore History 56 — Kings of Kings — Dan Carlin
+* <https://www.dancarlin.com/product/hardcore-history-56-kings-kings/comment-page-2/>
+ * <Achaemenid Persian Empire — Dan Carlin's epic series on Persian Kings>
