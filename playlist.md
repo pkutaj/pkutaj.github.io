@@ -108,6 +108,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.60. Mitchell Hashimoto — AI Psychosis and the MTBF/MTTR Reckoning](#460-mitchell-hashimoto-ai-psychosis-and-the-mtbfmttr-reckoning)
   - [4.61. The Bonfire of Our Vanities — Benn Stancil](#461-the-bonfire-of-our-vanities-benn-stancil)
   - [4.62. Hardcore History 56 — Kings of Kings — Dan Carlin](#462-hardcore-history-56-kings-of-kings-dan-carlin)
+  - [4.63. The Emacsification of Software — sockpuppet.org](#463-the-emacsification-of-software-sockpuppetorg)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -494,3 +495,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.dancarlin.com/product/hardcore-history-56-kings-kings/comment-page-2/>
  * <Achaemenid Persian Empire — Dan Carlin's epic series on Persian Kings>
 
+
+#### 4.63. The Emacsification of Software — sockpuppet.org
+* <https://sockpuppet.org/blog/2026/05/12/emacsification/>
+ * <on the trend of software becoming composable and programmable like Emacs>
