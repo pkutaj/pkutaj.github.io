@@ -111,6 +111,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.63. The Emacsification of Software — sockpuppet.org](#463-the-emacsification-of-software-sockpuppetorg)
   - [4.64. How Trump's China Trip Could Trigger A New Global Order](#464-how-trumps-china-trip-could-trigger-a-new-global-order)
   - [4.65. Latency Numbers Programmer Should Know — Crash Course](#465-latency-numbers-programmer-should-know-crash-course)
+  - [4.66. SCIM — The Identity Protocol You Use Every Day](#466-scim-the-identity-protocol-you-use-every-day)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -509,3 +510,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.65. Latency Numbers Programmer Should Know — Crash Course
 * <https://www.youtube.com/watch?v=FqR5vESuKe0>
  * <orders of magnitude for L1/L2/RAM/SSD/network latencies every engineer should know>
+
+#### 4.66. SCIM — The Identity Protocol You Use Every Day
+* <https://www.youtube.com/watch?v=HRaDQTcZRW8>
+ * <SCIM protocol for user provisioning and identity management>
