@@ -534,3 +534,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.70. Prompts are technical debt too — Sean Goedecke
 * <https://www.seangoedecke.com/prompts-are-technical-debt-too/>
  * <LLM prompts decay silently across model upgrades — prefer minimal customization with third-party maintained tools>
+
