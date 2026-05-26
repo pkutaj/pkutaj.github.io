@@ -118,6 +118,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.70. Prompts are technical debt too — Sean Goedecke](#470-prompts-are-technical-debt-too-sean-goedecke)
   - [4.71. Hardcore History 62 — Supernova in the East I](#471-hardcore-history-62-supernova-in-the-east-i)
   - [4.72. Pragmatic Engineer — TypeScript, C and Turbo Pascal](#472-pragmatic-engineer-typescript-c-and-turbo-pascal)
+  - [4.73. The Elephant in the Room — Josh W. Comeau](#473-the-elephant-in-the-room-josh-w-comeau)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -545,3 +546,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.72. Pragmatic Engineer — TypeScript, C and Turbo Pascal
 * <https://newsletter.pragmaticengineer.com/p/typescript-c-and-turbo-pascal-with>
  * void — newsletter article, podcast URL to be processed separately
+
+#### 4.73. The Elephant in the Room — Josh W. Comeau
+* <https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/>
+ * AI amplifies expertise, doesn't replace it — Iron Man suit analogy; vibe-coders hit walls
