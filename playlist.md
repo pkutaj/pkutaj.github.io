@@ -116,6 +116,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.68. Real-Time Decisioning for AI Agents — Why you Need a Customer Context Layer First](#468-real-time-decisioning-for-ai-agents-why-you-need-a-customer-context-layer-first)
   - [4.69. Source of Truth is back — Alex Dean on AI agents and behavioural data](#469-source-of-truth-is-back-alex-dean-on-ai-agents-and-behavioural-data)
   - [4.70. Prompts are technical debt too — Sean Goedecke](#470-prompts-are-technical-debt-too-sean-goedecke)
+  - [4.71. Hardcore History 62 — Supernova in the East I](#471-hardcore-history-62-supernova-in-the-east-i)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -535,3 +536,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.seangoedecke.com/prompts-are-technical-debt-too/>
  * <LLM prompts decay silently across model upgrades — prefer minimal customization with third-party maintained tools>
 
+
+#### 4.71. Hardcore History 62 — Supernova in the East I
+* <http://www.dancarlin.com/product/hardcore-history-62-Supernova-in-the-East-i>
+ * Dan Carlin's Hardcore History: Japan's road to WW2, China and Russia context pre-WW1
