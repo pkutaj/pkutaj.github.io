@@ -122,6 +122,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.74. I'm Going Back to Writing Code by Hand — k10s blog](#474-im-going-back-to-writing-code-by-hand-k10s-blog)
   - [4.75. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI](#475-tyler-cowen-seven-ways-to-avoid-losing-your-job-to-ai)
   - [4.76. I'm Tired of AI-Generated Answers — Orchid Files](#476-im-tired-of-ai-generated-answers-orchid-files)
+  - [4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit](#477-simon-willison-anthropic-and-openai-have-found-product-market-fit)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -565,3 +566,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.76. I'm Tired of AI-Generated Answers — Orchid Files
 * <https://orchidfiles.com/im-tired-of-ai-generated-answers/>
  * Critique of AI misuse as substitute for human judgment — people forwarding AI outputs without critical thinking
+
+#### 4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit
+* <https://simonwillison.net/2026/May/27/product-market-fit/>
+ * Enterprise coding agents + human sales hires = PMF; consumer ChatGPT (900M users, 5.6% paying) failed to monetize
