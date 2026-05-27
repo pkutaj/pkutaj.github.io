@@ -121,6 +121,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.73. The Elephant in the Room — Josh W. Comeau](#473-the-elephant-in-the-room-josh-w-comeau)
   - [4.74. I'm Going Back to Writing Code by Hand — k10s blog](#474-im-going-back-to-writing-code-by-hand-k10s-blog)
   - [4.75. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI](#475-tyler-cowen-seven-ways-to-avoid-losing-your-job-to-ai)
+  - [4.76. I'm Tired of AI-Generated Answers — Orchid Files](#476-im-tired-of-ai-generated-answers-orchid-files)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -560,3 +561,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.75. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI
 * <https://www.thefp.com/p/tyler-cowen-seven-ways-to-avoid-losing>
  * Tyler Cowen on AI-proofing careers: pursue messy jobs, be cautious about remote work
+
+#### 4.76. I'm Tired of AI-Generated Answers — Orchid Files
+* <https://orchidfiles.com/im-tired-of-ai-generated-answers/>
+ * Critique of AI misuse as substitute for human judgment — people forwarding AI outputs without critical thinking
