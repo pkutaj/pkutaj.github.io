@@ -125,6 +125,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit](#477-simon-willison-anthropic-and-openai-have-found-product-market-fit)
   - [4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust](#478-kent-beck-still-burning-workos-founder-michael-grinich-on-enterprise-trust)
   - [4.79. Nolan Lawson — Using AI to Write Better Code More Slowly](#479-nolan-lawson-using-ai-to-write-better-code-more-slowly)
+  - [4.80. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI](#480-tyler-cowen-seven-ways-to-avoid-losing-your-job-to-ai)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -580,3 +581,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.79. Nolan Lawson — Using AI to Write Better Code More Slowly
 * <https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/>
  * Multi-model PR review (Claude+Codex+Bugbot) for quality over velocity; bugs as learning side-quests; human triage still essential
+
+#### 4.80. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI
+* <https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html>
+ * <Tyler Cowen on how to stay relevant in the AI economy>
