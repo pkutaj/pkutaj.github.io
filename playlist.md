@@ -123,6 +123,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.75. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI](#475-tyler-cowen-seven-ways-to-avoid-losing-your-job-to-ai)
   - [4.76. I'm Tired of AI-Generated Answers — Orchid Files](#476-im-tired-of-ai-generated-answers-orchid-files)
   - [4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit](#477-simon-willison-anthropic-and-openai-have-found-product-market-fit)
+  - [4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust](#478-kent-beck-still-burning-workos-founder-michael-grinich-on-enterprise-trust)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -570,3 +571,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit
 * <https://simonwillison.net/2026/May/27/product-market-fit/>
  * Enterprise coding agents + human sales hires = PMF; consumer ChatGPT (900M users, 5.6% paying) failed to monetize
+
+#### 4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust
+* <https://www.youtube.com/watch?v=Kh24KYFfH5Q>
+ * Consumer email app loved but couldn't monetize; enterprises pay and buy through human relationships — same lesson as Willison/Anthropic PMF
