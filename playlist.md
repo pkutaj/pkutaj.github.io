@@ -124,6 +124,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.76. I'm Tired of AI-Generated Answers — Orchid Files](#476-im-tired-of-ai-generated-answers-orchid-files)
   - [4.77. Simon Willison — Anthropic and OpenAI Have Found Product-Market Fit](#477-simon-willison-anthropic-and-openai-have-found-product-market-fit)
   - [4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust](#478-kent-beck-still-burning-workos-founder-michael-grinich-on-enterprise-trust)
+  - [4.79. Nolan Lawson — Using AI to Write Better Code More Slowly](#479-nolan-lawson-using-ai-to-write-better-code-more-slowly)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -575,3 +576,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust
 * <https://www.youtube.com/watch?v=Kh24KYFfH5Q>
  * Consumer email app loved but couldn't monetize; enterprises pay and buy through human relationships — same lesson as Willison/Anthropic PMF
+
+#### 4.79. Nolan Lawson — Using AI to Write Better Code More Slowly
+* <https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/>
+ * Multi-model PR review (Claude+Codex+Bugbot) for quality over velocity; bugs as learning side-quests; human triage still essential
