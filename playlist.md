@@ -119,6 +119,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.71. Hardcore History 62 — Supernova in the East I](#471-hardcore-history-62-supernova-in-the-east-i)
   - [4.72. Pragmatic Engineer — TypeScript, C and Turbo Pascal](#472-pragmatic-engineer-typescript-c-and-turbo-pascal)
   - [4.73. The Elephant in the Room — Josh W. Comeau](#473-the-elephant-in-the-room-josh-w-comeau)
+  - [4.74. I'm Going Back to Writing Code by Hand — k10s blog](#474-im-going-back-to-writing-code-by-hand-k10s-blog)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -550,3 +551,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.73. The Elephant in the Room — Josh W. Comeau
 * <https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/>
  * AI amplifies expertise, doesn't replace it — Iron Man suit analogy; vibe-coders hit walls
+
+#### 4.74. I'm Going Back to Writing Code by Hand — k10s blog
+* <https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/>
+ * 7 months of AI-only coding → 1690-line god object, unmaintainable — rewriting from scratch; AI builds features not architecture
