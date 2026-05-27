@@ -126,6 +126,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [4.78. Kent Beck — Still Burning — WorkOS founder Michael Grinich on enterprise trust](#478-kent-beck-still-burning-workos-founder-michael-grinich-on-enterprise-trust)
   - [4.79. Nolan Lawson — Using AI to Write Better Code More Slowly](#479-nolan-lawson-using-ai-to-write-better-code-more-slowly)
   - [4.80. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI](#480-tyler-cowen-seven-ways-to-avoid-losing-your-job-to-ai)
+  - [4.81. TypeScript, C# and Turbo Pascal with Anders Hejlsberg — The Pragmatic Engineer](#481-typescript-c-and-turbo-pascal-with-anders-hejlsberg-the-pragmatic-engineer)
 <!-- /TOC -->
 
 ### 1. JAN-2026
@@ -354,6 +355,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
 
+### MAY-2026
 #### 4.26. Tinybird vs. ClickHouse — What's the difference?
 * <https://www.tinybird.co/blog/tinybird-vs-clickhouse>
  * <one_line_summary>
@@ -585,3 +587,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### 4.80. Tyler Cowen — Seven Ways to Avoid Losing Your Job to AI
 * <https://marginalrevolution.com/marginalrevolution/2026/05/seven-ways-to-avoid-losing-your-job-to-ai.html>
  * <Tyler Cowen on how to stay relevant in the AI economy>
+
+#### 4.81. TypeScript, C# and Turbo Pascal with Anders Hejlsberg — The Pragmatic Engineer
+* <https://www.youtube.com/watch?v=K-Xv8D8NjTk>
+ * <Anders Hejlsberg on 40 years of language design: Turbo Pascal, Delphi, C#, TypeScript, async/await, and AI's impact on programming>
