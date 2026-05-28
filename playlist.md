@@ -483,3 +483,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Japan on the Road to WW2
 * <https://www.youtube.com/watch?v=wEIvQTMJawY>
  * <one_line_summary>
+
+#### A Life After AI Psychosis — TheStandup
+* <https://www.youtube.com/watch?v=cVUVfn8OF5k>
+ * <one_line_summary>
