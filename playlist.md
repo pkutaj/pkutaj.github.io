@@ -479,3 +479,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
  * <Brian Cantrill on Sun/dotcom boom-bust, AWS dominance, Kubernetes origin, and building Oxide Computer from a clean sheet of hardware>
+
+#### Japan on the Road to WW2
+* <https://www.youtube.com/watch?v=wEIvQTMJawY>
+ * <one_line_summary>
