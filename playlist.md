@@ -487,3 +487,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### A Life After AI Psychosis — TheStandup
 * <https://www.youtube.com/watch?v=cVUVfn8OF5k>
  * <one_line_summary>
+
+#### The History of Servers, the Cloud, and What's Next
+* <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
+ * <one_line_summary>
