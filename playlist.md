@@ -499,3 +499,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Introducing multi-stage distributed query execution in ClickHouse Cloud
 * <https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud>
  * <one_line_summary>
+
+#### TypeScript, C# and Turbo Pascal — Anders Hejlsberg
+* <https://www.youtube.com/watch?v=K-Xv8D8NjTk&t=1189s>
+ * <one_line_summary>
