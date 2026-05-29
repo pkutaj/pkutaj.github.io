@@ -503,3 +503,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### TypeScript, C# and Turbo Pascal — Anders Hejlsberg
 * <https://www.youtube.com/watch?v=K-Xv8D8NjTk&t=1189s>
  * <one_line_summary>
+
+#### The history of servers, the cloud, and what's next
+* <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
+ * <one_line_summary>
