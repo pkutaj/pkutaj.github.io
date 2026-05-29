@@ -495,3 +495,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Fork Yeah — The Rise and Development of FreeBSD (LISA11)
 * <https://www.youtube.com/watch?v=-zRN7XLCRhc>
  * <one_line_summary>
+
+#### Introducing multi-stage distributed query execution in ClickHouse Cloud
+* <https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud>
+ * <one_line_summary>
