@@ -491,3 +491,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### The History of Servers, the Cloud, and What's Next
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
  * <one_line_summary>
+
+#### Fork Yeah — The Rise and Development of FreeBSD (LISA11)
+* <https://www.youtube.com/watch?v=-zRN7XLCRhc>
+ * <one_line_summary>
