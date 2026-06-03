@@ -511,3 +511,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Hamming — You and Your Research
 * <https://www.youtube.com/watch?v=a1zDuOPkMSw>
  * <Hamming's 1986 Bell Labs lecture on what separates first-class researchers from the rest — luck, preparation, confidence, working on important problems, open doors>
+
+#### Casey — But it happened. (Eric Schmidt, AI discourse, and responsibility)
+* <https://www.youtube.com/watch?v=tlQ7EoJDTQY>
+ * <Casey on Eric Schmidt's Arizona commencement speech: active voice for tech's promises, passive voice for its harms — 'it happened' as moral escape hatch>
