@@ -507,3 +507,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### The history of servers, the cloud, and what's next
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
  * <one_line_summary>
+
+#### Hamming — You and Your Research
+* <https://www.youtube.com/watch?v=a1zDuOPkMSw>
+ * <Hamming's 1986 Bell Labs lecture on what separates first-class researchers from the rest — luck, preparation, confidence, working on important problems, open doors>
