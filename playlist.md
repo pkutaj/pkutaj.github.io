@@ -515,3 +515,11 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Casey — But it happened. (Eric Schmidt, AI discourse, and responsibility)
 * <https://www.youtube.com/watch?v=tlQ7EoJDTQY>
  * <Casey on Eric Schmidt's Arizona commencement speech: active voice for tech's promises, passive voice for its harms — 'it happened' as moral escape hatch>
+
+#### Julia Evans — How much memory is my process using?
+* <https://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/>
+ * <Virtual memory, RSS/VIRT/SHR, page tables, TLB, COW, mmap, page faults — foundational Linux process memory>
+
+#### Julia Evans — Swapping, memory limits, and cgroups
+* <https://jvns.ca/blog/2017/02/17/mystery-swap/>
+ * <Production mystery: why swap with free filesystem cache? Answer: cgroup memory limits are independent of system RAM>
