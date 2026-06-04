@@ -655,3 +655,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Scope Is The Steering Wheel — Kent Beck
 * <https://tidyfirst.substack.com/p/scope-is-the-steering-wheel>
  * Scope, not speed, is the lever. Cutting scope generates earlier feedback, less waste, higher value concentration.
+
+#### WAC* — Wins Above C* — Benn Stancil
+* <https://benn.substack.com/p/wac>
+ * AI benchmarks fail for the same reason whiteboard interviews fail: context is the job. New baseline is C* (Claude Code + MCPs). The question is how much you're worth above that.
