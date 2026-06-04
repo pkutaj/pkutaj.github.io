@@ -659,3 +659,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### WAC* — Wins Above C* — Benn Stancil
 * <https://benn.substack.com/p/wac>
  * AI benchmarks fail for the same reason whiteboard interviews fail: context is the job. New baseline is C* (Claude Code + MCPs). The question is how much you're worth above that.
+
+#### Supernova in the East I — Dan Carlin Hardcore History #62
+* <http://www.dancarlin.com/product/hardcore-history-62-Supernova-in-the-East-i>
+ * Japan's rise and militarism in East Asia leading to WWII — Dan Carlin's epic treatment.
