@@ -663,3 +663,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Supernova in the East I — Dan Carlin Hardcore History #62
 * <http://www.dancarlin.com/product/hardcore-history-62-Supernova-in-the-East-i>
  * Japan's rise and militarism in East Asia leading to WWII — Dan Carlin's epic treatment.
+
+#### Notes on Pope Leo XIV's encyclical on AI — Simon Willison
+* <https://simonwillison.net/2026/May/25/encyclical-on-ai/>
+ * <Leo XIV's Magnifica Humanitas draws on Leo XIII's Rerum Novarum — Church gets ahead of AI disruption vs. 43-year lag on industrial capitalism>
