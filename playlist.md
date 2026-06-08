@@ -667,3 +667,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Notes on Pope Leo XIV's encyclical on AI — Simon Willison
 * <https://simonwillison.net/2026/May/25/encyclical-on-ai/>
  * <Leo XIV's Magnifica Humanitas draws on Leo XIII's Rerum Novarum — Church gets ahead of AI disruption vs. 43-year lag on industrial capitalism>
+
+#### Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics
+* <https://www.youtube.com/watch?v=VQif1aIlg5I>
+ * <Same episode covers Leo XIV's AI encyclical + Blair's Labour essay — two Catholics, same week, opposite AI stances; Rory Stewart: encyclical is 'strongest way of looking at AI I've seen'>
