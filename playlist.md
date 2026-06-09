@@ -139,6 +139,12 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.8. Casey — But it happened. (Eric Schmidt, AI discourse, and responsibility)](#68-casey-but-it-happened-eric-schmidt-ai-discourse-and-responsibility)
   - [6.9. Julia Evans — How much memory is my process using?](#69-julia-evans-how-much-memory-is-my-process-using)
   - [6.10. Julia Evans — Swapping, memory limits, and cgroups](#610-julia-evans-swapping-memory-limits-and-cgroups)
+  - [6.11. Scope Is The Steering Wheel — Kent Beck](#611-scope-is-the-steering-wheel-kent-beck)
+  - [6.12. WAC* — Wins Above C* — Benn Stancil](#612-wac-wins-above-c-benn-stancil)
+  - [6.13. Notes on Pope Leo XIV's encyclical on AI — Simon Willison](#613-notes-on-pope-leo-xivs-encyclical-on-ai-simon-willison)
+  - [6.14. Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics](#614-alastair-campbell-reacts-to-tony-blairs-attack-on-labour-the-rest-is-politics)
+  - [6.15. Wading Through AI — The Ethics of Generative AI (Ep. 2)](#615-wading-through-ai-the-ethics-of-generative-ai-ep-2)
+  - [6.16. The Right's Pre-Modern Masculinist Fantasy — The New Statesman](#616-the-rights-pre-modern-masculinist-fantasy-the-new-statesman)
 
 
 ## 1. JAN-2026
@@ -189,6 +195,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 important
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -230,6 +237,7 @@ The adaptation strategy is to use new technology as an enabler or doing things p
 exactly
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -264,6 +272,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 ## 4. APR-2026
@@ -367,6 +376,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 ## 5. MAY-2026
@@ -607,6 +617,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
  * <Anders Hejlsberg on 40 years of language design: Turbo Pascal, Delphi, C#, TypeScript, async/await, and AI's impact on programming>
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -648,30 +659,27 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://jvns.ca/blog/2017/02/17/mystery-swap/>
  * <Production mystery: why swap with free filesystem cache? Answer: cgroup memory limits are independent of system RAM>
 
-#### Scope Is The Steering Wheel — Kent Beck
+### 6.11. Scope Is The Steering Wheel — Kent Beck
 * <https://tidyfirst.substack.com/p/scope-is-the-steering-wheel>
  * Scope, not speed, is the lever. Cutting scope generates earlier feedback, less waste, higher value concentration.
 
-#### Scope Is The Steering Wheel — Kent Beck
-* <https://tidyfirst.substack.com/p/scope-is-the-steering-wheel>
- * Scope, not speed, is the lever. Cutting scope generates earlier feedback, less waste, higher value concentration.
-
-#### WAC* — Wins Above C* — Benn Stancil
+### 6.12. WAC* — Wins Above C* — Benn Stancil
 * <https://benn.substack.com/p/wac>
  * AI benchmarks fail for the same reason whiteboard interviews fail: context is the job. New baseline is C* (Claude Code + MCPs). The question is how much you're worth above that.
 
-#### Supernova in the East I — Dan Carlin Hardcore History #62
-* <http://www.dancarlin.com/product/hardcore-history-62-Supernova-in-the-East-i>
- * Japan's rise and militarism in East Asia leading to WWII — Dan Carlin's epic treatment.
-
-#### Notes on Pope Leo XIV's encyclical on AI — Simon Willison
+### 6.13. Notes on Pope Leo XIV's encyclical on AI — Simon Willison
 * <https://simonwillison.net/2026/May/25/encyclical-on-ai/>
  * <Leo XIV's Magnifica Humanitas draws on Leo XIII's Rerum Novarum — Church gets ahead of AI disruption vs. 43-year lag on industrial capitalism>
 
-#### Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics
+### 6.14. Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics
 * <https://www.youtube.com/watch?v=VQif1aIlg5I>
  * <Same episode covers Leo XIV's AI encyclical + Blair's Labour essay — two Catholics, same week, opposite AI stances; Rory Stewart: encyclical is 'strongest way of looking at AI I've seen'>
 
-#### Wading Through AI — The Ethics of Generative AI (Ep. 2)
+### 6.15. Wading Through AI — The Ethics of Generative AI (Ep. 2)
 * <https://www.youtube.com/watch?v=bjO-s4rNPlY>
  * AI ethics of generated artifacts (images/code/text), copyright, training data, Carlsen chess analogy
+
+### 6.16. The Right's Pre-Modern Masculinist Fantasy — The New Statesman
+* <https://www.youtube.com/watch?v=YK1aj39y55k>
+ * <one_line_summary>
+
