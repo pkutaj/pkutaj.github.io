@@ -671,3 +671,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 #### Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics
 * <https://www.youtube.com/watch?v=VQif1aIlg5I>
  * <Same episode covers Leo XIV's AI encyclical + Blair's Labour essay — two Catholics, same week, opposite AI stances; Rory Stewart: encyclical is 'strongest way of looking at AI I've seen'>
+
+#### Wading Through AI — The Ethics of Generative AI (Ep. 2)
+* <https://www.youtube.com/watch?v=bjO-s4rNPlY>
+ * AI ethics of generated artifacts (images/code/text), copyright, training data, Carlsen chess analogy
