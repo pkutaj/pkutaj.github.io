@@ -145,6 +145,8 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.14. Alastair Campbell Reacts to Tony Blair's Attack on Labour — The Rest Is Politics](#614-alastair-campbell-reacts-to-tony-blairs-attack-on-labour-the-rest-is-politics)
   - [6.15. Wading Through AI — The Ethics of Generative AI (Ep. 2)](#615-wading-through-ai-the-ethics-of-generative-ai-ep-2)
   - [6.16. The Right's Pre-Modern Masculinist Fantasy — The New Statesman](#616-the-rights-pre-modern-masculinist-fantasy-the-new-statesman)
+  - [6.17. Monitor SLAs and scale ClickHouse Cloud with clickhousectl — ClickHouse Blog](#617-monitor-slas-and-scale-clickhouse-cloud-with-clickhousectl-clickhouse-blog)
+<!-- /TOC -->
 
 
 ## 1. JAN-2026
@@ -196,6 +198,7 @@ important
 
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -238,6 +241,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -272,6 +276,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -376,6 +381,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -618,6 +624,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -681,5 +688,10 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 ### 6.16. The Right's Pre-Modern Masculinist Fantasy — The New Statesman
 * <https://www.youtube.com/watch?v=YK1aj39y55k>
+ * <one_line_summary>
+
+
+### 6.17. Monitor SLAs and scale ClickHouse Cloud with clickhousectl — ClickHouse Blog
+* <https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl>
  * <one_line_summary>
 

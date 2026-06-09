@@ -213,7 +213,7 @@ def consolidate(filepath, target_month=None):
             body_lines.append(entry["heading"])
             body_lines.extend(entry["body"])
 
-    output = preamble + ["\n"] + toc_lines + body_lines
+    output = preamble + ["\n"] + toc_lines + ["<!-- /TOC -->\n"] + body_lines
 
     with open(filepath, "w") as f:
         f.writelines(output)
