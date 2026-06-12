@@ -153,6 +153,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.22. Your agent will be your undoing — Benn Stancil](#622-your-agent-will-be-your-undoing-benn-stancil)
   - [6.23. The Soul of a New Machine — Tracy Kidder](#623-the-soul-of-a-new-machine-tracy-kidder)
   - [6.24. Temporal Live Coding Demo: Handling Failures & Human Interaction](#624-temporal-live-coding-demo-handling-failures-human-interaction)
+  - [6.25. The Well-Tempered Clavier — Wikipedia](#625-the-well-tempered-clavier-wikipedia)
 <!-- /TOC -->
 
 
@@ -202,6 +203,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -269,6 +271,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -303,6 +306,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -418,6 +422,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -682,6 +687,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -783,3 +789,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.24. Temporal Live Coding Demo: Handling Failures & Human Interaction
 * <https://www.youtube.com/watch?v=dNVmRfWsNkM>
  * Intro to Temporal durable workflows — surviving failures and human-in-the-loop via event-history replay
+
+### 6.25. The Well-Tempered Clavier — Wikipedia
+* <https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier>
+ * Bach's two books of preludes and fugues in all 24 keys (BWV 846-893), showcase of well-tempered tuning
