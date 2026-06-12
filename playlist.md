@@ -149,6 +149,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.18. Trust Factory — Kent Beck (Tidy First?)](#618-trust-factory-kent-beck-tidy-first)
   - [6.19. Kurt Gödel — Historie.cs (Česká televize)](#619-kurt-gödel-historiecs-česká-televize)
   - [6.20. SQLite is all you need for durable workflows — Hacker News](#620-sqlite-is-all-you-need-for-durable-workflows-hacker-news)
+  - [6.21. Idols of the Valley — The New Atlantis](#621-idols-of-the-valley-the-new-atlantis)
 <!-- /TOC -->
 
 
@@ -208,6 +209,7 @@ important
 
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -257,6 +259,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -291,6 +294,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -402,6 +406,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -658,6 +663,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -743,3 +749,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
  * <one_line_summary>
 
 
+
+### 6.21. Idols of the Valley — The New Atlantis
+* <https://www.thenewatlantis.com/publications/idols-of-the-valley>
+ * New Atlantis essay critiquing Silicon Valley's quasi-religious tech ideologies
