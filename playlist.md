@@ -165,6 +165,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.34. Code Isn't Free — Mario Zechner on the Hard Truths of Coding With AI](#634-code-isnt-free-mario-zechner-on-the-hard-truths-of-coding-with-ai)
   - [6.35. Has AI Already Killed How-To Nonfiction? — Tim Ferriss](#635-has-ai-already-killed-how-to-nonfiction-tim-ferriss)
   - [6.36. A frontier without an ecosystem is not stable — Satya Nadella](#636-a-frontier-without-an-ecosystem-is-not-stable-satya-nadella)
+  - [6.37. Databricks just announced CustomerLake, the agentic CDP — Alex Dean](#637-databricks-just-announced-customerlake-the-agentic-cdp-alex-dean)
 <!-- /TOC -->
 
 
@@ -214,6 +215,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -305,6 +307,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -339,6 +342,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -466,6 +470,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -754,6 +759,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -903,3 +909,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.36. A frontier without an ecosystem is not stable — Satya Nadella
 * <https://x.com/satyanadella/status/2066182223213293753>
  * Nadella on human capital + token capital compounding loop as the new firm IP — build your own learning loop or cede value to frontier models
+
+### 6.37. Databricks just announced CustomerLake, the agentic CDP — Alex Dean
+* <https://sourceoftruth.substack.com/p/databricks-just-announced-customerlake>
+ * Alex Dean (Snowplow) on CustomerLake, decision gravity, composable CDP, and why CDP-as-middleware is dying
