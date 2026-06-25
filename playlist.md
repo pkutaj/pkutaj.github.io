@@ -173,6 +173,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.42. CI/CD with Robert Erez — Progressive Delivery, GitOps, Rollbacks](#642-cicd-with-robert-erez-progressive-delivery-gitops-rollbacks)
   - [6.43. Is Putin Losing His Grip on Russia? — Steve Rosenberg (The Rest Is Politics)](#643-is-putin-losing-his-grip-on-russia-steve-rosenberg-the-rest-is-politics)
   - [6.44. How The World Sees America, with Adam Tooze — The Ezra Klein Show](#644-how-the-world-sees-america-with-adam-tooze-the-ezra-klein-show)
+  - [6.45. Deconstructing the Machine — The History, Logic, and Philosophy of Formal Systems](#645-deconstructing-the-machine-the-history-logic-and-philosophy-of-formal-systems)
 <!-- /TOC -->
 
 
@@ -222,6 +223,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -331,6 +333,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -365,6 +368,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -501,6 +505,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -807,6 +812,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -989,3 +995,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=9gR7CsXIwFs>
  * Adam Tooze on US global standing, Russia-China axis as shared 1989 reading, Kosovo as turning point, American unipolarity and its unraveling
 
+
+### 6.45. Deconstructing the Machine — The History, Logic, and Philosophy of Formal Systems
+* <https://mail.google.com/mail/u/0/#inbox/19ef806dc991aba9>
+ * Article on formal systems, Hilbert's Program, and Gödel's Incompleteness Theorems — inspired by GEB Chapter 1 MU Puzzle
