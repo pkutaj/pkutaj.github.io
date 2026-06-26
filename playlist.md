@@ -178,6 +178,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.47. Announcing Silk — a silky smooth fiber runtime for ClickHouse](#647-announcing-silk-a-silky-smooth-fiber-runtime-for-clickhouse)
   - [6.48. The Cost YAGNI Was Never About — Kent Beck](#648-the-cost-yagni-was-never-about-kent-beck)
   - [6.49. Ian Bremmer on the Risks America Poses to the World — The Ezra Klein Show](#649-ian-bremmer-on-the-risks-america-poses-to-the-world-the-ezra-klein-show)
+  - [6.50. Will AI End the Open Internet? — Wading Through AI ep.6](#650-will-ai-end-the-open-internet-wading-through-ai-ep6)
 <!-- /TOC -->
 
 
@@ -227,6 +228,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -348,6 +350,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -382,6 +385,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -524,6 +528,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -842,6 +847,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1045,3 +1051,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.49. Ian Bremmer on the Risks America Poses to the World — The Ezra Klein Show
 * <https://www.youtube.com/watch?v=syl9OLNSm4k>
  * Bremmer on Trump as the dominant geopolitical risk — AI, China summit, Iran war, and whether US institutions can hold; connects to J-Curve thesis on openness vs stability
+
+### 6.50. Will AI End the Open Internet? — Wading Through AI ep.6
+* <https://www.youtube.com/watch?v=gR2T1uxHG7o>
+ * AI as the right bookend to the 1993 openness arc — reputation economy broken, open-source/support synthesis eroding, locus problem, feels argument; connects to J-Curve, aggregation theory, surveillance capitalism
