@@ -176,6 +176,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.45. Deconstructing the Machine — The History, Logic, and Philosophy of Formal Systems](#645-deconstructing-the-machine-the-history-logic-and-philosophy-of-formal-systems)
   - [6.46. 62 — No Silver Bullet by Fred Brooks — Feeling of Computing](#646-62-no-silver-bullet-by-fred-brooks-feeling-of-computing)
   - [6.47. Announcing Silk — a silky smooth fiber runtime for ClickHouse](#647-announcing-silk-a-silky-smooth-fiber-runtime-for-clickhouse)
+  - [6.48. The Cost YAGNI Was Never About — Kent Beck](#648-the-cost-yagni-was-never-about-kent-beck)
 <!-- /TOC -->
 
 
@@ -225,6 +226,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -342,6 +344,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -376,6 +379,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -516,6 +520,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -830,6 +835,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1025,3 +1031,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.47. Announcing Silk — a silky smooth fiber runtime for ClickHouse
 * <https://clickhouse.com/blog/silk>
  * Stackful-fiber scheduler with NUMA-aware work-stealing, io_uring I/O, and zero heap allocation in hot path — first target: ClickHouse distributed cache
+
+### 6.48. The Cost YAGNI Was Never About — Kent Beck
+* <https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about>
+ * YAGNI reframed as two price-theory arguments: optionality (commitment forecloses futures) and NPV (pay late, receive early) — both survive free LLM code generation
