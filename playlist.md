@@ -181,6 +181,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.50. Will AI End the Open Internet? — Wading Through AI ep.6](#650-will-ai-end-the-open-internet-wading-through-ai-ep6)
   - [6.51. How the Sexual Revolution Brought Us Tradwives — Interesting Times with Ross Douthat (ep. 23)](#651-how-the-sexual-revolution-brought-us-tradwives-interesting-times-with-ross-douthat-ep-23)
   - [6.52. The Frontier Fails the Turing Test — Benn Stancil](#652-the-frontier-fails-the-turing-test-benn-stancil)
+  - [6.53. How to Think in Writing — Henrik Karlsson](#653-how-to-think-in-writing-henrik-karlsson)
 <!-- /TOC -->
 
 
@@ -230,6 +231,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -357,6 +359,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -391,6 +394,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -536,6 +540,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -860,6 +865,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1074,4 +1080,8 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 ### 6.52. The Frontier Fails the Turing Test — Benn Stancil
 * <https://benn.substack.com/p/the-frontier-fails-the-turing-test>
+ * <one_line_summary>
+
+### 6.53. How to Think in Writing — Henrik Karlsson
+* <https://www.henrikkarlsson.xyz/p/writing-to-think>
  * <one_line_summary>
