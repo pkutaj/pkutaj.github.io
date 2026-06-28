@@ -183,6 +183,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.52. The Frontier Fails the Turing Test — Benn Stancil](#652-the-frontier-fails-the-turing-test-benn-stancil)
   - [6.53. How to Think in Writing — Henrik Karlsson](#653-how-to-think-in-writing-henrik-karlsson)
   - [6.54. My Mathematical Regression — blog.dahl.dev](#654-my-mathematical-regression-blogdahldev)
+  - [6.55. Jobs and Software is Fucked — urflow](#655-jobs-and-software-is-fucked-urflow)
 <!-- /TOC -->
 
 
@@ -232,6 +233,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -363,6 +365,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -397,6 +400,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -544,6 +548,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -872,6 +877,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1095,3 +1101,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.54. My Mathematical Regression — blog.dahl.dev
 * <https://blog.dahl.dev/posts/my-mathematical-regression/>
  * <one_line_summary>
+
+### 6.55. Jobs and Software is Fucked — urflow
+* <https://urflow.bearblog.dev/jobs-and-software-is-fucked/>
+ * <Blizzard vet laid off June 2025 — AI job market rant, coding screens, dignity erosion>
