@@ -1105,3 +1105,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.55. Jobs and Software is Fucked — urflow
 * <https://urflow.bearblog.dev/jobs-and-software-is-fucked/>
  * <Blizzard vet laid off June 2025 — AI job market rant, coding screens, dignity erosion>
+ * > Honest Cover Letter: I'm interested in this job because it's available. I feel I'm a match because I, too, am available. You also list a "competitive salary," which aligns with my passion for food and shelter. I look forward to discussing this further with your AI screener.
