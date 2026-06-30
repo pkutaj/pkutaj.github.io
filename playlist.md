@@ -188,6 +188,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.57. Pledging Another $400,000 to the Zig Software Foundation — Mitchell Hashimoto](#657-pledging-another-400000-to-the-zig-software-foundation-mitchell-hashimoto)
   - [6.58. An Aristotelian Theory of Family — Goodsell & Whiting 2016](#658-an-aristotelian-theory-of-family-goodsell-whiting-2016)
   - [6.59. Scotland was the murder capital of Europe — then it started treating violence as a public health problem](#659-scotland-was-the-murder-capital-of-europe-then-it-started-treating-violence-as-a-public-health-problem)
+  - [6.60. How I read — Henrik Karlsson — Escaping Flatland](#660-how-i-read-henrik-karlsson-escaping-flatland)
 <!-- /TOC -->
 
 
@@ -237,6 +238,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -378,6 +380,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -412,6 +415,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -564,6 +568,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -902,6 +907,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1146,3 +1152,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 6.59. Scotland was the murder capital of Europe — then it started treating violence as a public health problem
 * <https://www.bbc.com/future/article/20260626-how-scotland-changed-the-way-it-tackled-violence>
  * How Scotland's Violence Reduction Unit (2005) cut homicide 56% in Glasgow by treating violence as a public health disease, not just a crime
+
+### 6.60. How I read — Henrik Karlsson — Escaping Flatland
+* <https://www.henrikkarlsson.xyz/p/how-i-read>
+ * Chase your reading (Hanson): hunt with a question, not a search. Read 300, finish 50. Cluster 5-10 uncorrelated books per topic. Serious reading compounds.
