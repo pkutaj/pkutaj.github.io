@@ -193,6 +193,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [6.62. I Keep Telling People We're Living in This Dystopian Novel — Ezra Klein & Gary Shteyngart](#662-i-keep-telling-people-were-living-in-this-dystopian-novel-ezra-klein-gary-shteyngart)
 - [7. JUL-2026](#7-jul-2026)
   - [7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly](#71-can-we-agree-on-a-storageworkload-architecture-taxonomy-jack-vanlightly)
+  - [7.2. Zig Creator Calls Spade a Spade, Anthropic Blows Smoke — Ray Myers](#72-zig-creator-calls-spade-a-spade-anthropic-blows-smoke-ray-myers)
 <!-- /TOC -->
 
 
@@ -242,6 +243,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -391,6 +393,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -425,6 +428,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -581,6 +585,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -927,6 +932,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1185,7 +1191,12 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
  * Shteyngart's 2010 novel Super Sad True Love Story predicted our hypervisual, postliterate, metrics-obsessed world. Ezra Klein asks him how he sees today — and the radical act of simply enjoying life (sensualism).
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
  * Taxonomy for storage/workload architectures: single-tier, internal tiering, HTAP (freshness-by-composition vs catch-up), Materializing, Shared Tiering (LTAP).
+
+### 7.2. Zig Creator Calls Spade a Spade, Anthropic Blows Smoke — Ray Myers
+* <https://raymyers.org/post/zig-creator-calls-spade-a-spade/>
+ * Ray Myers defends Andrew Kelley's blunt Zig response; argues Anthropic used Bun rewrite as spectacle to sell 'AI is enough' narrative — all evidence points the opposite way
