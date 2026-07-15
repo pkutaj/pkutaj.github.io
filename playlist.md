@@ -306,6 +306,7 @@ important
 
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -405,6 +406,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -439,6 +441,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -600,6 +603,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -956,6 +960,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1219,6 +1224,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1239,4 +1245,5 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.5. ClickHouse Is Winning the Observability Wars — Mat Duggan
 * <https://matduggan.com/clickhouse-is-winning-the-observability-wars/>
  * ClickHouse scales without changing shape — add shards, done. Elasticsearch/LGTM/Datadog all mutate as volume grows.
+
 
