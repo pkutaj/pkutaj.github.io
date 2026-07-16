@@ -200,6 +200,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [7.6. ThePrimeagen on Bun Zig to Rust Rewrite — a more positive take](#76-theprimeagen-on-bun-zig-to-rust-rewrite-a-more-positive-take)
   - [7.7. ClickHouse Feature Journey — evolution of joins, data lakes, indexes, lifecycle, types](#77-clickhouse-feature-journey-evolution-of-joins-data-lakes-indexes-lifecycle-types)
   - [7.8. XLTable — OLAP Semantic Layer for ClickHouse, Snowflake, BigQuery](#78-xltable-olap-semantic-layer-for-clickhouse-snowflake-bigquery)
+  - [7.9. @clickhouse/rowbinary — when your library is also a parser compiler](#79-clickhouserowbinary-when-your-library-is-also-a-parser-compiler)
 <!-- /TOC -->
 
 
@@ -249,6 +250,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -418,6 +420,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -452,6 +455,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -618,6 +622,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -984,6 +989,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1252,6 +1258,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1287,3 +1294,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.8. XLTable — OLAP Semantic Layer for ClickHouse, Snowflake, BigQuery
 * <https://xltable.com/>
  * XMLA-compatible semantic layer: MDX→SQL, Excel PivotTables + AI MCP interface over ClickHouse and other warehouses
+
+### 7.9. @clickhouse/rowbinary — when your library is also a parser compiler
+* <https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler>
+ * Node.js RowBinary reader with SKILL.md agent layer that generates monomorphized parsers — 1.5–3.4x faster than generic dispatch, correct by construction
