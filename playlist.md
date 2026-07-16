@@ -202,6 +202,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [7.8. XLTable — OLAP Semantic Layer for ClickHouse, Snowflake, BigQuery](#78-xltable-olap-semantic-layer-for-clickhouse-snowflake-bigquery)
   - [7.9. @clickhouse/rowbinary — when your library is also a parser compiler](#79-clickhouserowbinary-when-your-library-is-also-a-parser-compiler)
   - [7.10. A Love Letter to Flashcards — Lesley Lai](#710-a-love-letter-to-flashcards-lesley-lai)
+  - [7.11. Castro Podcasts — Things I got wrong: Support — Uncommon Apps](#711-castro-podcasts-things-i-got-wrong-support-uncommon-apps)
 <!-- /TOC -->
 
 
@@ -251,6 +252,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -424,6 +426,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -458,6 +461,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -626,6 +630,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -996,6 +1001,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1266,6 +1272,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1309,3 +1316,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.10. A Love Letter to Flashcards — Lesley Lai
 * <https://lesleylai.info/en/flashcards/>
  * Personal essay on using Anki for deep understanding — not rote memorization, but preserving intuitions, a-ha moments, and keeping learning projects resumable after a year away
+
+### 7.11. Castro Podcasts — Things I got wrong: Support — Uncommon Apps
+* <https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support>
+ * Castro app owner on why human support didn't build loyalty — honest post-mortem on pricing emails, bug reports, feature requests, and pathological customers
