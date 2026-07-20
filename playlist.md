@@ -210,6 +210,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [7.16. Is 'jobs' a four-letter word? — Benn Stancil](#716-is-jobs-a-four-letter-word-benn-stancil)
   - [7.17. What Causes Rejection (According to Psychology) — Dr. Thomas Mimman](#717-what-causes-rejection-according-to-psychology-dr-thomas-mimman)
   - [7.18. Why AI Companies Need Scale — Wading Through AI (Dmitri Spanos)](#718-why-ai-companies-need-scale-wading-through-ai-dmitri-spanos)
+  - [7.19. The scarce resource is consensus — Ian Macomber (Ramp, Analytics Engineering Podcast)](#719-the-scarce-resource-is-consensus-ian-macomber-ramp-analytics-engineering-podcast)
 <!-- /TOC -->
 
 
@@ -259,6 +260,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -442,6 +444,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -476,6 +479,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -649,6 +653,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1029,6 +1034,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1304,6 +1310,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1379,3 +1386,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.18. Why AI Companies Need Scale — Wading Through AI (Dmitri Spanos)
 * <https://www.youtube.com/watch?v=bgWq678Oed4>
  * Tyranny of scale: 7 axes forcing AI companies to grow (logarithmic scaling laws, data wall, user scale, CAPEX, too-big-to-fail, self-improving loop, legal scale) — same log curve as O(log n) but inverted: compute = O(2^quality)
+
+### 7.19. The scarce resource is consensus — Ian Macomber (Ramp, Analytics Engineering Podcast)
+* <https://www.youtube.com/watch?v=L5uRd44eqX4>
+ * Ramp data team: Job 1 (democratize data, 50× questions in 6 months) vs Job 2 (maintain singular reality — losing); as analysis gets cheaper, consensus becomes the scarce resource; harness engineering > model quality; scarred generalist is the new hire profile
