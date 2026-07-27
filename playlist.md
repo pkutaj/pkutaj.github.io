@@ -213,6 +213,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [7.19. The scarce resource is consensus — Ian Macomber (Ramp, Analytics Engineering Podcast)](#719-the-scarce-resource-is-consensus-ian-macomber-ramp-analytics-engineering-podcast)
   - [7.20. The Kimi K3 Moment — Hacker News](#720-the-kimi-k3-moment-hacker-news)
   - [7.21. The Kimi K3 Moment — Stephen Bochinski](#721-the-kimi-k3-moment-stephen-bochinski)
+  - [7.22. Brute Intelligence — Benn Stancil](#722-brute-intelligence-benn-stancil)
 <!-- /TOC -->
 
 
@@ -262,6 +263,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -451,6 +453,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -485,6 +488,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -661,6 +665,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1047,6 +1052,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1325,6 +1331,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1412,3 +1419,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.21. The Kimi K3 Moment — Stephen Bochinski
 * <https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/>
  * Ground-level: K3 indistinguishable from Claude at 3-4× lower price; Claude's plan bait-and-switch (Fable→Opus); US export controls only constrain American customers; auto industry analogy — domestic protectionism produces trucks that only sell at home
+
+### 7.22. Brute Intelligence — Benn Stancil
+* <https://benn.substack.com/p/brute-intelligence>
+ * AI as brute intelligence: verifiable-answer domains (math, software, drug dev) susceptible to agent loops; strategic move is turning problems into math problems
