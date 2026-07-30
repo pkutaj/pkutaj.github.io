@@ -216,6 +216,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [7.22. Brute Intelligence — Benn Stancil](#722-brute-intelligence-benn-stancil)
   - [7.23. How Swimming Completely Changes The Human Body](#723-how-swimming-completely-changes-the-human-body)
   - [7.24. Architecture, AI agents, and product empathy with Robert C. Martin](#724-architecture-ai-agents-and-product-empathy-with-robert-c-martin)
+  - [7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better](#725-we-banned-ai-heres-why-andrew-kelley-on-zig-worse-is-better)
 <!-- /TOC -->
 
 
@@ -265,6 +266,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -464,6 +466,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -498,6 +501,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -679,6 +683,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1075,6 +1080,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1358,6 +1364,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1459,3 +1466,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
  * Uncle Bob on Kent C. Dodds' podcast: design/architecture rules unchanged in 50yrs, agents shift code review to system review, cyclomatic complexity tuning for agents vs humans, product engineering as marrying tech + customer empathy.
 
 
+
+### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
+* <https://www.youtube.com/watch?v=iqddnwKF8HQ>
+ * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
