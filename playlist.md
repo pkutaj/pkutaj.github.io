@@ -220,6 +220,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
 - [8. AUG-2026](#8-aug-2026)
   - [8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks](#81-when-intelligence-is-plentiful-volition-is-valuable-david-brooks)
   - [8.2. On AI Coding and Its Discontents — Cal Newport](#82-on-ai-coding-and-its-discontents-cal-newport)
+  - [8.3. "Code was never the hard part" is an insult to all programmers — Senko Rašić](#83-code-was-never-the-hard-part-is-an-insult-to-all-programmers-senko-rašić)
 <!-- /TOC -->
 
 
@@ -269,6 +270,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -476,6 +478,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -510,6 +513,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -695,6 +699,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1099,6 +1104,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1386,6 +1392,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1495,6 +1502,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 8. AUG-2026
 ### 8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks
 * <https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/>
@@ -1503,3 +1511,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.2. On AI Coding and Its Discontents — Cal Newport
 * <https://calnewport.com/on-ai-coding-and-its-discontents/>
  * AI coding backlash: engineer's Claude Code honeymoon → production crashes → hand-coding again
+
+### 8.3. "Code was never the hard part" is an insult to all programmers — Senko Rašić
+* <https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers>
+ * Both coding and figuring-out-what-to-build are hard — don't outsource judgement to AI
