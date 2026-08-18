@@ -229,6 +229,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [8.9. Claude Is Not a Compiler — Josh Bleecher Snyder](#89-claude-is-not-a-compiler-josh-bleecher-snyder)
   - [8.10. Aaron Sorkin on Why AI Will Fail, Facebook & The Future of America — What I've Learned, Esquire](#810-aaron-sorkin-on-why-ai-will-fail-facebook-the-future-of-america-what-ive-learned-esquire)
   - [8.11. #05 - Row vs. Column Storage + Compression — StarTree Database Talk (CMU Intro to Database Systems)](#811-05-row-vs-column-storage-compression-startree-database-talk-cmu-intro-to-database-systems)
+  - [8.12. The A.I. Revolt Is Here — The Ezra Klein Show](#812-the-ai-revolt-is-here-the-ezra-klein-show)
 <!-- /TOC -->
 
 
@@ -278,6 +279,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -503,6 +505,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -537,6 +540,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -731,6 +735,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1153,6 +1158,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1449,6 +1455,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1567,6 +1574,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 8. AUG-2026
 ### 8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks
 * <https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/>
@@ -1611,3 +1619,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.11. #05 - Row vs. Column Storage + Compression — StarTree Database Talk (CMU Intro to Database Systems)
 * <https://www.youtube.com/watch?v=nhlpwmOBEiE&list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq&index=6>
  * CMU 15-445 lecture: row (NSM) vs column (DSM/PAX) storage models, OLTP/OLAP/HTAP, compression schemes (RLE, bit packing, bitmap, delta, dictionary); guest talk from StarTree co-founder on Apache Pinot real-time OLAP architecture.
+
+### 8.12. The A.I. Revolt Is Here — The Ezra Klein Show
+* <https://www.youtube.com/watch?v=rbgvTlt1VB8>
+ * Ezra Klein talks with Jasmine Sun about the political backlash to AI data centers — bipartisan opposition, moratoriums, and what's really driving the fight (energy costs, water, aesthetics, or fear of AI/tech power itself).
