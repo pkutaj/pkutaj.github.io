@@ -232,6 +232,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [8.12. The A.I. Revolt Is Here — The Ezra Klein Show](#812-the-ai-revolt-is-here-the-ezra-klein-show)
   - [8.13. Mathematics in the age of AI — Terence Tao](#813-mathematics-in-the-age-of-ai-terence-tao)
   - [8.14. The Golden Rule for Becoming a Better Writer — T.R. Napper](#814-the-golden-rule-for-becoming-a-better-writer-tr-napper)
+  - [8.15. Shopify powers observability for global-scale commerce with ClickHouse](#815-shopify-powers-observability-for-global-scale-commerce-with-clickhouse)
 <!-- /TOC -->
 
 
@@ -281,6 +282,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -512,6 +514,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -546,6 +549,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -743,6 +747,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1171,6 +1176,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1470,6 +1476,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1591,6 +1598,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 8. AUG-2026
 ### 8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks
 * <https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/>
@@ -1647,3 +1655,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.14. The Golden Rule for Becoming a Better Writer — T.R. Napper
 * <https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/>
  * Golden rule of writing: read widely and well — craft, cross-genre inspiration, and reading brain = writing brain (Maryanne Wolf).
+
+### 8.15. Shopify powers observability for global-scale commerce with ClickHouse
+* <https://clickhouse.com/blog/shopify-observability-at-global-scale>
+ * Shopify unified metrics/logs/traces/exceptions/profiles onto self-hosted ClickHouse (50M events/sec steady, 100M at BFCM peak), got 16-30x speedup vs prior vendor stack, and says they'd pick ClickHouse Cloud if starting today.
