@@ -236,6 +236,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [8.16. The Road to SDN — ACM Queue](#816-the-road-to-sdn-acm-queue)
   - [8.17. What New Jobs? — Wading Through AI, Episode 8](#817-what-new-jobs-wading-through-ai-episode-8)
   - [8.18. AI Coding will Prevent Expertise — Lars Faye](#818-ai-coding-will-prevent-expertise-lars-faye)
+  - [8.19. Algorithms by Jeff Erickson](#819-algorithms-by-jeff-erickson)
 <!-- /TOC -->
 
 
@@ -285,6 +286,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -530,6 +532,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -564,6 +567,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -768,6 +772,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1210,6 +1215,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1516,6 +1522,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1644,6 +1651,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 8. AUG-2026
 ### 8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks
 * <https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/>
@@ -1719,3 +1727,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.18. AI Coding will Prevent Expertise — Lars Faye
 * <https://larsfaye.com/articles/ai-coding-will-prevent-expertise>
  * Argues AI coding tools erode the friction needed to build developer expertise; novices who lean hardest on AI learn least (JetBrains/UPenn/Anthropic studies), while Socratic/tutor-mode use helps.
+
+### 8.19. Algorithms by Jeff Erickson
+* <https://jeffe.cs.illinois.edu/teaching/algorithms/>
+ * Free textbook/lecture notes on algorithm design and analysis (recurrences, complexity, graph algorithms) — relevant to complexity/shape-of-computation study.
