@@ -238,6 +238,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [8.18. AI Coding will Prevent Expertise — Lars Faye](#818-ai-coding-will-prevent-expertise-lars-faye)
   - [8.19. Algorithms by Jeff Erickson](#819-algorithms-by-jeff-erickson)
   - [8.20. Beyond Good and Evil — Nietzsche and the Great War](#820-beyond-good-and-evil-nietzsche-and-the-great-war)
+  - [8.21. Opinion — Canada Said No to America. It Will Reverberate Far Beyond Its Borders — Stephen Marche](#821-opinion-canada-said-no-to-america-it-will-reverberate-far-beyond-its-borders-stephen-marche)
 <!-- /TOC -->
 
 
@@ -287,6 +288,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -536,6 +538,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -570,6 +573,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -776,6 +780,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1222,6 +1227,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1530,6 +1536,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1660,6 +1667,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 8. AUG-2026
 ### 8.1. When Intelligence Is Plentiful, Volition Is Valuable — David Brooks
 * <https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/>
@@ -1743,3 +1751,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.20. Beyond Good and Evil — Nietzsche and the Great War
 * <https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war>
  * Otto Dix carried Nietzsche into the WWI trenches; God-is-dead philosophy vs Somme carnage, tracing forward to Nazism's anti-Christian rhetoric and Dix's later persecution as a 'degenerate' artist.
+
+### 8.21. Opinion — Canada Said No to America. It Will Reverberate Far Beyond Its Borders — Stephen Marche
+* <https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html>
+ * Carney rejected a bad US trade deal over sovereignty (incl. Quebec language demands); Marche frames it as symbolic resistance to Trump's transactional worldview, beyond just trade economics.
