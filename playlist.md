@@ -416,6 +416,7 @@ important
 
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -455,6 +456,7 @@ The adaptation strategy is to use new technology as an enabler or doing things p
 ### 2.10. AI makes you boring
 * <https://www.marginalia.nu/log/a_132_ai_bores/>
 exactly
+
 
 
 
@@ -723,6 +725,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 4. APR-2026
 ### 4.1. JFK: The Road to the White House (Part 1) - The Rest is History
 * <https://www.youtube.com/watch?v=gb5M3ax9cxg>
@@ -824,6 +827,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1294,6 +1298,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1614,6 +1619,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1719,6 +1725,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -1887,3 +1894,4 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 8.32. ai — shared by Janka Zavodska
 * <https://www.youtube.com/watch?v=2ZU3j4GQ4K8>
  * AI-related video shared by Janka.
+
