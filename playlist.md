@@ -252,6 +252,13 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [8.32. ai — shared by Janka Zavodska](#832-ai-shared-by-janka-zavodska)
 - [9. SEP-2026](#9-sep-2026)
   - [9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog](#91-pipelined-sql-in-clickhouse-268-clickhouse-blog)
+  - [9.2. Postgres at PlanetScale with Sam Lambert, CEO of PlanetScale — The Changelog](#92-postgres-at-planetscale-with-sam-lambert-ceo-of-planetscale-the-changelog)
+  - [9.3. Lichožrouti — čtení na pokračování, Mujrozhlas](#93-lichožrouti-čtení-na-pokračování-mujrozhlas)
+  - [9.4. How little exercise can you get away with?](#94-how-little-exercise-can-you-get-away-with)
+  - [9.5. Things You Should Never Do, Part I — Joel on Software](#95-things-you-should-never-do-part-i-joel-on-software)
+  - [9.6. DONT LEARN PYTHON LEARN C — TheStandup](#96-dont-learn-python-learn-c-thestandup)
+  - [9.7. How to find insights — Benn Stancil](#97-how-to-find-insights-benn-stancil)
+  - [9.8. The modern data stack's boldest prediction might finally come true — Yali Sassoon, Data Creation](#98-the-modern-data-stacks-boldest-prediction-might-finally-come-true-yali-sassoon-data-creation)
 <!-- /TOC -->
 
 
@@ -301,6 +308,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -580,6 +588,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -614,6 +623,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -835,6 +845,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1311,6 +1322,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1634,6 +1646,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1739,6 +1752,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -1914,7 +1928,36 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
  * New `|>` pipelined SQL operator in 26.8; builds on FROM-first syntax (since 22.12)
+
+### 9.2. Postgres at PlanetScale with Sam Lambert, CEO of PlanetScale — The Changelog
+* <https://changelog.com/podcast/684>
+ * Changelog podcast episode interviewing Sam Lambert, CEO of PlanetScale, on Postgres and their $5 tier / small-instance philosophy.
+
+### 9.3. Lichožrouti — čtení na pokračování, Mujrozhlas
+* <https://www.mujrozhlas.cz/cteni-na-pokracovani/lichozrouti-oblibeny-pribeh-ze-sveta-zahadnych-tvorecku-s-barou-hrzanovou>
+ * Czech radio serialized reading of Lichožrouti (children's story about sock-eating creatures), read by Bára Hrzánová.
+
+### 9.4. How little exercise can you get away with?
+* <https://archive.ph/mai5w>
+ * Archived article on minimum-effective-dose exercise research; personal note: 'this matters to me as well, let's read and adapt'.
+
+### 9.5. Things You Should Never Do, Part I — Joel on Software
+* <https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/>
+ * Classic Joel Spolsky essay arguing against full rewrites of working codebases.
+
+### 9.6. DONT LEARN PYTHON LEARN C — TheStandup
+* <https://www.youtube.com/watch?v=6JxajBbLceg>
+ * YouTube clip/rant on learning C instead of Python for foundational programming understanding.
+
+### 9.7. How to find insights — Benn Stancil
+* <https://benn.substack.com/p/how-to-find-insights>
+ * Benn Stancil on AI agents automating most analytics Q&A, and whether that finally frees analysts for real exploratory/strategic work, or just raises question volume 10-20x.
+
+### 9.8. The modern data stack's boldest prediction might finally come true — Yali Sassoon, Data Creation
+* <https://datacreation.substack.com/p/the-modern-data-stacks-boldest-prediction>
+ * Argues the 2022 a16z 'data platform hypothesis' (SaaS apps rebuilt warehouse-native) is finally happening, driven by agents changing the economics of building on customer-owned data.
