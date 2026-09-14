@@ -262,6 +262,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.9. Write Things Down — Ben Thompson](#99-write-things-down-ben-thompson)
   - [9.10. Announcing On-Demand Compute: Instant compute for your most demanding queries](#910-announcing-on-demand-compute-instant-compute-for-your-most-demanding-queries)
   - [9.11. Some remarks on being stuck, with digressions on David Hockney — Henrik Karlsson](#911-some-remarks-on-being-stuck-with-digressions-on-david-hockney-henrik-karlsson)
+  - [9.12. Anthropic Just Threatened to Kill Billions of People. This Is Not Okay. — Cal Newport](#912-anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay-cal-newport)
 <!-- /TOC -->
 
 
@@ -311,6 +312,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -600,6 +602,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -634,6 +637,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -860,6 +864,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1346,6 +1351,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1674,6 +1680,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1779,6 +1786,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -1964,6 +1972,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2009,3 +2018,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.henrikkarlsson.xyz/p/creative-block>
  * On creative block: new work is naturally worse than mastered old work; articulating *why* a failed attempt failed (not just moving on) speeds the search — Hockney took 5 confused years (1975-80) between his pool paintings and Polaroid collages before finding his next mode.
 
+
+### 9.12. Anthropic Just Threatened to Kill Billions of People. This Is Not Okay. — Cal Newport
+* <https://calnewport.com/anthropic-just-threatened-to-kill-billions-of-people-this-is-not-okay/>
+ * Anthropic engineers publicly stating >10% extinction risk from their own work within a decade, resignations/pushback; Cal Newport pushes back on the fatalist rhetoric. Watching with interest, not deep-diving.
