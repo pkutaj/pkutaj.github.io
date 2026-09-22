@@ -269,6 +269,11 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.16. A beginning for mathematics — Daniel Litt](#916-a-beginning-for-mathematics-daniel-litt)
   - [9.17. Distributed Systems Classics (2017) — Hacker News discussion](#917-distributed-systems-classics-2017-hacker-news-discussion)
   - [9.18. There's no point at which turning your brain off will work — Dan Luu](#918-theres-no-point-at-which-turning-your-brain-off-will-work-dan-luu)
+  - [9.19. Our commitment to OpenTelemetry — Prometheus blog](#919-our-commitment-to-opentelemetry-prometheus-blog)
+  - [9.20. Distributed Systems Classics (2017), round 2 — Hacker News](#920-distributed-systems-classics-2017-round-2-hacker-news)
+  - [9.21. Why I Think You Should Almost Never Use AI to Write Anything Substantive — Erich Grunewald](#921-why-i-think-you-should-almost-never-use-ai-to-write-anything-substantive-erich-grunewald)
+  - [9.22. Attention is all you have — Alice GG](#922-attention-is-all-you-have-alice-gg)
+  - [9.23. Ezra Klein Show — are we losing control of AI?](#923-ezra-klein-show-are-we-losing-control-of-ai)
 <!-- /TOC -->
 
 
@@ -318,6 +323,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -619,6 +625,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -653,6 +660,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -885,6 +893,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1383,6 +1392,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1717,6 +1727,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1822,6 +1833,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2019,6 +2031,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2092,3 +2105,23 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 9.18. There's no point at which turning your brain off will work — Dan Luu
 * <https://danluu.com/brain-off/>
  * Meat-proxy LLM usage: no point on the improvement curve where brain-off usage is a good deal for the employee, only for the employer.
+
+### 9.19. Our commitment to OpenTelemetry — Prometheus blog
+* <https://prometheus.io/blog/2024/03/14/commitment-to-opentelemetry/>
+ * Formal milestone (March 2024) where Prometheus and OTel pledged bidirectional support: Prometheus gained an OTLP receiver (push) via --web.enable-otlp-receiver, OTel Collector's prometheusreceiver embeds the real Prometheus scrape manager (pull) — convergence of push/pull models is recent (~2022-2024), not historical.
+
+### 9.20. Distributed Systems Classics (2017), round 2 — Hacker News
+* <https://news.ycombinator.com/item?id=49757178>
+ * Follow-up HN thread with deeper-cut papers: RFC 677 (Maintenance of Duplicate Databases, origin of logical clocks per Lamport's own notes), Chain Replication (basis of AWS Journal/DynamoDB/Kinesis/Aurora DSQL and EBS), Paxos Made Live, PBFT, and CAP's Availability definition critiqued as 'goofy'.
+
+### 9.21. Why I Think You Should Almost Never Use AI to Write Anything Substantive — Erich Grunewald
+* <https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai>
+ * Argues writing IS thinking, so AI-written text (even from detailed bullets/dictation, even edited after) is vague/wrong in hard-to-notice ways and misleading if unlabeled; fine to use AI for transcription, search, brainstorming, line-editing — not for drafting substantive prose.
+
+### 9.22. Attention is all you have — Alice GG
+* <https://www.alicegg.tech//2026/09/21/attention.html>
+ * Tetris-effect framing: whatever you focus on long enough shapes your thoughts, and most feeds (YouTube, Spotify, LinkedIn, Reddit-now-full-of-LLMs) now pick your focus for you; argues for returning to an intentional, bookmark-driven internet instead of algorithmic feeds.
+
+### 9.23. Ezra Klein Show — are we losing control of AI?
+* <https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/24eb71b8-cd6c-4b13-9130-0a047930ef2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=24eb71b8-cd6c-4b13-9130-0a047930ef2a&feed=82FI35Px>
+ * Self-emailed podcast episode, unread/unlistened — bookmarked for later.
