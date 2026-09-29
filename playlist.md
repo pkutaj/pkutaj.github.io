@@ -274,6 +274,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.21. Why I Think You Should Almost Never Use AI to Write Anything Substantive — Erich Grunewald](#921-why-i-think-you-should-almost-never-use-ai-to-write-anything-substantive-erich-grunewald)
   - [9.22. Attention is all you have — Alice GG](#922-attention-is-all-you-have-alice-gg)
   - [9.23. Ezra Klein Show — are we losing control of AI?](#923-ezra-klein-show-are-we-losing-control-of-ai)
+  - [9.24. The Problem is not the AI Code, but Nobody Knows Anything Anymore](#924-the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore)
 <!-- /TOC -->
 
 
@@ -323,6 +324,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -626,6 +628,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -660,6 +663,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -893,6 +897,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1393,6 +1398,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1728,6 +1734,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1833,6 +1840,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2032,6 +2040,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2125,3 +2134,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 9.23. Ezra Klein Show — are we losing control of AI?
 * <https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/24eb71b8-cd6c-4b13-9130-0a047930ef2a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=24eb71b8-cd6c-4b13-9130-0a047930ef2a&feed=82FI35Px>
  * Self-emailed podcast episode, unread/unlistened — bookmarked for later.
+
+### 9.24. The Problem is not the AI Code, but Nobody Knows Anything Anymore
+* <https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/>
+ * As AI writes more code, the real risk is teams losing shared understanding of architecture and intent — maintainability remains the final boss.
