@@ -276,6 +276,11 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [9.23. Ezra Klein Show — are we losing control of AI?](#923-ezra-klein-show-are-we-losing-control-of-ai)
   - [9.24. The Problem is not the AI Code, but Nobody Knows Anything Anymore](#924-the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore)
   - [9.25. How ClickHouse Cloud uses AWS Graviton to boost performance and efficiency — Iska & Ciocchetti](#925-how-clickhouse-cloud-uses-aws-graviton-to-boost-performance-and-efficiency-iska-ciocchetti)
+  - [9.26. Mathematicians, Here's a Way To Think About Your Existential Crisis — Kent Beck](#926-mathematicians-heres-a-way-to-think-about-your-existential-crisis-kent-beck)
+  - [9.27. The Top Idea in Your Mind — Paul Graham](#927-the-top-idea-in-your-mind-paul-graham)
+  - [9.28. SAML: A fractal of bad design — Trail of Bits](#928-saml-a-fractal-of-bad-design-trail-of-bits)
+  - [9.29. GoAccess — Visual Web Log Analyzer](#929-goaccess-visual-web-log-analyzer)
+  - [9.30. Don't Take the Black Pill — Andrew Kelley, SSW 2026](#930-dont-take-the-black-pill-andrew-kelley-ssw-2026)
 <!-- /TOC -->
 
 
@@ -325,6 +330,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -634,6 +640,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -668,6 +675,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -904,6 +912,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1410,6 +1419,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1748,6 +1758,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1853,6 +1864,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2058,6 +2070,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2160,3 +2173,23 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://clickhouse.com/blog/graviton-boosts-clickhouse-cloud-performance>
  * ClickHouse Cloud migration to Graviton: 82% arm64, ~25% faster, autoscaler/mixed-instance details, benchmarks
 
+
+### 9.26. Mathematicians, Here's a Way To Think About Your Existential Crisis — Kent Beck
+* <https://newsletter.kentbeck.com/p/mathematicians-heres-a-way-to-think>
+ * Visible work vs invisible 'futures' (optionality); genie does visible, humans steer
+
+### 9.27. The Top Idea in Your Mind — Paul Graham
+* <https://paulgraham.com/top.html>
+ * Whatever is top of mind gets your attention; choose it deliberately
+
+### 9.28. SAML: A fractal of bad design — Trail of Bits
+* <https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/>
+ * Why SAML's design keeps producing vulnerabilities
+
+### 9.29. GoAccess — Visual Web Log Analyzer
+* <https://goaccess.io/>
+ * Terminal/HTML real-time web log analyzer
+
+### 9.30. Don't Take the Black Pill — Andrew Kelley, SSW 2026
+* <https://www.youtube.com/watch?v=zLZwpH5lCD4>
+ * Talk by Zig creator (SSW 2026)
