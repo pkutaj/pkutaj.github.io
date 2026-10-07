@@ -9,12 +9,13 @@ layout: home
  | blog:           | [medium.com/@pavolkutaj](https://medium.com/@pavolkutaj) |
  | location:       | Brno, Czech Republic (working 100% remotely)             |
 
-### NOW (Q2/2026)
-* Continuing working on observability and Grafana
-* Leading AI adoption within the team
+### NOW (Q3/2026)
+* Working on ClickHouse observability:
+    * Both meeting customers where they are (Grafana) 
+    * And promoting ClickStack as a competing stack
 
 ### EXPERIENCE
-#### ClickHouse Senior Support Engineer; Grafana dashboard owner, AI adoption accelerator
+#### ClickHouse Senior Support Engineer; Observability SME
 * ClickHouse
 * 2025-ongoing
 
