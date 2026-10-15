@@ -289,6 +289,11 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [10.5. Grieving the loss of details — purplesyringa](#105-grieving-the-loss-of-details-purplesyringa)
   - [10.6. Jonathan Haidt: AI Is the Neutron Bomb for Education — David Brooks](#106-jonathan-haidt-ai-is-the-neutron-bomb-for-education-david-brooks)
   - [10.7. Revenge of the Nerds — Paul Graham](#107-revenge-of-the-nerds-paul-graham)
+  - [10.8. Chasing that 32 ms tail latency in ClickHouse](#108-chasing-that-32-ms-tail-latency-in-clickhouse)
+  - [10.9. 'AI' is Not a Tool — Rich Hickey](#109-ai-is-not-a-tool-rich-hickey)
+  - [10.10. arXiv 2603.22106v4](#1010-arxiv-260322106v4)
+  - [10.11. Does decision gravity follow data gravity? — Yali Sassoon](#1011-does-decision-gravity-follow-data-gravity-yali-sassoon)
+  - [10.12. Building resilient systems with Sam Newman — YouTube](#1012-building-resilient-systems-with-sam-newman-youtube)
 <!-- /TOC -->
 
 
@@ -338,6 +343,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -663,6 +669,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -697,6 +704,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -941,6 +949,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1463,6 +1472,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1809,6 +1819,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1914,6 +1925,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2135,6 +2147,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2265,6 +2278,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 10. OCT-2026
 ### 10.1. Agents Don't Need Memory, They Need Documentation — Kevin Liao
 * <https://liao.gg/blog/agents-dont-need-memory>
@@ -2293,3 +2307,24 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 10.7. Revenge of the Nerds — Paul Graham
 * <https://paulgraham.com/icad.html>
  * Why Lisp (1958) is still the most powerful language; the 9 Lisp ideas and Blub paradox
+
+### 10.8. Chasing that 32 ms tail latency in ClickHouse
+* <https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse>
+ * saved from xxx mailbox
+
+### 10.9. 'AI' is Not a Tool — Rich Hickey
+* <https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e/>
+ * saved from xxx mailbox
+
+### 10.10. arXiv 2603.22106v4
+* <https://arxiv.org/abs/2603.22106v4>
+ * saved from xxx mailbox
+
+### 10.11. Does decision gravity follow data gravity? — Yali Sassoon
+* <https://datacreation.substack.com/p/does-decision-gravity-follow-data>
+ * saved from xxx mailbox
+
+### 10.12. Building resilient systems with Sam Newman — YouTube
+* <https://www.youtube.com/watch?v=a0sZV0qIbI0>
+ * saved from xxx mailbox
+
