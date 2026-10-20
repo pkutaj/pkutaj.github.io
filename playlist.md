@@ -294,6 +294,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [10.10. arXiv 2603.22106v4](#1010-arxiv-260322106v4)
   - [10.11. Does decision gravity follow data gravity? — Yali Sassoon](#1011-does-decision-gravity-follow-data-gravity-yali-sassoon)
   - [10.12. Building resilient systems with Sam Newman — YouTube](#1012-building-resilient-systems-with-sam-newman-youtube)
+  - [10.13. The Disorienting Age of 'Artificial Intimacy' — The Ezra Klein Show (Sherry Turkle)](#1013-the-disorienting-age-of-artificial-intimacy-the-ezra-klein-show-sherry-turkle)
 <!-- /TOC -->
 
 
@@ -343,6 +344,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -670,6 +672,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -704,6 +707,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -949,6 +953,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1473,6 +1478,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1820,6 +1826,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1925,6 +1932,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2148,6 +2156,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2279,6 +2288,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 10. OCT-2026
 ### 10.1. Agents Don't Need Memory, They Need Documentation — Kevin Liao
 * <https://liao.gg/blog/agents-dont-need-memory>
@@ -2328,3 +2338,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 * <https://www.youtube.com/watch?v=a0sZV0qIbI0>
  * saved from xxx mailbox
 
+
+### 10.13. The Disorienting Age of 'Artificial Intimacy' — The Ezra Klein Show (Sherry Turkle)
+* <https://www.youtube.com/watch?v=OMiR-GxTrtM>
+ * Sherry Turkle on AI chatbots, Eliza, and artificial intimacy
