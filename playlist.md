@@ -306,6 +306,7 @@ List of resources (any medium) that caught my attention this year (2025 edition)
   - [11.5. LLM Voice — Martin Fowler](#115-llm-voice-martin-fowler)
   - [11.6. What's in a Token? — Casey Muratori, Computer Enhance](#116-whats-in-a-token-casey-muratori-computer-enhance)
   - [11.7. ClickHouse aggregation types: dimensional, time-series, array](#117-clickhouse-aggregation-types-dimensional-time-series-array)
+  - [11.8. Unifying Postgres and ClickHouse Natively: WalShadow and pg_clickhouse — Sai Srirampur (CMU Database Seminar)](#118-unifying-postgres-and-clickhouse-natively-walshadow-and-pg_clickhouse-sai-srirampur-cmu-database-seminar)
 <!-- /TOC -->
 
 
@@ -355,6 +356,7 @@ Bookmarking for later, because we started PG managed service starting 2026. http
 ### 1.12. Bridges - by Kent Beck - Software Design: Tidy First?
 * <https://tidyfirst.substack.com/p/bridges>
 important
+
 
 
 
@@ -694,6 +696,7 @@ exactly
 
 
 
+
 ## 3. MAR-2026
 ### 3.1. The AI Vampire. This was an unusually hard post to…
 * <https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163>
@@ -728,6 +731,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 3.9. Rome's Greatest Enemy Part 3 - Bloodbath in Africa
 * <https://youtu.be/Wd-3I9qqLbc>
  * Second Punic War: Scipio's African campaign, fire attack, Battle of Zama 202 BC, fall of Hannibal
+
 
 
 
@@ -979,6 +983,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1515,6 +1520,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1868,6 +1874,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -1973,6 +1980,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2208,6 +2216,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2345,6 +2354,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 10. OCT-2026
 ### 10.1. Agents Don't Need Memory, They Need Documentation — Kevin Liao
 * <https://liao.gg/blog/agents-dont-need-memory>
@@ -2413,6 +2423,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 11. NOV-2026
 ### 11.1. Four useful questions — Henrik Karlsson
 * <https://www.henrikkarlsson.xyz/p/four-useful-questions>
@@ -2441,3 +2452,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 11.7. ClickHouse aggregation types: dimensional, time-series, array
 * <https://clickhouse.com/docs/sql-reference/aggregate-functions>
  * Self-forwarded summary of 3 aggregation patterns
+
+### 11.8. Unifying Postgres and ClickHouse Natively: WalShadow and pg_clickhouse — Sai Srirampur (CMU Database Seminar)
+* <https://www.youtube.com/watch?v=l2ed26H07Ck>
+ * Sai on unifying PG + ClickHouse: PeerDB/CDC, WalShadow, pg_clickhouse
