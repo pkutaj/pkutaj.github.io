@@ -531,6 +531,7 @@ important
 
 
 
+
 ## 2. FEB-2026
 ### 2.1. Opinion
 * <https://www.nytimes.com/2026/01/27/opinion/ezra-klein-podcast-henry-farrell.html>
@@ -570,6 +571,7 @@ The adaptation strategy is to use new technology as an enabler or doing things p
 ### 2.10. AI makes you boring
 * <https://www.marginalia.nu/log/a_132_ai_bores/>
 exactly
+
 
 
 
@@ -930,6 +932,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 4. APR-2026
 ### 4.1. JFK: The Road to the White House (Part 1) - The Rest is History
 * <https://www.youtube.com/watch?v=gb5M3ax9cxg>
@@ -1031,6 +1034,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 4.25. Sherry Turkle — We're losing the raw, human part of being with each other
 * <https://www.theguardian.com/science/2013/may/05/rational-heroes-sherry-turkle-mit>
  * <one_line_summary>
+
 
 
 
@@ -1593,6 +1597,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 6. JUN-2026
 ### 6.1. The history of servers, the cloud, and what's next — Brian Cantrill — The Pragmatic Engineer
 * <https://www.youtube.com/watch?v=Kn_P9nG0zsA>
@@ -1959,6 +1964,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 7. JUL-2026
 ### 7.1. Can We Agree on a Storage/Workload Architecture Taxonomy — Jack Vanlightly
 * <https://jack-vanlightly.com/blog/2026/6/21/can-we-agree-on-a-storage/workload-architecture-taxonomy>
@@ -2064,6 +2070,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 7.25. We Banned AI (Here's Why) — Andrew Kelley on Zig, worse is better
 * <https://www.youtube.com/watch?v=iqddnwKF8HQ>
  * Kelley calls "worse is better" a misnomer — reframes as "less with less" vs "more with more", Zig aims for "more with less"
+
 
 
 
@@ -2325,6 +2332,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 9. SEP-2026
 ### 9.1. Pipelined SQL in ClickHouse 26.8 — ClickHouse Blog
 * <https://clickhouse.com/blog/pipelined-sql-26.8>
@@ -2475,6 +2483,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 
 
 
+
 ## 10. OCT-2026
 ### 10.1. Agents Don't Need Memory, They Need Documentation — Kevin Liao
 * <https://liao.gg/blog/agents-dont-need-memory>
@@ -2540,6 +2549,7 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 10.16. Public Lecture Series: Terence Tao — American Inst. of Mathematics
 * <https://aimath.org/videos/terry-tao-pl/>
  * Terence Tao public lecture (AIM)
+
 
 
 
@@ -2637,4 +2647,5 @@ As-of-now, the most essential piece on the impact of AI on the quality of mind
 ### 11.20. On PostHog and composability — Alex Dean, Source of Truth
 * <https://sourceoftruth.substack.com/p/on-posthog-and-composability>
  * PostHog warehouse left DuckDB for Trino; workload (not data) broke it; data gravity, slop joins, composability
+
 
